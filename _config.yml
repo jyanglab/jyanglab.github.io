@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Publications: "pub"
   Journal Club:
+  People: "people"
   Resources:
     - Lab Documentations: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
