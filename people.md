@@ -8,51 +8,48 @@ bigimg:
   - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
 ---
 
-[](/img/photo/Yang_Jinliang.jpg)
+<style>
+  footer {
+    margin-top: -10px;
+  }
+  #shiny-server-iframe {
+    margin-top: 51px;
+    border: 0 none;
+  }
+</style>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
 
-<p>1Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit aequoris hominem.1</p>
+  $(window).resize(function() {
+    setTimeout(function() {
+      $("#shiny-server-iframe")[0].contentWindow.postMessage('getHeight', '*');
+    }, 100);
+  });
+  $("#shiny-server-iframe").load(function() {
+    $("#shiny-server-iframe")[0].contentWindow.postMessage('getHeight', '*');
+  });
 
-<div class="projects">
-  <div class="grid no-gutters">
+  window.addEventListener("message", function(event) {
+    if (event.origin !== "https://daattali.com") {
+      return;
+    }
+    var data = event.data.split(":");
+    if (data[0] == "height") {
+      $("#shiny-server-iframe")[0].height = data[1];
+    } else if (data[0] == "scroll-to") {
+      $('html, body').animate({ scrollTop : data[1]}, 500);
+    }
+  })
+});
+</script>
 
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Project 1</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Project 2</a></h4>
-        <p><em>Quoque videri</em>: sibi in qua nexibus rapto, Munychiosque bracchia sua pars, iram nec tonitruque. Quisquis thalamis Lyncides e remorum an omnibus monstri dempta. Mea tecta! Orbem haut non procumbit <em>facit</em>.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Project 3</a></h4>
-        <p>Tumefactum saepe, lactis, sibi ponto ut ad acie nam harundinis nostrae, totiens cerae, quamvis. Et in <strong>sata dies</strong> milite flectitur iste.</p>
-      </div>
-    </div>
-  </div><!-- grid -->
-
-  <div class="grid no-gutters">
-
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Project 4</a></h4>
-        <p>Inpune adsueta ac portasque, esse bella satis; meum arserunt coepit. Anguesque caeleste, dixit: pars nemus igne sedes nigrantis dea omnia.</p>
-      </div>
-    </div>
-
-
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Project 5</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-  </div><!-- grid -->
+<div style="font-size: 1px; color: transparent; height: 0;">
+  Dean is an R-Shiny expert and consultant
+  Services include: Building Shiny apps and analytics dashboards • Integrating Shiny apps with external services or libraries • Offering expert advice and guidance with Shiny
+  Clients range from individuals to startups to large companies and government agencies.
+  Previously a software engineer at Google and top San Francisco startup Wish.com
+  MSc in Bioinformatics, Bachelor of Computer Science.
 </div>
+
+<iframe id="shiny-server-iframe" src="http://daattali.com/shiny?iframe=1" scrolling="no" width="100%" height="1500"></iframe>
