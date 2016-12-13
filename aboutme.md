@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Yang Lab
+subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our resesarch focuses on bridging the gap between genotypes and phenotypes. At a broader scale, we are keen to integrate various large-scale biological data sets such as phenomics, genomics, transcriptomics, methylomics data and functional annotations to boost the power of **Genome-wide Association Study** and **Genomic Selection**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Our lab's major interests include:  
+ - Using **quantitative and population genetics** approaches to understand the genetic architecture of  agronomically important traits  
+ - Exploring the **genetic basis of heterosis** and predicting hybrid performance by incorporating biological annotation information  
+ - **Collecting and modeling complex phentoypes**, such as molecular phenotypes, time series phenotypes, or phenotypes obtained via image analyses  
