@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /pub/
+subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
 ```{r setup, include=FALSE}
@@ -26,8 +26,6 @@ if(file.exists(file)){
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
 ```
 
------------------------------------
-
 ### Preprints
 
 ```{r, echo=FALSE, results="asis"}
@@ -42,8 +40,6 @@ cat(paste0(
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
-
------------------------------------
 
 ### 2015
 
@@ -84,9 +80,8 @@ cat(paste0(
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
-------------------------------
 
-### 2014 and Before 
+### 2014 and Before
 
 ```{r, echo=FALSE, results="asis"}
 pid <- bob[bob$pubid=="2osOgNQ5qMEC",]
@@ -111,7 +106,7 @@ cat(paste0(
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
---------------------------
+------------------------
 
 ### Patent Applications
 
@@ -127,7 +122,3 @@ P. S. Schnable, __J. Yang__, R. A. Swanson-Wagner, D. Nettleton, __QTL regulatin
 source("data/googleCite.r")
 out = googleCite("https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ",pdfname="figure/wordcloud.pdf")
 ```
-
-
-
-
