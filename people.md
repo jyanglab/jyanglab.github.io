@@ -59,9 +59,10 @@ div.desc {
 }
 </style>
 </head>
-<body>
 
-<h3>Current Lab Members</h3>
+## Current Lab Members
+
+<body>
 
 <div class="responsive">
   <div class="img">
@@ -71,6 +72,25 @@ div.desc {
     <div class="desc">Add a description of the image here</div>
   </div>
 </div>
+
+<div class="clearfix"></div>
+
+</body>
+
+
+---------------
+
+<body>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank" href="/img/photo/Yang_Jinliang.jpg">
+      <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
 
 
 <div class="responsive">
@@ -102,9 +122,8 @@ div.desc {
 
 <div class="clearfix"></div>
 
-<div style="padding:6px;">
-  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
-  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
-</div>
-
 </body>
+
+## Lab Alumni
+
+1. Who, go to where, email address
