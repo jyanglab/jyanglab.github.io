@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Q.I.U.T.
-googlefonts: ["Monoton", "Lobster"]
+googlefonts: ["Galdeano","Hiragino Sans GB"]
 subtitle: Paper Mixed up well with Beer
 ---
 
