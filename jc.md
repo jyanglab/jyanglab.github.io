@@ -1,7 +1,8 @@
 ---
 layout: page
+css: "/css/index.css"
 title: Q.I.U.T.
-googlefonts: ["Galdeano","Hiragino Sans GB"]
+googlefonts: ["Galdeano"]
 subtitle: Paper Mixed up well with Beer
 ---
 
