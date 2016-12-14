@@ -25,7 +25,7 @@ description: Plant Quantitative Genetics and Population Genomics
 navbar-links:
   People: "people"
   Publications: "pub"
-  QUIT: "jc"
+  Q.U.I.T.: "jc"
   News: "news"
   Resources:
     - Lab Doc: "http://deanattali.com/beautiful-jekyll/"
@@ -44,7 +44,7 @@ avatar: "/img/logo_sq2.png"
 author:
   name: Jinliang Yang
   email: "yangjl0930@gmail.com"
-  facebook: yourname  # eg. daattali
+  #facebook: yourname  # eg. daattali
   github: jyanglab    # eg. daattali
   twitter: JinliangYang   # eg. daattali
   reddit: yourname    # eg. daattali

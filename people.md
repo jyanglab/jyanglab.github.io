@@ -1,11 +1,11 @@
 ---
 layout: page
-title:
-subtitle: Current Yang Lab Members
+title: Yang Lab Members
+subtitle: Welcome to Yang Lab
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
-  - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
+  - "/img/big-imgs/lake.JPG" : "Clear Lake, CA (2016)"
+  - "/img/big-imgs/lake2.JPG" : "UC Davis, CA (2016)"
 ---
 
 
@@ -69,9 +69,11 @@ div.desc {
     <a target="_blank" href="/img/photo/Yang_Jinliang.jpg">
       <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="200">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">PostDoc Scholar, <a href="/img/CV_Yang_2016.pdf"> CV </a></div>
   </div>
 </div>
+
+
 
 <div class="clearfix"></div>
 
@@ -84,44 +86,23 @@ div.desc {
 
 <div class="responsive">
   <div class="img">
-    <a target="_blank" href="/img/photo/Yang_Jinliang.jpg">
-      <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="200">
+    <a target="_blank" href="/img/photo/Olivia_Yang.jpg">
+      <img src="/img/photo/Olivia_Yang.jpg" alt="Jinliang Yang" width="300" height="200">
     </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank" href="/img/photo/Yang_Jinliang.jpg">
-      <img src="/img/photo/Yang_Jinliang.jpg" alt="Forest" width="300" height="200">
-    </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Junior Lab Member, D.C., specialized in messing up stuff</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="img">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="/img/photo/Jingjie_Hao.jpg">
+      <img src="/img/photo/Jingjie_Hao.jpg" alt="Jinliang Yang" width="200" height="100">
     </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Home Manager, Ph.D., taking care of Junior lab member</div>
   </div>
 </div>
 
 <div class="clearfix"></div>
-
 </body>
 
 ## Lab Alumni
