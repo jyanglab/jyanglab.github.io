@@ -2,7 +2,6 @@
 layout: page
 css: "/css/index.css"
 title: Q.I.U.T.
-googlefonts: ["Galdeano"]
 subtitle: Paper Mixed up well with Beer
 comments: true
 ---
