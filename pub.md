@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+css: "/css/pub.css"
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
@@ -11,7 +12,7 @@ __[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __
 ### Preprints
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *bioRxiv, 2016.*  
-> [Abstract](http://biorxiv.org/content/early/2016/11/07/086132) | [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) | doi: http://dx.doi.org/10.1101/086132 
+> [Abstract](http://biorxiv.org/content/early/2016/11/07/086132) | [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) | doi: http://dx.doi.org/10.1101/086132
 
 ### 2015
 
@@ -44,7 +45,3 @@ P. S. Schnable, A. OTT, __J. Yang__, __Intercrossed ex-PVP lines__.  *2014. PEND
 P. S. Schnable, __J. Yang__, __Identification of QTLs and trait-associated SNPs controlling six yield component traits in maize__. *2013. PENDING.*
 
 P. S. Schnable, __J. Yang__, R. A. Swanson-Wagner, D. Nettleton, __QTL regulating ear productivity traits in maize__. *U.S. Patent No. 8779233. Filed July 12, 2011.*
-
-
-
-

@@ -15,16 +15,17 @@ subtitle: This is how we come to the same page
   {% for post in paginator.posts %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
-	    {{ post.date | date: "%-M-%-d-%-Y" }}: <h4 class="post-title">{{ post.title }}</h4>
 
-	    {% if post.subtitle %}
-	    <h4 class="post-subtitle">
-	      {{ post.subtitle }}
-	    </h4>
-	    {% endif %}
+      <h2 class="post-title">
+        {{ post.date | date: "%m-%d-%Y" }}:
+        {{ post.title }}
+	    </h2>
+
+      {% if post.subtitle %}
       <p class="post-meta">
-        Posted on {{ post.date | date: "%B %-d, %Y" }}
+        {{ post.subtitle }}
       </p>
+      {% endif %}
 
       <div class="post-entry">
         {{ post.content | truncatewords: 50 | strip_html | xml_escape}}

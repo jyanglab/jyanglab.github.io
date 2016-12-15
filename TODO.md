@@ -15,3 +15,6 @@ subtitle: My site building notes
 ## change home page
 1. move `index.html` to `post.html`
 2. move `aboutme.md` to `index.md`
+
+## Smaller size
+using: `css: "/css/pub.css"`

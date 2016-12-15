@@ -1,5 +1,5 @@
 @import url("pygment_highlights.css");
-
+@import url(http://fonts.googleapis.com/css?family=Galdeano);
 /* --- General --- */
 
 body {
@@ -15,10 +15,10 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #008080;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Galdeano",'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #ff7373;
 }
 blockquote {
   color: #808080;
@@ -95,16 +95,15 @@ img {
 }
 
 /* --- Navbar --- */
-
 .navbar-custom {
-  background: #F5F5F5;
+  background: #eeeeee; /*Yang*/
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Galdeano", "Trebuchet MS";
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 15px;
   letter-spacing: 1px;
 }
 
@@ -172,14 +171,14 @@ img {
     width: 100px;
     margin-top: -50px;
   }
-  
+
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
   }
-  
+
   .navbar-custom .avatar-container  .avatar-img {
     width: 100%;
   }
@@ -217,7 +216,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
-  }  
+  }
   .navbar-custom .nav .navlinks-container:hover {
     background: #eee;
   }
@@ -238,7 +237,7 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  background: #eeeeee; /*Yang*/
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
@@ -255,25 +254,26 @@ footer .list-inline {
 footer .copyright {
   font-family: Open Sans;
   text-align: center;
+  margin: 5px 0 0; /*Yang*/
   margin-bottom: 0;
 }
 footer .theme-by {
   text-align: center;
-  margin: 10px 0 0;
+  margin: 5px 0 0;
 }
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 30px 0; /*Yang*/
   }
   footer .footer-links {
-    font-size: 18px;
+    font-size: 14px; /*yang*/
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 14px; /*yang*/
   }
 }
- 
+
 /* --- Post preview --- */
 
 .post-preview {
@@ -303,13 +303,13 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 100px;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
@@ -450,13 +450,13 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  }	
+  }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
-    padding: 150px 0;
-  }  
+    padding: 70px 0;   /*Yang*/
+  }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -491,9 +491,9 @@ footer .theme-by {
   }
   .header-section.has-img .big-img {
     margin-bottom: 0;
-  }  
-} 
-@media only screen and (max-width: 325px) { 
+  }
+}
+@media only screen and (max-width: 325px) {
   .intro-header.big-img {
     height: 200px;
   }

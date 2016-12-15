@@ -2,6 +2,7 @@
 layout: page
 title: Yang Lab Members
 subtitle: Welcome to Yang Lab
+css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "/img/big-imgs/lake.JPG" : "Clear Lake, CA (2016)"
@@ -9,60 +10,8 @@ bigimg:
 ---
 
 
-<head>
-<style>
-div.img {
-    border: 1px solid #ccc;
-}
-
-div.img:hover {
-    border: 1px solid #777;
-}
-
-div.img img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-.responsive {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px){
-    .responsive {
-        width: 49.99999%;
-        margin: 6px 0;
-    }
-}
-
-@media only screen and (max-width: 500px){
-    .responsive {
-        width: 100%;
-    }
-}
-
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-</style>
-</head>
-
 ## Current Lab Members
 
-<body>
 
 <div class="responsive">
   <div class="img">
@@ -77,7 +26,6 @@ div.desc {
 
 <div class="clearfix"></div>
 
-</body>
 
 
 ---------------
@@ -105,6 +53,8 @@ div.desc {
 <div class="clearfix"></div>
 </body>
 
+----------------------------
+
 ## Lab Alumni
 
-1. Who, go to where, email address
+- Who, go to where, email address
