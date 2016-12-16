@@ -1,0 +1,15 @@
+body {
+  font-family: 'Times New Roman', serif;
+  font-size: 18px;
+  color: #404040;
+  position: relative;
+  background: #FFF;
+}
+p {
+  line-height: 1.5;
+  margin: 10px 0;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family:  Helvetica, Arial, sans-serif, "Galdeano", 'Open Sans', 'Helvetica Neue';
+  font-weight: 600;
+}
