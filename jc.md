@@ -1,12 +1,12 @@
 ---
 layout: page
 css: "/css/index.css"
-title: Q.I.U.T.
+title: Q.U.I.T.
 subtitle: Paper Mixed up well with Beer
 comments: true
 ---
 
-Inspired by [R.E.H.A.B.](), as well as its fellow journal clubs including [C.A.M.P.](), [E.H.R.A.B.](), [Detox](), etc., we assemble an informal journal club to share ideas regarding recent papers or preprints of interest. We focus on, but not limited to, quantitative genetics and genomics in all aspects.
+Inspired by [R.E.H.A.B.](), as well as its fellow journal clubs including [C.A.M.P.](), [E.H.R.A.B.](), [Detox](), etc., we assembled an informal journal club to share ideas regarding recent papers or preprints of interest. We focus on, but not limited to, quantitative genetics and genomics in all aspects.
 
 We meet every Friday at 4 pm at the *location*.   
 
