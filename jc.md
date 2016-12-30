@@ -11,6 +11,7 @@ Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow
 We meet every Friday at 4 pm at the *location*.   
 
 -----------------------------
+
 ## 2017
 
 ### January 6th, 2017
@@ -18,6 +19,7 @@ We meet every Friday at 4 pm at the *location*.
 > A review paper on using methylation site frequency spectrum (mSFS) of natural populations to study methylome evolution.
 
 -----------------------------
+
 ## 2016
 
 ### December 16th, 2016
