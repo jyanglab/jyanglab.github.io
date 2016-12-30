@@ -16,6 +16,7 @@ We meet every Friday at 4 pm at the *location*.
 
 ### January 6th, 2017
 - Methylome evolution in plants? by [Vidalis et al., 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5)  
+
 > A review paper on using methylation site frequency spectrum (mSFS) of natural populations to study methylome evolution.
 
 -----------------------------
