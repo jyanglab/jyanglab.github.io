@@ -2,17 +2,20 @@
 layout: post
 title: Maize Genome Resources
 subtitle: RefGen and Annotation Information
-css: "../css/post.css"
+tags: [NGS, maize]
+category: [bioinformatics, data]
 bigimg: /img/path.jpg
 ---
 
 ## Reference Genome:   
 
 ### AGPv4:  
+
  - [Gramene](http://ensembl.gramene.org/Zea_mays/Info/Index) has refgen4 maize resources and annotations.
  - [AGPv4.33 GFF3](ftp://ftp.ensemblgenomes.org/pub/plants/release-33/gff3/zea_mays)
 
 ### Previous releases ([FTP site](ftp://ftp.gramene.org/pub/gramene/maizesequence.org/)):
+
  - release-3a.50 (2008-12) - Pre-assembly BAC-based gene build
  - release-3b.50 (2009-02) - Pre-assembly BAC-based gene build + Filtered Gene Set
  - release-4a.53 (2009-10) - Maize RefGen_v1
