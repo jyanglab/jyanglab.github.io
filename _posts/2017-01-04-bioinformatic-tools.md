@@ -1,45 +1,29 @@
 ---
 layout: post
-title: The Best Practices for Project Management
-subtitle: Suggestions for a re-producible and productive research project
-tags: [Github, R, project]
-category: [computing]
+title: Essential Bioinformatic Resoures
+subtitle: Bio-info tools
+tags: [bioinfo, NGS, tools]
+category: [bioinformatics]
 bigimg: /img/path.jpg
 ---
 
-As computational/statistical researchers, we often found ourselves had a hard to find data, codes or related notes.
-From several years of research experience, I experimented many note-taking and project management tools. Among those, I found the following practices are the most efficient and productive.
+## FASTQ trimming and error correction
 
-## Git controlled
+- [FASTX-Tools](http://hannonlab.cshl.edu/fastx_toolkit/): Filter and trim fastq files
+- [Quake](http://www.cbcb.umd.edu/software/quake/index.html): Error Correction of Short Reads
 
-Of course, it should be git controlled and better to put on [Github](https://github.com/yangjl). Git enables us to work collaboratively and to track any changes from anybody. I would suggest all my coworkers put their research codes on github.
+## Aligners and variant callers
 
-For data, especially large data sets, I would suggest put them in shared data folders among lab members and put a symbolic link in your current project. Or creat a `largedata` folder in your current project and `.gitignore` the folder.
-Github offers a handy collection of [.gitignore](https://github.com/github/gitignore) files, some of which are global and can be added to your [global .gitignore](https://help.github.com/articles/ignoring-files/), and others which are project specific.
+- [BWA](http://bio-bwa.sourceforge.net/): Feature rich short read aligner
+- [Bowtie](http://bowtie-bio.sf.net/bowtie2): Ultra-fast short read mapping
+- [Picard](http://picard.sourceforge.net/): SAM/BAM alignment filtering
+- [SAMtools](http://samtools.sourceforge.net/): SAM/BAM alignment filtering and scoring
+- [BCFtools](http://www.htslib.org/doc/bcftools.html): Utilities for variant calling and manipulating VCFs and BCFs
+- [BEDTools](http://bedtools.readthedocs.io/en/latest/): Slice and dice genomics intervals
+- [GATK](https://software.broadinstitute.org/gatk/): Variant calling
 
-### Commit Messages
+## RNA-seq Analysis
 
-Use informative commit messages.  
-Read the following suggestions:
-1. [How to write a git commit message](http://chris.beams.io/posts/git-commit/)
-2. [On commit messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
-
-## Project Directory Architecture
-
-In a typical `R` project, I will copy the following folder into the project dir.
-The layout of directories is based on the idea from [ProjectTemplate](http://projecttemplate.net/architecture.html).
-
-1. **cache**: Here we store intermediate data sets that are generated during preprocessing steps.
-2. **data**: Here we store our raw data of small size.
-Data of large size, i.e. > 100M, store in a `largedata` folder that has been ignored using `.gitignore`.
-3. **doc**: Documentation codes (i.e. Rmd files) for generating the figures.
-4. **graphs**: Graphs produced during the analysis.
-5. **lib**: Some functions used within this project.
-6. **munge**: Here we store some preprocessing or data munging codes.
-7. **profilling**: Main scripts for the project. It contains some sub-directories.
-8. **TODO.md**: A todo list.
-
-## Numbering system for codes ordering
-
-For example, in one of my research projects, I have multiple subfolders in the `profilling` folder. Codes were named by number, letter and other numbers separated with dots. My research was conducted according the order, i.e. I processed phenotypic traits using `1.A.0_pheno_trait.R` and then plotted the data using `1.A.1_pheno_plot.R`. It will always easier for me to go back to re-visit some of the codes or re-plot the figures with this numbering and codes ordering system.
-[Imgur](http://i.imgur.com/Ro7nzt5.png)
+- [kallisto](http://pachterlab.github.io/kallisto/): kmer based RNA-seq quantification
+- [TopHat](http://tophat.cbcb.umd.edu/): Spliced alignment for RNA-seq
+- [Trinity](http://trinityrnaseq.sourceforge.net/): De novo transcript assembly and quantification
