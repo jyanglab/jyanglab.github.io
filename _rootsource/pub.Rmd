@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+css: "/css/pub.css"
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
