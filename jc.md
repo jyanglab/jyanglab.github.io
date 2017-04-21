@@ -14,7 +14,7 @@ We meet every Friday at 4 pm at the *location*.
 
 ## 2017
 
-## April 21, 2017
+### April 21, 2017
 - Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data. by [Huang et al., 2017](http://www.nature.com/ng/journal/v49/n4/full/ng.3810.html)  
 > Deleterous annotation, machine learning
 
