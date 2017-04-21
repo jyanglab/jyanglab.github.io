@@ -6,13 +6,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-
-
-{% highlight text %}
-## Warning: package 'scholar' was built under R version 3.2.2
-{% endhighlight %}
-
-__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (56 citations as of Fri Apr 21 11:18:13 2017)  
+__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (56 citations as of Fri Apr 21 11:21:17 2017)  
 
 ### Preprints
 
