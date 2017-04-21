@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (56 citations as of Fri Apr 21 11:23:38 2017)  
+__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (56 citations as of Fri Apr 21 11:34:43 2017)  
 
 ### Preprints
 

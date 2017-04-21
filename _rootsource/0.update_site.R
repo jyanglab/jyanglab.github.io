@@ -1,8 +1,8 @@
 
 library("servr")
 jekyll(dir = ".", input = c(".", "_rootsource", "_postsource"),
-       output = c(".",  ".", "_posts"), script = c("Makefile", "build.R"), serve = FALSE,
-       command = "jekyll build")
+       output = c(".",  ".", "_posts"), script = c("Makefile", "build.R"), serve = TRUE,
+       command = "bundle exec jekyll build")
 
 
 ### How to change markdown CSS elements

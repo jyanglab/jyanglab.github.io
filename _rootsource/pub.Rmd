@@ -35,6 +35,7 @@ cat(paste0(
 "__J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, ",
 "__Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__,",
 " *bioRxiv, 2016.*  \n",
+
 "> [Abstract](http://biorxiv.org/content/early/2016/11/07/086132) ",
 "| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 "| doi: http://dx.doi.org/10.1101/086132 "
