@@ -4,9 +4,6 @@ title: Yang Lab Members
 subtitle: Welcome to Yang Lab
 css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]
-bigimg:
-  - "/img/big-imgs/lake.JPG" : "Clear Lake, CA (2016)"
-  - "/img/big-imgs/lake2.JPG" : "UC Davis, CA (2016)"
 ---
 
 

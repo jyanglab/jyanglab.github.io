@@ -29,8 +29,8 @@ navbar-links:
   News: "news"
   Resources:
     - Lab Doc: "labdoc/index"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - ZeaBigData: "https://pages.github.com/"
+    #- Learn markdown: "http://www.markdowntutorial.com/"
+    #- ZeaBigData: "https://pages.github.com/"
 nav-search: "search"
 #Lab Doc: "random/index"
 
