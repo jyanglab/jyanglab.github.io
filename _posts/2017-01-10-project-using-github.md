@@ -5,6 +5,7 @@ subtitle: fork, pull, push, and pull request
 tags: [Github, R, project]
 category: [computing]
 bigimg: /img/path.jpg
+comments: false
 ---
 
 
@@ -26,7 +27,7 @@ Importantly, do not use absolute path. The path should be relative, i.e. use `pr
 
 ## 3. Commit your changes
 
-Commit with informative message. It is more informative to state why you do this, i.e. `to study the population structure` or `plot correlationship matrix`, rather than what you did, i.e. `added file1`. Because the latter can be figured out from the git histroy. 
+Commit with informative message. It is more informative to state why you do this, i.e. `to study the population structure` or `plot correlationship matrix`, rather than what you did, i.e. `added file1`. Because the latter can be figured out from the git histroy.
 
 ```
 git add --all
@@ -42,4 +43,3 @@ git push origin master
 ## 5. Create a new `Pull Request`
 
 ![Imgur](http://i.imgur.com/9zaA5IK.png)
-

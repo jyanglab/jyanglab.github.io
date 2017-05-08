@@ -4,7 +4,7 @@ title: Data Plans
 subtitle: Data storage, back-up, and sharing
 tags: [bioinfo, CS, tools, data]
 category: [computing]
-comment: false
+comments: false
 ---
 
 

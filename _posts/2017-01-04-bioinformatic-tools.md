@@ -5,6 +5,7 @@ subtitle: Bio-info tools
 tags: [bioinfo, NGS, tools]
 category: [bioinformatics]
 bigimg: /img/path.jpg
+comments: false
 ---
 
 ## FASTQ trimming and error correction
