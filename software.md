@@ -14,5 +14,5 @@ Most of the software packages are licensed under [GPLv3](https://www.gnu.org/lic
 - This is an `R packages` to generate bioinformatics analysis pipelines and submit jobs to a slurm-based HPC system, especially for [HCC](https://hcc-docs.unl.edu/display/HCCDOC/HCC+Documentation) at UNL.
 
 
-
-
+### [run-latexdiff](http://yangjl.com/run-latexdiff/)
+- A `python` command line tool to create `latexdiff` pdf for different git commits. Modified from [scm-latexdiff](https://bitbucket.org/paulhiemstra/scm-latexdiff/overview). All credits go to scm-latexdiff.
