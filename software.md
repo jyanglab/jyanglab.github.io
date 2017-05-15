@@ -16,3 +16,6 @@ Most of the software packages are licensed under [GPLv3](https://www.gnu.org/lic
 
 ### [run-latexdiff](http://yangjl.com/run-latexdiff/)
 - A `python` command line tool to create `latexdiff` pdf for different git commits. Modified from [scm-latexdiff](https://bitbucket.org/paulhiemstra/scm-latexdiff/overview). All credits go to scm-latexdiff.
+
+### [pseudoRef](http://yangjl.com/pseudoRef/)
+- It is an `R package` to make a pseudo reference genome subsituted with the SNP variants for given samples.
