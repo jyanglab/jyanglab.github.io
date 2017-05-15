@@ -25,6 +25,7 @@ description: Plant Quantitative Genetics and Population Genomics
 navbar-links:
   People: "people"
   Publications: "pub"
+  Software: "software"
   Q.U.I.T.: "jc"
   News: "news"
   Resources:
