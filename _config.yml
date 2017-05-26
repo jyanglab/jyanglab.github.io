@@ -29,7 +29,7 @@ navbar-links:
   Q.U.I.T.: "jc"
   News: "news"
   Resources:
-    - Lab Doc: "labdoc/index"
+    - Lab Blog: "labdoc/index"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- ZeaBigData: "https://pages.github.com/"
 nav-search: "search"

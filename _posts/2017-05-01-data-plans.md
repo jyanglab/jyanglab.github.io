@@ -21,7 +21,7 @@ At UNL, we use attic system and pay $60 for 1TB/year. Attic is a reliable [near-
 
 ### CyVerse (or iPlant)
 
-[CyVerse](http://www.cyverse.org/) is a NSF funded project that provides powerful computational infrastructure to hangle large datasets and complex analyses.
+[CyVerse](http://www.cyverse.org/) is a NSF funded project that provides powerful computational infrastructure to handle large datasets and complex analyses.
 
 #### use [irods](https://docs.irods.org/master/) for data I/O
 
@@ -41,7 +41,7 @@ irsync -rKV i:foo1 foo2
 
 ### NCBI SRA
 
-At the end, we have to submit the data to NCBI anyway. It would hurt to submit as soon as you get your data. And NCBI SRA allows you to publish your data at a later time.
+At the end, we have to submit the data to NCBI anyway. It would not hurt to submit as soon as you get your data. And NCBI SRA allows you to publish your data at a later time.
 
 ```
 ### use ascp to upload and download
