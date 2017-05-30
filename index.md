@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yang Lab
+title: Jinliang Yang Lab
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
