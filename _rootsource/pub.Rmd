@@ -59,8 +59,19 @@ cat(paste0(
 ))
 ```
 
-### 2015
+### 2017
 
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+cat(paste0(
+"J. Hao, __J. Yang__, J. Dong, S-Z. Fei, ",
+"__Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__,",
+" *Plant Science*, Accepted.  \n"))
+
+
+```
+
+### 2015
 
 ```{r, echo=FALSE, results="asis"}
 pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
