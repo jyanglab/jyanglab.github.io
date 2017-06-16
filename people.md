@@ -26,7 +26,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 ---------------
 
-We are recruiting enthusiatic researchers, i.e. *graduate student* or *postdoc*, to join the lab. If you are interested, please contact [Professor Yang](jyang21@unl.edu) with your most recent CV. 
+We are recruiting enthusiatic researchers, i.e. *graduate student* or *postdoc*, to join the lab. If you are interested, please contact **Professor Yang** (via jyang21 at unl.edu) with your most recent CV. 
 
 ----------------------------
 
