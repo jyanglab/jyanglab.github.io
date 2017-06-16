@@ -14,6 +14,10 @@ We meet every Friday at 4 pm at the *location*.
 
 ## 2017
 
+### June 16, 2017
+- Widespread signatures of negative selection in the genetic architecture of human complex traits. by [Zeng et al., 2017](http://biorxiv.org/content/early/2017/06/03/145755)
+> Deleterious alleles, MAF, purifying selection, genomic selection, and polygenicity.
+
 ### April 21, 2017
 - Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data. by [Huang et al., 2017](http://www.nature.com/ng/journal/v49/n4/full/ng.3810.html)   
 > Deleterous annotation, machine learning

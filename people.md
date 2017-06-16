@@ -15,11 +15,10 @@ googlefonts: ["Monoton", "Lobster"]
     <a target="_blank" href="/img/photo/Yang_Jinliang.jpg">
       <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="200">
     </a>
-    <div class="desc">PostDoc Scholar, <a href="/img/CV_Yang_2016.pdf"> CV </a></div>
+    <div class="desc">Jinliang Yang is an assistant professor in the Department of Agronomy and Horticulture. 
+    <a href="/img/CV_Yang_2017_June.pdf"> CV </a></div>
   </div>
 </div>
-
-
 
 <div class="clearfix"></div>
 
@@ -27,28 +26,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 ---------------
 
-<body>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank" href="/img/photo/Olivia_Yang.jpg">
-      <img src="/img/photo/Olivia_Yang.jpg" alt="Jinliang Yang" width="300" height="200">
-    </a>
-    <div class="desc">Junior Lab Member, D.C., specialized in messing up stuff</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank" href="/img/photo/Jingjie_Hao.jpg">
-      <img src="/img/photo/Jingjie_Hao.jpg" alt="Jinliang Yang" width="200" height="100">
-    </a>
-    <div class="desc">Home Manager, Ph.D., taking care of Junior lab member</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-</body>
+We are recruiting enthusiatic researchers, i.e. *graduate student* or *postdoc*, to join the lab. If you are interested, please contact [Professor Yang](jyang21@unl.edu) with your most recent CV. 
 
 ----------------------------
 
