@@ -66,7 +66,7 @@ cat(paste0(
 cat(paste0(
 "J. Hao, __J. Yang__, J. Dong, S-Z. Fei, ",
 "__Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__,",
-" *Plant Science*, Accepted.  \n"))
+" *Plant Science*, 2017.  \n"))
 
 
 ```
