@@ -10,6 +10,10 @@ comments: false
 
 ## R Statistical Language
 
+### Online Courses
+
+- [HarvardX](http://rafalab.github.io/pages/harvardx.html) Biomedical Data Science Open Online Training
+
 ### Free Online Resources for `R`
 
 - The [try R interactive online course](http://tryr.codeschool.com/) from Code School

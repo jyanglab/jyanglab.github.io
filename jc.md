@@ -2,17 +2,23 @@
 layout: page
 css: "/css/index.css"
 title: Q.U.I.T.
-subtitle: Paper Mixed up well with Beer
+subtitle: Paper Mixed up well with Beer (or Non-alcoholic Beverage)
 comments: false
 ---
 
 Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow journal clubs including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [Detox](http://beissingerlab.org/Detox/), etc., we assembled an informal journal club to share ideas regarding recent papers or preprints of interest. We focus on, but not limited to, quantitative genetics and genomics in all aspects.
 
-We meet every Friday at 4 pm at the *location*.   
+We meet every Friday at 4 pm in the Conference Room of Keim Hall.   
 
 -----------------------------
 
 ## 2017
+
+### July 21, 2017
+- Narrow-sense heritability estimation of complex traits using identity-by-descent information. by [Evans et al., 2017](http://www.biorxiv.org/content/early/2017/07/17/164848)
+> Missing heritability, simulated phenotype
+
+-------------------------
 
 ### June 16, 2017
 - Widespread signatures of negative selection in the genetic architecture of human complex traits. by [Zeng et al., 2017](http://biorxiv.org/content/early/2017/06/03/145755)
