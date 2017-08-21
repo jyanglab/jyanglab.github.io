@@ -31,7 +31,8 @@ navbar-links:
   Resources:
     - Lab Blog: "labdoc/index"
     #- Learn markdown: "http://www.markdowntutorial.com/"
-    #- ZeaBigData: "https://pages.github.com/"
+    - ZeaBigData: "http://zeabigdata.org/"
+    - CGMonline: "http://cgmonline.co/"
 nav-search: "search"
 #Lab Doc: "random/index"
 
@@ -59,6 +60,7 @@ author:
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
+  unl: "http://agronomy.unl.edu/"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -77,6 +79,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
+  unl: true
 
 # Select which share links to show in posts
 share-links-active:
