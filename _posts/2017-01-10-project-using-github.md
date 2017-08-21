@@ -4,7 +4,6 @@ title: Using Github for a Collabrative Research Project
 subtitle: fork, pull, push, and pull request
 tags: [Github, R, project]
 category: [computing]
-bigimg: /img/path.jpg
 comments: false
 ---
 
