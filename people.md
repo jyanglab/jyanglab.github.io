@@ -25,6 +25,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 
 ---------------
+# Open Positions
 
 We are recruiting enthusiatic individuals, i.e. **undergraduate**, **PhD student** or [**PostDoc**](/img/YangLab-postdoc-position.pdf), to join the lab. If you are interested, please contact **Dr. Yang** (via jyang21 at unl.edu) with your most recent CV. 
 

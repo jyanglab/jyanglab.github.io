@@ -4,7 +4,6 @@ title: Essential Bioinformatic Resoures
 subtitle: Bio-info tools
 tags: [bioinfo, NGS, tools]
 category: [bioinformatics]
-bigimg: /img/path.jpg
 comments: false
 ---
 

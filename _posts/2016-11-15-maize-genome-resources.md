@@ -4,7 +4,6 @@ title: Maize Genome Resources
 subtitle: RefGen and Annotation Information
 tags: [NGS, maize]
 category: [bioinformatics, data]
-bigimg: /img/path.jpg
 comments: false
 ---
 
