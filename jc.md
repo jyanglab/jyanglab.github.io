@@ -35,11 +35,6 @@ We meet every Friday at 4 pm in the Conference Room of Keim Hall.
 > Missing heritability, simulated phenotype
 
 
-### July 21, 2017
-- Negative selection in humans and fruit flies involves synergistic epistasis. by [Sohail et al., 2017](http://science.sciencemag.org/content/356/6337/539)
-> Epistasis, nagative selection
-
-
 -------------------------
 
 ### June 16, 2017
