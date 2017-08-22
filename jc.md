@@ -15,8 +15,8 @@ We meet every Friday at 4 pm in the Conference Room of Keim Hall.
 ## 2017
 
 ### July 28, 2017
-- Negative selection in humans and fruit flies involves synergistic epistasis. by [Sohail et al., 2017](http://science.sciencemag.org/content/356/6337/539)
-> Epistasis, nagative selection
+- Detecting Gene Subnetworks Under Selection In Biological Pathways. by [Gouy et al., 2017](http://www.biorxiv.org/content/early/2017/04/18/128306)
+> gene network, selection
 
 
 ### July 21, 2017
