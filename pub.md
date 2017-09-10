@@ -21,6 +21,8 @@ __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMull
 
 ### 2017
 
+Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck. __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017, in press.
+
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
 
 ### 2015
