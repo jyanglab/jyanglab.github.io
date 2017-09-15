@@ -6,9 +6,12 @@ subtitle: Paper Mixed up well with Beer (or Non-alcoholic Beverage)
 comments: false
 ---
 
-Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow journal clubs including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [Detox](http://beissingerlab.org/Detox/), etc., we assembled an informal journal club to share ideas regarding recent papers or preprints of interest. We focus on, but not limited to, quantitative genetics and genomics in all aspects.
+Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow journal clubs including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [Detox](http://beissingerlab.org/Detox/), etc., we assemble an informal journal club at UNL to share ideas regarding recent papers or preprints of interest. We focus on, but not limited to, **QU**antitative genetics and genomics, bio-**I**nformatics and breeding **T**echnologies in all aspects.
 
-We meet every Friday at 4 pm in the Conference Room of Keim Hall.   
+Anyone is welcome to suggest a paper (by sending an email to _jinliang.yang at unl.edu_) and come to talk with us. Nobody will present or defend the papers. We directly jump right into discussion with the assumption that you have read the paper.
+There is no email list; articles are posted below along with the date.
+
+We meet every **Friday at 4:30 pm in the Goodding Learning Center**, located in 280 Plant Sciences Hall on East Campus at UNL.   
 
 -----------------------------
 
