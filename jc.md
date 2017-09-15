@@ -14,14 +14,13 @@ We meet every Friday at 4 pm in the Conference Room of Keim Hall.
 
 ## 2017
 
-### Sept. 15, 2017
-- Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al.,](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
+### Sept.
+- **Sept. 15, 2017**: Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al., 2017](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
 > GWAS, pathway, method
 
-### Sept. 8, 2017, no Q.U.I.T.
+- Sept. 8, 2017, no Q.U.I.T.
 
-### Sept. 1, 2017
-- Genomic prediction reveals significant non-additive effects for growth in hybrid Eucalyptus. by [Tan et al., 2017](http://www.biorxiv.org/content/early/2017/08/21/178160)
+- **09-01, 2017*:* Genomic prediction reveals significant non-additive effects for growth in hybrid Eucalyptus. by [Tan et al., 2017](http://www.biorxiv.org/content/early/2017/08/21/178160)
 > Genomic Prediction, non-additive
 
 ### August 25, 2017
