@@ -14,11 +14,20 @@ We meet every Friday at 4 pm in the Conference Room of Keim Hall.
 
 ## 2017
 
-### Sept.
-- **Sept. 15, 2017**: Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al., 2017](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
+### September
+
+- **09-29-2017**: Gene expression drives the evolution of dominance. by [Huber et al., 2017](http://www.biorxiv.org/content/early/2017/08/31/182865)
+> RNA-seq, dominance, evolution
+
+- **09-22-2017**: Patterns of gene body methylation predict coral fitness in new environments. by [Dixon et al., 2017](http://www.biorxiv.org/content/early/2017/09/04/184457)
+> gene body methylation, fitness
+
+- **09-15-2017**: Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al., 2017](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
 > GWAS, pathway, method
-- Sept. 8, 2017, no Q.U.I.T.
-- **09-01, 2017*:* Genomic prediction reveals significant non-additive effects for growth in hybrid Eucalyptus. by [Tan et al., 2017](http://www.biorxiv.org/content/early/2017/08/21/178160)
+
+- **09-08-2017**: no Q.U.I.T.
+
+- **09-01-2017**: Genomic prediction reveals significant non-additive effects for growth in hybrid Eucalyptus. by [Tan et al., 2017](http://www.biorxiv.org/content/early/2017/08/21/178160)
 > Genomic Prediction, non-additive
 
 ### August 25, 2017
