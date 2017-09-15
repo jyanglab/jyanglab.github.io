@@ -22,11 +22,12 @@ We meet every **Friday at 4:30 pm in the Goodding Learning Center**, located in 
 - **09-29-2017**: Gene expression drives the evolution of dominance. by [Huber et al., 2017](http://www.biorxiv.org/content/early/2017/08/31/182865)
 > RNA-seq, dominance, evolution
 
-- **09-22-2017**: Patterns of gene body methylation predict coral fitness in new environments. by [Dixon et al., 2017](http://www.biorxiv.org/content/early/2017/09/04/184457)
+- **09-22-2017**: Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al., 2017](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
+> GWAS, pathway, method
+
+- **09-15-2017**: Patterns of gene body methylation predict coral fitness in new environments. by [Dixon et al., 2017](http://www.biorxiv.org/content/early/2017/09/04/184457)
 > gene body methylation, fitness
 
-- **09-15-2017**: Discovering genetic interactions bridging pathways in genome-wide association studies. by [Fang et al., 2017](http://www.biorxiv.org/content/biorxiv/early/2017/08/30/182741.full.pdf)
-> GWAS, pathway, method
 
 - **09-08-2017**: no Q.U.I.T.
 
