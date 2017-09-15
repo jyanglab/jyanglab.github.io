@@ -20,7 +20,7 @@ P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quez
 
 ### 2017
 
-__J. Yang*__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017, in press.  
+__J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017, in press.  
 [Abstract](http://biorxiv.org/content/early/2016/11/07/086132) | [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) | 10.1101/086132 
 
 HY Lin, Q Liu, X Li, __J Yang__, S Liu, Y Huang, MJ Scanlon, D Nettleton, PS Schnable, __Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__, *Genome Res*, 2017, in press.
