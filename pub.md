@@ -16,10 +16,12 @@ P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quez
 [Abstract](http://biorxiv.org/content/early/2017/05/05/134528) | [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) | doi: https://doi.org/10.1101/134528 
 
 
-__J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *bioRxiv, 2016.*  
-[Abstract](http://biorxiv.org/content/early/2016/11/07/086132) | [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) | doi: http://dx.doi.org/10.1101/086132 
+
 
 ### 2017
+
+__J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017, in press.  
+[Abstract](http://biorxiv.org/content/early/2016/11/07/086132) | [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) | doi: http://dx.doi.org/10.1101/086132 
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck. __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017, in press.
 
