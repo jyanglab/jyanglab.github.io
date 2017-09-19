@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 
-## Current Lab Members
+# Current Lab Members
 
 -----
 
@@ -16,19 +16,25 @@ googlefonts: ["Monoton", "Lobster"]
     <a target="_blank">
       <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="400" >
     </a>
-    <div class="desc">Jinliang Yang is an assistant professor in the Department of Agronomy and Horticulture. 
-    <a href="/img/CV_Yang_2017.pdf"> CV </a></div>
   </div>
 </div>
 
+<div class="responsive">
+<b>Jinliang Yang</b> is an Assistant Professor in the Department of Agronomy and Horticulture.
+<a href="/img/CVs/CV_Yang_2017.pdf"> CV </a>
+</div>
 
 <div class="responsive">
   <div class="img">
     <a target="_blank">
       <img src="/img/photo/male_corn_3x4.png" alt="Laxman Karki" width="300" height="400">
     </a>
-    <div class="desc" style="text-align:left; clear:right;">Laxman Karki is a PostDoc Scholar working on statistical modeling of GWAS. </div>
   </div>
+</div>
+
+<div class="responsive">
+<b>Laxman Karki</b> is a PostDoc Scholar working on statistical modeling to boost the power of GWAS.
+<a href="/img/CVs/Laxman_CV.pdf"> CV </a>
 </div>
 
 <div class="clearfix"></div>
@@ -38,7 +44,36 @@ googlefonts: ["Monoton", "Lobster"]
 
 -------------------------
 
-# Open Positions
+## Open Positions
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/female_corn1_3x4.png" alt="Laxman Karki" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+</div>
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/male_corn_3x4.png" alt="Laxman Karki" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/female_corn2_3x4.png" alt="Laxman Karki" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
 
 We are recruiting enthusiatic individuals, i.e. **undergraduate**, **PhD student** or [**PostDoc**](/img/YangLab-postdoc-position.pdf), to join the lab. If you are interested, please contact **Dr. Yang** (via jinliang.yang at unl.edu) with your most recent CV. 
 
