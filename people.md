@@ -27,7 +27,7 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/male_corn_3x4.png" alt="Laxman Karki" width="300" height="400">
+      <img src="/img/photo/Laxman_Karki.jpg" alt="Laxman Karki" width="300" height="400">
     </a>
   </div>
 </div>
