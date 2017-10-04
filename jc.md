@@ -11,11 +11,19 @@ Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow
 Anyone is welcome to suggest a paper (by sending an email to _jinliang.yang at unl.edu_) and come to talk with us. Nobody will present or defend the papers. We directly jump right into discussion with the assumption that you have read the paper.
 There is no email list; articles are posted below along with the date.
 
-We meet every **Friday at 4:30 pm in the Goodding Learning Center**, located in 280 Plant Sciences Hall on East Campus at UNL.   
+We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.edu/newsrooms/today/article/the-mill-coffee-bistro-to-open-at-nebraska-innovation-campus/)**, at Nebraska Innovation Campus.   
 
 -----------------------------
 
 ## 2017
+
+### October
+
+- **10-13-2017**: Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America. by [Swarts et al., 2017](http://science.sciencemag.org/content/357/6350/512)
+> maize, ancient DNA, adaptation
+
+- **10-06-2017**: An Expanded View of Complex Traits: From Polygenic to Omnigenic. by [Boyle, Li, and Pritchard, 2017](http://www.sciencedirect.com/science/article/pii/S0092867417306293?via%3Dihub)
+> complex trait, polygenic, review
 
 ### September
 
