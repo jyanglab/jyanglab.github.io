@@ -29,7 +29,6 @@ if(file.exists(file)){
 
 ### Preprints
 
-
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
 cat(paste0(
