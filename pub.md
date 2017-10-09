@@ -9,15 +9,11 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 5 ] (78 citations as of Oct, 2017)  
 
-{% highlight text %}
-## Error in file.exists(file): invalid 'file' argument
-{% endhighlight %}
-
 ### Preprints
 
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__, *bioRxiv, 2017.*  
-[Abstract](http://biorxiv.org/content/early/2017/05/05/134528) | doi: 10.1101/134528 
+[doi: 10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) 
 
 
 ### 2017
@@ -27,7 +23,7 @@ H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettl
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
 [10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 1](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17320304599311441198&as_sdt=5)
 
-Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017. 
+Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017.   
 [doi: 10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 0](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=NA&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
