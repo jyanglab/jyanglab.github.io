@@ -38,7 +38,7 @@ cat(paste0(
 "__Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__,",
 " *bioRxiv, 2017.*  \n",
 
-"[doi: 10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) "
+"[10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -49,16 +49,14 @@ cat(paste0(
 ### 2017
 
 ```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+pid <- bob[bob$pubid=="dBIO0h50nwkC",]
 cat(paste0(
 "H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, ",
 "__Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__,",
-" *Genome Biology*, 2017, in press.  \n"
+" *Genome Biology*, 2017. \n",
 
-#"[Abstract](http://biorxiv.org/content/early/2016/11/07/086132) ",
-#"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
-#"| doi: http://dx.doi.org/10.1101/086132 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) ",
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
@@ -85,7 +83,7 @@ cat(paste0(
 "__Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__,",
 " *PNAS*, 2017.   \n",
 
-"[doi: 10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) ",
+"[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) ",
 #"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 #"| doi: 10.1073/pnas.1714960114 ",
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"

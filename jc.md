@@ -17,9 +17,16 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ## 2017
 
+### November
+
+- **11-03-2017**: Machine Learning for Population Genetics: A New Paradigm. by [Scheider and Kern. 2017](https://www.biorxiv.org/content/biorxiv/early/2017/10/20/206482.full.pdf)
+
+
 ### October
 
-- **10-20-2017**: Genomic basis and evolutionary potential for extreme drought adaptation in Arabidopsis thaliana. by [Exposito-Alonso et al.,](https://www.biorxiv.org/content/early/2017/03/19/118067)
+- **10-27-2017**: No Q.U.I.T. CASNR New Faculty Social.
+
+- **10-20-2017**: Genomic basis and evolutionary potential for extreme drought adaptation in Arabidopsis thaliana. by [Exposito-Alonso et al., 2017](https://www.biorxiv.org/content/early/2017/03/19/118067)
 > drought, adaptation
 
 - **10-13-2017**: Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America. by [Swarts et al., 2017](http://science.sciencemag.org/content/357/6350/512)
