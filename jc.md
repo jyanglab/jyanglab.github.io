@@ -19,6 +19,11 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ### November
 
+- **11-17-2017**: Widespread natural variation of DNA methylation within angiosperms. by [Niederhuth et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1059-0)
+
+#### Dr. [Jeff Ross-Ibarra](http://www.rilab.org/), the founder of REHAB, will join us for a special Q.U.I.T. (Note it is on Wednesday for this Q.U.I.T. only!)
+- **11-08-2017**: The dynamics of molecular evolution over 60,000 generations. by [Good et al., 2017](https://www.nature.com/articles/nature24287.pdf)
+
 - **11-03-2017**: Machine Learning for Population Genetics: A New Paradigm. by [Scheider and Kern. 2017](https://www.biorxiv.org/content/biorxiv/early/2017/10/20/206482.full.pdf)
 
 
