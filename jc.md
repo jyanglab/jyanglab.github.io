@@ -23,8 +23,8 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 > Methylation
 
 - **11-08-2017**: The dynamics of molecular evolution over 60,000 generations. by [Good et al., 2017](https://www.nature.com/articles/nature24287.pdf). 
-Dr. [Jeff Ross-Ibarra](http://www.rilab.org/), the founder of REHAB, will join us for a special Q.U.I.T. (Note it is on Wednesday for this Q.U.I.T. only!)
-> evolution, E coli
+Note that Dr. [Jeff Ross-Ibarra](http://www.rilab.org/), the founder of [R.E.H.A.B.](http://www.rilab.org/rehab.html), will join us for this special Q.U.I.T. (a REHAB-like event at UNL). (It is on Wednesday for this Q.U.I.T. only!)
+> evolution, E. coli
 
 - **11-03-2017**: Machine Learning for Population Genetics: A New Paradigm. by [Scheider and Kern. 2017](https://www.biorxiv.org/content/biorxiv/early/2017/10/20/206482.full.pdf)
 > Machine learning, popgen
