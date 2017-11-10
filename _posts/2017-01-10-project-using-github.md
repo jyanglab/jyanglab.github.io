@@ -7,6 +7,9 @@ category: [computing]
 comments: false
 ---
 
+Getting started with Git and GitHub, [check this out](https://help.github.com/articles/git-and-github-learning-resources/).
+
+-------
 
 Here is the collaborative workflow:
 
