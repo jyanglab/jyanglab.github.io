@@ -8,6 +8,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 - Happy to host my postdoc advisor Dr. Jeffrey Ross-Ibarra to visit UNL. Always fun to discuss papers and research ideas with him.
 ![Imgur](https://i.imgur.com/PmApNqD.png)
 ![Imgur](https://i.imgur.com/A3iUNpO.jpg)
+<img src="https://i.imgur.com/A3iUNpO.jpg" alt="Drawing" style="width: 200px;"/>
 
 ### Sept, 2017
 - Finally, our diallel heterosis paper has been accepted by PLOS Genetics. Thanks my colleagues for all your efforts.
