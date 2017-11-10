@@ -8,11 +8,11 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 - Happy to host my postdoc advisor Dr. Jeffrey Ross-Ibarra to visit UNL. Always fun to discuss papers and research ideas with Jeff.
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/PmApNqD.png">
+  <img width="300" height="220" src="https://i.imgur.com/PmApNqD.png">
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/0oC5k5d.png">
+  <img width="300" height="400" src="https://i.imgur.com/0oC5k5d.png">
 </p>
 
 
