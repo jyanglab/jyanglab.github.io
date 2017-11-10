@@ -4,6 +4,12 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Nov., 2017
+- Happy to host my postdoc advisor Dr. Jeffrey Ross-Ibarra to visit UNL. Always fun to discuss papers and research ideas with him.
+![Imgur](https://i.imgur.com/PmApNqD.png)
+![Imgur](https://i.imgur.com/A3iUNpO.jpg)
+
+
 ### July, 2017
 - Excited to announce the brand-new Jinliang Yang Lab.
 - We are hiring undergrat, graduate, and postdoc. See [people page](http://jyanglab.com/people/) for more details.
