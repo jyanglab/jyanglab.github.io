@@ -12,7 +12,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="https://i.imgur.com/0oC5k5d.png">
+  <img width="300" height="300" src="https://i.imgur.com/0oC5k5d.png">
 </p>
 
 
