@@ -22,7 +22,7 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 - **12-08-2017**: Genetics of trans-regulatory variation in gene expression. by [Albert et al., 2017](https://www.biorxiv.org/content/early/2017/10/24/208447)
 > eQTL, transcriptome
 
-- **12-01-2017**: Information Theory Broadens the Spectrum of Molecular Ecology and Evolution. by [Sherwin et al., 2017](https://doi.org/10.1016/j.tree.2017.09.012). Jinliang is out of town. [Zhian Kamvar](https://scholar.google.com/citations?user=UPGtLSkAAAAJ) will lead the discuss.
+- **12-01-2017**: Information Theory Broadens the Spectrum of Molecular Ecology and Evolution. by [Sherwin et al., 2017](https://doi.org/10.1016/j.tree.2017.09.012). Jinliang is out of town. [Zhian Kamvar](https://scholar.google.com/citations?user=UPGtLSkAAAAJ) will lead the discussion.
 > Information Theory, Ecology, Evolution
 
 ### November
