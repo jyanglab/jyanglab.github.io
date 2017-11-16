@@ -54,7 +54,7 @@ pid <- bob[bob$pubid=="dBIO0h50nwkC",]
 cat(paste0(
 "H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, ",
 "__Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__,",
-" *Genome Biology*, 2017. \n",
+" *Genome Biology*, 2017.  \n",
 
 "[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) ",
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"

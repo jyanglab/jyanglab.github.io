@@ -19,7 +19,7 @@ P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quez
 
 ### 2017
 
-H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, __Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__, *Genome Biology*, 2017. 
+H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, __Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__, *Genome Biology*, 2017.  
 [10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 0](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=NA&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
