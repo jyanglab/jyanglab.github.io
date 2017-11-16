@@ -17,7 +17,17 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ## 2017
 
+### December
+
+- **12-08-2017**: Genetics of trans-regulatory variation in gene expression. by [Albert et al., 2017](https://www.biorxiv.org/content/early/2017/10/24/208447)
+> eQTL, transcriptome
+
+- **12-08-2017**: Information Theory Broadens the Spectrum of Molecular Ecology and Evolution. by [Sherwin et al., 2017](https://doi.org/10.1016/j.tree.2017.09.012). Jinliang is out of town. [Zhian Kamvar](https://scholar.google.com/citations?user=UPGtLSkAAAAJ) will lead the discuss.
+> Information Teheory, Ecology, Evolution
+
 ### November
+
+- **11-24-2017**: Black Friday. Go shopping. No QUIT.
 
 - **11-17-2017**: Widespread natural variation of DNA methylation within angiosperms. by [Niederhuth et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1059-0)
 > Methylation
