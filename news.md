@@ -5,7 +5,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
 ### Jan., 2018
-- **Raghuprakash Kastoori** Ramamurthy joined the lab. He will work on genome-wide mapping of mineralome and other project. Welcome Raghu!
+- **Raghuprakash Kastoori Ramamurthy** joined the lab. He will work on genome-wide mapping of mineralome and other project. Welcome Raghu!
 
 
 ### Nov., 2017
