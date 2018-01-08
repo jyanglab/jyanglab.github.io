@@ -4,6 +4,10 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Jan., 2018
+- Raghuprakash Kastoori Ramamurthy joined the lab. He will work on genome-wide mapping of mineralome and other project. Welcome Raghu!
+
+
 ### Nov., 2017
 - Happy to host my postdoc advisor Dr. Jeffrey Ross-Ibarra to visit UNL. Always fun to discuss papers and research ideas with Jeff.
 
