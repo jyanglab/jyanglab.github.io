@@ -14,7 +14,7 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Yang_Jinliang.jpg" alt="Jinliang Yang" width="300" height="400" >
+      <img src="/img/photo/Jinliang_Yang.jpg" alt="Jinliang Yang" width="300" height="400" >
     </a>
   </div>
 </div>
