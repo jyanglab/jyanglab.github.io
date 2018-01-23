@@ -53,9 +53,10 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Qihao (Neil) Sun</b>.
+<b>Qihao (Neil) Sun</b> is a undergradudate student majored in Turfgrass and Landscape Management.
 </div>
 
+<div class="clearfix"></div>
 
 -------------------------
 
