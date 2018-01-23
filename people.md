@@ -62,7 +62,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 ## Lab Alumni
 
-- Laxman Karki: PostDoc Scholar 2017
+- **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
 
 
 
