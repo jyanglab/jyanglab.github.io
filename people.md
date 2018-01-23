@@ -40,6 +40,21 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="clearfix"></div>
 
 
+## Undergraduate Students
+
+-----
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/undergrad1.jpg" alt="Qihao Sun" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Qihao (Neil) Sun</b>.
+</div>
 
 
 -------------------------

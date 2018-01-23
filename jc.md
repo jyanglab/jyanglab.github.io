@@ -19,6 +19,9 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ### January
 
+- **01-26-2017**: Genomic features shaping the landscape of meiotic double-strand-break hotspots in maize. by [He et al., 2017](http://www.pnas.org/content/114/46/12231.full.pdf)
+> maize, recombination
+
 - **01-19-2017**: Pairwise comparisons across species are problematic when analyzing functional genomic data. by [Dunn et al., 2017](http://www.pnas.org/content/early/2018/01/03/1707515115.long)
 > functional genomics, comparative
 
