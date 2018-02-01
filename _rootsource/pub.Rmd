@@ -45,7 +45,7 @@ cat(paste0(
 "__Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__,",
 " *New Phytologist*, 2018.  \n",
 
-"[preprint: 10.1101/197921](https://www.biorxiv.org/content/early/2017/10/06/197921),  "
+"[preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -59,7 +59,7 @@ cat(paste0(
 "__Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__,",
 " *PLOS Genetics*, 2017.  \n",
 
-"[preprint: 10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) "
+"[preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"

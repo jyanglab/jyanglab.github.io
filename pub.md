@@ -18,10 +18,10 @@ Coming soon ...
 ### 2018
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__, *New Phytologist*, 2018.  
-[preprint: 10.1101/197921](https://www.biorxiv.org/content/early/2017/10/06/197921),  
+[preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) 
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__, *PLOS Genetics*, 2017.  
-[preprint: 10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) 
+[preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) 
 
 
 ### 2017
