@@ -17,6 +17,12 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ## 2018
 
+### February
+
+- **02-02-2017**: Dynamic DNA methylation reconfiguration during seed development and germination. by [Kawakatsu et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1251-x)
+> methylation, arabidopsis
+
+
 ### January
 
 - **01-26-2017**: Genomic features shaping the landscape of meiotic double-strand-break hotspots in maize. by [He et al., 2017](http://www.pnas.org/content/114/46/12231.full.pdf)

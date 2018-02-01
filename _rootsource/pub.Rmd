@@ -5,7 +5,6 @@ css: "/css/pub.css"
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
