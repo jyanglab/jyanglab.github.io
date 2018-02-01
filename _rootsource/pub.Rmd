@@ -9,6 +9,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ```{r, echo=FALSE, warning=FALSE, results="asis"}
 library(methods)
 #devtools::install_github("yangjl/scholar")
