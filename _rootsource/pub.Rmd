@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r, echo=FALSE, warning=FALSE, results="asis"}
 library(methods)
+# must install this version
 #devtools::install_github("yangjl/scholar")
 library(scholar)
 myid <- "2CiKnzkAAAAJ"
@@ -31,15 +32,34 @@ if(file.exists(file)){
 
 ### Preprints
 
+Coming soon ...
+
+
+### 2018
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
 cat(paste0(
+"M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, "
+,
+"__Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__,",
+" *New Phytologist*, 2018.  \n",
+
+"[preprint: 10.1101/197921](https://www.biorxiv.org/content/early/2017/10/06/197921),  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/134528 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+cat(paste0(
 "P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, ",
 "__Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__,",
-" *bioRxiv, 2017.*  \n",
+" *PLOS Genetics*, 2017.  \n",
 
-"[10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) "
+"[preprint: 10.1101/134528](http://biorxiv.org/content/early/2017/05/05/134528) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
