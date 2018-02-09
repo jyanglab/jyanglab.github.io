@@ -19,6 +19,10 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ### February
 
+- **02-09-2017**: No Q.U.I.T. because of the weather. Stay warm and read this at home.
+A phylogenetic method to perform genome-wide association studies in microbes that accounts for population structure and recombination. by [Collins and Didelot, 2018](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005958)
+> GWAS, phylogenetic
+
 - **02-02-2017**: Dynamic DNA methylation reconfiguration during seed development and germination. by [Kawakatsu et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1251-x)
 > methylation, arabidopsis
 
