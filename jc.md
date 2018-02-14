@@ -19,6 +19,11 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ### February
 
+- **02-16-2017**: No Q.U.I.T. Celebrating Lunar New Year! Read below ones:
+Genetic architecture: the shape of the genetic contribution to human traits and disease. by [Timpson et al., 2018](https://www.nature.com/articles/nrg.2017.101)
+Using partitioned heritability methods to explore genetic architecture. by [Evans and Keller](https://www.nature.com/articles/nrg.2018.6.pdf?WT.ec_id=NRG-201803&spMailingID=55982677&spUserID=MTc2NzI3Njc5NgS2&spJobID=1342043682&spReportId=MTM0MjA0MzY4MgS2)
+> GWAS, human
+
 - **02-09-2017**: No Q.U.I.T. because of the weather. Stay warm and read this at home.
 A phylogenetic method to perform genome-wide association studies in microbes that accounts for population structure and recombination. by [Collins and Didelot, 2018](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005958)
 > GWAS, phylogenetic
