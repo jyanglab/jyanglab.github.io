@@ -19,6 +19,9 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ### February
 
+- **02-23-2017**: Enhancing resolution of natural methylome reprogramming behavior in plants. by [Sanchez et al., 2017](https://www.biorxiv.org/content/early/2018/02/14/252106)
+> methylation
+
 - **02-16-2017**: No Q.U.I.T. Celebrating Lunar New Year! Read below ones:
 Genetic architecture: the shape of the genetic contribution to human traits and disease. by [Timpson et al., 2018](https://www.nature.com/articles/nrg.2017.101)
 Using partitioned heritability methods to explore genetic architecture. by [Evans and Keller](https://www.nature.com/articles/nrg.2018.6.pdf?WT.ec_id=NRG-201803&spMailingID=55982677&spUserID=MTc2NzI3Njc5NgS2&spJobID=1342043682&spReportId=MTM0MjA0MzY4MgS2)
