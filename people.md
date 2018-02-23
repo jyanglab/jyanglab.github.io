@@ -21,7 +21,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 <div class="responsive">
 <b>Jinliang Yang</b> is an Assistant Professor in the Department of Agronomy and Horticulture.
-<a href="/img/CVs/CV_Yang_2017.pdf"> CV </a>
+<a href="/img/CVs/CV_Yang_2018.pdf"> CV </a>
 </div>
 
 <div class="responsive">
