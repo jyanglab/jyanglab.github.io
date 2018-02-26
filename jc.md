@@ -17,30 +17,35 @@ We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.
 
 ## 2018
 
+### March
+
+- **03-02-2018**: Quantitative Genetic Analysis of the Maize Leaf Microbiome. by [Wallace et al., 2018](https://www.biorxiv.org/content/early/2018/02/20/268532)
+> GWAS, microbiome
+
 ### February
 
-- **02-23-2017**: Enhancing resolution of natural methylome reprogramming behavior in plants. by [Sanchez et al., 2017](https://www.biorxiv.org/content/early/2018/02/14/252106)
+- **02-23-2018**: Enhancing resolution of natural methylome reprogramming behavior in plants. by [Sanchez et al., 2017](https://www.biorxiv.org/content/early/2018/02/14/252106)
 > methylation
 
-- **02-16-2017**: No Q.U.I.T. Celebrating Lunar New Year! Read below ones:
+- **02-16-2018**: No Q.U.I.T. Celebrating Lunar New Year! Read below ones:
 Genetic architecture: the shape of the genetic contribution to human traits and disease. by [Timpson et al., 2018](https://www.nature.com/articles/nrg.2017.101)
 Using partitioned heritability methods to explore genetic architecture. by [Evans and Keller](https://www.nature.com/articles/nrg.2018.6.pdf?WT.ec_id=NRG-201803&spMailingID=55982677&spUserID=MTc2NzI3Njc5NgS2&spJobID=1342043682&spReportId=MTM0MjA0MzY4MgS2)
 > GWAS, human
 
-- **02-09-2017**: No Q.U.I.T. because of the weather. Stay warm and read this at home.
+- **02-09-2018**: No Q.U.I.T. because of the weather. Stay warm and read this at home.
 A phylogenetic method to perform genome-wide association studies in microbes that accounts for population structure and recombination. by [Collins and Didelot, 2018](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005958)
 > GWAS, phylogenetic
 
-- **02-02-2017**: Dynamic DNA methylation reconfiguration during seed development and germination. by [Kawakatsu et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1251-x)
+- **02-02-2018**: Dynamic DNA methylation reconfiguration during seed development and germination. by [Kawakatsu et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1251-x)
 > methylation, arabidopsis
 
 
 ### January
 
-- **01-26-2017**: Genomic features shaping the landscape of meiotic double-strand-break hotspots in maize. by [He et al., 2017](http://www.pnas.org/content/114/46/12231.full.pdf)
+- **01-26-2018**: Genomic features shaping the landscape of meiotic double-strand-break hotspots in maize. by [He et al., 2017](http://www.pnas.org/content/114/46/12231.full.pdf)
 > maize, recombination
 
-- **01-19-2017**: Pairwise comparisons across species are problematic when analyzing functional genomic data. by [Dunn et al., 2017](http://www.pnas.org/content/early/2018/01/03/1707515115.long)
+- **01-19-2018**: Pairwise comparisons across species are problematic when analyzing functional genomic data. by [Dunn et al., 2017](http://www.pnas.org/content/early/2018/01/03/1707515115.long)
 > functional genomics, comparative
 
 
