@@ -11,7 +11,9 @@ Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow
 Anyone is welcome to suggest a paper (by sending an email to _jinliang.yang at unl.edu_) and come to talk with us. Nobody will present or defend the papers. We directly jump right into discussion with the assumption that you have read the paper.
 There is no email list; articles are posted below along with the date.
 
-We meet every **Friday at 4:30 pm in [The Mill Coffee & Bistro](http://news.unl.edu/newsrooms/today/article/the-mill-coffee-bistro-to-open-at-nebraska-innovation-campus/)**, at Nebraska Innovation Campus.   
+
+## Notice: Changing time and Location 
+We meet every **Thursday at 3:00 pm in [Goodding Learning Center](https://agronomy.unl.edu/news/goodding-learning-center-be-rededicated)**, at UNL East Campus.   
 
 -----------------------------
 
