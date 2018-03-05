@@ -21,6 +21,9 @@ We meet every **Thursday at 3:00 pm in [Goodding Learning Center](https://agrono
 
 ### March
 
+- **03-08-2018**: Dissecting the genetic architecture controlling highly polygenic traits via simulations in crop species. Contact Jinliang.yang at unl.edu to get the paper.
+> GWAS, polygenic
+
 - **03-02-2018**: Quantitative Genetic Analysis of the Maize Leaf Microbiome. by [Wallace et al., 2018](https://www.biorxiv.org/content/early/2018/02/20/268532)
 > GWAS, microbiome
 
