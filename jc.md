@@ -24,7 +24,6 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 - **03-15-2018**: Microbial genome-enabled insights into plant–microorganism interactions. By [Guttman et al.,](https://www.nature.com/articles/nrg3748.pdf) 
 > microbiome, review
 
-
 - **03-08-2018**: Dissecting the genetic architecture controlling highly polygenic traits via simulations in crop species. Contact Jinliang.yang at unl.edu to get the paper.
 > GWAS, polygenic
 
