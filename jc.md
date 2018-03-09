@@ -13,13 +13,17 @@ There is no email list; articles are posted below along with the date.
 
 
 ## Notice: Changing time and Location 
-We meet every **Thursday at 3:00 pm in [Goodding Learning Center](https://agronomy.unl.edu/news/goodding-learning-center-be-rededicated)**, at UNL East Campus.   
+We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the location).   
 
 -----------------------------
 
 ## 2018
 
 ### March
+
+- **03-15-2018**: Microbial genome-enabled insights into plant–microorganism interactions. By [Guttman et al.,](https://www.nature.com/articles/nrg3748.pdf) 
+> microbiome, review
+
 
 - **03-08-2018**: Dissecting the genetic architecture controlling highly polygenic traits via simulations in crop species. Contact Jinliang.yang at unl.edu to get the paper.
 > GWAS, polygenic
