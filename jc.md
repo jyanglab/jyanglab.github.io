@@ -21,6 +21,12 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ### March
 
+- **03-29-2018**: The effect of artificial selection on phenotypic plasticity in maize. By [Gage et al., 2017](https://www.nature.com/articles/s41467-017-01450-2) 
+> GWAS, GxE, maize
+
+- **03-22-2018**: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize. By [Kremling et al., 2018](https://www.nature.com/articles/nature25966) 
+> RNA-seq, fitness, maize
+
 - **03-15-2018**: Microbial genome-enabled insights into plant–microorganism interactions. By [Guttman et al., 2014](https://www.nature.com/articles/nrg3748.pdf) 
 > microbiome, review
 
