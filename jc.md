@@ -19,6 +19,11 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ## 2018
 
+### April
+
+- **04-05-2018**: A population genetic interpretation of GWAS findings for human quantitative traits. By [Simons et al., 2018](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002985). And a primer by [Gibson](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005485) about *Population genetics and GWAS* 
+> GWAS, awesome
+
 ### March
 
 - **03-29-2018**: The effect of artificial selection on phenotypic plasticity in maize. By [Gage et al., 2017](https://www.nature.com/articles/s41467-017-01450-2) 
