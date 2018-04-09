@@ -21,6 +21,9 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ### April
 
+- **04-12-2018**: Identification and validation of genomic regions influencing kernel zinc and iron in maize. By [Hindu et al., 2018](https://www.ncbi.nlm.nih.gov/pubmed/29574570). 
+> GWAS, biofortification, mineral
+
 - **04-05-2018**: A population genetic interpretation of GWAS findings for human quantitative traits. By [Simons et al., 2018](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002985). And a primer by [Gibson](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005485) about *Population genetics and GWAS* 
 > GWAS, awesome
 
