@@ -44,19 +44,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 -----
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/photo/undergrad1.jpg" alt="Qihao Sun" width="300" height="400" >
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Qihao (Neil) Sun</b> is a undergradudate student majored in Turfgrass and Landscape Management.
-</div>
-
-<div class="clearfix"></div>
 
 -------------------------
 
@@ -64,5 +52,6 @@ googlefonts: ["Monoton", "Lobster"]
 
 - **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
 
-
+### Undergraduates Alumni
+- **Qihao (Neil) Sun**: undergradudate student majored in Turfgrass and Landscape Management.
 
