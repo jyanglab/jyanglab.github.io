@@ -5,7 +5,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
 ### April, 2018
-- Yang Lab are working with Alfano, Clemente and Schnable Labs on 2018 field layout and seed preparation for a NSF funded [CRRI project](https://crri.unl.edu/).
+- Yang Lab is working with Alfano, Clemente and Schnable Labs on 2018 field layout and seed preparation for a NSF funded [CRRI project](https://crri.unl.edu/).
 
 <p align="center">
   <img width="300" height="220" src="https://i.imgur.com/SJwntW7.png">
