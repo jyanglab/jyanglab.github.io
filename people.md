@@ -44,6 +44,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 -----
 
+We are recruiting enthusiatic undergraduate students to join the lab, working primarily on lab inventory and helping with basic maize genetics research. If you are interested, please contact **Dr. Yang** (via jinliang.yang at unl.edu). 
 
 
 -------------------------
