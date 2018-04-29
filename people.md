@@ -53,7 +53,7 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Sam Polk</b> is a first year undergrad in plant biology marjor.
+<b>Sam Polk</b> is a first year undergrad in plant biology major.
 </div>
 
 <div class="clearfix"></div>
