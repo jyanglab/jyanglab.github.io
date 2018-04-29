@@ -21,6 +21,10 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ### April
 
+- **04-26-2018**: The genomic impacts of drift and selection for hybrid performance in maize. By [Gerke et al.,](http://www.genetics.org/content/genetics/early/2015/09/18/genetics.115.182410.full.pdf)
+> selection, maize, hyrbid
+
+
 - **04-19-2018**: Identification and validation of genomic regions influencing kernel zinc and iron in maize. By [Hindu et al., 2018](https://www.ncbi.nlm.nih.gov/pubmed/29574570). 
 > GWAS, biofortification, mineral
 

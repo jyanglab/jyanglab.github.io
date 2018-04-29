@@ -7,3 +7,4 @@ jekyll(dir = ".", input = c(".", "_rootsource", "_postsource"),
 
 ### How to change markdown CSS elements
 ### https://gist.github.com/jonschlinkert/5854601
+

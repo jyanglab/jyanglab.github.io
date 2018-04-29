@@ -26,6 +26,7 @@ if(file.exists(file)){
   newf <- merge()
 }
 
+
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
 ```
@@ -45,7 +46,8 @@ cat(paste0(
 "__Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__,",
 " *New Phytologist*, 2018.  \n",
 
-"[preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) "
+"[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) ",
+"| [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -58,6 +60,7 @@ cat(paste0(
 "P. Bilinski, P. S. Albert, J. J. Berg, J. Birchler, M. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, ",
 "__Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__,",
 " *PLOS Genetics*, 2018.  \n",
+
 
 "[preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
