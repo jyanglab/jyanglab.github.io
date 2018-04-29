@@ -44,7 +44,19 @@ googlefonts: ["Monoton", "Lobster"]
 
 -----
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/Sam_Polk.JPG" alt="Sam" width="300" height="400">
+    </a>
+  </div>
+</div>
 
+<div class="responsive">
+<b>Sam Polk</b> is a first year undergrad in plant biology marjor.
+</div>
+
+<div class="clearfix"></div>
 
 -------------------------
 
