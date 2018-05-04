@@ -19,7 +19,7 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ## 2018
 
-### May
+### May (Field Season! No Q.U.I.T.!)
 
 - Working on seed preparation, planting and crossing ...
 
