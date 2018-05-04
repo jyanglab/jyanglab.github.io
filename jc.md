@@ -19,6 +19,11 @@ We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the locat
 
 ## 2018
 
+### May
+
+- Working on seed preparation, planting and crossing ...
+
+
 ### April
 
 - **04-26-2018**: The genomic impacts of drift and selection for hybrid performance in maize. By [Gerke et al.,](http://www.genetics.org/content/genetics/early/2015/09/18/genetics.115.182410.full.pdf)
