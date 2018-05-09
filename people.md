@@ -53,7 +53,20 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Sam Polk</b> is a first year undergrad in plant biology major.
+<b>Sam Polk</b> is a first year undergrad majoring in plant biology.
+</div>
+
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/Paulo_Gao_resized.jpg" alt="Paulo" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Paulo Yu Xi Gao</b> is a senior student majoring in marketing and management.
 </div>
 
 <div class="clearfix"></div>
