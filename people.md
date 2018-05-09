@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 
-# Current Lab Members
+## Current Lab Members
 
 -----
 
@@ -77,6 +77,6 @@ googlefonts: ["Monoton", "Lobster"]
 
 - **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
 
-### Undergraduates Alumni
+## Undergrad Alumni
 - **Qihao (Neil) Sun**: undergradudate student majored in Turfgrass and Landscape Management.
 
