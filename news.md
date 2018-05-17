@@ -4,7 +4,7 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
-### April, 2018
+### May, 2018
 - Finished the field planting for the NSF funded [CRRI project](https://crri.unl.edu/). Looing forward to the scientific outcomes out of this project!
 
 <p align="center">
