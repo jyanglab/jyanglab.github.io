@@ -39,7 +39,35 @@ googlefonts: ["Monoton", "Lobster"]
 
 <div class="clearfix"></div>
 
+------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/male_corn_3x4.jpg" alt="Eric Rodene" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. He got his mater degree from UNL.
+</div>
+
+
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/male_corn_3x4.jpg" alt="Zhikai Yang" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. He received his master degree from Purdue University.
+</div>
+
+<div class="clearfix"></div>
 ## Undergraduate Students
 
 -----
