@@ -58,7 +58,7 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Zhikai.png" alt="Zhikai Yang" width="300" height="400">
+      <img src="/img/photo/Zhikai.jpg" alt="Zhikai Yang" width="300" height="400">
     </a>
   </div>
 </div>
