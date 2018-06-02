@@ -4,6 +4,9 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### June, 2018
+- Welcome Eric and Zhikai joining the Yang Lab!
+
 ### May, 2018
 - Finished the field planting for the NSF funded [CRRI project](https://crri.unl.edu/). Looing forward to the scientific outcomes out of this project!
 
