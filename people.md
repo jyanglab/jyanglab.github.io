@@ -50,7 +50,7 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. He got his mater degree from UNL.
+<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. He got his master degree from UNL.
 </div>
 
 
