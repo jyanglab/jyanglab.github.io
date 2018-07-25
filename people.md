@@ -5,7 +5,7 @@ subtitle: Welcome to Yang Lab
 css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "https://i.imgur.com/aV04iqE.jpg?1" : "Havelock Farm 2018"
+  - "https://i.imgur.com/Cjnyfok.jpg?1" : "Havelock Farm 2018"
 ---
 
 
