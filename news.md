@@ -4,6 +4,15 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+
+### July, 2018
+- Welcome Dr. Mei Zhang to join the Yang Lab! We are rapidly growing! :)
+- Happy digging days with the Alfano, Schnable, Sigmon, Clemente and other labs.
+
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/u5GnRP5.jpg">
+</p>
+
 ### June, 2018
 - Welcome Eric and Zhikai to join the Yang Lab!
 
