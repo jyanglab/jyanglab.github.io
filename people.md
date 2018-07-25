@@ -27,7 +27,7 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Raghuprakash_Kastoori_Ramamurthy.jpg" alt="Laxman Karki" width="300" height="400">
+      <img src="/img/photo/Raghuprakash_Kastoori_Ramamurthy.jpg" alt="Raghu" width="300" height="400">
     </a>
   </div>
 </div>
@@ -35,6 +35,21 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="responsive">
 <b>Raghuprakash Kastoori Ramamurthy</b> is a PostDoc Scholar working on genome-wide mapping of maize kernel mineralome and others.
 <a href="/img/CVs/Raghu_CV.pdf"> CV </a>
+</div>
+
+<div class="clearfix"></div>
+
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/mzhang.png" alt="Mei Zhang" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Mei Zhang</b> is a PostDoc Scholar working on maize epigenetics. She was working at Stanford University previously on maize anther development.
 </div>
 
 <div class="clearfix"></div>
@@ -68,6 +83,9 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="clearfix"></div>
+
+
+
 ## Undergraduate Students
 
 -----
