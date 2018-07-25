@@ -4,6 +4,8 @@ title: Yang Lab Members
 subtitle: Welcome to Yang Lab
 css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]
+bigimg:
+  - "/img/big-imgs/hawaii-research.jpeg" : "Havelock Farm 2018"
 ---
 
 
