@@ -4,8 +4,7 @@ title: Jinliang Yang Lab
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "https://imgur.com/wFIJr3m" : "Havelock Farm NE 2018"
-  - "/img/big-imgs/maize-krn-diversity.jpeg" : "Diversity Maize Landraces"
+  - "https://i.imgur.com/wFIJr3m.jpg" : "Havelock Farm NE 2018"
   - "/img/big-imgs/maize-krn-diversity2.jpeg" : "Diversity Maize Landraces"
   - "/img/big-imgs/mexicana.jpeg" : "Mexicana Aerial Root"
 ---
