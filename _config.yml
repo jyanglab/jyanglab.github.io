@@ -30,7 +30,7 @@ navbar-links:
   News: "news"
   Resources:
     - Lab Blog: "labdoc/index"
-    - Lab Tutorial: "Yang-Lab-tutorial"
+    - Lab Tutorial: "JYang-Lab-tutorial"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     - ZeaBigData: "http://zeabigdata.org/"
     - CGMonline: "http://cgmonline.co/"
