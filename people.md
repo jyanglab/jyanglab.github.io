@@ -46,7 +46,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/mzhang.png" alt="Mei Zhang" width="300" height="400">
+      <img src="https://i.imgur.com/WuCLOxz.png?1" alt="Mei Zhang" width="300" height="400">
     </a>
   </div>
 </div>

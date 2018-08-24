@@ -5,7 +5,8 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "https://i.imgur.com/wFIJr3m.jpg" : "Havelock Farm NE 2018"
-  - "/img/big-imgs/maize-krn-diversity.jpeg" : "Diversity Maize Landraces"
+  - "https://i.imgur.com/ZUwFRoK.jpg?1" : "Diversity Maize Landraces"
+  - "https://i.imgur.com/sPu58yd.jpg?1" : "UNL NIC Greenhouse"
   - "/img/big-imgs/mexicana.jpeg" : "Mexicana Aerial Root"
 ---
 
