@@ -41,6 +41,7 @@ bigimg:
 
 <div class="clearfix"></div>
 
+-----
 
 <div class="responsive">
   <div class="img">
@@ -57,13 +58,13 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/mzhang.png" alt="Mei Zhang" width="300" height="400">
+      <img src="https://i.imgur.com/l7anYDX.png?1" alt="Gen Xu" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Mei Zhang</b> is a PostDoc Scholar working on maize epigenetics. She was working at Stanford University previously on maize anther development.
+<b>Mei Zhang</b> is a PostDoc Scholar working on maize population genetics. He obtained his PhD. China Agriculture University.
 </div>
 
 <div class="clearfix"></div>
@@ -73,7 +74,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/male_corn_3x4.png" alt="Eric Rodene" width="300" height="400">
+      <img src="https://i.imgur.com/DsGwvQn.png?1" alt="Eric Rodene" width="300" height="400">
     </a>
   </div>
 </div>
