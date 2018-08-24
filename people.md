@@ -29,7 +29,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/Lz5kFs5.jpg?1" alt="Raghu" width="300" height="400">
+      <img src="https://i.imgur.com/7O2Xod8.jpg?1" alt="Raghu" width="300" height="400">
     </a>
   </div>
 </div>
