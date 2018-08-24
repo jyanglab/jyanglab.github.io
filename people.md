@@ -16,7 +16,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Jinliang_Yang.jpg" alt="Jinliang Yang" width="300" height="400" >
+      <img src="https://i.imgur.com/VReGfGn.jpg?2" alt="Jinliang Yang" width="300" height="400" >
     </a>
   </div>
 </div>
@@ -29,7 +29,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Raghuprakash_Kastoori_Ramamurthy.jpg" alt="Raghu" width="300" height="400">
+      <img src="https://i.imgur.com/Lz5kFs5.jpg?1" alt="Raghu" width="300" height="400">
     </a>
   </div>
 </div>
@@ -41,6 +41,18 @@ bigimg:
 
 <div class="clearfix"></div>
 
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/photo/mzhang.png" alt="Mei Zhang" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Mei Zhang</b> is a PostDoc Scholar working on maize epigenetics. She was working at Stanford University previously on maize anther development.
+</div>
 
 <div class="responsive">
   <div class="img">
@@ -92,18 +104,6 @@ bigimg:
 
 -----
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/photo/Sam_Polk.JPG" alt="Sam" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Sam Polk</b> is a first year undergrad majoring in plant biology.
-</div>
-
 
 <div class="responsive">
   <div class="img">
@@ -126,5 +126,5 @@ bigimg:
 - **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
 
 ## Undergrad Alumni
-- **Qihao (Neil) Sun**: undergradudate student majored in Turfgrass and Landscape Management.
-
+- **Qihao (Neil) Sun**: undergraduate student majored in Turfgrass and Landscape Management.
+- **Sam Polk**: undergraduate student majored in plant biology.
