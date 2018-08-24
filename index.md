@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "https://i.imgur.com/wFIJr3m.jpg" : "Havelock Farm NE 2018"
   - "https://i.imgur.com/ZUwFRoK.jpg?1" : "Diversity Maize Landraces"
-  - "https://i.imgur.com/sPu58yd.jpg?1" : "UNL NIC Greenhouse"
+  - "https://i.imgur.com/QOLpGL5.jpg?1" : "Experiments in NIC Greenhouse"
   - "/img/big-imgs/mexicana.jpeg" : "Mexicana Aerial Root"
 ---
 
