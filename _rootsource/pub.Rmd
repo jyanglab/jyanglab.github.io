@@ -52,22 +52,6 @@ cat(paste0(
 
 ### 2018
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
-cat(paste0(
-"C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, ",
-"__Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__,",
-" _Scientific Reports_, 2018.  \n",
-
-"[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) ",
-#"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
-"| [Github](https://github.com/freemao/Genotype-Corrector) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
-
 
 ```{r, echo=FALSE, results="asis"}
 pid <- bob[bob$pubid=="mNrWkgRL2YcC",]
@@ -86,6 +70,25 @@ cat(paste0(
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+cat(paste0(
+"Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, ",
+"__Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__,",
+" _G3: Genes Genomes Genetics_, 2018.  \n",
+
+"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) "
+#"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
+#"| [Github](https://github.com/freemao/Genotype-Corrector) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/134528 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="u-x6o8ySG0sC",]

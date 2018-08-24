@@ -18,12 +18,15 @@ C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal 
 
 ### 2018
 
-C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, __Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__, _Scientific Reports_, 2018.  
-[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) 
-
 
 __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Association Mapping Models to Identify and Validate Kernel Row Number-Associated Variants in Maize__, _G3: Genes Genomes Genetics_, 2018 (minor revision).  
 | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)
+
+
+Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__, _G3: Genes Genomes Genetics_, 2018.  
+[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) 
+
+
 
 C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, __Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__, _Scientific Reports_, 2018.  
 [10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) 
