@@ -9,7 +9,7 @@ title: Teaching
 
 - [ANS/AGRO-931](http://jyanglab.com/AGRO-931-2018/): Population Genetics 
 
-----
+------------------
 
 
 ## Misc
