@@ -23,6 +23,7 @@ description: Plant Quantitative Genetics and Population Genomics
 
 # List of links in the navigation bar
 navbar-links:
+  Teaching: "teaching"
   People: "people"
   Publications: "pub"
   Software: "software"
