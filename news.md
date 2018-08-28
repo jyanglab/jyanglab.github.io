@@ -5,8 +5,11 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
 
-### July, 2018
+### August, 2018
 - Wow! Dr. Gen Xu has joined the lab! Welcome Gen!
+
+### July, 2018
+
 - Welcome Dr. Mei Zhang to join the Yang Lab! We are rapidly growing! :)
 - Happy digging days with the Alfano, Schnable, Sigmon, Clemente and other labs.
 
