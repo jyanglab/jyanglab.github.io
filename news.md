@@ -6,7 +6,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 ### August, 2018
-- Wow! Dr. Gen Xu has joined the lab! Welcome Gen!
+- Wow! Dr. Gen Xu joined the Yang Lab! Welcome Gen!
 
 ### July, 2018
 

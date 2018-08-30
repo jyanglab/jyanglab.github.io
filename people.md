@@ -64,7 +64,7 @@ bigimg:
 </div>
 
 <div class="responsive">
-<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. He obtained his Ph.D. from China Agriculture University.
+<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. He obtained his Ph.D. from China Agricultural University.
 </div>
 
 <div class="clearfix"></div>
