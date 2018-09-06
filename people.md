@@ -58,13 +58,13 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/l7anYDX.png?1" alt="Gen Xu" width="300" height="400">
+      <img src="https://i.imgur.com/tMD6OeC.jpg?1" alt="Gen Xu" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. He obtained his Ph.D. from China Agriculture University.
+<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. He obtained his Ph.D. from China Agricultural University.
 </div>
 
 <div class="clearfix"></div>
