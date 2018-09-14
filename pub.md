@@ -19,7 +19,7 @@ C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal 
 ### 2018
 
 
-__J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__, _G3: Genes Genomes Genetics_, 2018 (minor revision).  
+__J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__, _G3: Genes Genomes Genetics_, 2018.  
 [10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)
 
 
