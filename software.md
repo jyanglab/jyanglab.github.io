@@ -19,3 +19,6 @@ Most of the software packages are licensed under [GPLv3](https://www.gnu.org/lic
 
 ### [pseudoRef](http://yangjl.com/pseudoRef/)
 - It is an `R package` to make a pseudo reference genome subsituted with the SNP variants for given samples.
+
+### [zmSNPtools](https://github.com/yangjl/zmSNPtools)
+- A collection of `python`, `perl` and `R` code designed to process a range of basic SNP manipulation tasks.
