@@ -4,6 +4,8 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Sept., 2018
+- Our KRN paper has finally come out on G3.
 
 ### August, 2018
 - Wow! Dr. Gen Xu joined the Yang Lab! Welcome Gen!
