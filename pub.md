@@ -12,7 +12,7 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
-C. Miao, __J. Yang__, J. C. Schnable, `Optimizing the identification of causal variants across varying genetic architectures in crops`, 2018.  
+C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, 2018.  
 [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) 
 
 
