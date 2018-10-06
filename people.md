@@ -75,7 +75,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/DsGwvQn.png?1" alt="Eric Rodene" width="300" height="400">
+      <img src="https://i.imgur.com/EJVvHgZ.jpg?1" alt="Eric Rodene" width="300" height="400">
     </a>
   </div>
 </div>
@@ -89,7 +89,7 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Zhikai.jpg" alt="Zhikai Yang" width="300" height="400">
+      <img src="https://i.imgur.com/twCX9yV.png?1" alt="Zhikai Yang" width="300" height="400">
     </a>
   </div>
 </div>
@@ -100,11 +100,28 @@ bigimg:
 
 <div class="clearfix"></div>
 
+------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/hM7hD9o.png?1" alt="Eric Rodene" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Semra Palali Delen</b> is a PhD student in the department of Ag/Hort. 
+She was previously working with Dr. Baenziger.
+</div>
+
+<div class="clearfix"></div>
+
+------------
 
 ## Undergraduate Students
 
------
+-----------
 
 
 <div class="responsive">
