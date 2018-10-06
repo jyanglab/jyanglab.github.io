@@ -69,6 +69,7 @@ bigimg:
 
 <div class="clearfix"></div>
 
+
 ------------
 
 <div class="responsive">
