@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://jyanglab.com"
+url: "https://jyanglab.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -33,8 +33,8 @@ navbar-links:
     - Lab Blog: "labdoc/index"
     - Lab Tutorial: "JYang-Lab-tutorial"
     #- Learn markdown: "http://www.markdowntutorial.com/"
-    - ZeaBigData: "http://zeabigdata.org/"
-    - CGMonline: "http://cgmonline.co/"
+    - ZeaBigData: "https://zeabigdata.org/"
+    - CGMonline: "https://cgmonline.co/"
 nav-search: "search"
 #Lab Doc: "random/index"
 
@@ -62,7 +62,7 @@ author:
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  unl: "http://agronomy.unl.edu/"
+  unl: "https://agronomy.unl.edu/"
 
 # Select which links to show in the footer
 footer-links-active:
