@@ -4,6 +4,11 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Oct., 2018
+- Welcome Semra to join the Yang lab! She will be co-advised by Ismail Dweikat.
+- Congrats to [HudsonAlpha](https://hudsonalpha.org/hudsonalpha-secures-3-9-million-from-national-science-foundation-to-work-toward-the-crops-of-tomorrow/) to secure a $3.9 million NSF award. Our lab is participating it to work on sorghum nitrogen use efficiency.
+
+
 ### Sept., 2018
 - Our KRN paper has finally come out on G3.
 

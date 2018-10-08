@@ -19,7 +19,7 @@ C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal 
 ### 2018
 
 
-R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang __Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency__, _Nitric Oxide_, 2018.  
+R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang, __Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency__, _Nitric Oxide_, 2018.  
 [10.1016/j.niox.2018.09.004](https://www.sciencedirect.com/science/article/pii/S1089860318300958)
 
 __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__, _G3: Genes Genomes Genetics_, 2018.  

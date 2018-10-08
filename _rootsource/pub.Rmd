@@ -55,7 +55,7 @@ cat(paste0(
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="mNrWkgRL2YcC",]
 cat(paste0(
-"R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang ", 
+"R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang, ", 
 "__Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency__,",
 " _Nitric Oxide_, 2018.  \n",
 
