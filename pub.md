@@ -12,12 +12,13 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
-C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, 2018.  
-[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) 
+Coming soon.
 
 
 ### 2018
 
+C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, Plant Biotechnology Journal, 2018 (in press).    
+[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) 
 
 R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang, __Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency__, _Nitric Oxide_, 2018.  
 [10.1016/j.niox.2018.09.004](https://www.sciencedirect.com/science/article/pii/S1089860318300958)
