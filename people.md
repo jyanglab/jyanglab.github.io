@@ -120,7 +120,7 @@ She was previously working with Dr. Baenziger.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/photo/Paulo_Gao_resized.jpg" alt="Paulo" width="300" height="400">
+      <img src="https://i.imgur.com/NDqJNP0.jpg?1" alt="Paulo" width="300" height="400">
     </a>
   </div>
 </div>
@@ -136,7 +136,5 @@ She was previously working with Dr. Baenziger.
 ## Lab Alumni
 
 - **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
-
-## Undergrad Alumni
 - **Qihao (Neil) Sun**: undergraduate student majored in Turfgrass and Landscape Management.
 - **Sam Polk**: undergraduate student majored in plant biology.
