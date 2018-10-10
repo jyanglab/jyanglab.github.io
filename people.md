@@ -116,14 +116,6 @@ bigimg:
 She was previously working with Dr. Baenziger.
 </div>
 
-<div class="clearfix"></div>
-
-------------
-
-## Undergraduate Students
-
------------
-
 
 <div class="responsive">
   <div class="img">
@@ -134,7 +126,7 @@ She was previously working with Dr. Baenziger.
 </div>
 
 <div class="responsive">
-<b>Paulo Yu Xi Gao</b> is a senior student majoring in marketing and management.
+<b>Paulo Yu Xi Gao</b> is a undergrad student majoring in marketing and management.
 </div>
 
 <div class="clearfix"></div>
