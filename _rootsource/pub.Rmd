@@ -32,24 +32,25 @@ if(file.exists(file)){
 
 ### Preprints
 
+Coming soon!
+
+### 2018
+
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
 cat(paste0(
 "C. Miao, __J. Yang__, J. C. Schnable, "
 ,
 "__Optimizing the identification of causal variants across varying genetic architectures in crops__,",
-" 2018.  \n",
+" _Plant Biotechnology Journal_, 2018.  \n",
 
-#"[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) ",
-"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
+"[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) ",
+"| [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
-
-
-### 2018
 
 
 ```{r, echo=FALSE, results="asis"}
