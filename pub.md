@@ -8,7 +8,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 7 ] (167 citations as of Oct, 2018)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 7 ] (169 citations as of Nov, 2018)  
 
 ### Preprints
 
@@ -54,7 +54,7 @@ Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Id
 [10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 5](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
- [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  0 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= NA &as_sdt=5)
+ [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  1 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= 7 &as_sdt=5)
 
 ### 2015
 
@@ -65,7 +65,7 @@ D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koc
 [10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 56](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, _Nature Communications_, 2015.  
-[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 20](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 21](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
 
 
 ### 2014 and Before
