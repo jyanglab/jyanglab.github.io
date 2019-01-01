@@ -27,6 +27,7 @@ if(file.exists(file)){
   newf <- merge()
 }
 
+
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
 ```

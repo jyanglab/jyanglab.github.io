@@ -28,34 +28,7 @@ bigimg:
 <a href="/img/CVs/CV_Yang_2018.pdf"> his updated CV </a>
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/7O2Xod8.jpg?1" alt="Raghu" width="300" height="400">
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Raghuprakash Kastoori Ramamurthy</b> is a PostDoc Scholar working on genome-wide mapping of maize kernel mineralome and others.
-<a href="/img/CVs/Raghu_CV.pdf"> CV </a>
-</div>
-
-<div class="clearfix"></div>
-
------
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/WuCLOxz.png?1" alt="Mei Zhang" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Mei Zhang</b> is a PostDoc Scholar working on maize epigenetics. She was working at Stanford University previously on maize anther development.
-</div>
 
 <div class="responsive">
   <div class="img">
@@ -118,17 +91,7 @@ She was previously working with Dr. Baenziger.
 </div>
 
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/NDqJNP0.jpg?1" alt="Paulo" width="300" height="400">
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Paulo Yu Xi Gao</b> is an undergrad student majoring in marketing and management.
-</div>
 
 <div class="clearfix"></div>
 
@@ -136,6 +99,11 @@ She was previously working with Dr. Baenziger.
 
 ## Lab Alumni
 
-- **Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
-- **Qihao (Neil) Sun**: undergraduate student majored in Turfgrass and Landscape Management.
+- **Dr. Mei Zhang**: PostDoc 2018-2019. (Professor, Institute of Botany, The Chinese Academy of Sciences)
+- **Dr. Raghuprakash Kastoori Ramamurthy**: PostDoc 2018-2019. 
+- **Paulo Yu Xi Gao**: undergraduate student majored in business.
 - **Sam Polk**: undergraduate student majored in plant biology.
+- **Qihao (Neil) Sun**: undergraduate student majored in Turfgrass and Landscape Management.
+- **Dr. Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
+
+
