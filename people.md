@@ -102,7 +102,7 @@ Office: Keim 162.
 
 <div class="responsive">
 <b>Maribeth Milner</b> is a GIS specialist. 
-Office: PLSH 377G.
+Office: PLSH 377L.
 </div>
 
 <div class="clearfix"></div>
