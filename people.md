@@ -39,7 +39,8 @@ bigimg:
 </div>
 
 <div class="responsive">
-<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. He obtained his Ph.D. from China Agricultural University. Office: PLSH 383.
+<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. 
+Office: PLSH 383.
 </div>
 
 <div class="clearfix"></div>
@@ -56,7 +57,7 @@ bigimg:
 </div>
 
 <div class="responsive">
-<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. He got his master degree from UNL. Office: PLSH 383.
+<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. Office: PLSH 383.
 </div>
 
 
@@ -70,7 +71,7 @@ bigimg:
 </div>
 
 <div class="responsive">
-<b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. He received his master degree from Purdue University. Office: Keim 361.
+<b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. Office: Keim 361.
 </div>
 
 <div class="clearfix"></div>
@@ -87,7 +88,7 @@ bigimg:
 
 <div class="responsive">
 <b>Semra Palali Delen</b> is a PhD student in the department of Ag/Hort. 
-She was previously working with Dr. Baenziger. Office: Keim 162.
+Office: Keim 162.
 </div>
 
 
@@ -100,7 +101,8 @@ She was previously working with Dr. Baenziger. Office: Keim 162.
 </div>
 
 <div class="responsive">
-<b>Maribeth Milner</b> is a GIS specialist. Office: PLSH 377G.
+<b>Maribeth Milner</b> is a GIS specialist. 
+Office: PLSH 377G.
 </div>
 
 <div class="clearfix"></div>
