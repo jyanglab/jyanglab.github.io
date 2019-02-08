@@ -81,7 +81,7 @@ Office: PLSH 383.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/hM7hD9o.png?1" alt="Eric Rodene" width="300" height="400">
+      <img src="https://i.imgur.com/hM7hD9o.png?1" alt="Semra" width="300" height="400">
     </a>
   </div>
 </div>
@@ -104,6 +104,23 @@ Office: Keim 162.
 <b>Maribeth Milner</b> is a GIS specialist. 
 Office: PLSH 377L.
 </div>
+
+<div class="clearfix"></div>
+
+------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/D3CGrsC.jpg" alt="Hanchen Zhang" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL.
+</div>
+
 
 <div class="clearfix"></div>
 
