@@ -121,7 +121,17 @@ Office: PLSH 377L.
 <b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL.
 </div>
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/3875ADH.jpg?1" alt="Miao Hong" width="300" height="400">
+    </a>
+  </div>
+</div>
 
+<div class="responsive">
+<b>Miao Hong</b> is a junior student majored in chemistry at UNL.
+</div>
 <div class="clearfix"></div>
 
 -------------------------
