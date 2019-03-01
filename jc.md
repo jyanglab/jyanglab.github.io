@@ -13,9 +13,17 @@ There is no email list; articles are posted below along with the date.
 
 
 ## Notice: Changing time and Location 
-We meet every **Thursday at 3:00 pm**, at UNL East Campus (ask to find the location).   
+We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).   
 
 -----------------------------
+
+## 2019
+
+### March
+
+- **03-08-2019**: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize. By [Kremling et al.,](https://www.nature.com/articles/nature25966)
+> maize, RNA-seq, deleterious
+
 
 ## 2018
 
