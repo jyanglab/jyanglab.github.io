@@ -21,8 +21,12 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ### March
 
-- **03-08-2019**: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize. By [Kremling et al.,](https://www.nature.com/articles/nature25966)
+- **03-15-2019**: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize. By [Kremling et al.,](https://www.nature.com/articles/nature25966)
 > maize, RNA-seq, deleterious
+
+- **03-08-2019**: Technological advances in maize breeding: past, present and future. By [Andorf et al.,](https://link.springer.com/article/10.1007/s00122-019-03306-3)
+> maize, breeding, review
+
 
 
 ## 2018
