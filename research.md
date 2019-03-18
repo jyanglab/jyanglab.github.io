@@ -1,6 +1,5 @@
 ---
 layout: page
-css: "/css/pub.css"
 title: Research Interests in the Yang Lab
 ---
 
