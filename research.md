@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+css: "/css/index.css"
 ---
 
 
