@@ -25,7 +25,7 @@ Eventually, we will develop genomic selection protocols in collaboration with [t
 
 -------------------
 
-### Rescuing deleterious alleles
+### Genetic mechanisms underlying heterosis
 
 
 <p align="center">
