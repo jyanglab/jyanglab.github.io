@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Research
-css: "/css/index.css"
+css: "/css/pub.css"
+title: Research Interests in the Yang Lab
 ---
 
 
 
+-------------------
 
-
-## Rescuing fixed deleterious alleles through genomic selection
+### Rescuing fixed deleterious alleles through genomic selection
 
 <p align="center">
   <img width="300" height="265" src="https://i.imgur.com/9gL2O0e.png?1">
@@ -20,9 +20,11 @@ It will take years, however, to adapt the open pollinated landraces, mainly grow
 In the Yang lab, we will identify the alternative alleles using publicly available GEM lines and evaluate their phenotypic consequences, emphasizing on the micronutrient composition (collaborating with [Waters research lab](https://agronomy.unl.edu/waters-research-lab) at UNL) and yield related traits.
 Eventually, we will develop genomic selection protocols in collaboration with [the Cheng Lab](http://qtl.rocks/) at UC Davis to facilitate the rescuing process.
 
+- This project is supported by USDA NIFA (2019-67013-29167) to the Yang lab.
+
 -------------------
 
-## Rescuing deleterious alleles
+### Rescuing deleterious alleles
 
 
 <p align="center">
