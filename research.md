@@ -49,7 +49,7 @@ The long-term interest of the lab is to enhance the heterosis prediction for fut
 
 With extensive [genome-wide association study (GWAS)](https://en.wikipedia.org/wiki/Genome-wide_association_study) experience, our lab has started to expand to the area of high throughput phenotyping, emphasizing on downstream genotype-phenotype association study. 
 In collobration with the [Schnable Lab@UNL](http://schnablelab.org/) and [Yufeng Ge Lab](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/), we sought to characterize the phenotypic traits by using machine vision technology, i.e. unmanned aerial system (UAS) and LemnaTec high-throughput phenotyping system in the [Greenhouse Innovation Center](https://innovate.unl.edu/greenhouse-innovation-center). 
-We are interested in estimating the genetic parameters, i.e. polygenicity (number of non zero effect SNPs), selection pressure, magnitude of effects, SNP-based heritability etc., in various phenotypes extracted from high throughput phenotyping.
+We are interested in estimating the genetic parameters, i.e. polygenicity (number of non zero effect SNPs), selection pressure, magnitude of effects, SNP-based heritability etc., in controlling various phenotypic traits extracted from high throughput phenotyping.
 
 
 
