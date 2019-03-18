@@ -7,6 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "https://i.imgur.com/Cjnyfok.jpg?1" : "Havelock Farm 2018"
   - "https://i.imgur.com/rC2GEi7.jpg?1" : "Plant Sciences Hall 2018"
+  - "https://i.imgur.com/y4BoYi1.png" : "Maize Meeting in St. Louis 2019"
 ---
 
 
