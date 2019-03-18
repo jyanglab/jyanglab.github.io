@@ -4,6 +4,21 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### March, 2019
+- The Yang Lab in St. Louis to attend the 2019 maize genetics conference.
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/CtoXx8M.png">
+</p>
+
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/VJG4Yeb.png">
+</p>
+
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/BlaXPxb.png">
+</p>
+
+
 ### Oct., 2018
 - Welcome Semra to join the Yang lab! She will be co-advised by Ismail Dweikat.
 - Congrats to [HudsonAlpha](https://hudsonalpha.org/hudsonalpha-secures-3-9-million-from-national-science-foundation-to-work-toward-the-crops-of-tomorrow/) to secure a $3.9 million NSF award. Our lab is participating it to work on sorghum nitrogen use efficiency.
