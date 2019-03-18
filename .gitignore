@@ -10,5 +10,5 @@ ehthumbs.db
 .Rproj.user
 .RData
 .Rhistory
-# vendor/
+vendor/
 # Gemfile.lock
