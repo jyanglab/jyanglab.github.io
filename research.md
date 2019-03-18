@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Research Interests in the Yang Lab
+title: Research Projects
+css: "/css/people.css"
+subtitle: Research interests in the Jinliang Yang Lab
 ---
 
 
