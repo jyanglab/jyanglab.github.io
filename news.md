@@ -11,11 +11,11 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 </p>
 
 <p align="center">
-  <img width="300" height="220" src="https://i.imgur.com/VJG4Yeb.png">
+  <img width="300" height="220" src="https://i.imgur.com/VJG4Yeb.png?1">
 </p>
 
 <p align="center">
-  <img width="300" height="220" src="https://i.imgur.com/BlaXPxb.png">
+  <img width="300" height="220" src="https://i.imgur.com/BlaXPxb.png?1">
 </p>
 
 
