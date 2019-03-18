@@ -1,6 +1,5 @@
 ---
 layout: page
-css: "/css/index.css"
 title: Q.U.I.T.
 subtitle: Paper Mixed up well with Beer (or Non-alcoholic Beverage)
 comments: false
@@ -10,7 +9,6 @@ Inspired by [R.E.H.A.B.](http://www.rilab.org/rehab.html), as well as its fellow
 
 Anyone is welcome to suggest a paper (by sending an email to _jinliang.yang at unl.edu_) and come to talk with us. Nobody will present or defend the papers. We directly jump right into discussion with the assumption that you have read the paper.
 There is no email list; articles are posted below along with the date.
-
 
 ## Notice: Changing time and Location 
 We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).   

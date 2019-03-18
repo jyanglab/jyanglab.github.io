@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Jinliang Yang Lab Members
+title: Lab Members
 subtitle: Welcome to the J. Yang Lab
 css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]

@@ -22,18 +22,18 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008080;
+  color: #fa8072;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: "Galdeano",'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #fa8072;
 }
 a:hover,
 a:focus {
-  color: #ff7373;
+  color: #008080;
 }
 blockquote {
   color: #808080;
