@@ -1,0 +1,16 @@
+current directory: /Users/jyang21/Documents/website/jyanglab.github.io/vendor/cache/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190318-38707-z2w3q.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jyang21/Documents/website/jyanglab.github.io/vendor/cache/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/jyang21/Documents/website/jyanglab.github.io/vendor/cache/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/jyang21/Documents/website/jyanglab.github.io/vendor/cache/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190318-38707-jgpo7x

@@ -10,3 +10,5 @@ ehthumbs.db
 .Rproj.user
 .RData
 .Rhistory
+vendor/
+Gemfile.lock
