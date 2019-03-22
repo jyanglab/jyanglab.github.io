@@ -19,7 +19,7 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ### March
 
-- **03-29-2019**: Widespread signatures of negative selection in the genetic architecture of human complex traits. by [Zeng et al., 2017](http://biorxiv.org/content/early/2017/06/03/145755)
+- **03-29-2019**: Widespread signatures of negative selection in the genetic architecture of human complex traits. by [Zeng et al., 2017](https://www.nature.com/articles/s41588-018-0101-4)
 > Deleterious alleles, MAF, purifying selection, genomic selection, and polygenicity.
 
 - **03-22-2019**: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize. By [Kremling et al.,](https://www.nature.com/articles/nature25966)
