@@ -17,6 +17,11 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ## 2019
 
+### April
+
+- **04-15-2019**: Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data. by [Wu et al.,](https://www.biorxiv.org/content/early/2019/03/18/580993.full.pdf)
+> genetics, epigenetics, transcription, HiC
+
 ### March
 
 - **03-29-2019**: Widespread signatures of negative selection in the genetic architecture of human complex traits. by [Zeng et al., 2017](https://www.nature.com/articles/s41588-018-0101-4)
