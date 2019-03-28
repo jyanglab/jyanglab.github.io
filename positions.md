@@ -11,7 +11,7 @@ We are always interested in recruiting enthusiatic individuals, i.e. **undergrad
 
 ### Undergraduates
 
-We are interesed in including undergrads in our research as a paid position, depending on current research project needs.
+We are interesed in including undergrads in our research as a paid position, depending on current research needs. Read [here](/research) to learn about our current projects.
 
 
 ### Graduate and PostDoc positions 
@@ -20,7 +20,7 @@ We are interesed in including undergrads in our research as a paid position, dep
 We are fluctuately looking for graduate and PostDoc who are interested in understanding maize genetics and genomics, developing statistical approaches to enhance genomic selection, and/or applying the statistical approaches to conduct empirical genomic selection using UNL’s
 state-of-the-art [greenhouse facility](http://innovate.unl.edu/greenhouse-innovation-center).
 
-The ideal postdoc would be expected to be familiar with at least one coding language, i.e. **R** or **python**,
+For Postdoc, ideally, she/he would be expected to be familiar with at least one coding language, i.e. **R** or **python**,
 and be proficient in at least one of the areas, i.e. *quantitative/population genetics*, 
 **statistical genomics**, **bioinformatics**, or **molecular biology**. 
 
