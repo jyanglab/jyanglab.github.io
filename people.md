@@ -10,6 +10,7 @@ bigimg:
 ---
 
 
+## To [join the lab](/positions)
 
 ## Current Lab Members
 
