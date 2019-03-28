@@ -16,3 +16,5 @@ Our lab's major interests (see [research page](/research/) for more details) inc
  - Using **quantitative and population genetics** approaches to understand the genetic architecture of agronomically important traits, and how **deleterious alleles** shape the patterns of plant adaptation.  
  - Exploring the **genetic basis of heterosis** and predicting hybrid performance by incorporating biological annotation information.  
  - **Collecting and modeling complex phenotypes**, such as molecular phenotypes, time series phenotypes, or phenotypes obtained via image analyses, and understanding the molecular mechanism controlling for plant development.  
+
+If you are interested in any of the above topics, read more about [how to join the lab](/positions).
