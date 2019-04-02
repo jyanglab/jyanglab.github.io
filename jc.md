@@ -19,7 +19,10 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ### April
 
-- **04-15-2019**: Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data. by [Wu et al.,](https://www.biorxiv.org/content/early/2019/03/18/580993.full.pdf)
+- **04-12-2019**: Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data. by [Huang et al.,](https://www.nature.com/articles/ng.3810)
+> evolution, deleterious, genomics
+
+- **04-05-2019**: Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data. by [Wu et al.,](https://www.biorxiv.org/content/early/2019/03/18/580993.full.pdf)
 > genetics, epigenetics, transcription, HiC
 
 ### March
