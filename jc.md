@@ -19,6 +19,12 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ### April
 
+- **04-26-2019**: Epsilon-genic effects bridge the gap between polygenic and omnigenic complex traits. [Cheng et al., 2019](https://www.biorxiv.org/content/biorxiv/early/2019/04/02/597484.full.pdf)
+> polygenic, omnigenic, complex trait
+
+- **04-19-2019**: Deep learning: new computational modelling techniques for genomics. by [Eraslan et al., 2019](https://www.nature.com/articles/s41576-019-0122-6.pdf)
+> genomics, review, machine learning
+
 - **04-12-2019**: Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data. by [Huang et al.,](https://www.nature.com/articles/ng.3810)
 > evolution, deleterious, genomics
 
