@@ -121,6 +121,6 @@ A phylogenetic method to perform genome-wide association studies in microbes tha
 
 ## 2017 and before 
 
-[Papers](img/jc_2017) from precious QUIT.
+[Papers](/img/jc_2017) discussed from precious QUIT.
 
 
