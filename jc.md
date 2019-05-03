@@ -17,6 +17,12 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ## 2019
 
+### May
+
+- **05-10-2019**: - **04-26-2019**: Epsilon-genic effects bridge the gap between polygenic and omnigenic complex traits. [C-J Yang et al., 2019](https://www.pnas.org/content/116/12/5643)
+> teosinte, domestication, genetics
+
+
 ### April
 
 - **04-26-2019**: Epsilon-genic effects bridge the gap between polygenic and omnigenic complex traits. [Cheng et al., 2019](https://www.biorxiv.org/content/biorxiv/early/2019/04/02/597484.full.pdf)
