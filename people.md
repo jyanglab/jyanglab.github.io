@@ -122,28 +122,19 @@ Office: PLSH 377L.
 <b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/3875ADH.jpg?1" alt="Miao Hong" width="300" height="400">
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Miao Hong</b> is a junior student majored in chemistry at UNL.
-</div>
-<div class="clearfix"></div>
 
 -------------------------
 
 ## Lab Alumni
 
-- **Dr. Mei Zhang**: PostDoc 2018-2019. (Professor, Institute of Botany, The Chinese Academy of Sciences)
+- **Miao Hong**: junior student majored in chemistry at UNL.
+- **John Bernt**: undergradudate student. 
+- **Dr. Mei Zhang**: PostDoc 2018-2019. (Associate Professor, Institute of Botany, The Chinese Academy of Sciences).
 - **Dr. Raghuprakash Kastoori Ramamurthy**: PostDoc 2018-2019. 
 - **Paulo Yu Xi Gao**: undergraduate student majored in business.
 - **Sam Polk**: undergraduate student majored in plant biology.
 - **Qihao (Neil) Sun**: undergraduate student majored in Turfgrass and Landscape Management.
-- **Dr. Laxman Karki**: Part-time Statistician 2017 (working at the First National Bank of Omaha.)
+- **Dr. Laxman Karki**: Part-time Statistician 2017 (First National Bank of Omaha.)
 
 
