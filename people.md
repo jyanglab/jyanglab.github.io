@@ -10,7 +10,7 @@ bigimg:
 ---
 
 
-## To [join the lab](/positions)
+## [Join the lab](/positions)
 
 ## Current Lab Members
 
@@ -123,6 +123,7 @@ Office: PLSH 377L.
 </div>
 
 
+<div class="clearfix"></div>
 
 -------------------------
 
