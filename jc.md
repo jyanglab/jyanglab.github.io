@@ -19,7 +19,7 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ### May
 
-- **05-10-2019**: - **04-26-2019**: Epsilon-genic effects bridge the gap between polygenic and omnigenic complex traits. [C-J Yang et al., 2019](https://www.pnas.org/content/116/12/5643)
+- **05-10-2019**: The genetic architecture of teosinte catalyzed and constrained maize domestication. [C-J Yang et al., 2019](https://www.pnas.org/content/116/12/5643)
 > teosinte, domestication, genetics
 
 
