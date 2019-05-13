@@ -17,6 +17,8 @@ We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).
 
 ## 2019
 
+Our Q.U.I.T. will be changed to [Computational Genomics Workshop](https://jyanglab.com/JYang-Lab-tutorial/) during the summer!
+
 ### May
 
 - **05-10-2019**: The genetic architecture of teosinte catalyzed and constrained maize domestication. [C-J Yang et al., 2019](https://www.pnas.org/content/116/12/5643)
