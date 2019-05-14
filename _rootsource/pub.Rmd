@@ -91,8 +91,8 @@ cat(paste0(
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) ",
-"| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)"
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)", 
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 

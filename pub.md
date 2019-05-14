@@ -29,7 +29,7 @@ R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kan
 [10.1016/j.niox.2018.09.004](https://www.sciencedirect.com/science/article/pii/S1089860318300958)
 
 __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__, _G3: Genes Genomes Genetics_, 2018.  
-[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)
+[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)| [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996399093583901645&as_sdt=5)
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__, _G3: Genes Genomes Genetics_, 2018.  
