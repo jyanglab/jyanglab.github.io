@@ -15,7 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(methods)
 
 
-
 # must install this version
 #devtools::install_github("yangjl/scholar")
 library(scholar)
@@ -29,7 +28,7 @@ if(file.exists(file)){
   oldf <- read.delim(file)
   newf <- merge()
 }
-
+bob <- bob[order(bob$year, decreasing=T),]
 
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
@@ -39,23 +38,27 @@ if(file.exists(file)){
 
 Coming soon!
 
-### 2018
+### 2019
 
 ```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "C. Miao, __J. Yang__, J. C. Schnable, "
 ,
 "__Optimizing the identification of causal variants across varying genetic architectures in crops__,",
-" _Plant Biotechnology Journal_, 2018.  \n",
+" _Plant Biotechnology Journal_, 2019.  \n",
 
 "[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) ",
-"| [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
+"| [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
+
+
+### 2018
+
 
 
 ```{r, echo=FALSE, results="asis"}
@@ -76,7 +79,7 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="mNrWkgRL2YcC",]
+pid <- bob[bob$pubid=="HtS1dXgVpQUC",]
 cat(paste0(
 "__J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dekkers", 
 "D. J. Garrick, D. Nettleton and P. S. Schnable, ",
@@ -95,25 +98,25 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+pid <- bob[bob$pubid=="mNrWkgRL2YcC",]
 cat(paste0(
 "Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, ",
 "__Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__,",
 " _G3: Genes Genomes Genetics_, 2018.  \n",
 
-"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) "
+"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) ",
 #"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
 #"| [Github](https://github.com/freemao/Genotype-Corrector) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 
 
 ```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+pid <- bob[bob$pubid=="yFnVuubrUp4C",]
 cat(paste0(
 "C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, ",
 "__Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__,",
@@ -121,10 +124,10 @@ cat(paste0(
 
 "[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) ",
 #"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
-"| [Github](https://github.com/freemao/Genotype-Corrector) "
+"| [Github](https://github.com/freemao/Genotype-Corrector) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
