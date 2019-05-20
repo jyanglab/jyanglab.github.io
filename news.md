@@ -4,6 +4,10 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### May, 2019
+- USDA AFRI funded us to [Rescue the fixed deleterious alleles for genome-enabled micronutrients improvement in maize](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=82603&format=WEBLINK).
+
+
 ### March, 2019
 - The Yang Lab in St. Louis to attend the 2019 maize genetics conference.
 <p align="center">
