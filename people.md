@@ -123,17 +123,6 @@ Office: PLSH 377L.
 </div>
 
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/n7Nr1oh.png" alt="Selica Lopez" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Selica Lopez</b> is pursuing her bachelor’s degree in horticulture and minoring in entrepreneurship.
-</div>
 
 
 <div class="clearfix"></div>
