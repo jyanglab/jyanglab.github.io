@@ -26,7 +26,7 @@ bigimg:
 
 <div class="responsive">
 <b>Jinliang Yang</b> is an Assistant Professor in <a href="https://agronomy.unl.edu/"> the Department of Agronomy and Horticulture. </a>
-<a href="/img/CVs/CV_Yang_2018.pdf"> his updated CV </a>
+<a href="/img/CVs/CV_JYang-2019.pdf"> his updated CV </a>
 </div>
 
 
