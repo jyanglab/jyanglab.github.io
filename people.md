@@ -119,10 +119,21 @@ Office: PLSH 377L.
 </div>
 
 <div class="responsive">
-<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL.
+<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL..
 </div>
 
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/MyKTgRu.jpg" alt="Jessica Chen" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Jessica Chen</b> is a high school student working with us as a summer intern selected from the Young Nebraska Scientist program.
+</div>
 
 
 <div class="clearfix"></div>
@@ -131,7 +142,8 @@ Office: PLSH 377L.
 
 ## Lab Alumni
 
-- **Miao Hong**: junior student majored in chemistry at UNL.
+
+- **Miao Hong**: undergradudate student majored in chemistry at UNL.
 - **John Bernt**: undergradudate student. 
 - **Dr. Mei Zhang**: PostDoc 2018-2019. (Associate Professor, Institute of Botany, The Chinese Academy of Sciences).
 - **Dr. Raghuprakash Kastoori Ramamurthy**: PostDoc 2018-2019. 
