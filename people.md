@@ -125,15 +125,16 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/D3CGrsC.jpg" alt="Hanchen Zhang" width="300" height="400">
+      <img src="https://i.imgur.com/MyKTgRu.jpg" alt="Jessica Chen" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL..
+<b>Jessica Chen</b> is a high school student working with us as a summer intern selected from the Young Nebraska Scientist program.
 </div>
 
+<div class="clearfix"></div>
 
 ----------------
 
@@ -147,7 +148,7 @@ Office: PLSH 377L.
 </div>
 
 <div class="responsive">
-<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL..
+<b>Hanchen Zhang</b> is a junior student majored in Agriculture Economics at UNL.
 </div>
 
 <div class="clearfix"></div>
