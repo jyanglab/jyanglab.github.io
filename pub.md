@@ -18,7 +18,7 @@ Coming soon!
 ### 2019
 
 Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, __High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel__, _Plant Methods_, 2019.  
-| [10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) 
+[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) 
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __Genome-wide identification and analysis of heterotic loci in three maize hybrids__, _Plant Biotechnology Journal_, 2019.  

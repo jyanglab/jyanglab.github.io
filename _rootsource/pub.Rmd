@@ -45,7 +45,7 @@ cat(paste0(
 "Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, ",
 "__High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel__, ",
 "_Plant Methods_, 2019.  \n",
-"| [10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) "
+"[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
