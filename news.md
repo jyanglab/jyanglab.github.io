@@ -4,6 +4,18 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### July, 2019
+- The Yang Lab are doing summer genomics workshop.
+
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/pdajQ6F.jpg">
+</p>
+
+<p align="center">
+  <img width="300" height="220" src="https://i.imgur.com/bOK7F4E.jpg">
+</p>
+
+
 ### May, 2019
 - USDA AFRI funded us to [Rescue the fixed deleterious alleles for genome-enabled micronutrients improvement in maize](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=82603&format=WEBLINK).
 
