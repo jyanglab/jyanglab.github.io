@@ -9,11 +9,12 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (275 citations as of Jul, 2019)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (277 citations as of Jul, 2019)  
 
 ### Preprints
 
-Coming soon!
+C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __J. Yang__, and J. C. Schnable, __Simulated plant images improve maize leaf counting accuracy__, _bioRxiv_, 2019.  
+[10.1101/706994](https://www.biorxiv.org/content/10.1101/706994v1) 
 
 ### 2019
 
@@ -57,7 +58,7 @@ P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J
 ### 2017
 
 H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, __Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__, *Genome Biology*, 2017.  
-[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 11](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
+[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 12](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
 [10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 28](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
@@ -74,7 +75,7 @@ __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S.
 [10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) | [cited 37](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__, _Nature Genetics_, 2015.  
-[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 89](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 90](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, _Nature Communications_, 2015.  
 [10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 27](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
