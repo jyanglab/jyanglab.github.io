@@ -35,7 +35,18 @@ bob <- bob[order(bob$year, decreasing=T),]
 
 ### Preprints
 
-Coming soon!
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __J. Yang__, and J. C. Schnable, ",
+"__Simulated plant images improve maize leaf counting accuracy__, ",
+"_bioRxiv_, 2019.  \n",
+"[10.1101/706994](https://www.biorxiv.org/content/10.1101/706994v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/134528 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 ### 2019
 
