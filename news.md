@@ -4,7 +4,15 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+
 ### July, 2019
+
+- The awesome CRRI Aim4 team dug >3,000 roots in three days. The Yang Lab contrubuted about 800 of them!
+
+<p align="center">
+  <img width="400" height="300" src="https://i.imgur.com/L98UUQE.png">
+</p>
+
 - The Yang Lab are doing summer genomics workshop.
 
 <p align="center">
