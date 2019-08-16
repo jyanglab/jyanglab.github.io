@@ -10,7 +10,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (286 citations as of Aug, 2019)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (289 citations as of Aug, 2019)  
 
 ### Preprints
 
@@ -62,10 +62,10 @@ H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettl
 [10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 12](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
-[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 28](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
+[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 29](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017.   
-[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 18](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
+[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 19](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
  [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  2 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= 10 &as_sdt=5)
@@ -85,7 +85,7 @@ S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbaue
 ### 2014 and Before
 
 S. Liu, K. Ying, C.-T. Yeh, __J. Yang__, R. Swanson-Wagner, W. Wu, T. Richmond, D. J. Gerhardt, J. Lai, N. Springer, D. Nettleton, J. A. Jeddeloh, and P. S. Schnable, __Changes in genome content generated via segregation of non-allelic homolog__, _The Plant Journal_, 2012.  
-[10.1111/j.1365-313X.2012.05087.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) | [cited 19](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628450597487851072&as_sdt=5)
+[10.1111/j.1365-313X.2012.05087.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) | [cited 20](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628450597487851072&as_sdt=5)
 
 
 L. Koesterke, D. Stanzione, M. Vaughn, S. M. Welch, W. Kusnierczyk, __J. Yang__, C.-T. Yeh, D. Nettleton, and P. S. Schnable, __An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies__, *2011 IEEE Int. Symp. Parallel Distrib. Process. Work. Phd Forum, pp. 523–530, May 2011.*  

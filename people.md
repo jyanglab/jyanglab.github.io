@@ -125,13 +125,13 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/MyKTgRu.jpg" alt="Jessica Chen" width="300" height="400">
+      <img src="https://i.imgur.com/UpZcZuQ.png" alt="Jenifer" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Jessica Chen</b> is a high school student working with us as a summer intern selected from the Young Nebraska Scientist program.
+<b>Jenifer</b> is a first year undergraduate student.
 </div>
 
 <div class="clearfix"></div>
@@ -141,6 +141,7 @@ Office: PLSH 377L.
 
 ## Lab Alumni
 
+- **Jessica Chen**: high school student in Lincoln East High.
 - **Hanchen Zhang**: undergradudate student majored in Agriculture Economics at UNL.
 - **Miao Hong**: undergradudate student majored in chemistry at UNL.
 - **John Bernt**: undergradudate student. 
