@@ -125,13 +125,13 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/UpZcZuQ.png" alt="Jenifer" width="300" height="400">
+      <img src="https://i.imgur.com/UpZcZuQ.png" alt="Jenifer Velazquez-Perfecto" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Jenifer</b> is a first year undergraduate student.
+<b>Jenifer</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
 </div>
 
 <div class="clearfix"></div>
