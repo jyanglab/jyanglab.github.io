@@ -131,7 +131,7 @@ Office: PLSH 377L.
 </div>
 
 <div class="responsive">
-<b>Jenifer</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
+<b>Jenifer Velazquez-Perfecto</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
 </div>
 
 <div class="clearfix"></div>
