@@ -113,13 +113,13 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/Lgi0a0v.png" alt="Madelyn Calvert" width="300" height="400">
+      <img src="https://i.imgur.com/ZdqfYcH.png" alt="Hongyu Jin" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Madelyn Calvert</b> is a undergraduate student majored in Biochemistry & Psychology at UNL.
+<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable.
 </div>
 
 <div class="responsive">
@@ -141,6 +141,8 @@ Office: PLSH 377L.
 
 ## Lab Alumni
 
+- **Madelyn Calvert**: undergraduate student majored in Biochemistry & Psychology at UNL.
+- **Briana Kouma**: undergraduate student at UNL.
 - **Jessica Chen**: high school student in Lincoln East High.
 - **Hanchen Zhang**: undergradudate student majored in Agriculture Economics at UNL.
 - **Miao Hong**: undergradudate student majored in chemistry at UNL.
