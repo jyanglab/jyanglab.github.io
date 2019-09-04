@@ -4,6 +4,10 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### September, 2019
+
+- Welcome Hongyu and Jing join the lab!
+
 
 ### July, 2019
 
