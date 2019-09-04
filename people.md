@@ -46,8 +46,20 @@ Office: PLSH 383.
 
 <div class="clearfix"></div>
 
-
 ------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/6vrBjxy.png" alt="Jing Lyu" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Jing Lyu</b> is a PostDoc Scholar working on flowering time evolution. 
+Office: PLSH 383.
+</div>
 
 <div class="responsive">
   <div class="img">
@@ -60,6 +72,11 @@ Office: PLSH 383.
 <div class="responsive">
 <b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. Office: PLSH 383.
 </div>
+<div class="clearfix"></div>
+
+------------
+
+
 
 
 
@@ -75,10 +92,6 @@ Office: PLSH 383.
 <b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. Office: Keim 361.
 </div>
 
-<div class="clearfix"></div>
-
-------------
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -92,6 +105,23 @@ Office: PLSH 383.
 Office: Keim 162.
 </div>
 
+<div class="clearfix"></div>
+
+------------
+
+
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/ZdqfYcH.png" alt="Hongyu Jin" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable.
+</div>
 
 <div class="responsive">
   <div class="img">
@@ -110,17 +140,6 @@ Office: PLSH 377L.
 
 ------------
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/ZdqfYcH.png" alt="Hongyu Jin" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable.
-</div>
 
 <div class="responsive">
   <div class="img">
