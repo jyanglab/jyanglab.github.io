@@ -10,7 +10,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (314 citations as of Oct, 2019)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 9 ] (321 citations as of Oct, 2019)  
 
 ### Preprints
 
@@ -47,10 +47,10 @@ Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K.
 
 
 C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, __Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__, _Scientific Reports_, 2018.  
-[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) | [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
+[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) | [cited 3](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__, *New Phytologist*, 2018.  
-[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 17](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
+[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 19](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__, *PLOS Genetics*, 2018.  
 [10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) | [preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [cited 16](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
@@ -73,13 +73,13 @@ J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and 
 ### 2015
 
 __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, __Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel__, _The Plant Journal_, 2015.  
-[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) | [cited 39](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
+[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) | [cited 40](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__, _Nature Genetics_, 2015.  
-[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 99](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 101](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, _Nature Communications_, 2015.  
-[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 29](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 30](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
 
 
 ### 2014 and Before

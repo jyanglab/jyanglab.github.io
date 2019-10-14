@@ -4,6 +4,10 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### October, 2019
+
+- Jinliang Yang becomes a member of the Center for Plant Science Innovation!
+
 ### September, 2019
 
 - Welcome Hongyu and Jing join the lab!

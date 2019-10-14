@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(methods)
 
 
-
 # must install this version
 #devtools::install_github("yangjl/scholar")
 library(scholar)
