@@ -6,7 +6,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 ### October, 2019
 
-- Jinliang Yang becomes a member of the Center for Plant Science Innovation!
+- Jinliang Yang becomes a member of the [Center for Plant Science Innovation](https://www.unl.edu/psi/home)!
 
 ### September, 2019
 
