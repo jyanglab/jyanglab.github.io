@@ -7,6 +7,12 @@ title: Teaching
 
 ### Fall 2019
 
+- __ANS/AGRO-932: Biometrical Genetics and Plant Breeding__
+  - The goal of this course is to introduce students to the application of biometrical methods to connect the phenotypic traits with high-dimensional genomic data to better understand polygenic traits for both prediction (or plant breeding) and inference (for gene mapping) purposes. 
+  
+  
+### Fall 2019
+
 - __[ANS/AGRO-931](https://jyanglab.com/AGRO-931): Population Genetics__
   - Team teach with Dr. Jessica Petersen
   - In this classical population genetics class, students will build on the theoretical concepts to develop breeding strategies for plant and animal improvement. Those who work with natural populations will also get the necessary principles to understand variation and to develop strategies to maintain this variation.
