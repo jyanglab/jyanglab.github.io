@@ -5,11 +5,13 @@ title: Teaching
 
 ## UNL Courses
 
-### Fall 2019
+### Spring 2020
 
 - __ANS/AGRO-932: Biometrical Genetics and Plant Breeding__
   - The goal of this course is to introduce students to the application of biometrical methods to connect the phenotypic traits with high-dimensional genomic data to better understand polygenic traits for both prediction (or plant breeding) and inference (for gene mapping) purposes. 
-  
+
+- __LIFE-891-003: Complex Biosystems Seminar__
+  - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
   
 ### Fall 2019
 
