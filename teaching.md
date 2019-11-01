@@ -12,7 +12,9 @@ title: Teaching
 
 - __LIFE-891-003: Complex Biosystems Seminar__
   - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
-  
+
+------------------
+
 ### Fall 2019
 
 - __[ANS/AGRO-931](https://jyanglab.com/AGRO-931): Population Genetics__
@@ -22,6 +24,7 @@ title: Teaching
 - __LIFE-891-003: Complex Biosystems Seminar__
   - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others. 
 
+------------------
 
 ### Fall 2018
 
