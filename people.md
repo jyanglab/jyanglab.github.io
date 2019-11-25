@@ -170,6 +170,23 @@ Office: PLSH 377L.
 <div class="clearfix"></div>
 
 
+--------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/h2MVi9x.png" alt="Nick" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Nicholas Reikofski</b> is a first-year undergraduate student majoring in Agricultural Economics with a minor in Agronomy..
+</div>
+
+
+<div class="clearfix"></div>
+
 
 
 
