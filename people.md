@@ -138,8 +138,19 @@ Office: PLSH 377L.
 
 <div class="clearfix"></div>
 
-------------
+-----------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/PTN8GF6.png" alt="Jinlong Li" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Jinlong Li</b> is a visiting PhD student from China Agricultural University.
+</div>
 
 <div class="responsive">
   <div class="img">
@@ -152,6 +163,10 @@ Office: PLSH 377L.
 <div class="responsive">
 <b>Jenifer Velazquez-Perfecto</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
 </div>
+
+<div class="clearfix"></div>
+
+------------
 
 
 <div class="responsive">
@@ -167,10 +182,6 @@ Office: PLSH 377L.
 </div>
 
 
-<div class="clearfix"></div>
-
-
---------------
 
 <div class="responsive">
   <div class="img">
@@ -181,7 +192,7 @@ Office: PLSH 377L.
 </div>
 
 <div class="responsive">
-<b>Nicholas Reikofski</b> is a first-year undergraduate student majoring in Agricultural Economics with a minor in Agronomy..
+<b>Nicholas Reikofski</b> is a first-year undergraduate student majoring in Agricultural Economics with a minor in Agronomy.
 </div>
 
 
