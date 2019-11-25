@@ -4,6 +4,11 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Nov., 2019
+
+- Welcome Jinlong Li, a visiting scholar from China Ag Unviersity, to join the lab.
+
+
 ### October, 2019
 
 - Jinliang Yang becomes a member of the [Center for Plant Science Innovation](https://www.unl.edu/psi/home) at UNL!
