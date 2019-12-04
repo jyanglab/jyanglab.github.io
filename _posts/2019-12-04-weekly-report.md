@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guidelines for the Yang Lab weekly report
+title: Guidelines for The JYang Lab weekly report
 tags: [report, method]
 category: [guideline]
 comments: false
