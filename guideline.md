@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guidelines for lab members
+title: Guidelines for The JYang Lab members
 ---
 
 ## UNL Courses
