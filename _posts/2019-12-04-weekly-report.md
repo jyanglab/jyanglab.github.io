@@ -16,9 +16,10 @@ comments: false
 - Include research results
 - Include any questions or concerns you may have (e.g. courses)
 
-
+-------
 ![Imgur](https://i.imgur.com/8JJDq2g.png)
 An example of the title slide.
+-------
 
 ## Research Goals 
 
@@ -28,8 +29,10 @@ You should include a slide (or multiple slides if necessary) to explain your
 
 If there are pictures or schematics, include them. These slides can be recycled every week. Modify them if necessary.
 
+-------
 ![Imgur](https://i.imgur.com/v0kYi8h.png)
 List the overall goals and the current progress.
+-------
 
 ## Research slides
 
@@ -40,8 +43,10 @@ Slides should include results. For example:
 
 There may be multiple results slides, both for individual data sets as well as statistical analysis across data sets.
 
+-------
 ![Imgur](https://i.imgur.com/sgQnwLy.png)
 An example of the result slide, with a title, figures, and the necessary details.
+-------
 
 ## Last slide
 
@@ -56,6 +61,9 @@ The last slide should outline:
   - Course questions
   - Any upcoming vacations
 
+-------
 ![Imgur](https://i.imgur.com/ZJP0ztX.png)
 Some example contents may be included in your last slide.
+-------
+
 
