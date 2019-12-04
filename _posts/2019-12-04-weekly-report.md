@@ -19,6 +19,7 @@ comments: false
 -------
 ![Imgur](https://i.imgur.com/8JJDq2g.png)
 An example of the title slide.
+
 -------
 
 ## Research Goals 
@@ -32,6 +33,7 @@ If there are pictures or schematics, include them. These slides can be recycled 
 -------
 ![Imgur](https://i.imgur.com/v0kYi8h.png)
 List the overall goals and the current progress.
+
 -------
 
 ## Research slides
@@ -45,7 +47,8 @@ There may be multiple results slides, both for individual data sets as well as s
 
 -------
 ![Imgur](https://i.imgur.com/sgQnwLy.png)
-An example of the result slide, with a title, figures, and the necessary details.
+An example of the result slide, with a title, figures, and the necessary details.  
+
 -------
 
 ## Last slide
@@ -64,6 +67,7 @@ The last slide should outline:
 -------
 ![Imgur](https://i.imgur.com/ZJP0ztX.png)
 Some example contents may be included in your last slide.
+
 -------
 
 
