@@ -14,14 +14,14 @@ Here I copied the laws:
 
 ## The laws of Herman
 
-- 1. Your vacation begins after you defend your thesis.
+- 1.Your vacation begins after you defend your thesis.
 
 ### Science first
 
-- 2. In research, what matters is what is right, and not who is right.
-- 3. In research and other matters, your adviser is always right, most of the time.
-- 4. Act as if your adviser is always right, almost all the time.
-- 5. If you think you are right and you are able to convince your adviser, your adviser will be very happy.
+- 2.In research, what matters is what is right, and not who is right.
+- 3.In research and other matters, your adviser is always right, most of the time.
+- 4.Act as if your adviser is always right, almost all the time.
+- 5.If you think you are right and you are able to convince your adviser, your adviser will be very happy.
   - yes, __very happy__!
 
 ### Productivity
