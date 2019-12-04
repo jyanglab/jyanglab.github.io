@@ -6,7 +6,7 @@ category: [guideline]
 comments: false
 ---
 
-Dr. Herman wrote [a guide](img/Advisor-Advisee.pdf) for the perlexed graduate student doing research. It is a piece of article I think that every graduate student should read.
+Dr. Herman wrote [a guide](/img/Advisor-Advisee.pdf) for the perlexed graduate student doing research. It is a piece of article I think that every graduate student should read.
 > "Supervised research is a symbiotic (although not symmetric) interaction between student and adviser."
 
 
