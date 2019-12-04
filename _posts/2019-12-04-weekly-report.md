@@ -6,6 +6,7 @@ category: [guideline]
 comments: false
 ---
 
+Here you can find the [template slides](https://jyanglab.com/img/JYang_04-08-2019_geno-pheno.pptx) for your weekly report.
 
 ## Overall guidelines
 
