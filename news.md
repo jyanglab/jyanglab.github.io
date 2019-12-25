@@ -6,7 +6,11 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 ### Nov., 2019
 
-- Welcome Jinlong Li, a visiting scholar from China Ag Unviersity, to join the lab.
+- Welcome Xuerong as a visiting scholar from Shandong Ag Unviersity to visit the lab.
+
+### Nov., 2019
+
+- Welcome Jinlong Li, a visiting student from China Ag Unviersity, to join the lab.
 
 
 ### October, 2019
