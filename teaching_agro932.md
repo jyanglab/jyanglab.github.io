@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: AGRO-932: Biometrical genetics and plant breeding
 ---
 
-# AGRO-932: Biometrical genetics and plant breeding
 
 - Spring 2020 [Syllabus](data/Syllabus_AGRO932.pdf)
 - **Location**: Plant Sciences Hall (room 272)
