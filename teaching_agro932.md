@@ -41,7 +41,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 1/14 (Tue): Introduction about plant breeding, [[HTML]()]
+- 1/14 (Tue): Introduction about plant breeding, [[HTML](https://jyanglab.com/AGRO-931/hw/STAT-Notes_2019_updated.pdf)]
 - 1/16 (Thu): Introduction about R, Github, and HCC, [[HTML]()] and [[lab]()]
 
 
