@@ -4,7 +4,7 @@ title: AGRO-932: Biometrical genetics and plant breeding
 ---
 
 
-- Spring 2020 [Syllabus](data/Syllabus_AGRO932.pdf)
+- Spring 2020 [Syllabus](img/Syllabus_AGRO932.pdf)
 - **Location**: Plant Sciences Hall (room 272)
 - **Time**: Tuesday and Thursday 9:00-10:15am
 - **Prerequisites**: 
