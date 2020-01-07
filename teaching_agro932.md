@@ -123,3 +123,4 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Final exam**
 - 12/18 (W): 7:30-9:30am
+-->
