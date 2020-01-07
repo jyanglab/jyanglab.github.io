@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-
 ```{r, echo=FALSE, warning=FALSE, results="asis"}
 library(methods)
 
