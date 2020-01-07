@@ -9,7 +9,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - **Time**: Tuesday and Thursday 9:00-10:15am
 - **Prerequisites**: 
   - AGRO 815A, 815B, and 815D, 
-  - AGRO/ANSCI-931, 
+  - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/), 
   - and	STAT-802 or equivalent, 
   - or permission of the instructor(s).
 
