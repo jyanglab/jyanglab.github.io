@@ -46,7 +46,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 
 
--------
+
 
 ### **Week 2**: Variance components and heritability estimation 
 - 10/28 (M): Average effect of an allele, [[HTML]()]
@@ -58,6 +58,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 11/04 (M): Variance partitioning (continuous), [[HTML](chapters/Ch8/Ch8_p2.html#1)]
 - 11/06 (W): Heritability and Repeatability, [[HTML](chapters/Ch8/Ch8_p3.html#1)]
 
+-------
+
+<!--
 ### **Week 4**: Resemblance between relatives
 - 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
 - 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
