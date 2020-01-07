@@ -7,7 +7,7 @@ title: Teaching
 
 ### Spring 2020
 
-- __ANS/AGRO-932: Biometrical Genetics and Plant Breeding__
+- __[ANS/AGRO-932](https://jyanglab.com/agro932): Biometrical Genetics and Plant Breeding__
   - The goal of this course is to apply biometrical methods to connect the phenotypic traits with high-dimensional genomic data to better understand polygenic traits for both prediction (or plant breeding) and inference (for gene mapping) purposes. 
 
 - __LIFE-891-003: Complex Biosystems Seminar__
