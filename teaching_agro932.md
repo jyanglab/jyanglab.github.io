@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AGRO-932: Biometrical genetics and plant breeding
+title: AGRO-932 Biometrical genetics and plant breeding
 ---
 
 
