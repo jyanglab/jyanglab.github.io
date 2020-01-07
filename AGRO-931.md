@@ -4,8 +4,6 @@ title: AGRO/ANSCI-931 Population Genetics
 ---
 
 
-[<= back to jyanglab](http://jyanglab.com)
-
 ## AGRO/ASCI 931: Population Genetics
 
 - Fall 2019 [Syllabus](ASCI931_2019Syllabus.pdf)
