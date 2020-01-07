@@ -11,7 +11,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - AGRO 815A, 815B, and 815D, 
   - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/), 
   - and	STAT-802 or equivalent, 
-  - or permission of the instructor(s).
+  - or permission of the instructor.
 
 ------------
 
@@ -41,12 +41,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 1/14 (Tue): Introduction about plant breeding, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c1.html#1)]
-- 1/16 (Thu): Introduction about R, Github, and HCC, [[HTML]()] and [[lab]()]
+- 1/14 (Tue): Introduction about plant breeding, __[Canvas materials]__ and [HTML] and 
+- 1/16 (Thu): Introduction about R, Github, and HCC, [HTML] and [lab]
 
 
-
-
+<!--
 
 ### **Week 2**: Variance components and heritability estimation 
 - 10/28 (M): Average effect of an allele, [[HTML]()]
@@ -60,7 +59,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 -------
 
-<!--
+
 ### **Week 4**: Resemblance between relatives
 - 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
 - 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
