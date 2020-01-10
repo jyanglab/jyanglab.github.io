@@ -155,7 +155,7 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://https://i.imgur.com/ZbJ7I4G.png" alt="Xuerong Yang" width="300" height="400">
+      <img src="https://i.imgur.com/ZbJ7I4G.png" alt="Xuerong Yang" width="300" height="400">
     </a>
   </div>
 </div>
