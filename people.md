@@ -155,6 +155,23 @@ Office: PLSH 377L.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
+      <img src="https://https://i.imgur.com/ZbJ7I4G.png" alt="Xuerong Yang" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Xuerong Yang</b> is a visiting scholar from Shandong Ag University. She will be working on transcriptome and heterosis.
+</div>
+
+<div class="clearfix"></div>
+
+
+------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
       <img src="https://i.imgur.com/UpZcZuQ.png" alt="Jenifer Velazquez-Perfecto" width="300" height="400">
     </a>
   </div>
@@ -163,10 +180,6 @@ Office: PLSH 377L.
 <div class="responsive">
 <b>Jenifer Velazquez-Perfecto</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
 </div>
-
-<div class="clearfix"></div>
-
-------------
 
 
 <div class="responsive">
@@ -182,6 +195,9 @@ Office: PLSH 377L.
 </div>
 
 
+<div class="clearfix"></div>
+
+----------------------
 
 <div class="responsive">
   <div class="img">
