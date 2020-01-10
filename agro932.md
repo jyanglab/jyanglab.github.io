@@ -17,16 +17,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ## Suggested textbooks and Reading Materials
 
+- Hahn, M. 2019. __Molecular population genetics__. Oxford.
+- Bernardo, R. 2020. __Breeding for quantitative traits in plants__. 3rd Ed. Stemma Press. 
 - Lynch, M. and B. Walsh. 1998. __Vol. 1: Genetics and analysis of quantitative traits__. Sinauer, MA  
 
 <p align="center">
-  <img src="https://i.imgur.com/c8UFhxq.png" height="200px">
-</p>
-
-- Bernardo, R. 2020. __Breeding for quantitative traits in plants__. 3rd Ed. Stemma Press. 
-
-<p align="center">
-  <img src="https://i.imgur.com/RZplo4Q.png" height="200px">
+  <img src="https://imgur.com/tSfGg4c" height="200px">
 </p>
 
 ## R and statistics resources
