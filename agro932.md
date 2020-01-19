@@ -41,6 +41,31 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 1/16 (Thu): A basic tutorial on HCC, [[WWW](https://hcc.unl.edu/docs/)] and [guest lecture]
 
 
+----------
+
+## Important dates:
+
+### **Week 8**: 
+- 3/5 (Thu): [__Due date for Mid-term paper__]
+
+### **Week 10**: 
+- 3/19 (Thu): [__Due date for Mid-term paper review__]
+
+### **Week11**: 
+- 3/22-29: __Spring Break__
+
+### **Week15**: 
+
+- 4/23 (Thu): [__Due date for final paper__]
+
+### **Week16**: 
+- 4/28 (Tue): [__Final project presentation__]
+- 4/30 (Thu): [__Final project presentation__] [__Due date for final code review__]
+
+------------
+
+
+
 <!--
 
 ### **Week 2**: Variance components and heritability estimation 
