@@ -37,8 +37,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 1-14 (Tue): [_Lecture_] Introduction about crop improvement, __[Canvas materials]__ 
-- 1-16 (Thu): [_Guest Lecture_] A basic tutorial on HCC, [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc usage](https://jyanglab.com/2018-09-06-hcc/)]
+- 1-14 (Tue): [_Lecture_] Introduction about crop improvement 
+  - __[Canvas materials]__ 
+- 1-16 (Thu): [_Guest Lecture_] A basic tutorial on HCC 
+  - [[hcc doc](https://hcc.unl.edu/docs/)]
+  - [[hcc usage](https://jyanglab.com/2018-09-06-hcc/)]
 
 
 ----------
