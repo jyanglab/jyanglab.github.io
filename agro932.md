@@ -39,14 +39,18 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 1**: Introduction and Overview
 - 1-14 (Tue): [_Lecture_] Introduction about crop improvement 
   - __[Canvas materials]__ 
-- 1-16 (Thu): [_Guest Lecture_] A basic tutorial on HCC 
-  - [[hcc doc](https://hcc.unl.edu/docs/)]
-  - [[hcc usage](https://jyanglab.com/2018-09-06-hcc/)]
+- 1-16 (Thu): [_Guest Lecture/Lab_] A basic tutorial on HCC 
+  - [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]
 
 ----------------
 
 ## Part 1. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
+### **Week 2**: Experimental design for selection scan
+- 1-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
+  - __[Canvas materials]__ 
+- 1-23 (Thu): [_Lab_] Research project management [[HTML](https://jyanglab.com/AGRO-932/a1.2-lab/proj_managment.html)] 
+  - []
 
 ----------
 
