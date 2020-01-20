@@ -43,6 +43,10 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[hcc doc](https://hcc.unl.edu/docs/)]
   - [[hcc usage](https://jyanglab.com/2018-09-06-hcc/)]
 
+----------------
+
+## Part 1. Population Genomics: Crop Domestication and Implications for Plant Breeding
+
 
 ----------
 
@@ -63,7 +67,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week15**: 
 
-- 4-23 (Thu): [__Due date for final paper__]
+- 4-23 (Thu): [__Due date for final paper and final code__]
 
 ### **Week16**: 
 - 4-28 (Tue): [__Final project presentation__]
