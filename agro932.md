@@ -49,16 +49,30 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 2**: Experimental design for selection scan
 - 1-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
   - __[Canvas materials]__ 
-- 1-23 (Thu): [_Lab_] Research project management [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/proj_managment.html#1)] 
+- 1-23 (Thu): [_Lab_] Research project management 
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/proj_managment.html#1)] 
 
 ----------
+
+## Part 2. Conventional Breeding: Mating Design and Heritability Estimation
+
+
+---------------------
+
+## Part 3. Genome-enabled Breeding
+
+
+---------------------
+
+## Part 4. Emerging Techonologies in Plant Breeding
+
 
 ## Important dates:
 
 ### **Week 8**: 
 - 3-5 (Thu): [__Due date for Mid-term paper__]
 
-### **Week 10**: 
+### **Week 10**: Genotype x environment
 - 3-19 (Thu): [__Due date for Mid-term paper review__]
 
 ----------
