@@ -37,9 +37,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 1-14 (Tue): [_Lecture_] Introduction about crop improvement 
+- 01-14 (Tue): [_Lecture_] Introduction about crop improvement 
   - __[Canvas materials]__ 
-- 1-16 (Thu): [_Guest Lecture/Lab_] A basic tutorial on HCC 
+- 01-16 (Thu): [_Guest Lecture/Lab_] A basic tutorial on HCC 
   - [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]
 
 ----------------
@@ -47,10 +47,17 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Part 1. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
 ### **Week 2**: Experimental design for selection scan
-- 1-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
+- 01-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
   - __[Canvas materials]__ 
-- 1-23 (Thu): [_Lab_] Research project management 
+- 01-23 (Thu): [_Lab_] Research project management 
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/proj_managment.html#1)] 
+
+### **Week 3**: Next-generation sequencing and diversity measurement 
+
+- 01-28 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
+  - __[Hahn 2019, Chapter 4]__ and __[Canvas materials]__
+- 01-30 (Thu): [_Lecture_] Command line and Slurm job submission
+  - [HTML]
 
 ----------
 
