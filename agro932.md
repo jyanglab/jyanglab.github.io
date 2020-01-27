@@ -55,8 +55,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 3**: Next-generation sequencing and diversity measurement 
 
 - 01-28 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
-  - __[Hahn 2019, Chapter 4]__ and __[Canvas materials]__
-- 01-30 (Thu): [_Lecture_] Command line and Slurm job submission
+  - __[Hahn 2019, Chapter 4]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
+- 01-30 (Thu): [_Lab_] Command line and Slurm job submission
   - [HTML]
 
 ----------
@@ -66,7 +67,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-## Part 3. Genome-enabled Breeding
+## Part 3. Genome-enabled Breeding and GWAS
 
 
 ---------------------
