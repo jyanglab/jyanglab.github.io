@@ -1,5 +1,6 @@
 ---
 layout: page
+css: "/css/pub.css"
 title: AGRO-932 Biometrical genetics and plant breeding
 ---
 
@@ -58,7 +59,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Hahn 2019, Chapter 4]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
 - 01-30 (Thu): [_Lab_] Command line and Slurm job submission
-  - [HTML]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
 
 ----------
 
