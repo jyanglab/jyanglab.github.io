@@ -7,7 +7,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 - Spring 2020 [Syllabus](img/Syllabus_AGRO932.pdf)
 - **Location**: Plant Sciences Hall (room 272)
-- **Time**: Tuesday and Thursday 9:00-10:15am
+- **Time**: Tuesday and Thursday 9:00-10:15 am
+- **Office Hour**: Thursday 10:15-11:00 am 
 - **Prerequisites**: 
   - AGRO 815A, 815B, and 815D, 
   - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/), 
@@ -60,6 +61,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
 - 01-30 (Thu): [_Lab_] Command line and Slurm job submission
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+
+### **Week 4**: Population differentiation
+- 02-04 (Tue): [_Lecture_] Measuring population differentiation and assigning individuals to populations
+ - __[Hahn 2019, Chapter 5]__
+ - [HTML]
+- 02-06 (Thu): [_Lab_] Calculate $theta$ and $F_{st}$ using ANGSD
+  - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
 
 ----------
 
