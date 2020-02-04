@@ -63,7 +63,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
 
 ### **Week 4**: Population differentiation
-- 02-04 (Tue): [_Lecture_] Measuring population differentiation and assigning individuals to populations
+- 02-04 (Tue): [_Lecture_] Measuring population differentiation
   - __[Hahn 2019, Chapter 5]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c5_pops.html#1)]
 - 02-06 (Thu): [_Lab_] Calculate Theta and Fst using ANGSD
