@@ -66,6 +66,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-04 (Tue): [_Lecture_] Measuring population differentiation and assigning individuals to populations
   - __[Hahn 2019, Chapter 5]__
   - [HTML]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c5_pops.html#1)]
 - 02-06 (Thu): [_Lab_] Calculate Theta and Fst using ANGSD
   - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
 
