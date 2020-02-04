@@ -18,7 +18,7 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 ### 2020
 
-C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, _Plant Phenomics_, 2020. 
+C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, _Plant Phenomics_, 2020.   
 [10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) 
 
 
