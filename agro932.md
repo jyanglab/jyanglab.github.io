@@ -70,6 +70,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
 
+### **Week 5**: Scan for direct selection
+- 02-11 (Tue): [_Lecture_] Direct selection
+  - __[Hahn 2019, Chapter 7]__
+  - [HTML]
+- 02-13 (Thu): [_Lab_] 
+
 ----------
 
 ## Part 2. Conventional Breeding: Mating Design and Heritability Estimation
