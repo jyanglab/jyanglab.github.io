@@ -76,27 +76,25 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [HTML]
 - 02-13 (Thu): [_Lab_] 
 
+### **Week 6**: Linked selection
+- 02-18 (Tue): [_Lecture_] Linked selection
+  - __[Hahn 2019, Chapter 8]__
+  - [HTML]
+- 02-20 (Thu): [_Lab_] 
+  - __[HW1 Due]__
+
 ----------
 
 ## Part 2. Conventional Breeding: Mating Design and Heritability Estimation
 
+### **Week 7**: Phenotypic and genetic variance
 
----------------------
-
-## Part 3. Genome-enabled Breeding and GWAS
-
-
----------------------
-
-## Part 4. Emerging Techonologies in Plant Breeding
-
-
-## Important dates:
-
-### **Week 8**: 
+### **Week 8**: Mating designs and Estimating Genetic Variances
 - 3-5 (Thu): [__Due date for Mid-term paper__]
 
-### **Week 10**: Genotype x environment
+### **Week 9**: Inbred and testcross selection
+
+### **Week 10**: Genotype x environment interaction
 - 3-19 (Thu): [__Due date for Mid-term paper review__]
 
 ----------
@@ -104,7 +102,20 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week11**: 
 - 3-22 to 3-29: __Spring Break__
 
----------
+---------------------
+
+## Part 3. Genome-enabled Breeding and GWAS
+
+### **Week 12**: Best linear unbiased prediction
+
+### **Week 13**: Genome-enabled selection
+
+### **Week 14**: Association mapping via mixed models
+
+
+---------------------
+
+## Part 4. Emerging Techonologies in Plant Breeding
 
 ### **Week15**: 
 
