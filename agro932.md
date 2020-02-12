@@ -46,7 +46,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ----------------
 
-## Part 1. Population Genomics: Crop Domestication and Implications for Plant Breeding
+## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
 ### **Week 2**: Experimental design for selection scan
 - 01-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
@@ -75,7 +75,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Hahn 2019, Chapter 7]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c7_direct_sel.html#1)]
 - 02-13 (Thu): [_Lab_] Visualize theta Fst results
-  - __[[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w5lab.html#1)]__
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w5lab.html#1)]
   - Basic R tutorial: [[Quick-R](https://www.statmethods.net/)] and [[RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)]
 
 ### **Week 6**: Linked selection
@@ -87,7 +87,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ----------
 
-## Part 2. Conventional Breeding: Mating Design and Heritability Estimation
+## Part II. Conventional Breeding: Mating Design and Heritability Estimation
 
 ### **Week 7**: Phenotypic and genetic variance
 
@@ -106,7 +106,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-## Part 3. Genome-enabled Breeding and GWAS
+## Part III. Genome-enabled Breeding and GWAS
 
 ### **Week 12**: Best linear unbiased prediction
 
@@ -117,7 +117,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-## Part 4. Emerging Techonologies in Plant Breeding
+## Part IV. Emerging Techonologies in Plant Breeding
 
 ### **Week15**: 
 
