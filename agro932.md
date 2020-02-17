@@ -81,7 +81,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 6**: Linked selection
 - 02-18 (Tue): [_Lecture_] Linked selection
   - __[Hahn 2019, Chapter 8]__
-  - [HTML]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c8_linked_sel.html#1)]
 - 02-20 (Thu): [_Lab_] 
   - __[HW1 Due]__
 
