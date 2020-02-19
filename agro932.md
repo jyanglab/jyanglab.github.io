@@ -82,8 +82,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-18 (Tue): [_Lecture_] Linked selection
   - __[Hahn 2019, Chapter 8]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c8_linked_sel.html#1)]
-- 02-20 (Thu): [_Lab_] 
+- 02-20 (Thu): [_Lab_] Breaking down theta statistics into genomic features
   - __[HW1 Due]__
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w6lab.html#1)]
 
 ----------
 
