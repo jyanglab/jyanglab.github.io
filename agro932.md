@@ -91,14 +91,22 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Part II. Conventional Breeding: Mating Design and Heritability Estimation
 
 ### **Week 7**: Phenotypic and genetic variance
+- 02-25 (Tue): [_Lecture_]
+- 02-27 (Thu): [_Lab_] Rmarkdown and research report
 
 ### **Week 8**: Mating designs and Estimating Genetic Variances
-- 3-5 (Thu): [__Due date for Mid-term paper__]
+- 03-03 (Tue): [_Lecture_]
+- 03-05 (Thu): [_Lab_]
+  - [__Due date for Mid-term paper__]
 
 ### **Week 9**: Inbred and testcross selection
+- 03-10 (Tue): [_Lecture_]
+- 03-12 (Thu): [_Lab_]
 
 ### **Week 10**: Genotype x environment interaction
-- 3-19 (Thu): [__Due date for Mid-term paper review__]
+- 03-17 (Tue): [_Lecture_]
+- 03-19 (Thu): [_Lab_]
+  - [__Due date for Mid-term paper review__]
 
 ----------
 
