@@ -90,9 +90,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ## Part II. Conventional Breeding: Mating Design and Heritability Estimation
 
-### **Week 7**: Phenotypic and genetic variance
-- 02-25 (Tue): [_Lecture_]
-- 02-27 (Thu): [_Lab_] Rmarkdown and research report
+### **Week 7**: Transition from PopGen to QuantGen
+- 02-25 (Tue): [_Lecture_] Definition of breeding populations
+  - __[Bernardo, Chapter 2]__
+  - [HMTL]
+- 02-27 (Thu): 
 
 ### **Week 8**: Mating designs and Estimating Genetic Variances
 - 03-03 (Tue): [_Lecture_]
