@@ -93,9 +93,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 7**: Transition from PopGen to QuantGen
 - 02-25 (Tue): [_Lecture_] Definition of breeding populations
   - __[Bernardo, Chapter 2]__
-  - [[HMTL](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex1_plant_breeding.html#1)]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex1_plant_breeding.html#1)]
 - 02-27 (Thu): Research reporting
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w7lab.html)] and [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w7lab.html)] and [[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)]
 
 ### **Week 8**: Mating designs and Estimating Genetic Variances
 - 03-03 (Tue): [_Lecture_]
