@@ -97,18 +97,21 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-27 (Thu): [_Lab_] Research reporting
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w7lab.html)] and [[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)]
 
-### **Week 8**: Mating designs and Estimating Genetic Variances
-- 03-03 (Tue): [_Lecture_]
-- 03-05 (Thu): [_Lab_]
+### **Week 8**: Breeding population means and variances
+- 03-03 (Tue): [_Lecture_] Phenotypic and genotypic values
+  - __[Bernardo, Chapter 2]__ or __[[ARGO-931, Ch.7](https://jyanglab.com/AGRO-931/)]__
+  - [HTML]
+- 03-05 (Thu): [_Lecture_] Phenotypic and genetic variances
+  - __[Bernardo, Chapter 6]__ or __[[ARGO-931, Ch.8 and Ch.9](https://jyanglab.com/AGRO-931/)]__
   - [__Due date for Mid-term paper__]
 
-### **Week 9**: Inbred and testcross selection
+### **Week 9**: Mating designs and Estimating Genetic Variances
 - 03-10 (Tue): [_Lecture_]
-- 03-12 (Thu): [_Lab_]
+- 03-12 (Thu): [_Guest Lab_]
 
 ### **Week 10**: Genotype x environment interaction
-- 03-17 (Tue): [_Lecture_]
-- 03-19 (Thu): [_Lab_]
+- 03-17 (Tue): [_Guest Lecture_]
+- 03-19 (Thu): [_Guest Lab_]
   - [__Due date for Mid-term paper review__]
 
 ----------
