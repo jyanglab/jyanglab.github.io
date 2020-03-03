@@ -100,7 +100,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 8**: Breeding population means and variances
 - 03-03 (Tue): [_Lecture_] Phenotypic and genotypic values
   - __[Bernardo, Chapter 3]__ or [[ARGO-931, Ch.7](https://jyanglab.com/AGRO-931/)]
-  - [HTML]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex2_value.html#1)]
 - 03-05 (Thu): [_Lecture_] Phenotypic and genetic variances
   - __[Bernardo, Chapter 6]__ or [[ARGO-931, Ch.8 and Ch.9](https://jyanglab.com/AGRO-931/)]
   - [__Due date for Mid-term paper__]
