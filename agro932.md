@@ -103,6 +103,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex2_value.html#1)]
 - 03-05 (Thu): [_Lecture_] Phenotypic and genetic variances
   - __[Bernardo, Chapter 6]__ or [[ARGO-931, Ch.8 and Ch.9](https://jyanglab.com/AGRO-931/)]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
   - [__Due date for Mid-term paper__]
 
 ### **Week 9**: Mating designs and Estimating Genetic Variances
