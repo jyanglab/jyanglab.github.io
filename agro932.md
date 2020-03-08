@@ -107,8 +107,10 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [__Due date for Mid-term paper__]
 
 ### **Week 9**: Mating designs and Estimating Genetic Variances
-- 03-10 (Tue): [_Lecture_]
-- 03-12 (Thu): [_Guest Lab_]
+- 03-10 (Tue): [_Lecture_] Mating design
+  - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
+  - [[HTML]()]
+- 03-12 (Thu): [_Lab_]
 
 ### **Week 10**: Genotype x environment interaction
 - 03-17 (Tue): [_Guest Lecture_]
