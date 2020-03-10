@@ -109,7 +109,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 9**: Mating designs and Estimating Genetic Variances
 - 03-10 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
-  - [[HTML]()]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex7_mating.html#1)]
 - 03-12 (Thu): [_Lab_]
 
 ### **Week 10**: Genotype x environment interaction
