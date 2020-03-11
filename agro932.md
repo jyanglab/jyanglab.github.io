@@ -110,7 +110,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 03-10 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex7_mating.html#1)]
-- 03-12 (Thu): [_Lab_]
+- 03-12 (Thu): [_Lab_] Genetics variances calculation
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w9lab.html#1)]
 
 ### **Week 10**: Genotype x environment interaction
 - 03-17 (Tue): [_Guest Lecture_]
