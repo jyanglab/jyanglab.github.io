@@ -9,9 +9,12 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 10 ] (409 citations as of Feb, 2020)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 10 ] (426 citations as of Mar, 2020)  
 
 ### Preprints
+
+S.Deng, D.Caddell, __J. Yang__, L. Dahlen, L. Washington, D.Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, _bioRxiv_, 2020.  
+[10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) 
 
 C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __J. Yang__, and J. C. Schnable, __Simulated plant images improve maize leaf counting accuracy__, _bioRxiv_, 2019.  
 [10.1101/706994](https://www.biorxiv.org/content/10.1101/706994v1) 
@@ -32,7 +35,7 @@ H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. 
 [10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) 
 
 C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, _Plant Biotechnology Journal_, 2019.  
-[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 5](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
+[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 6](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
 
 
 ### 2018
@@ -42,11 +45,11 @@ R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kan
 [10.1016/j.niox.2018.09.004](https://www.sciencedirect.com/science/article/pii/S1089860318300958) | [cited 1](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2779353440279278968&as_sdt=5)
 
 __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. DekkersD. J. Garrick, D. Nettleton and P. S. Schnable, __Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__, _G3: Genes Genomes Genetics_, 2018.  
-[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)| [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996399093583901645&as_sdt=5)
+[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) | [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)| [cited 3](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996399093583901645&as_sdt=5)
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__, _G3: Genes Genomes Genetics_, 2018.  
-[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 3](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
+[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 7](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
 
 
 
@@ -54,10 +57,10 @@ C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tan
 [10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) | [cited 4](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__, *New Phytologist*, 2018.  
-[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 25](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
+[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 26](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__, *PLOS Genetics*, 2018.  
-[10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) | [preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [cited 28](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
+[10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) | [preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [cited 29](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
 
 
 ### 2017
@@ -66,10 +69,10 @@ H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettl
 [10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 17](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
-[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 45](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
+[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 46](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017.   
-[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 28](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
+[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 30](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
  [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  5 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= 11 &as_sdt=5)
@@ -77,13 +80,13 @@ J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and 
 ### 2015
 
 __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, __Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel__, _The Plant Journal_, 2015.  
-[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) | [cited 50](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
+[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) | [cited 51](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__, _Nature Genetics_, 2015.  
-[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 122](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [cited 125](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, _Nature Communications_, 2015.  
-[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 37](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [cited 38](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
 
 
 ### 2014 and Before
