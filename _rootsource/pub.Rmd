@@ -39,7 +39,7 @@ bob <- bob[order(bob$year, decreasing=T),]
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
-"S.Deng, D.Caddell, __J. Yang__, L. Dahlen, L. Washington, D.Coleman-Derr, ",
+"S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, ",
 "__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, ",
 "_bioRxiv_, 2020.  \n",
 "[10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) "
