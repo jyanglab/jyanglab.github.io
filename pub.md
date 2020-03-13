@@ -13,7 +13,7 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
-S.Deng, D.Caddell, __J. Yang__, L. Dahlen, L. Washington, D.Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, _bioRxiv_, 2020.  
+S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, _bioRxiv_, 2020.  
 [10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) 
 
 C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __J. Yang__, and J. C. Schnable, __Simulated plant images improve maize leaf counting accuracy__, _bioRxiv_, 2019.  
