@@ -4,6 +4,17 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+
+### Feb., 2020
+
+Eric Rodene gave a presentation about plot-level time-series aerial imagary data analysis at the Phenome2020 conference. Way to go Eric!
+
+<p align="center">
+  <img src="https://i.imgur.com/yYxOB3s.png">
+</p>
+
+
+
 ### Nov., 2019
 
 - Welcome Xuerong as a visiting scholar from Shandong Ag Unviersity to visit the lab.
