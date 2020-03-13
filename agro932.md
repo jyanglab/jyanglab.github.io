@@ -113,7 +113,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 03-12 (Thu): [_Lab_] Genetics variances calculation
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w9lab.html)]
 
-### ~~**Week 10**: Genotype x environment interaction~~ Class canceled due to the Coronavirus
+### ~~**Week 10**: Genotype x environment interaction~~ Class cancelled due to the Coronavirus
 - ~~03-17 (Tue): [_Guest Lecture_]~~
 - ~~03-19 (Thu): [_Guest Lab_]~~
   - [__Due date for Mid-term paper review__]
