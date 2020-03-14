@@ -10,7 +10,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 - Eric Rodene gave a presentation at the Phenome2020 conference talking about plot-level time-series aerial imagary data processing. Way to go Eric!
 
 <p align="center">
-  <img width="400" height="300" src="https://i.imgur.com/yYxOB3s.png">
+  <img height="300" src="https://i.imgur.com/yYxOB3s.png">
 </p>
 
 
