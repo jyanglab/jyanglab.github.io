@@ -136,11 +136,19 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-02 (Thu): [_Lab_] BLUP calculation for breeding populations
   - [[HTML]()]
 
-
 ### **Week 13**: Genome-enabled selection
-
+- 04-07 (Tue): [_Lecture_] Genomic selection
+  - __[Bernardo, Chapter 11]__ 
+  - [[HTML]()]
+- 04-09 (Thu): [_Lab_] BLUP calculation for breeding populations
+  - [[HTML]()]
+  
 ### **Week 14**: Association mapping via mixed models
-
+- 04-14 (Tue): [_Lecture_] Genome-wide association study
+  - __[Bernardo, Chapter 11]__ 
+  - [[HTML]()]
+- 04-16 (Thu): [_Lab_] 
+  - [[HTML]()]
 
 ---------------------
 
