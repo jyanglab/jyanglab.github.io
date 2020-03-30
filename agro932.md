@@ -132,8 +132,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 12**: Best linear unbiased prediction
 - 03-31 (Tue): [_Lecture_] BLUP introduction and Matrix operations
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
-  - [[HTML]()]
-- 04-02 (Thu): [_Lab_] BLUP calculation for breeding populations
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup.html)]
+- 04-02 (Thu): [_Lecture_] BLUP calculation for breeding populations
   - [[HTML]()]
 
 ### **Week 13**: Genome-enabled selection
