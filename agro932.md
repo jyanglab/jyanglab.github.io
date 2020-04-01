@@ -134,7 +134,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup.html)]
 - 04-02 (Thu): [_Lecture_] BLUP calculation for breeding populations
-  - [[HTML]()]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup2.html)]
 
 ### **Week 13**: Genome-enabled selection
 - 04-07 (Tue): [_Lecture_] Genomic selection
