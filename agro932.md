@@ -139,9 +139,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 13**: Genome-enabled selection
 - 04-07 (Tue): [_Lecture_] Genomic selection
   - __[Bernardo, Chapter 11]__ 
-  - [[HTML]()]
-- 04-09 (Thu): [_Lab_] BLUP calculation for breeding populations
-  - [[HTML]()]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs1.html)]
+- 04-09 (Thu): [_Lab_] Genomic selection in practice
+  - __[Canvas materials]__ and [[HTML]()]
   
 ### **Week 14**: Association mapping via mixed models
 - 04-14 (Tue): [_Lecture_] Genome-wide association study
