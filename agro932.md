@@ -141,7 +141,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 11]__ 
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs1.html)]
 - 04-09 (Thu): [_Lab_] Genomic selection in practice
-  - __[Canvas materials]__ and [[HTML]()]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs2.html)]
   
 ### **Week 14**: Association mapping via mixed models
 - 04-14 (Tue): [_Lecture_] Genome-wide association study
