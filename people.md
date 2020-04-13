@@ -166,7 +166,22 @@ Office: PLSH 377L.
 
 <div class="clearfix"></div>
 
+-----------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/LS3YOn0.jpg" alt="Mike" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Michael Meier</b> is a PhD student in the department of Ag/Hort, working on microbiome GWAS.
+</div>
+
+
+<div class="clearfix"></div>
 ------------
 
 <div class="responsive">
