@@ -146,7 +146,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 14**: Association mapping via mixed models
 - 04-14 (Tue): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__ 
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
 - 04-16 (Thu): [_Lab_] GWAS in practice
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
 
