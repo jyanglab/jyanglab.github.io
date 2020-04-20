@@ -147,9 +147,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-14 (Tue): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__ 
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
-- 04-16 (Thu): [_Lab_] GWAS in practice
+- 04-16 (Thu): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
 
+- 04-21 (Tue): [_Lab2_] GWAS in practice (2)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
+  
 ---------------------
 
 ## Part IV. Emerging Techonologies in Plant Breeding
