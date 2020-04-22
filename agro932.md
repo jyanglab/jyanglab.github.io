@@ -155,11 +155,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
   
 ---------------------
 
-## Part IV. Emerging Techonologies in Plant Breeding
+## Part IV. Emerging Technologies in Plant Breeding
 
 ### **Week15**: 
 
-- 4-23 (Thu): [__Due date for final paper and final code__]
+- 4-23 (Thu): Summary and emerging technologies
+  - [__Due date for final paper and final code__]
+  - __[Slides in Canvas]__
+  - HW Keys: [[HTML]()]
 
 ### **Week16**: 
 - 4-28 (Tue): [__Final project presentation__]
