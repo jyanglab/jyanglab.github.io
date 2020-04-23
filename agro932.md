@@ -162,7 +162,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 4-23 (Thu): Summary and emerging technologies
   - [__Due date for final paper and final code__]
   - __[Slides in Canvas]__
-  - HW Keys: [[HTML]()]
+  - HW Keys: [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w15_hw_keys.html)]
 
 ### **Week16**: 
 - 4-28 (Tue): [__Final project presentation__]
