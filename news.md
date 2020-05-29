@@ -5,6 +5,12 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
 
+### May, 2020
+
+- Our lab teams up with van Dijk lab and other labs at UNL to initiate a Summer outreach project: [The Nebraska Remote Researchers](https://www.ner2.org/). Graduate student Michael Meier developed the experiment details. See the [news release here](https://epscor.nebraska.edu/media/news-and-events/news/2020/announcing-summer-2020-youth-remote-researchers-in-plant-science) and the brief description below.
+- “Plant scientists and Microbiologists at the University of Nebraska-Lincoln are recruiting motivated high school students from across Nebraska to get involved in and contribute to a hypothesis-driven research project on plants and their root-associated microbes: the NE Remote Researchers Project --- exploring the Crop Root Microbiomes in Your Backyard. This is a great opportunity for a student who likes science, especially plant and microbial science, and is interested in connecting to a dynamic research team at the University of Nebraska-Lincoln. To learn more about this opportunity and to apply to participate please go to the project website: [www.ner2.org](www.ner2.org). In a nutshell, students will grow some corn and sorghum plants for a six-week period, collect data on these plants and ultimately dig up the roots to collect samples which will be analyzed at UNL to identify the microbiome (the collection of microorganisms) associated with these roots. Students will also learn to isolate a select set of microorganisms known as nitrogen fixers.  Please act fast! The registration opens June 1st and will close June 12nd so the project can start on June 15th.
+
+
 ### Feb., 2020
 
 - Eric Rodene gave a presentation at the Phenome2020 conference talking about plot-level time-series aerial imagary data processing. Way to go Eric!

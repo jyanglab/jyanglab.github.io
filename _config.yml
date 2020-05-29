@@ -34,8 +34,8 @@ navbar-links:
     - Lab Blog: "labdoc/index"
     #- Lab Tutorial: "JYang-Lab-tutorial"
     #- Learn markdown: "http://www.markdowntutorial.com/"
-    - ZeaBigData: "https://zeabigdata.org/"
-    - CGMonline: "https://cgmonline.co/"
+    #- ZeaBigData: "https://zeabigdata.org/"
+    #- CGMonline: "https://cgmonline.co/"
 nav-search: "search"
 #Lab Doc: "random/index"
 
