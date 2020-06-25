@@ -31,6 +31,12 @@ bigimg:
 
 
 
+
+
+<div class="clearfix"></div>
+
+------------
+
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -43,10 +49,6 @@ bigimg:
 <b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. 
 Office: PLSH 383.
 </div>
-
-<div class="clearfix"></div>
-
-------------
 
 <div class="responsive">
   <div class="img">
@@ -61,17 +63,8 @@ Office: PLSH 383.
 Office: PLSH 383.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/EJVvHgZ.jpg?1" alt="Eric Rodene" width="300" height="400">
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. Office: PLSH 383.
-</div>
+
 <div class="clearfix"></div>
 
 ------------
@@ -109,7 +102,17 @@ Office: Keim 162.
 
 ------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/EJVvHgZ.jpg?1" alt="Eric Rodene" width="300" height="400">
+    </a>
+  </div>
+</div>
 
+<div class="responsive">
+<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. Office: PLSH 383.
+</div>
 
 <div class="responsive">
   <div class="img">
@@ -123,18 +126,6 @@ Office: Keim 162.
 <b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/Dzpcdjd.png" alt="Maribeth Milner" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Maribeth Milner</b> is a GIS specialist. 
-Office: PLSH 377L.
-</div>
 
 <div class="clearfix"></div>
 
@@ -231,11 +222,11 @@ Office: PLSH 377L.
 
 
 
-
 -------------------------
 
 ## Lab Alumni
 
+- **Maribeth Milner**: a GIS specialist in the Department.
 - **Madelyn Calvert**: undergraduate student majored in Biochemistry & Psychology at UNL.
 - **Briana Kouma**: undergraduate student at UNL.
 - **Jessica Chen**: high school student in Lincoln East High.
