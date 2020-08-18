@@ -38,10 +38,10 @@ Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __Genome-wide identification and analysis of heterotic loci in three maize hybrids__, _Plant Biotechnology Journal_, 2019.  
-[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) | [cited 10](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
+[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) | [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734942197146441439&as_sdt=5)
 
 C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, _Plant Biotechnology Journal_, 2019.  
-[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734942197146441439&as_sdt=5)
+[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 10](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
 
 
 ### 2018
