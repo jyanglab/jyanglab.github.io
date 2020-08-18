@@ -122,7 +122,7 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+pid <- bob[bob$pubid=="3htObqc8RwsC",]
 cat(paste0(
 "H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, ",
 "__Genome-wide identification and analysis of heterotic loci in three maize hybrids__,",
@@ -136,7 +136,7 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="3htObqc8RwsC",]
+pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "C. Miao, __J. Yang__, J. C. Schnable, ",
 "__Optimizing the identification of causal variants across varying genetic architectures in crops__,",
