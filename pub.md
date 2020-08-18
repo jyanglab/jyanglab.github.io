@@ -13,7 +13,7 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
-__Michael A. Meier__, Martha G. Lopez-Guerrero, Ming Guo, Marty R. Schmer, Joshua R. Herr, James C. Schnable, James R. Alfano, __Jinliang Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _bioRxiv_, 2020.  
+__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _bioRxiv_, 2020.  
 [10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) 
 
 __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __Adaptive evolution of DNA methylation reshaped gene regulation in maize__, _bioRxiv_, 2020.  
@@ -28,20 +28,20 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 ### 2020
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, _Plant Phenomics_, 2020.   
-[10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) 
+[10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) | [cited 4](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
 
 
 ### 2019
 
 Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, __High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel__, _Plant Methods_, 2019.  
-[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) 
+[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) | [cited 13](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __Genome-wide identification and analysis of heterotic loci in three maize hybrids__, _Plant Biotechnology Journal_, 2019.  
-[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) 
+[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) | [cited 10](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
 
 C. Miao, __J. Yang__, J. C. Schnable, __Optimizing the identification of causal variants across varying genetic architectures in crops__, _Plant Biotechnology Journal_, 2019.  
-[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 10](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
+[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) | [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [cited 2](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734942197146441439&as_sdt=5)
 
 
 ### 2018
