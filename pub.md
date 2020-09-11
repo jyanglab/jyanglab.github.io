@@ -13,6 +13,10 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
+__J. Li__, D. Cheng, S. Guo, __Z. Yang__, M. Chen, C. Chen, Y. Jiao, W. Li, C. Liu, Y. Zhong, X. Qi, 
+__J. Yang__, Shaojiang Chen, __Genomic selection to optimize doubled haploid-based hybrid breeding in maize__, _bioRxiv_, 2020.  
+[10.1101/2020.09.08.287672](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
+
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _bioRxiv_, 2020.  
 [10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) 
 
