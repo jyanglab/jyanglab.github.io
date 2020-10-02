@@ -6,7 +6,7 @@ title: Teaching
 
 ### FALL 2020
 
-- __[ANS/AGRO-931](https://jyanglab.com/agro931): Population Genetics__
+- __[ANS/AGRO-931](/agro931): Population Genetics__
   - Team teach with Dr. Jessica Petersen
   - In this classical population genetics class, students will build on the theoretical concepts to develop breeding strategies for plant and animal improvement. Those who work with natural populations will also get the necessary principles to understand variation and to develop strategies to maintain the genetic variation.
 
@@ -17,7 +17,7 @@ title: Teaching
 
 ### Spring 2020
 
-- __[ANS/AGRO-932](https://jyanglab.com/agro932): Biometrical Genetics and Plant Breeding__
+- __[ANS/AGRO-932](/agro932): Biometrical Genetics and Plant Breeding__
   - The goal of this course is to apply biometrical methods to connect the phenotypic traits with high-dimensional genomic data to better understand polygenic traits for both prediction (or plant breeding) and inference (for gene mapping) purposes. 
 
 - __LIFE-891-003: Complex Biosystems Seminar__

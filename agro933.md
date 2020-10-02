@@ -1,9 +1,8 @@
 ---
 layout: page
 css: "/css/pub.css"
-title: "ANS/AGRO-931 Population Genetics"
----  
-
+title: AGRO/ASCI 931: Population Genetics
+---
 
 
 - Fall 2020 [Syllabus](ASCI931_2019Syllabus.pdf)
@@ -21,10 +20,7 @@ title: "ANS/AGRO-931 Population Genetics"
   <img src="https://i.imgur.com/ZHwjtm7.png?1">
 </p>
 
-<!--
 - [Population Genetics notes](https://gcbias.org/population-genetics-notes/) by [Graham Coop](https://gcbias.org/).
--->
-
 - [Basic R](https://www.statmethods.net/): Quick online reference for data input, basic statistics, and plots.
 - [STHDA](http://www.sthda.com/english/): Statistical tools for high-throughput data analysis.
 
