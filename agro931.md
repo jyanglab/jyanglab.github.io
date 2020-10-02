@@ -4,12 +4,14 @@ css: "/css/pub.css"
 title: AGRO/ASCI 931: Population Genetics
 ---
 
+# AGRO/ASCI 931: Population Genetics
+
 - Fall 2020 [Syllabus](ASCI931_2019Syllabus.pdf)
 - **Location**: Animal Science A130
-- **Time**: MWF 8:00-8:50am
-  - MW: in-person session
-  - F: on-line session
-- **Prerequisites**: AGRO 315 and	STAT 801 or equivalent, or permission of the instructor(s).
+- **Time**: 8:00-8:50am (MWF)
+  - (MW): in-person session
+  - (F): on-line session
+- **Prerequisites**: AGRO-315 and	STAT-801 or equivalent, or permission of the instructor(s).
 
 
 ## Texts and Reading Materials
@@ -27,11 +29,13 @@ title: AGRO/ASCI 931: Population Genetics
 
 ## Schedule
 
-<!--
-### **Ch.0**: Statistical Foundations [[Handouts](STAT-Notes_2019_updated.pdf)]
-- 10/23 (W): Probability and Statistics, [[HTML](chapters/Ch0/Ch0_c1.html#1)]
-- 10/25 (F): Covariance and Regression, [[HTML](chapters/Ch0/Ch0_c2.html#1)]
 
+### **Ch.0**: Statistical Foundations [[Handouts](STAT-Notes_2019_updated.pdf)]
+- 10/5 (M): Probability and Statistics, [[HTML](chapters/Ch0/Ch0_c1.html#1)]
+- 10/7 (W): Covariance and Regression, [[HTML](chapters/Ch0/Ch0_c2.html#1)]
+- 10/9 (F): Covariance and Regression, [[HTML]()]
+
+<!--
 ### **Ch.7**: Population values and means 
 - 10/28 (M): Average effect of an allele, [[HTML](chapters/Ch7/Chapter7_c1.html#1)]
 - 10/30 (W): Breeding value, [[HTML](chapters/Ch7/Chapter7_c2.html#1)]
