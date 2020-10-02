@@ -3,7 +3,6 @@ layout: page
 title: Teaching
 ---
 
-## UNL Courses
 
 ### FALL 2020
 
