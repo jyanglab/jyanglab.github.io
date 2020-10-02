@@ -34,7 +34,6 @@ bob <- bob[order(bob$year, decreasing=T),]
 
 ### Preprints
 
-
 ```{r, echo=FALSE, results="asis"}
 
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
