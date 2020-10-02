@@ -2,8 +2,9 @@
 layout: page
 css: "/css/pub.css"
 title: AGRO/ASCI 931: Population Genetics
----
+---  
 
+#
 
 - Fall 2020 [Syllabus](ASCI931_2019Syllabus.pdf)
 - **Location**: Animal Science A130
