@@ -1,15 +1,14 @@
 ---
 layout: page
 css: "/css/pub.css"
-title: "ANS/AGRO-931 Population Genetics"
+title: ANS/AGRO931 Population Genetics
 ---  
 
 
-
-- Fall 2020 [Syllabus](ASCI931_2019Syllabus.pdf)
-- **Location**: Animal Science A130
+- Fall 2020 ([Syllabus](https://jyanglab.com/AGRO-931/syllabus/ASCI931_2020Syllabus.pdf))
+- **Location**: Animal Science __A130__
 - **Time**: 8:00-8:50am (MWF)
-  - (MW): in-person session
+  - (MW): in-person session ([face covering policy](https://covid19.unl.edu/face-covering-policy))
   - (F): on-line session
 - **Prerequisites**: AGRO-315 and	STAT-801 or equivalent, or permission of the instructor(s).
 
@@ -33,8 +32,8 @@ title: "ANS/AGRO-931 Population Genetics"
 ## Schedule
 
 
-### **Ch.0**: Statistical Foundations [[Handouts](STAT-Notes_2019_updated.pdf)]
-- 10/5 (M): Probability and Statistics, [[HTML](chapters/Ch0/Ch0_c1.html#1)]
+### Statistical Foundations [[Handouts](/img/statfoundation2020.pdf)]
+- 10/5 (M): Probability and Statistics, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
 - 10/7 (W): Covariance and Regression, [[HTML](chapters/Ch0/Ch0_c2.html#1)]
 - 10/9 (F): Covariance and Regression, [[HTML]()]
 
@@ -103,6 +102,9 @@ title: "ANS/AGRO-931 Population Genetics"
 - 12/07 (F): Last class [[HTML](chapters/Ch21/Ch21-c5.html#1)], [[pdf](chapters/Ch21/Ch21_12-07-2018_F.pdf)]
 -->
 
+### **Exam III**
+- 11/06 (F): 8:00-9:00am (in-person)
+
 ### **Final exam**
-- 12/18 (W): 7:30-9:30am
+- 11/21 (S): 8:00-9:00am (in-person)
 
