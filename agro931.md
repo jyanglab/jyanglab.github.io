@@ -5,7 +5,7 @@ title: ANS/AGRO931 Population Genetics
 ---  
 
 
-- Fall 2020 ([Syllabus](https://jyanglab.com/AGRO-931/syllabus/ASCI931_2020Syllabus.pdf))
+- Fall 2020
 - **Location**: Animal Science __A130__
 - **Time**: 8:00-8:50am (MWF)
   - (MW): in-person session ([face covering policy](https://covid19.unl.edu/face-covering-policy))
@@ -32,10 +32,10 @@ title: ANS/AGRO931 Population Genetics
 ## Schedule
 
 
-### Statistical Foundations [[Handouts](/img/statfoundation2020.pdf)]
+### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and Statistics, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
 - 10/7 (W): Covariance and Regression, [[HTML](chapters/Ch0/Ch0_c2.html#1)]
-- 10/9 (F): Covariance and Regression, [[HTML]()]
+- 10/9 (F): R for basic quantiative genetics calculation, [[HTML]()]
 
 <!--
 ### **Ch.7**: Population values and means 
