@@ -31,11 +31,11 @@ title: ANS/AGRO931 Population Genetics
 
 ## Schedule
 
-__The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class.__
+_The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and Statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
-- 10/7 (W): Covariance and Regression [[HTML](chapters/Ch0/Ch0_c2.html#1)]
+- 10/7 (W): Covariance and Regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
 - 10/9 (F): R for basic quantiative genetics calculation [Zoom]
   - Basic [R syntax](https://www.statmethods.net/r-tutorial/index.html) 
 
