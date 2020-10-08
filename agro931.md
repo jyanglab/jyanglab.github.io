@@ -33,16 +33,17 @@ title: ANS/AGRO931 Population Genetics
 
 
 ### Statistical Foundations [Handouts in canvas]
-- 10/5 (M): Probability and Statistics, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
-- 10/7 (W): Covariance and Regression, [[HTML](chapters/Ch0/Ch0_c2.html#1)]
-- 10/9 (F): R for basic quantiative genetics calculation, [[HTML]()]
+- 10/5 (M): Probability and Statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
+- 10/7 (W): Covariance and Regression [[HTML](chapters/Ch0/Ch0_c2.html#1)]
+- 10/9 (F): R for basic quantiative genetics calculation [Zoom]
+
+
+### Population values and means [**F&M Ch.7**]
+- 10/12 (M): Average effect of an allele [[HTML]()]
+- 10/14 (W): Breeding value, Dominance, and Interaction [[HTML]()]
+- 10/16 (F): R for breeding value calculation [Zoom]
 
 <!--
-### **Ch.7**: Population values and means 
-- 10/28 (M): Average effect of an allele, [[HTML](chapters/Ch7/Chapter7_c1.html#1)]
-- 10/30 (W): Breeding value, [[HTML](chapters/Ch7/Chapter7_c2.html#1)]
-- 11/01 (F): Dominance and Interaction, [[HTML](chapters/Ch7/Chapter7_c3.html#1)]
-
 ### **Ch.8**: Genetic components of variance
 - 11/01 (F): Variance partitioning, [[HTML](chapters/Ch8/Ch8_c1.html#1)], [[HW1](hw/hw2019/AGRO_981_homework3.pdf)]
 - 11/04 (M): Variance partitioning (continuous), [[HTML](chapters/Ch8/Ch8_p2.html#1)]
