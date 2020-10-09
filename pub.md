@@ -8,7 +8,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 11 ] (533 citations as of Oct, 2020)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 11 ] (537 citations as of Oct, 2020)  
 
 ### Preprints
 
@@ -20,8 +20,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _bioRxiv_, 2020.  
 [10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) 
 
-__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __Adaptive evolution of DNA methylation reshaped gene regulation in maize__, _bioRxiv_, 2020.  
-[10.1101/2020.03.13.991117](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) 
+
 
 S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, _bioRxiv_, 2020.  
 [10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) 
@@ -30,6 +29,9 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 [10.1101/706994](https://www.biorxiv.org/content/10.1101/706994v1) 
 
 ### 2020
+
+__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __Evolutionary and functional genomics of DNA methylation in maize domestication and improvement__, Accepted, in press, 2020.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) | [Github](https://github.com/jyanglab/msfs_teo)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, _Plant Phenomics_, 2020.   
 [10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) | [cited 4](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
@@ -59,7 +61,7 @@ __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dek
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__, _G3: Genes Genomes Genetics_, 2018.  
-[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 11](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
+[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 12](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
 
 
 
@@ -67,7 +69,7 @@ C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tan
 [10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) | [Github](https://github.com/freemao/Genotype-Corrector) | [cited 6](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__, *New Phytologist*, 2018.  
-[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 30](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
+[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) | [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [cited 31](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__, *PLOS Genetics*, 2018.  
 [10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) | [preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [cited 37](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
@@ -79,13 +81,13 @@ H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettl
 [10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) | [cited 22](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__, *PLOS Genetics*, 2017.  
-[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 58](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
+[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) | [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [cited 59](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384,13365340134675261386&as_sdt=5)
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__, *PNAS*, 2017.   
 [10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) | [cited 35](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__, *Plant Science*, 2017.  
- [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  7 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= 12 &as_sdt=5)
+ [10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)  | [cited  8 ]( https://scholar.google.com/scholar?oi=bibs&hl=en&cites= 12 &as_sdt=5)
 
 ### 2015
 

@@ -64,19 +64,7 @@ cat(paste0(
 ))
 ```
 
-```{r, echo=FALSE, results="asis"}
 
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, ",
-"__Adaptive evolution of DNA methylation reshaped gene regulation in maize__, ",
-"_bioRxiv_, 2020.  \n",
-"[10.1101/2020.03.13.991117](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
@@ -105,6 +93,23 @@ cat(paste0(
 ```
 
 ### 2020
+
+```{r, echo=FALSE, results="asis"}
+
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, ",
+"__Evolutionary and functional genomics of DNA methylation in maize domestication and improvement__, ",
+"Accepted, in press, 2020.  \n",
+#"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
+#"| doi: 10.1371/journal.pgen.1007019 ",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) ",
+"| [Github](https://github.com/jyanglab/msfs_teo)"
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/134528 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 ```{r, echo=FALSE, results="asis"}
 pid <- bob[bob$pubid=="yqoGN6RLRZoC",]
