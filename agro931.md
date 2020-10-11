@@ -43,14 +43,18 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### Population values and means [**F&M Ch.7**]
 - 10/12 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
 - 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
-- 10/16 (F): R for breeding value calculation [Zoom]
+- 10/16 (F): R for breeding value interpretation [Zoom]
+
+
+### Genetic components of variance [**F&M Ch.8**]
+- 10/19 (M): Variance partitioning [HTML, __HW1__]
+- 10/21 (W): Heritability and Repeatability [HTML]
+- 10/23 (F): R for Heritability interpretation [Zoom]
+
+### **Exam III**
+- 11/06 (F): 8:00-9:00am (in-person)
 
 <!--
-### **Ch.8**: Genetic components of variance
-- 11/01 (F): Variance partitioning, [[HTML](chapters/Ch8/Ch8_c1.html#1)], [[HW1](hw/hw2019/AGRO_981_homework3.pdf)]
-- 11/04 (M): Variance partitioning (continuous), [[HTML](chapters/Ch8/Ch8_p2.html#1)]
-- 11/06 (W): Heritability and Repeatability, [[HTML](chapters/Ch8/Ch8_p3.html#1)]
-
 ### **Ch.9**: Resemblance between relatives
 - 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
 - 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
@@ -105,8 +109,6 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 12/07 (F): Last class [[HTML](chapters/Ch21/Ch21-c5.html#1)], [[pdf](chapters/Ch21/Ch21_12-07-2018_F.pdf)]
 -->
 
-### **Exam III**
-- 11/06 (F): 8:00-9:00am (in-person)
 
 ### **Final exam**
 - 11/21 (S): 8:00-9:00am (in-person)
