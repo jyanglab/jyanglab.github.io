@@ -45,27 +45,30 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
 - 10/16 (F): R for breeding value interpretation [Zoom]
 
-
+<!--
 ### Genetic components of variance [**F&M Ch.8**]
 - 10/19 (M): Variance partitioning [HTML, __HW1__]
 - 10/21 (W): Heritability and Repeatability [HTML]
 - 10/23 (F): R for Heritability interpretation [Zoom]
+-->
 
 ### **Exam III**
 - 11/06 (F): 8:00-9:00am (in-person)
 
 <!--
-### **Ch.9**: Resemblance between relatives
-- 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
-- 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
-- 11/13 (W): Environmental covariance,  [[HTML](chapters/Ch9/Ch9_c4.html#1)]
+###  Resemblance between relatives [**F&M Ch.9**]
+- 10/26 (M): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
+- 10/28 (W): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
+- 10/30 (F): Environmental covariance,  [[HTML](chapters/Ch9/Ch9_c4.html#1)]
+
+### Heritability [**F&M Ch.10**]
+- 11/02 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
+- 11/04 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
 
 ### __Exam III__:
-- __11/15 (F): 7:30-8:50__
+- __11/06 (F): 7:30-8:50__
 
-### **Ch.10**: Heritability
-- 11/18 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
-- 11/20 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
+
 
 ### **Ch.11**: Predicting response to selection
 - 11/22 (F): The breeder's equation, [[HTML](chapters/Ch11/Ch11_c1.html#1)]
