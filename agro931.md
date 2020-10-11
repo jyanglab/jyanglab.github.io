@@ -34,15 +34,15 @@ title: ANS/AGRO931 Population Genetics
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### Statistical Foundations [Handouts in canvas]
-- 10/5 (M): Probability and Statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
-- 10/7 (W): Covariance and Regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
+- 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
+- 10/7 (W): Covariance and regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
 - 10/9 (F): R for basic quantiative genetics calculation [Zoom, [lab1](https://jyanglab.com/AGRO-931/chapters/Ch0/lab1.html)]
   - Basic [R syntax](https://www.statmethods.net/r-tutorial/index.html) 
 
 
 ### Population values and means [**F&M Ch.7**]
-- 10/12 (M): Average effect of an allele [HTML]
-- 10/14 (W): Breeding value, Dominance, and Interaction [HTML]
+- 10/12 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
+- 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
 - 10/16 (F): R for breeding value calculation [Zoom]
 
 <!--
