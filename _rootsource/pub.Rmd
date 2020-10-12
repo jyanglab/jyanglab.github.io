@@ -103,7 +103,7 @@ cat(paste0(
 "Accepted, in press, 2020.  \n",
 #"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 #"| doi: 10.1371/journal.pgen.1007019 ",
-"[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) ",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) ",
 "| [Github](https://github.com/jyanglab/msfs_teo)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "

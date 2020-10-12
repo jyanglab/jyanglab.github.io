@@ -8,7 +8,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 11 ] (537 citations as of Oct, 2020)  
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 11 ] (538 citations as of Oct, 2020)  
 
 ### Preprints
 
@@ -31,7 +31,7 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 ### 2020
 
 __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __Evolutionary and functional genomics of DNA methylation in maize domestication and improvement__, Accepted, in press, 2020.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1) | [Github](https://github.com/jyanglab/msfs_teo)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, _Plant Phenomics_, 2020.   
 [10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) | [cited 4](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
@@ -61,7 +61,7 @@ __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dek
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__, _G3: Genes Genomes Genetics_, 2018.  
-[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 12](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
+[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) | [cited 13](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
 
 
 
