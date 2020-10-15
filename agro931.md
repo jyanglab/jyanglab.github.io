@@ -43,7 +43,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### Population values and means [**F&M Ch.7**]
 - 10/12 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
 - 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
-- 10/16 (F): R for breeding value interpretation [Zoom]
+- 10/16 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
 
 <!--
 ### Genetic components of variance [**F&M Ch.8**]
