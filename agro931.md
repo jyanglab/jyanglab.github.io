@@ -45,12 +45,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
 - 10/16 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
 
-<!--
+
 ### Genetic components of variance [**F&M Ch.8**]
-- 10/19 (M): Variance partitioning [HTML, __HW1__]
+- 10/19 (M): Variance partitioning [HTML]
 - 10/21 (W): Heritability and Repeatability [HTML]
-- 10/23 (F): R for Heritability interpretation [Zoom]
--->
+- 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom]
+
 
 ### **Exam III**
 - 11/06 (F): 8:00-9:00am (in-person)
