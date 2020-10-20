@@ -48,7 +48,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### Genetic components of variance [**F&M Ch.8**]
 - 10/19 (M): Variance partitioning [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c1.html#1)]
-- 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c2.html#1)]
+- 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_p2.html#1)]
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, Lab3]
 
 
