@@ -51,16 +51,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_p2.html#1)]
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
 
+### Resemblance between relatives [**F&M Ch.9**]
+- 10/26 (M): Genetic covariance [HTML]
+- 10/28 (W): Environmental covariance [HTML]
+- 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
 
 ### **Exam III**
 - 11/06 (F): 8:00-9:00am (in-person)
 
 <!--
-###  Resemblance between relatives [**F&M Ch.9**]
-- 10/26 (M): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
-- 10/28 (W): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
-- 10/30 (F): Environmental covariance,  [[HTML](chapters/Ch9/Ch9_c4.html#1)]
-
 ### Heritability [**F&M Ch.10**]
 - 11/02 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
 - 11/04 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
