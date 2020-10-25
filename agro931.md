@@ -52,8 +52,8 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
 
 ### Resemblance between relatives [**F&M Ch.9**]
-- 10/26 (M): Genetic covariance [HTML]
-- 10/28 (W): Environmental covariance [HTML]
+- 10/26 (M): Genetic covariance [[HTML(https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c1.html#1)]]
+- 10/28 (W): Environmental covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c3.html#1)]
 - 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
 
 ### **Exam III**
