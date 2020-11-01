@@ -60,7 +60,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### Heritability [**F&M Ch.10**]
 - 11/02 (M): Estimation of heritability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c1.html#1)]  
 - 11/04 (W): Precision of estimates [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c2.html#1)]  
-- 11/06 (F): __Exam III__, 8:00-9:00am [in-person exam]
+- 11/06 (F): __Exam III__, 8:00-9:00am [__in-person exam__]
 
 
 
