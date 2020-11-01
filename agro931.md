@@ -56,19 +56,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/28 (W): Environmental covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c3.html#1)]
 - 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
 
-### **Exam III**
-- 11/06 (F): 8:00-9:00am (in-person)
+
+### Heritability [**F&M Ch.10**]
+- 11/02 (M): Estimation of heritability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c1.html#1)]  
+- 11/04 (W): Precision of estimates [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c2.html#1)]  
+- 11/06 (F): __Exam III__, 8:00-9:00am [in-person exam]
+
+
 
 <!--
-### Heritability [**F&M Ch.10**]
-- 11/02 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
-- 11/04 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
-
-### __Exam III__:
-- __11/06 (F): 7:30-8:50__
-
-
-
 ### **Ch.11**: Predicting response to selection
 - 11/22 (F): The breeder's equation, [[HTML](chapters/Ch11/Ch11_c1.html#1)]
 - 11/25 (M): Variability in response, [[HTML](chapters/Ch11/Ch11-c2.html#1)], [__Due date for peer-review__]
