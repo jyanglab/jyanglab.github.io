@@ -63,13 +63,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/06 (F): __Exam III__, 8:00-9:00am [__in-person exam__]
 
 
+### Predicting response to selection [**F&M Ch.11**]
+- 11/09 (M): The breeder's equation [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11_c1.html#1)]
+- 11/11 (W): Variability in response [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11-c2.html#1)]
+- 11/13 (F): __Review paper discussion__ [Zoom], [__Due date for peer-review__]
 
 <!--
-### **Ch.11**: Predicting response to selection
-- 11/22 (F): The breeder's equation, [[HTML](chapters/Ch11/Ch11_c1.html#1)]
-- 11/25 (M): Variability in response, [[HTML](chapters/Ch11/Ch11-c2.html#1)], [__Due date for peer-review__]
-
- __Thanksgiving Vacation__
 
 ### **Ch.12**: Selection: Empirical results and interpretation
 - 12/02 (M): Asymmetry of responses [[HTML](chapters/Ch12/Ch12-c1.html#1)]
