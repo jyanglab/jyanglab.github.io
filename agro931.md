@@ -68,6 +68,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/11 (W): Variability in response [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11-c2.html#1)]
 - 11/13 (F): __Review paper discussion__ [Zoom], [__Due date for peer-review__]
 
+### Wrapping up of the semester [Slides in canvas]
+- 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4.html)]
+- 11/18 (W): Selecting the individuals 
+- 11/20 (F): Q&A [Zoom]
+
+
 <!--
 
 ### **Ch.12**: Selection: Empirical results and interpretation
