@@ -69,7 +69,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/13 (F): __Review paper discussion__ [Zoom], [__Due date for peer-review__]
 
 ### Wrapping up of the semester [Slides in canvas]
-- 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4.html)]
+- 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4_2020.html)]
 - 11/18 (W): Selecting the individuals 
 - 11/20 (F): Q&A [Zoom]
 
