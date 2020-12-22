@@ -143,21 +143,7 @@ Office: Keim 162.
 <b>Jinlong Li</b> is a visiting PhD student from China Agricultural University.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/ZbJ7I4G.png" alt="Xuerong Yang" width="300" height="400">
-    </a>
-  </div>
-</div>
 
-<div class="responsive">
-<b>Xuerong Yang</b> is a visiting scholar from Shandong Ag University. She will be working on transcriptome and heterosis.
-</div>
-
-<div class="clearfix"></div>
-
------------------
 
 <div class="responsive">
   <div class="img">
@@ -191,23 +177,6 @@ Office: Keim 162.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/xZ7lgkt.png" alt="Jun Jia Ng" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jun Jia (JJ) Ng</b> is a undergraduate student majoring in Bio-system engineering.
-</div>
-
-
-<div class="clearfix"></div>
-
-----------------------
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
       <img src="https://i.imgur.com/h2MVi9x.png" alt="Nick" width="300" height="400">
     </a>
   </div>
@@ -226,6 +195,9 @@ Office: Keim 162.
 
 ## Lab Alumni
 
+
+- **Xuerong Yang**: a visiting scholar from Shandong Ag University.
+- **Jun Jia Ng**: a undergraduate student majoring in Bio-system engineering at UNL.
 - **Maribeth Milner**: a GIS specialist in the Department.
 - **Madelyn Calvert**: undergraduate student majored in Biochemistry & Psychology at UNL.
 - **Briana Kouma**: undergraduate student at UNL.
