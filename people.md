@@ -159,6 +159,22 @@ Office: Keim 162.
 
 
 <div class="clearfix"></div>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="[img]https://i.imgur.com/AZwni0J.jpg[/img]" alt="Kahheetah" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Kahheetah Barnoskie</b> is a MS student in the department of Ag/Hort, working on native corn.
+</div>
+
+
+<div class="clearfix"></div>
+
 ------------
 
 <div class="responsive">
@@ -189,7 +205,20 @@ Office: Keim 162.
 
 <div class="clearfix"></div>
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/l7anYDX.png?1" alt="Jamie" width="300" height="400">
+    </a>
+  </div>
+</div>
 
+<div class="responsive">
+<b>Jamie Fuqua</b> is a plant biology major undergraduate student.
+</div>
+
+
+<div class="clearfix"></div>
 
 -------------------------
 
