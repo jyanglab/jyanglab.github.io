@@ -160,10 +160,12 @@ Office: Keim 162.
 
 <div class="clearfix"></div>
 
+-------
+
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="[img]https://i.imgur.com/AZwni0J.jpg[/img]" alt="Kahheetah" width="300" height="400">
+      <img src="https://i.imgur.com/AZwni0J.jpg" alt="Kahheetah" width="300" height="400">
     </a>
   </div>
 </div>
@@ -204,6 +206,8 @@ Office: Keim 162.
 
 
 <div class="clearfix"></div>
+
+-------------------------
 
 <div class="responsive">
   <div class="img">
