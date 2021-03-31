@@ -65,34 +65,9 @@ __J. Yang__, S. Chen, ",
 ```
 
 
-```{r, echo=FALSE, results="asis"}
-
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
-"__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, ",
-"_bioRxiv_, 2020.  \n",
-"[10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
 
 
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, ",
-"__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, ",
-"_bioRxiv_, 2020.  \n",
-"[10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
@@ -106,6 +81,37 @@ cat(paste0(
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
+
+### 2021
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, ",
+"__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press ",
+"_bioRxiv_, 2020.  \n",
+"[10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/134528 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
+"__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press ",
+"_bioRxiv_, 2020.  \n",
+"[10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
 
 ### 2020
 
