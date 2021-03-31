@@ -13,11 +13,11 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 ### Preprints
 
 C. Miao, A. Guo,  __J. Yang__,  Y. Ge,  J. C. Schnable, __Automation of Leaf Counting in Maize and Sorghum Using Deep Learninge__, _bioRxiv_, 2020.  
-[10.1101/2020.12.19.423626](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) 
+| [Preprint](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) 
 
 __J. Li__, D. Cheng, S. Guo, __Z. Yang__, M. Chen, C. Chen, Y. Jiao, W. Li, C. Liu, Y. Zhong, X. Qi, 
 __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybrid breeding in maize__, _bioRxiv_, 2020.  
-[10.1101/2020.09.08.287672](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
+| [Preprint](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
 
 
 
@@ -30,10 +30,12 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 ### 2021
 
 
-S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press _bioRxiv_, 2020.  
+S. Deng, D. Caddell, __J. Yang__, L. Dahlen, L. Washington, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press, 2021
+_bioRxiv_, 2020.  
 [10.1101/2020.02.21.960377](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) 
 
-__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press _bioRxiv_, 2020.  
+__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press, 2021 
+_bioRxiv_, 2020.  
 [10.1101/2020.08.10.244384](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) 
 
 
