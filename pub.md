@@ -30,10 +30,10 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 ### 2021
 
 
-S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press, 2021 
+S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press, 2021.  
 | [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | 
 
-__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press, 2021 
+__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press, 2021.  
 | [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | 
 
 
