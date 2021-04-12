@@ -32,11 +32,6 @@ bigimg:
 
 
 
-
-<div class="clearfix"></div>
-
-------------
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -50,18 +45,6 @@ bigimg:
 Office: PLSH 383.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/6vrBjxy.png" alt="Jing Lyu" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jing Lyu</b> is a PostDoc Scholar working on flowering time evolution. 
-Office: PLSH 383.
-</div>
 
 
 
@@ -134,20 +117,6 @@ Office: Keim 162.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/PTN8GF6.png" alt="Jinlong Li" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jinlong Li</b> is a visiting PhD student from China Agricultural University.
-</div>
-
-
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
       <img src="https://i.imgur.com/LS3YOn0.jpg" alt="Mike" width="300" height="400">
     </a>
   </div>
@@ -158,9 +127,6 @@ Office: Keim 162.
 </div>
 
 
-<div class="clearfix"></div>
-
--------
 
 <div class="responsive">
   <div class="img">
@@ -207,28 +173,15 @@ Office: Keim 162.
 
 <div class="clearfix"></div>
 
--------------------------
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/l7anYDX.png?1" alt="Jamie" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jamie Fuqua</b> is a plant biology major undergraduate student.
-</div>
-
-
-<div class="clearfix"></div>
 
 -------------------------
 
 ## Lab Alumni
 
-
+- **Jing Lyu**: now working as a PostDoc at the Indiana University.
+- **Jinlong Li**: a visiting PhD student from China Agricultural University.
+- **Jamie Fuqua**: a plant biology major undergraduate student.
 - **Xuerong Yang**: a visiting scholar from Shandong Ag University.
 - **Jun Jia Ng**: a undergraduate student majoring in Bio-system engineering at UNL.
 - **Maribeth Milner**: a GIS specialist in the Department.
