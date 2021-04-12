@@ -39,6 +39,20 @@ bob <- bob[order(bob$year, decreasing=T),]
 
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, ",
+"__Genome-wide mediation analysis: bridging the divide between genotype and phenotype via transcriptomic data in maize__, ",
+"_bioRxiv_, 2021.  \n",
+"[10.1101/2021.04.09.439238](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "C. Miao, A. Guo,  __J. Yang__,  Y. Ge,  J. C. Schnable, ",
 "__Automation of Leaf Counting in Maize and Sorghum Using Deep Learninge__, ",
 "_bioRxiv_, 2020.  \n",
@@ -102,8 +116,10 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
-"__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, in press, 2021.  \n",
-"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | "
+"__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _Applied and Environmental Microbiology_, 2021.  \n",
+"[10.1128/AEM.03132-20](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract) ", 
+"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) ",
+"| [GitHub](https://github.com/mandmeier/USDA_CornSoy)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
