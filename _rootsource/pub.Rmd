@@ -78,10 +78,6 @@ __J. Yang__, S. Chen, ",
 ```
 
 
-
-
-
-
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
@@ -99,11 +95,15 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+pid <- bob[bob$pubid=="LhH-TYMQEocC",]
 cat(paste0(
 "S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, ",
-"__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, in press, 2021.  \n",
-"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | "
+"__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, 
+_The ISME Journal_, 2021.  \n",
+"[s41396-021-00993-z](https://www.nature.com/articles/s41396-021-00993-z) ",
+"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) ",
+"| [Github](https://github.com/colemanderr-lab/Deng-2020) ",
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -112,16 +112,16 @@ cat(paste0(
 
 ```{r, echo=FALSE, results="asis"}
 
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+pid <- bob[bob$pubid=="Ehil0879vHcC",]
 cat(paste0(
 "__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
 "__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _Applied and Environmental Microbiology_, 2021.  \n",
 "[10.1128/AEM.03132-20](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract) ", 
 "| [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) ",
-"| [GitHub](https://github.com/mandmeier/USDA_CornSoy)"
+"| [GitHub](https://github.com/mandmeier/USDA_CornSoy) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
@@ -130,7 +130,7 @@ cat(paste0(
 
 ```{r, echo=FALSE, results="asis"}
 
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+pid <- bob[bob$pubid=="P7Ujq4OLJYoC",]
 cat(paste0(
 "__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, ",
 "__Evolutionary and functional genomics of DNA methylation in maize domestication and improvement__, ",
@@ -138,10 +138,10 @@ cat(paste0(
 "[s41467-020-19333-4](https://www.nature.com/articles/s41467-020-19333-4) ",
 #"| doi: 10.1371/journal.pgen.1007019 ",
 "| [Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) ",
-"| [Github](https://github.com/jyanglab/msfs_teo)"
+"| [Github](https://github.com/jyanglab/msfs_teo) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
