@@ -12,6 +12,10 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
+__E. Rodene__, __G. Xu__, __S. P. Delen__, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _bioRxiv_, 2021.  
+[10.1101/2021.05.24.445447](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) 
+
+
 __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __Genome-wide mediation analysis: bridging the divide between genotype and phenotype via transcriptomic data in maize__, _bioRxiv_, 2021.  
 [10.1101/2021.04.09.439238](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) 
 
