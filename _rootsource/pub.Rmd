@@ -68,7 +68,7 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "C. Miao, A. Guo,  __J. Yang__,  Y. Ge,  J. C. Schnable, ",
-"__Automation of Leaf Counting in Maize and Sorghum Using Deep Learninge__, ",
+"__Automation of Leaf Counting in Maize and Sorghum Using Deep Learning__, ",
 "_bioRxiv_, 2020.  \n",
 "[10.1101/2020.12.19.423626](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
@@ -113,12 +113,12 @@ cat(paste0(
 pid <- bob[bob$pubid=="LhH-TYMQEocC",]
 cat(paste0(
 "S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, ",
-"__Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome__, 
+"__[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  \n",
-"[s41396-021-00993-z](https://www.nature.com/articles/s41396-021-00993-z) ",
-"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) ",
+#"[s41396-021-00993-z](https://www.nature.com/articles/s41396-021-00993-z) ",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) ",
 "| [Github](https://github.com/colemanderr-lab/Deng-2020) ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -130,13 +130,13 @@ _The ISME Journal_, 2021.  \n",
 pid <- bob[bob$pubid=="Ehil0879vHcC",]
 cat(paste0(
 "__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
-"__Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels__, _Applied and Environmental Microbiology_, 2021.  \n",
-"[10.1128/AEM.03132-20](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract) ", 
-"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) ",
+"__[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  \n",
+#"[10.1128/AEM.03132-20]() ", 
+"[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) ",
 "| [GitHub](https://github.com/mandmeier/USDA_CornSoy) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
