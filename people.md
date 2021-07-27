@@ -179,6 +179,7 @@ Office: Keim 162.
 
 ## Lab Alumni
 
+- **Nicholas Reikofski**: undergraduate student majored in Agricultural Economics with a minor in Agronomy.
 - **Jing Lyu**: now working as a PostDoc at the Indiana University.
 - **Jinlong Li**: a visiting PhD student from China Agricultural University.
 - **Jamie Fuqua**: a plant biology major undergraduate student.
