@@ -21,15 +21,18 @@ bob <- get_profile(myid)
 cat(paste0("__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ ", bob$h_index, " ] (", bob$total_cites, " citations as of ", format(Sys.time(), "%b, %Y"), ")  "))
 
 bob <- get_publications(myid)
-file <- "data/gs_cites.txt"
-if(file.exists(file)){
-  oldf <- read.delim(file)
-  newf <- merge()
-}
+
+#file <- "data/gs_cites.txt"
+#if(file.exists(file)){
+#  oldf <- read.delim(file)
+#  newf <- merge()
+#}
 bob <- bob[order(bob$year, decreasing=T),]
+#bob$pubid <- paste0()
 
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
+#write.table(bob[, c("cid", "title")], "~/Downloads/cid.txt", sep="\t", row.names=FALSE, quote=TRUE)
 ```
 
 ### Preprints
@@ -110,7 +113,7 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="LhH-TYMQEocC",]
+pid <- bob[bob$cid %in% "9839283634496248436",]
 cat(paste0(
 "S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, ",
 "__[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
@@ -126,17 +129,16 @@ _The ISME Journal_, 2021.  \n",
 ```
 
 ```{r, echo=FALSE, results="asis"}
-
-pid <- bob[bob$pubid=="Ehil0879vHcC",]
+#pid <- bob[bob$cid %in% "8760660504423405310",]
 cat(paste0(
 "__M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, ",
 "__[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  \n",
 #"[10.1128/AEM.03132-20]() ", 
 "[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) ",
-"| [GitHub](https://github.com/mandmeier/USDA_CornSoy) ",
+"| [GitHub](https://github.com/mandmeier/USDA_CornSoy) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
-"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+#"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
@@ -144,15 +146,14 @@ cat(paste0(
 ### 2020
 
 ```{r, echo=FALSE, results="asis"}
-
-pid <- bob[bob$pubid=="P7Ujq4OLJYoC",]
+pid <- bob[bob$cid %in% "987817177097090596",]
 cat(paste0(
 "__G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, ",
-"__Evolutionary and functional genomics of DNA methylation in maize domestication and improvement__, ",
+"__[Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4)__, ",
 "_Nature Communications_, 2020.  \n",
-"[s41467-020-19333-4](https://www.nature.com/articles/s41467-020-19333-4) ",
+#"[s41467-020-19333-4](https://www.nature.com/articles/s41467-020-19333-4) ",
 #"| doi: 10.1371/journal.pgen.1007019 ",
-"| [Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) ",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) ",
 "| [Github](https://github.com/jyanglab/msfs_teo) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
@@ -161,15 +162,14 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="yqoGN6RLRZoC",]
+pid <- bob[bob$cid %in% "6760097769110193603",]
 cat(paste0(
 "C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, ", 
-"__Semantic segmentation of sorghum using hyperspectral data identifies genetic associations__, ",
-"_Plant Phenomics_, 2020.   \n",
-"[10.34133/2020/4216373](https://spj.sciencemag.org/plantphenomics/2020/4216373/) ",
+"__[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, ",
+"_Plant Phenomics_, 2020. \n",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
@@ -177,42 +177,40 @@ cat(paste0(
 ### 2019
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="fFSKOagxvKUC",]
+pid <- bob[bob$cid %in% "1137945390019707471",]
 cat(paste0(
 "Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, ",
-"__High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel__, ",
+"__[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8)__, ",
 "_Plant Methods_, 2019.  \n",
-"[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) ",
+#"[10.1186/s13007-019-0450-8](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="3htObqc8RwsC",]
+pid <- bob[bob$cid %in% "15734942197146441439",]
 cat(paste0(
 "H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, ",
-"__Genome-wide identification and analysis of heterotic loci in three maize hybrids__,",
+"__[Genome-wide identification and analysis of heterotic loci in three maize hybrids](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186)__,",
 " _Plant Biotechnology Journal_, 2019.  \n",
-"[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) ",
+#"[10.1111/pbi.13186](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186) ",
 #"| [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+pid <- bob[bob$cid %in% "11827249182260357856",]
 cat(paste0(
 "C. Miao, __J. Yang__, J. C. Schnable, ",
-"__Optimizing the identification of causal variants across varying genetic architectures in crops__,",
+"__[Optimizing the identification of causal variants across varying genetic architectures in crops](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.1302)__,",
 " _Plant Biotechnology Journal_, 2019.  \n",
-
-"[10.1111/pbi.13023](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13023) ",
-"| [preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) ",
+"[Preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -224,35 +222,29 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="OR75R8vi5nAC",]
+pid <- bob[bob$cid %in% "2779353440279278968",]
 cat(paste0(
 "R. Shao, H. Zheng, __J. Yang__, S. Jia, T. Liu, Y. Wang, J. Guo, Q. Yang, G. Kang, ", 
-"__Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency__,",
+"__[Proteomics Analysis Reveals That Nitric Oxide Regulates Photosynthesis of Maize Seedlings under Water Deficiency](https://www.sciencedirect.com/science/article/pii/S1089860318300958)__,",
 " _Nitric Oxide_, 2018.  \n",
-
-#"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) "
-#"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/134528 "
-"[10.1016/j.niox.2018.09.004](https://www.sciencedirect.com/science/article/pii/S1089860318300958) ",
+#"[10.1016/j.niox.2018.09.004] ",
 #"| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)"
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="HtS1dXgVpQUC",]
+pid <- bob[bob$cid %in% "996399093583901645",]
 cat(paste0(
 "__J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dekkers", 
 "D. J. Garrick, D. Nettleton and P. S. Schnable, ",
-"__Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize__,",
+"__[Empirical Comparisons of Different Statistical Models to Identify and Validate Kernel Row Number-Associated Variants from Structured Multiparent Mapping Populations of Maize](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636)__,",
 " _G3: Genes Genomes Genetics_, 2018.  \n",
-
 #"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) "
 #"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-"[10.1534/g3.118.200636](http://www.g3journal.org/content/early/2018/09/12/g3.118.200636) | [Github](https://github.com/yangjl/KRN-GWAS) ",
+"[Github](https://github.com/yangjl/KRN-GWAS) ",
 "| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)", 
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
@@ -260,33 +252,33 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="mNrWkgRL2YcC",]
+pid <- bob[bob$cid %in% "6745467722661974167",]
 cat(paste0(
 "Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, ",
-"__Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids__,",
+"__[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242)__,",
 " _G3: Genes Genomes Genetics_, 2018.  \n",
 
-"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) ",
+#"[10.1534/g3.118.200242](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242) ",
 #"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
 #"| [Github](https://github.com/freemao/Genotype-Corrector) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="yFnVuubrUp4C",]
+pid <- bob[bob$cid %in% "7931817505751558626",]
 cat(paste0(
 "C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, ",
-"__Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations__,",
+"__[Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations](https://www.nature.com/articles/s41598-018-28294-0)__,",
 " _Scientific Reports_, 2018.  \n",
 
-"[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) ",
+#"[10.1038/s41598-018-28294-0](https://www.nature.com/articles/s41598-018-28294-0) ",
 #"[preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) "
-"| [Github](https://github.com/freemao/Genotype-Corrector) ",
+"[Github](https://github.com/freemao/Genotype-Corrector) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -294,14 +286,14 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="HIFyuExEbWQC",]
+pid <- bob[bob$cid %in% "9785166453508429204",]
 cat(paste0(
 "M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, ",
-"__Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters__,",
+"__[Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021)__,",
 " *New Phytologist*, 2018.  \n",
 
-"[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) ",
-"| [preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) ",
+#"[10.1111/nph.15021](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021) ",
+"[Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -309,14 +301,14 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="DJbcl8HfkQkC",]
+pid <- bob[bob$cid %in% "6345641206578854017",]
 cat(paste0(
 "P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, ",
-"__Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays__,",
+"__[Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162)__,",
 " *PLOS Genetics*, 2018.  \n",
 
-"[10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) ",
-"| [preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) ",
+#"[10.1371/journal.pgen.1007162](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) ",
+"[Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) ",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "| [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) ",
@@ -328,124 +320,121 @@ cat(paste0(
 ### 2017
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="dBIO0h50nwkC",]
+pid <- bob[bob$cid %in% "1407813314092538070",]
 cat(paste0(
 "H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettleton, P. S. Schnable, ",
-"__Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS__,",
+"__[Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6)__,",
 " *Genome Biology*, 2017.  \n",
 
-"[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+#"[10.1186/s13059-017-1328-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) ",
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="IUKN3-7HHlwC",]
+pid <- bob[bob$cid %in% "10986799122751558384",]
 cat(paste0(
 "__J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, ",
-"__Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize__,",
+"__[Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019)__,",
 " *PLOS Genetics*, 2017.  \n",
 
-"[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) ",
+#"[10.1371/journal.pgen.1007019](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) ",
 #"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 #"| doi: 10.1371/journal.pgen.1007019 ",
-"| [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) ",
+"[Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) ",
 "| [Github](https://github.com/yangjl/GERP-diallel) ",
 "| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="QYdC8u9Cj1oC",]
+pid <- bob[bob$cid %in% "9931358203166483013",]
 cat(paste0(
 "Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., ",
-"__Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1__,",
+"__[Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1](http://www.pnas.org/content/early/2017/09/26/1714960114.short)__,",
 " *PNAS*, 2017.   \n",
 
-"[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) ",
+#"[10.1073/pnas.1714960114](http://www.pnas.org/content/early/2017/09/26/1714960114.short) ",
 #"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 #"| doi: 10.1073/pnas.1714960114 ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="OTTXONDVkokC",]
+pid <- bob[bob$cid %in% "3500455729056936894",]
 cat(paste0(
 "J. Hao, __J. Yang__, J. Dong, S-Z. Fei, ",
-"__Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*__,",
+"__[Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)__,",
 " *Plant Science*, 2017.  \n"),
 
-"[10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub) ",
+#"[10.1016/j.plantsci.2017.06.001](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub) ",
 #"| [PDF](http://biorxiv.org/content/biorxiv/early/2016/11/07/086132.full.pdf) ",
 #"| doi: 10.1016/j.plantsci.2017.06.001 ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)")
-
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)")
 ```
 
-### 2015
+### 2016 and before
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
+pid <- bob[bob$cid %in% "4727081806497409997",]
 cat(paste0(
 "__J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, ",
-"__Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel__,",
+"__[Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel](http://doi.wiley.com/10.1111/tpj.13029)__,",
 " _The Plant Journal_, 2015.  \n",
 
-"[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) ",
+#"[10.1111/tpj.13029](http://doi.wiley.com/10.1111/tpj.13029) ",
 #"| [PDF](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13029/epdf) ",
 #"| 10.1111/tpj.13029 ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="UeHWp8X0CEIC",]
+pid <- bob[bob$cid %in% "14940779386657346302",]
 cat(paste0(
-"D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__,",
+"D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__,",
 " _Nature Genetics_, 2015.  \n",
-"[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) ",
+#"[10.1038/ng.3422](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) ",
 #"| [PDF](http://www.nature.com/ng/journal/v47/n12/pdf/ng.3422.pdf) ",
 #"| 10.1038/ng.3422 ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="IjCSPb-OGe4C",]
+pid <- bob[bob$cid %in% "15673008105270802385",]
 cat(paste0(
 "S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon,",
-" __Genetic control of morphometric diversity in the maize shoot apical meristem__,",
+" __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__,",
 " _Nature Communications_, 2015.  \n",
 
-"[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) ",
+#"[10.1038/ncomms9974](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) ",
 #"| [PDF](http://www.nature.com/ncomms/2015/151120/ncomms9974/pdf/ncomms9974.pdf) ",
 #"| 10.1038/ncomms9974 ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
 
-### 2014 and Before
-
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="2osOgNQ5qMEC",]
+pid <- bob[bob$cid %in% "12628450597487851072",]
 cat(paste0(
-  "S. Liu, K. Ying, C.-T. Yeh, __J. Yang__, R. Swanson-Wagner, W. Wu, T. Richmond, D. J. Gerhardt, J. Lai, N. Springer, D. Nettleton, J. A. Jeddeloh, and P. S. Schnable, __Changes in genome content generated via segregation of non-allelic homolog__, _The Plant Journal_, 2012.  \n",
+  "S. Liu, K. Ying, C.-T. Yeh, __J. Yang__, R. Swanson-Wagner, W. Wu, T. Richmond, D. J. Gerhardt, J. Lai, N. Springer, D. Nettleton, J. A. Jeddeloh, and P. S. Schnable, __[Changes in genome content generated via segregation of non-allelic homolog](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract)__, _The Plant Journal_, 2012.  \n",
 
-"[10.1111/j.1365-313X.2012.05087.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) ",
+#"[10.1111/j.1365-313X.2012.05087.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) ",
 #"| [PDF](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/epdf) ",
 #"| 10.1111/j.1365-313X.2012.05087.x ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="9yKSN-GCB0IC",]
+pid <- bob[bob$cid %in% "15468679869872245348",]
 cat(paste0(
-  "L. Koesterke, D. Stanzione, M. Vaughn, S. M. Welch, W. Kusnierczyk, __J. Yang__, C.-T. Yeh, D. Nettleton, and P. S. Schnable, __An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies__, *2011 IEEE Int. Symp. Parallel Distrib. Process. Work. Phd Forum, pp. 523–530, May 2011.*  \n",
+  "L. Koesterke, D. Stanzione, M. Vaughn, S. M. Welch, W. Kusnierczyk, __J. Yang__, C.-T. Yeh, D. Nettleton, and P. S. Schnable, __[An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies](http://ieeexplore.ieee.org/document/6008872/?arnumber=6008872)__, *2011 IEEE Int. Symp. Parallel Distrib. Process. Work. Phd Forum, pp. 523–530, May 2011.*  \n",
 
-"[10.1111/j.1365-313X.2012.05087.x](http://ieeexplore.ieee.org/document/6008872/?arnumber=6008872) ",
+#"[10.1111/j.1365-313X.2012.05087.x](http://ieeexplore.ieee.org/document/6008872/?arnumber=6008872) ",
 #"| [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6008872) ",
 #"| 10.1111/j.1365-313X.2012.05087.x ",
-"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
+"[cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"))
 ```
 
 ------------------------
