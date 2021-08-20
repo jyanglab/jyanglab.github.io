@@ -167,7 +167,7 @@ Office: Keim 162.
 </div>
 
 <div class="responsive">
-<b>Xin Zhi Khoo</b> is a senior undergraduate student majoring in Agronomy..
+<b>Xin Zhi Khoo</b> is a senior undergraduate student majoring in Agronomy.
 </div>
 
 

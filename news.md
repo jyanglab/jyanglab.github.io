@@ -4,6 +4,15 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### August, 2021
+
+- Summer nursery 2021 
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/sobcWC8.png">
+</p>
+
+
 ### Nov, 2020
 
 - Our recent work about methylome evolution is published in Nature Communications. In this study, we investigated the maize epigenetic patterns --- a change in phenotype without changing the underlying DNA sequencing. Results from this study suggested essential genes that distinguish maize from its wild ancestor teosinte might be due to epigenetic changes. 
