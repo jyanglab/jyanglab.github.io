@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Nov, 2020
+
+- Our recent work about methylome evolution is published in Nature Communications. In this study, we investigated the maize epigenetic patterns --- a change in phenotype without changing the underlying DNA sequencing. Results from this study suggested essential genes that distinguish maize from its wild ancestor teosinte might be due to epigenetic changes. 
+- See news coverage on [Nebraska Today](https://news.unl.edu/newsrooms/today/article/team-ids-differences-in-gene-related-activity-between-ancient-modern-corn/).
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/vDF7dmo.png">
+</p>
 
 ### May, 2020
 

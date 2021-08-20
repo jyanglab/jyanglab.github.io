@@ -32,11 +32,6 @@ bigimg:
 
 
 
-
-<div class="clearfix"></div>
-
-------------
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -50,18 +45,6 @@ bigimg:
 Office: PLSH 383.
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/6vrBjxy.png" alt="Jing Lyu" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jing Lyu</b> is a PostDoc Scholar working on flowering time evolution. 
-Office: PLSH 383.
-</div>
 
 
 
@@ -134,34 +117,6 @@ Office: Keim 162.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/PTN8GF6.png" alt="Jinlong Li" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jinlong Li</b> is a visiting PhD student from China Agricultural University.
-</div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/ZbJ7I4G.png" alt="Xuerong Yang" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Xuerong Yang</b> is a visiting scholar from Shandong Ag University. She will be working on transcriptome and heterosis.
-</div>
-
-<div class="clearfix"></div>
-
------------------
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
       <img src="https://i.imgur.com/LS3YOn0.jpg" alt="Mike" width="300" height="400">
     </a>
   </div>
@@ -172,7 +127,22 @@ Office: Keim 162.
 </div>
 
 
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/AZwni0J.jpg" alt="Kahheetah" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Kahheetah Barnoskie</b> is a MS student in the department of Ag/Hort, working on native corn.
+</div>
+
+
 <div class="clearfix"></div>
+
 ------------
 
 <div class="responsive">
@@ -187,23 +157,6 @@ Office: Keim 162.
 <b>Jenifer Velazquez-Perfecto</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
 </div>
 
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/xZ7lgkt.png" alt="Jun Jia Ng" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jun Jia (JJ) Ng</b> is a undergraduate student majoring in Bio-system engineering.
-</div>
-
-
-<div class="clearfix"></div>
-
-----------------------
 
 <div class="responsive">
   <div class="img">
@@ -226,6 +179,12 @@ Office: Keim 162.
 
 ## Lab Alumni
 
+- **Nicholas Reikofski**: undergraduate student majored in Agricultural Economics with a minor in Agronomy.
+- **Jing Lyu**: now working as a PostDoc at the Indiana University.
+- **Jinlong Li**: a visiting PhD student from China Agricultural University.
+- **Jamie Fuqua**: a plant biology major undergraduate student.
+- **Xuerong Yang**: a visiting scholar from Shandong Ag University.
+- **Jun Jia Ng**: a undergraduate student majoring in Bio-system engineering at UNL.
 - **Maribeth Milner**: a GIS specialist in the Department.
 - **Madelyn Calvert**: undergraduate student majored in Biochemistry & Psychology at UNL.
 - **Briana Kouma**: undergraduate student at UNL.

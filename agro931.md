@@ -31,40 +31,50 @@ title: ANS/AGRO931 Population Genetics
 
 ## Schedule
 
+_The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### Statistical Foundations [Handouts in canvas]
-- 10/5 (M): Probability and Statistics, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
-- 10/7 (W): Covariance and Regression, [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
-- 10/9 (F): R for basic quantiative genetics calculation, [Demo in Zoom]
+- 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
+- 10/7 (W): Covariance and regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
+- 10/9 (F): R for basic quantiative genetics calculation [Zoom, [lab1](https://jyanglab.com/AGRO-931/chapters/Ch0/lab1.html)]
+  - Basic [R syntax](https://www.statmethods.net/r-tutorial/index.html) 
+
+
+### Population values and means [**F&M Ch.7**]
+- 10/12 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
+- 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
+- 10/16 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
+
+
+### Genetic components of variance [**F&M Ch.8**]
+- 10/19 (M): Variance partitioning [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c1.html#1)]
+- 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_p2.html#1)]
+- 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
+
+### Resemblance between relatives [**F&M Ch.9**]
+- 10/26 (M): Genetic covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c1.html#1)]
+- 10/28 (W): Environmental covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c3.html#1)]
+- 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
+
+
+### Heritability [**F&M Ch.10**]
+- 11/02 (M): Estimation of heritability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c1.html#1)]  
+- 11/04 (W): Precision of estimates [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c2.html#1)]  
+- 11/06 (F): __Exam III__, 8:00-9:00am [__in-person exam__]
+
+
+### Predicting response to selection [**F&M Ch.11**]
+- 11/09 (M): The breeder's equation [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11_c1.html#1)]
+- 11/11 (W): Variability in response [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11-c2.html#1)]
+- 11/13 (F): __Review paper discussion__ [Zoom], [__Due date for peer-review__]
+
+### Wrapping up of the semester [Slides in canvas]
+- 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4_2020.html)]
+- 11/18 (W): A sib-design example [see Lab4]
+- 11/20 (F): Q&A [Zoom]
+
 
 <!--
-### **Ch.7**: Population values and means 
-- 10/28 (M): Average effect of an allele, [[HTML](chapters/Ch7/Chapter7_c1.html#1)]
-- 10/30 (W): Breeding value, [[HTML](chapters/Ch7/Chapter7_c2.html#1)]
-- 11/01 (F): Dominance and Interaction, [[HTML](chapters/Ch7/Chapter7_c3.html#1)]
-
-### **Ch.8**: Genetic components of variance
-- 11/01 (F): Variance partitioning, [[HTML](chapters/Ch8/Ch8_c1.html#1)], [[HW1](hw/hw2019/AGRO_981_homework3.pdf)]
-- 11/04 (M): Variance partitioning (continuous), [[HTML](chapters/Ch8/Ch8_p2.html#1)]
-- 11/06 (W): Heritability and Repeatability, [[HTML](chapters/Ch8/Ch8_p3.html#1)]
-
-### **Ch.9**: Resemblance between relatives
-- 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
-- 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
-- 11/13 (W): Environmental covariance,  [[HTML](chapters/Ch9/Ch9_c4.html#1)]
-
-### __Exam III__:
-- __11/15 (F): 7:30-8:50__
-
-### **Ch.10**: Heritability
-- 11/18 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
-- 11/20 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
-
-### **Ch.11**: Predicting response to selection
-- 11/22 (F): The breeder's equation, [[HTML](chapters/Ch11/Ch11_c1.html#1)]
-- 11/25 (M): Variability in response, [[HTML](chapters/Ch11/Ch11-c2.html#1)], [__Due date for peer-review__]
-
- __Thanksgiving Vacation__
 
 ### **Ch.12**: Selection: Empirical results and interpretation
 - 12/02 (M): Asymmetry of responses [[HTML](chapters/Ch12/Ch12-c1.html#1)]
@@ -102,8 +112,6 @@ title: ANS/AGRO931 Population Genetics
 - 12/07 (F): Last class [[HTML](chapters/Ch21/Ch21-c5.html#1)], [[pdf](chapters/Ch21/Ch21_12-07-2018_F.pdf)]
 -->
 
-### **Exam III**
-- 11/06 (F): 8:00-9:00am (in-person)
 
 ### **Final exam**
 - 11/21 (S): 8:00-9:00am (in-person)
