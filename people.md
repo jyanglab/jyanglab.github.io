@@ -208,13 +208,13 @@ Office: Keim 162.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/h2MVi9x.png" alt="Nick" width="300" height="400">
+      <img src="https://i.imgur.com/111s6E5.jpg" alt="Xin" width="300" height="400">
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Nicholas Reikofski</b> is a first-year undergraduate student majoring in Agricultural Economics with a minor in Agronomy.
+<b>Xin Zhi Khoo</b> is a senior undergraduate student majoring in Agronomy..
 </div>
 
 
