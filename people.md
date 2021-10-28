@@ -12,6 +12,10 @@ bigimg:
 
 ## [Join the lab](/positions)
 
+<p align="center">
+  <img width="600" src="https://i.imgur.com/r1UM1JB.jpg">
+</p>
+
 ## Current Lab Members
 
 -----
