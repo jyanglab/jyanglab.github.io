@@ -23,6 +23,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - Bernardo, R. 2020. __Breeding for quantitative traits in plants__. 3rd Ed. Stemma Press. 
 - Lynch, M. and B. Walsh. 1998. __Vol. 1: Genetics and analysis of quantitative traits__. Sinauer, MA  
 
+
 <p align="center">
   <img src="https://i.imgur.com/tSfGg4c.png" height="200px">
 </p>

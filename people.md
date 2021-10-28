@@ -14,8 +14,8 @@ bigimg:
 
 <p align="center">
   <img width="600" src="https://i.imgur.com/r1UM1JB.jpg">
-  <b>Group photo 2021</b>
 </p>
+> Group photo 2021
 
 ## Current Lab Members
 
