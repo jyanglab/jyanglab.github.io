@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Oct, 2021
+
+- Harvesting 2021 
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/epH2H5G.jpg">
+</p>
+
 ### August, 2021
 
 - Summer nursery 2021 
