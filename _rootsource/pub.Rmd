@@ -117,7 +117,7 @@ cat(paste0(
 
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
-"__E. Rodene__, __G. Xu__, __S. P. Delen__, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, ",
+"__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, ",
 "__A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, ",
 "_(Accepted)_, 2021.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) ",
