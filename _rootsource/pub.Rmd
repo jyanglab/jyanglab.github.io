@@ -197,6 +197,7 @@ cat(paste0(
 "_Plant Phenomics_, 2020. \n",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
+"[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) ",
 "| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
@@ -273,7 +274,7 @@ cat(paste0(
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "[Github](https://github.com/yangjl/KRN-GWAS) ",
-"| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144)", 
+"| [Figshare](https://figshare.com/articles/mpirical_Comparisons_of_Different_Statistical_Models_to_Identify_and_Validate_Kernel_Row_Number-Associated_Variants_from_Structured_Multiparent_Mapping_Populations_of_Maize/6902144) ", 
 "| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```
