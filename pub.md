@@ -12,6 +12,10 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
+C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
+[10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
+
+
 __M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, __Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance__, _bioRxiv_, 2021.  
 [10.1101/2021.11.01.466815](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) 
 
