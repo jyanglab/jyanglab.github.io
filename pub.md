@@ -18,8 +18,7 @@ __M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J.
 L. F. Samayoa, B. A. Olukolu, C. J. Yang, Q. Chen, M. G. Stetter, A. M. York,, J. de J. Sanchez-Gonzalez, J. C. Glaubitz, P. J. Bradbury, M. C. Romay, Q. Sun, __J. Yang__, J. Ross-Ibarra, E. S. Buckler, J. F. Doebley, and J.B. Holland, __Domestication Reshaped the Genetic Basis of Inbreeding Depression in a Maize Landrace Compared to its Wild Relative, Teosinte__, _bioRxiv_, 2021.  
 [10.1101/2021.09.01.458502](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1) 
 
-__E. Rodene__, __G. Xu__, __S. P. Delen__, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _bioRxiv_, 2021.  
-[10.1101/2021.05.24.445447](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) 
+
 
 
 __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __Genome-wide mediation analysis: bridging the divide between genotype and phenotype via transcriptomic data in maize__, _bioRxiv_, 2021.  
@@ -36,6 +35,9 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 
 ### 2021
+
+__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _(Accepted)_, 2021.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) 
 
 C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automation of Leaf Counting in Maize and Sorghum Using Deep Learning](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20022)__, _The Plant Phenome Journal_, 2021.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) | [GitHub](https://github.com/huskermiao/MaizeLeafCounting) 
