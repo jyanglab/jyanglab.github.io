@@ -197,7 +197,7 @@ pid <- bob[bob$cid %in% "6760097769110193603",]
 cat(paste0(
 "C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, ", 
 "__[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, ",
-"_Plant Phenomics_, 2020. \n",
+"_Plant Phenomics_, 2020.  \n",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/134528 "
 "[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) ",
