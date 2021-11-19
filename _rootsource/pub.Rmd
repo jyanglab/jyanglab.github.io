@@ -407,6 +407,8 @@ cat(paste0(
 ))
 ```
 
+------------------------
+
 ### 2016 and before
 
 ```{r, echo=FALSE, results="asis"}
