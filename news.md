@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Nov, 2021
+
+Congratulations, Dr. Meier, on successfully defending his dissertation!
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/clJJRYR.jpg">
+</p>
+
 ### Oct, 2021
 
 - Harvesting 2021 
