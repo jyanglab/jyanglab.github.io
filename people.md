@@ -178,6 +178,7 @@ Office: Keim 162.
 
 <div class="clearfix"></div>
 
+------------
 
 <div class="responsive">
   <div class="img">
