@@ -5,10 +5,10 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ---
 
 
-- Spring 2020 [Syllabus](img/Syllabus_AGRO932.pdf)
+- Spring 2022
 - **Location**: Plant Sciences Hall (room 272)
-- **Time**: Tuesday and Thursday 9:00-10:15 am
-- **Office Hour**: Thursday 10:15-11:00 am (except the first Thursday of the month) 
+- **Time**: Tuesday and Thursday 11:00-12:15 am
+- **Office Hour**: Thursday 12:15-1:00 pm (except for the first Thursday of the month) 
 - **Prerequisites**: 
   - AGRO 815A, 815B, and 815D, 
   - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/), 
@@ -42,9 +42,10 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 1**: Introduction and Overview
 - 01-14 (Tue): [_Lecture_] Introduction about crop improvement 
   - __[Canvas materials]__ 
-- 01-16 (Thu): [_Guest Lecture/Lab_] A basic tutorial on HCC 
+- 01-16 (Thu): A basic tutorial on HCC 
   - [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]
 
+<!--
 ----------------
 
 ## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
@@ -168,6 +169,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week16**: 
 - 4-28 (Tue): [__Final project presentation__]
 - 4-30 (Thu): [__Final project presentation__] [__Due date for final code review__]
+
+-->
 
 ------------
 
