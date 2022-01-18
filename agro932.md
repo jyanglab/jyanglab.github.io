@@ -40,15 +40,16 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 01-14 (Tue): [_Lecture_] Introduction about crop improvement 
+- 01-18 (Tue): [_Lecture_] Introduction about crop improvement 
   - __[Canvas materials]__ 
-- 01-16 (Thu): A basic tutorial on HCC 
+- 01-20 (Thu): A basic tutorial on HCC 
   - [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]
 
-<!--
 ----------------
 
 ## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
+
+<!--
 
 ### **Week 2**: Experimental design for selection scan
 - 01-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
@@ -88,9 +89,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[HW1 Due]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w6lab.html#1)]
 
+-->
+
 ----------
 
 ## Part II. Conventional Breeding: Mating Design and Heritability Estimation
+
+<!--
 
 ### **Week 7**: Transition from PopGen to QuantGen
 - 02-25 (Tue): [_Lecture_] Definition of breeding populations
@@ -124,11 +129,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week11**: 
 - 3-22 to 3-29: __Spring Break__
+-->
+
 
 ---------------------
 
 ## Part III. Genome-enabled Breeding and GWAS
 
+<!--
 - Note: our course switch to Zoom online course because of the Covid-19 pandemic
 
 ### **Week 12**: Best linear unbiased prediction
@@ -154,11 +162,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 - 04-21 (Tue): [_Lab2_] GWAS in practice (2)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
-  
+
+-->
+
 ---------------------
 
 ## Part IV. Emerging Technologies in Plant Breeding
 
+<!--
 ### **Week15**: 
 
 - 4-23 (Thu): Summary and emerging technologies
@@ -172,85 +183,4 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 -->
 
-------------
 
-
-
-<!--
-
-### **Week 2**: Variance components and heritability estimation 
-- 10/28 (M): Average effect of an allele, [[HTML]()]
-- 10/30 (W): Breeding value, [[HTML]()]
-- 11/01 (F): Dominance and Interaction, [[HTML]()]
-
-### **Week 3**: Genetic components of variance
-- 11/01 (F): Variance partitioning, [[HTML](chapters/Ch8/Ch8_c1.html#1)], [[HW1](hw/hw2019/AGRO_981_homework3.pdf)]
-- 11/04 (M): Variance partitioning (continuous), [[HTML](chapters/Ch8/Ch8_p2.html#1)]
-- 11/06 (W): Heritability and Repeatability, [[HTML](chapters/Ch8/Ch8_p3.html#1)]
-
--------
-
-
-### **Week 4**: Resemblance between relatives
-- 11/08 (F): Covariance, [[HTML](chapters/Ch9/Ch9_c2.html#1)]
-- 11/11 (M): Genetic covariance, [[HTML](chapters/Ch9/Ch9_c3.html#1)]
-- 11/13 (W): Environmental covariance,  [[HTML](chapters/Ch9/Ch9_c4.html#1)]
-
-### __Exam III__:
-- __11/15 (F): 7:30-8:50__
-
-### **Week 5**: Best Linear Unbiased Predictor (BLUP)
-- 11/18 (M): Estimation of heritability,  [[HTML](chapters/Ch10/Ch10_c1.html#1)]
-- 11/20 (W): Precision of estimates,  [[HTML](chapters/Ch10/Ch10_c2.html#1)], [[lab](chapters/Ch10/lab9-10.html#1)], [peer-review papers posted]
-
-### **Week 6**: Predicting response to selection
-- 11/22 (F): The breeder's equation, [[HTML](chapters/Ch11/Ch11_c1.html#1)]
-- 11/25 (M): Variability in response, [[HTML](chapters/Ch11/Ch11-c2.html#1)], [__Due date for peer-review__]
-
- __Thanksgiving Vacation__
-
-### **Week 7**: Selection: Empirical results and interpretation
-- 12/02 (M): Asymmetry of responses [[HTML](chapters/Ch12/Ch12-c1.html#1)]
-- 12/04 (W): Long-term results [[HTML](chapters/Ch12/Ch12-c2.html#1)], [[HW2](hw/hw2019/AGRO_981_homework4.pdf)]
-
-
-### **Week 8**: Inbreeding and crossbreeding
-- 12/06 (F): Inbreeding depression and heterosis [[HTML](chapters/Ch14/Ch14-c1.html#1)]
-
-
-### **Week 9**: Correlated traits
-- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
-- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
-
-### **Week 10**: Quantitative trait loci 
-- 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
-- 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
-
-### **Week11**: 
-
- __Thanksgiving Vacation__
-
-
-### **Week 12**: Correlated traits
-- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
-- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
-
-### **Week 13**: Quantitative trait loci 
-- 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
-- 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
-
-### **Week 14**: Inbreeding and crossbreeding
-- 12/06 (F): Inbreeding depression and heterosis [[HTML](chapters/Ch14/Ch14-c1.html#1)]
-
-
-### **Week 15**: Correlated traits
-- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
-- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
-
-### **Week 16**: Quantitative trait loci 
-- 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
-- 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
-
-### **Final exam**
-- 12/18 (W): 7:30-9:30am
--->
