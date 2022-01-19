@@ -4,6 +4,16 @@ title: Teaching
 ---
 
 
+### Spring 2022
+
+- __[ANS/AGRO-932](/agro932): Biometrical Genetics and Plant Breeding__
+  - The goal of this course is to apply biometrical methods to connect the phenotypic traits with high-dimensional genomic data to better understand polygenic traits for both prediction (or plant breeding) and inference (for gene mapping) purposes. 
+
+- __CBIO-843-001: Complex Biosystems Seminar__
+  - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
+
+---------------------
+
 ### FALL 2020
 
 - __[ANS/AGRO-931](/agro931): Population Genetics__
