@@ -44,7 +44,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ 
 - 01-20 (Thu): Research Project Management using RStudio, HCC, and GitHub
   - Reading: [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w1lab.html#1)] 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w1lab.html#1)] 
 
 ----------------
 
