@@ -53,6 +53,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 2**: Experimental design for selection scan
 - 01-25 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
   - __[Canvas materials]__ 
+  - Reading: Hahn 2019. Chapter 1 and 2
 - 01-27 (Thu): [_Lab_] Slurm job submission 
   - [[HTML]()] 
 
@@ -61,33 +62,33 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 3**: Next-generation sequencing and diversity measurement 
 
-- 01-28 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
+- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
   - __[Hahn 2019, Chapter 4]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
-- 01-30 (Thu): [_Lab_] Command line and Slurm job submission
+- 02-03 (Thu): [_Lab_] Command line and Slurm job submission
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
 
 ### **Week 4**: Population differentiation
-- 02-04 (Tue): [_Lecture_] Measuring population differentiation
+- 02-08 (Tue): [_Lecture_] Measuring population differentiation
   - __[Hahn 2019, Chapter 5]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c5_pops.html#1)]
-- 02-06 (Thu): [_Lab_] Calculate Theta and Fst using ANGSD
+- 02-10 (Thu): [_Lab_] Calculate Theta and Fst using ANGSD
   - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
 
 ### **Week 5**: Scan for direct selection
-- 02-11 (Tue): [_Lecture_] Direct selection
+- 02-15 (Tue): [_Lecture_] Direct selection
   - __[Hahn 2019, Chapter 7]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c7_direct_sel.html#1)]
-- 02-13 (Thu): [_Lab_] Visualize theta Fst results
+- 02-17 (Thu): [_Lab_] Visualize theta Fst results
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w5lab.html#1)]
   - Basic R tutorial: [[Quick-R](https://www.statmethods.net/)] and [[RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)]
 
 ### **Week 6**: Linked selection
-- 02-18 (Tue): [_Lecture_] Linked selection
+- 02-22 (Tue): [_Lecture_] Linked selection
   - __[Hahn 2019, Chapter 8]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c8_linked_sel.html#1)]
-- 02-20 (Thu): [_Lab_] Breaking down theta statistics into genomic features
+- 02-24 (Thu): [_Lab_] Breaking down theta statistics into genomic features
   - __[HW1 Due]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w6lab.html#1)]
 
@@ -100,38 +101,39 @@ title: AGRO-932 Biometrical genetics and plant breeding
 <!--
 
 ### **Week 7**: Transition from PopGen to QuantGen
-- 02-25 (Tue): [_Lecture_] Definition of breeding populations
+- 03-01 (Tue): [_Lecture_] Definition of breeding populations
   - __[Bernardo, Chapter 2]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex1_plant_breeding.html#1)]
-- 02-27 (Thu): [_Lab_] Research reporting
+- 02-03 (Thu): [_Lab_] Research reporting
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w7lab.html)] and [[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)]
 
 ### **Week 8**: Breeding population means and variances
-- 03-03 (Tue): [_Lecture_] Phenotypic and genotypic values
+- 03-08 (Tue): [_Lecture_] Phenotypic and genotypic values
   - __[Bernardo, Chapter 3]__ or [[ARGO-931, Ch.7](https://jyanglab.com/AGRO-931/)]
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex2_value.html#1)]
-- 03-05 (Thu): [_Lecture_] Phenotypic and genetic variances
+- 03-10 (Thu): [_Lecture_] Phenotypic and genetic variances
   - __[Bernardo, Chapter 6]__ or [[ARGO-931, Ch.8 and Ch.9](https://jyanglab.com/AGRO-931/)]
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
   - [__Due date for Mid-term paper__]
 
-### **Week 9**: Mating designs and Estimating Genetic Variances
-- 03-10 (Tue): [_Lecture_] Mating design
+### **Week 9**: 
+- 3-13 to 3-20: __Spring Break__
+
+
+### **Week 10**: Mating designs and Estimating Genetic Variances
+- 03-22 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex7_mating.html#1)]
-- 03-12 (Thu): [_Lab_] Genetics variances calculation
+- 03-24 (Thu): [_Lab_] Genetics variances calculation
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w9lab.html)]
 
-### ~~**Week 10**: Genotype x environment interaction~~ Class cancelled due to the Coronavirus
-- ~~03-17 (Tue): [_Guest Lecture_]~~
-- ~~03-19 (Thu): [_Guest Lab_]~~
+### **Week 10**: Genotype x environment interaction
+- 03-22 (Tue): [_Guest Lecture_]
+- 03-24 (Thu): [_Guest Lab_]
   - [__Due date for Mid-term paper review__]
 
 ----------
 
-### **Week11**: 
-- 3-22 to 3-29: __Spring Break__
--->
 
 
 ---------------------
