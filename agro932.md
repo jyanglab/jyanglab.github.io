@@ -50,13 +50,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
+### **Week 2**: Experimental design for selection scan
+- 01-25 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
+  - __[Canvas materials]__ 
+- 01-27 (Thu): [_Lab_] Slurm job submission 
+  - [[HTML]()] 
+
 <!--
 
-### **Week 2**: Experimental design for selection scan
-- 01-21 (Tue): [_Lecture_] Experimental design and basci popgen terminology
-  - __[Canvas materials]__ 
-- 01-23 (Thu): [_Lab_] Research project management 
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/proj_managment.html#1)] 
 
 ### **Week 3**: Next-generation sequencing and diversity measurement 
 
