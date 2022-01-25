@@ -128,7 +128,7 @@ Office: Keim 162.
 </div>
 
 <div class="responsive">
-<b>Michael Meier</b> is a PhD student in the department of Ag/Hort, working on microbiome GWAS.
+<b>Michael Meier</b> is a PostDoc, working on root-associated microbiome.
 </div>
 
 
