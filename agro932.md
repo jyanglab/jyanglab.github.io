@@ -54,8 +54,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 01-25 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
   - __[Canvas materials]__ 
   - Reading: Hahn 2019. Chapter 1 and 2
-- 01-27 (Thu): [_Lab_] Slurm job submission 
-  - [[HTML]()] 
+- 01-27 (Thu): [_Lab_] Slurm for Wright-Fisher Simulation
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)] 
 
 <!--
 
