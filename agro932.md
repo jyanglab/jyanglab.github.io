@@ -57,16 +57,21 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 01-27 (Thu): [_Lab_] Slurm job and  Wright-Fisher simulation
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)] 
 
-<!--
-
-
 ### **Week 3**: Next-generation sequencing and diversity measurement 
-
 - 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
-  - __[Hahn 2019, Chapter 4]__
+  - __[Canvas materials]__ and [[HTML]()]
+    - Reading: Hahn 2019. Chapter 4
+- 02-03 (Thu): [_Lab_] Slurm job and Theta calculation
+  - [[HTML]()] 
+  - resource: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+  
+<!--
+- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
+    - Reading: Hahn 2019. Chapter 4
 - 02-03 (Thu): [_Lab_] Command line and Slurm job submission
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+  
 
 ### **Week 4**: Population differentiation
 - 02-08 (Tue): [_Lecture_] Measuring population differentiation
