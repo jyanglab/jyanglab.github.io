@@ -59,11 +59,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 3**: Next-generation sequencing and diversity measurement 
 - 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
-  - __[Canvas materials]__ and [[HTML]()]
-    - Reading: Hahn 2019. Chapter 4
-- 02-03 (Thu): [_Lab_] Slurm job and Theta calculation
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
+    - Reading: Hahn 2019. Chapter 3
+- 02-03 (Thu): [_Lab_] Theta calculation
   - [[HTML]()] 
-  - resource: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+  - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
   
 <!--
 - 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
