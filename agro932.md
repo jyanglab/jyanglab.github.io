@@ -62,7 +62,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
     - Reading: Hahn 2019. Chapter 3
 - 02-03 (Thu): [_Lab_] Theta calculation
-  - [[HTML]()] 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)] 
   - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
   
 <!--
