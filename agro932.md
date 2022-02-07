@@ -67,11 +67,15 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 4**: Population differentiation
 - 02-08 (Tue): [_Lecture_] Measuring population differentiation
-  - __[Hahn 2019, Chapter 5]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w4class.html#1)]
+  -  Reading: Hahn 2019. Chapter 5
 - 02-10 (Thu): [_Lab_] Calculate Fst using ANGSD
-  - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
+  - Computational resources: 
+    - [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+    - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] 
+    - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+
 
   
 <!--
