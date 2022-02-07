@@ -64,14 +64,17 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-03 (Thu): [_Lab_] Theta calculation
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)] 
   - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+
+### **Week 4**: Population differentiation
+- 02-08 (Tue): [_Lecture_] Measuring population differentiation
+  - __[Hahn 2019, Chapter 5]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w4class.html#1)]
+- 02-10 (Thu): [_Lab_] Calculate Fst using ANGSD
+  - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
+
   
 <!--
-- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/hahn_c3_theta.html#1)]
-    - Reading: Hahn 2019. Chapter 4
-- 02-03 (Thu): [_Lab_] Command line and Slurm job submission
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w3lab.html)] and [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
-  
 
 ### **Week 4**: Population differentiation
 - 02-08 (Tue): [_Lecture_] Measuring population differentiation
