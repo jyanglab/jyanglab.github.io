@@ -8,11 +8,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - Spring 2022
 - **Location**: Plant Sciences Hall (room 272)
 - **Time**: Tuesday and Thursday 11:00-12:15 am
-- **Office Hour**: Thursday 12:15-1:00 pm (except for the first Thursday of the month) 
-- **Prerequisites**: 
-  - AGRO 815A, 815B, and 815D, 
-  - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/), 
-  - and	STAT-802 or equivalent, 
+- **Office Hour**: Thursday 12:15-1:00 pm (except for the first Thursday of the month)
+- **Prerequisites**:
+  - AGRO 815A, 815B, and 815D,
+  - [AGRO/ANSCI-931](https://jyanglab.com/AGRO-931/),
+  - and	STAT-802 or equivalent,
   - or permission of the instructor.
 
 ------------
@@ -20,7 +20,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Suggested textbooks and Reading Materials
 
 - Hahn, M. 2019. __Molecular population genetics__. Oxford.
-- Bernardo, R. 2020. __Breeding for quantitative traits in plants__. 3rd Ed. Stemma Press. 
+- Bernardo, R. 2020. __Breeding for quantitative traits in plants__. 3rd Ed. Stemma Press.
 - Lynch, M. and B. Walsh. 1998. __Vol. 1: Genetics and analysis of quantitative traits__. Sinauer, MA  
 
 
@@ -40,8 +40,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 # Schedule 2020
 
 ### **Week 1**: Introduction and Overview
-- 01-18 (Tue): [_Lecture_] Introduction about crop improvement 
-  - __[Canvas materials]__ 
+- 01-18 (Tue): [_Lecture_] Introduction about crop improvement
+  - __[Canvas materials]__
 - 01-20 (Thu): [_Lab_] Research Project Management using RStudio, HCC, and GitHub    
   - Reading: [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]  
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w1lab.html#1)]   
@@ -52,17 +52,17 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 2**: Experimental design for selection scan
 - 01-25 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
-  - __[Canvas materials]__ 
+  - __[Canvas materials]__
   - Reading: Hahn 2019. Chapter 1 and 2
 - 01-27 (Thu): [_Lab_] Slurm job and  Wright-Fisher simulation
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)] 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)]
 
-### **Week 3**: Next-generation sequencing and diversity measurement 
-- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement 
+### **Week 3**: Next-generation sequencing and diversity measurement
+- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
     - Reading: Hahn 2019. Chapter 3
 - 02-03 (Thu): [_Lab_] Theta calculation
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)] 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
   - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
 
 ### **Week 4**: Population differentiation
@@ -70,14 +70,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w4class.html#1)]
   -  Reading: Hahn 2019. Chapter 5
 - 02-10 (Thu): [_Lab_] Calculate Fst using ANGSD
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
-  - Computational resources: 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w4lab.html#1)]
+  - Computational resources:
     - [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
-    - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] 
+    - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
     - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
 
 
-  
+
 <!--
 
 ### **Week 4**: Population differentiation
@@ -128,7 +128,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
   - [__Due date for Mid-term paper__]
 
-### **Week 9**: 
+### **Week 9**:
 - 3-13 to 3-20: __Spring Break__
 
 
@@ -164,14 +164,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 13**: Genome-enabled selection
 - 04-07 (Tue): [_Lecture_] Genomic selection
-  - __[Bernardo, Chapter 11]__ 
+  - __[Bernardo, Chapter 11]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs1.html)]
 - 04-09 (Thu): [_Lab_] Genomic selection in practice
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs2.html)]
-  
+
 ### **Week 14**: Association mapping via mixed models
 - 04-14 (Tue): [_Lecture_] Genome-wide association study
-  - __[Bernardo, Chapter 11]__ 
+  - __[Bernardo, Chapter 11]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
 - 04-16 (Thu): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
@@ -186,17 +186,15 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Part IV. Emerging Technologies in Plant Breeding
 
 <!--
-### **Week15**: 
+### **Week15**:
 
 - 4-23 (Thu): Summary and emerging technologies
   - [__Due date for final paper and final code__]
   - __[Slides in Canvas]__
   - HW Keys: [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w15_hw_keys.html)]
 
-### **Week16**: 
+### **Week16**:
 - 4-28 (Tue): [__Final project presentation__]
 - 4-30 (Thu): [__Final project presentation__] [__Due date for final code review__]
 
 -->
-
-
