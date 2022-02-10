@@ -18,9 +18,6 @@ __G. Xu__, __J. Lyu__, T. Obata,  S. Liu, Y. Ge, J. C. Schnable, __J. Yang__, __
 C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
 [10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
 
-C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
-[10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
-
 
 __M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, __Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance__, _bioRxiv_, 2021.  
 [10.1101/2021.11.01.466815](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) 
@@ -43,7 +40,7 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 ### 2022
 
-__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _in press_, 2021.  
+__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _The Plant Phenome Journal (in press)_, 2022.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) 
 
 
