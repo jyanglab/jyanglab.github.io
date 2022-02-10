@@ -12,6 +12,12 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
+__G. Xu__, __J. Lyu__, T. Obata,  S. Liu, Y. Ge, J. C. Schnable, __J. Yang__, __A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding__, _bioRxiv_, 2022.  
+[10.1101/2022.02.09.479784](https://www.biorxiv.org/content/10.1101/2022.02.09.479784v1) 
+
+C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
+[10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
+
 C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
 [10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
 
@@ -35,15 +41,17 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __J. Yang__, and J. C. Schnable, __Simulated plant images improve maize leaf counting accuracy__, _bioRxiv_, 2019.  
 [10.1101/706994](https://www.biorxiv.org/content/10.1101/706994v1) 
 
-
-### 2021
-
-L. F. Samayoa, B. A. Olukolu, C. J. Yang, Q. Chen, M. G. Stetter, A. M. York,, J. de J. Sanchez-Gonzalez, J. C. Glaubitz, P. J. Bradbury, M. C. Romay, Q. Sun, __J. Yang__, J. Ross-Ibarra, E. S. Buckler, J. F. Doebley, and J.B. Holland, __Domestication Reshaped the Genetic Basis of Inbreeding Depression in a Maize Landrace Compared to its Wild Relative, Teosinte__, _in press_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1) 
-
+### 2022
 
 __E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize__, _in press_, 2021.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) 
+
+
+### 2021
+
+L. F. Samayoa, B. A. Olukolu, C. J. Yang, Q. Chen, M. G. Stetter, A. M. York,, J. de J. Sanchez-Gonzalez, J. C. Glaubitz, P. J. Bradbury, M. C. Romay, Q. Sun, __J. Yang__, J. Ross-Ibarra, E. S. Buckler, J. F. Doebley, and J. B. Holland, __[Domestication Reshaped the Genetic Basis of Inbreeding Depression in a Maize Landrace Compared to its Wild Relative, Teosinte](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009797)__, _PLOS Genetics_, 2021.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1) 
+
 
 C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automation of Leaf Counting in Maize and Sorghum Using Deep Learning](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20022)__, _The Plant Phenome Journal_, 2021.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) | [GitHub](https://github.com/huskermiao/MaizeLeafCounting) 
