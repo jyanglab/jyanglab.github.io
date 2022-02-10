@@ -69,24 +69,22 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-08 (Tue): [_Lecture_] Measuring population differentiation
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w4class.html#1)]
   -  Reading: Hahn 2019. Chapter 5
-- 02-10 (Thu): [_Lab_] Calculate Fst using ANGSD
+- 02-10 (Thu): [_Lab_] Calculate Fst
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w4lab.html#1)]
   - Computational resources:
     - [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
     - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
     - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
 
+### **Week 5**: Scan for direct selection
+- 02-15 (Tue): [_Lecture_] Direct selection
+  - __[Hahn 2019, Chapter 7]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w5class.html#1)]
+- 02-17 (Thu): [_Lab_] Submitting slurm jobs
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w5lab.html#1)]
 
 
 <!--
-
-### **Week 4**: Population differentiation
-- 02-08 (Tue): [_Lecture_] Measuring population differentiation
-  - __[Hahn 2019, Chapter 5]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c5_pops.html#1)]
-- 02-10 (Thu): [_Lab_] Calculate Theta and Fst using ANGSD
-  - Suggested reading materials: [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)] and [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w4lab.html#1)]
 
 ### **Week 5**: Scan for direct selection
 - 02-15 (Tue): [_Lecture_] Direct selection
