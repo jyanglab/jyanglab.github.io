@@ -83,6 +83,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-17 (Thu): [_Lab_] Submitting slurm jobs
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w5lab.html#1)]
 
+### **Week 6**: Linked selection
+- 02-22 (Tue): [_Lecture_] Linked selection
+  - __[Hahn 2019, Chapter 8]__
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6class.html#1)]
+- 02-24 (Thu): [_Lab_] Breaking down statistics into genomic features
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6class.html#1)]
+
 
 <!--
 
