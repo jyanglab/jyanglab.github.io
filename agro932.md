@@ -88,7 +88,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Hahn 2019, Chapter 8]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w6class.html#1)]
 - 02-24 (Thu): [_Lab_] Breaking down statistics into genomic features
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6class.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6lab.html#1)]
 
 
 <!--
