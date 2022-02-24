@@ -111,9 +111,19 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 -->
 
+### **Week 7**: Wrap up the population genomics session
+
+
 ----------
 
 ## Part II. Conventional Breeding: Mating Design and Heritability Estimation
+
+
+
+### **Week 8**: Transition from Pop Gen to Quant Gen
+
+### **Week 9**:
+- 3-13 to 3-20: __Spring Break__
 
 <!--
 
