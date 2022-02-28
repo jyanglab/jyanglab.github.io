@@ -112,16 +112,20 @@ title: AGRO-932 Biometrical genetics and plant breeding
 -->
 
 ### **Week 7**: Wrap up the population genomics session
+- 03-01 (Tue): [_Lecture_] Population genomics summary
+  - __[Hahn 2019, Chapter 10]__ and __[Canvas materials]__ 
+- 03-03 (Thu): [_Lab_] Popular popgen software
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w7lab.html#1)]
 
 
 ----------
 
 ## Part II. Conventional Breeding: Mating Design and Heritability Estimation
 
-
-
 ### **Week 8**: Transition from Pop Gen to Quant Gen
-
+- 03-08 (Tue): [_Lecture_] Definition of breeding populations
+  - __[Bernardo, Chapter 2]__
+  
 ### **Week 9**:
 - 3-13 to 3-20: __Spring Break__
 
