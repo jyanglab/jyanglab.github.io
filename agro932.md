@@ -125,46 +125,33 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 8**: Transition from Pop Gen to Quant Gen
 - 03-08 (Tue): [_Lecture_] Definition of breeding populations
   - __[Bernardo, Chapter 2]__
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w8class1.html#1)]
+- 03-10 (Thu): [_Lecture_] Phenotypic and genotypic values
+  - __[Bernardo, Chapter 3]__ 
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w8class2.html#1)]
   
 ### **Week 9**:
 - 3-13 to 3-20: __Spring Break__
 
 <!--
 
-### **Week 7**: Transition from PopGen to QuantGen
-- 03-01 (Tue): [_Lecture_] Definition of breeding populations
-  - __[Bernardo, Chapter 2]__
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex1_plant_breeding.html#1)]
-- 02-03 (Thu): [_Lab_] Research reporting
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w7lab.html)] and [[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)]
-
-### **Week 8**: Breeding population means and variances
-- 03-08 (Tue): [_Lecture_] Phenotypic and genotypic values
-  - __[Bernardo, Chapter 3]__ or [[ARGO-931, Ch.7](https://jyanglab.com/AGRO-931/)]
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex2_value.html#1)]
-- 03-10 (Thu): [_Lecture_] Phenotypic and genetic variances
-  - __[Bernardo, Chapter 6]__ or [[ARGO-931, Ch.8 and Ch.9](https://jyanglab.com/AGRO-931/)]
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
-  - [__Due date for Mid-term paper__]
 
 ### **Week 9**:
 - 3-13 to 3-20: __Spring Break__
 
+### **Week 10**: Breeding population means and variances
+- 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
+  - __[Bernardo, Chapter 6]__ 
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
+  - [__Due date for Mid-term paper__]
+- 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
 
-### **Week 10**: Mating designs and Estimating Genetic Variances
-- 03-22 (Tue): [_Lecture_] Mating design
+### **Week 11**: Mating designs and Estimating Genetic Variances
+- 03-29 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex7_mating.html#1)]
-- 03-24 (Thu): [_Lab_] Genetics variances calculation
+- 03-31 (Thu): [_Lab_] Genetics variances calculation
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w9lab.html)]
-
-### **Week 10**: Genotype x environment interaction
-- 03-22 (Tue): [_Guest Lecture_]
-- 03-24 (Thu): [_Guest Lab_]
-  - [__Due date for Mid-term paper review__]
-
-----------
-
 
 
 ---------------------
@@ -175,27 +162,27 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - Note: our course switch to Zoom online course because of the Covid-19 pandemic
 
 ### **Week 12**: Best linear unbiased prediction
-- 03-31 (Tue): [_Lecture_] BLUP introduction and Matrix operations
+- 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup.html)]
-- 04-02 (Thu): [_Lecture_] BLUP calculation for breeding populations
+- 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup2.html)]
 
 ### **Week 13**: Genome-enabled selection
-- 04-07 (Tue): [_Lecture_] Genomic selection
+- 04-12 (Tue): [_Lecture_] Genomic selection
   - __[Bernardo, Chapter 11]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs1.html)]
-- 04-09 (Thu): [_Lab_] Genomic selection in practice
+- 04-14 (Thu): [_Lab_] Genomic selection in practice
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs2.html)]
 
 ### **Week 14**: Association mapping via mixed models
-- 04-14 (Tue): [_Lecture_] Genome-wide association study
+- 04-19 (Tue): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
-- 04-16 (Thu): [_Lab1_] GWAS in practice (1)
+- 04-21(Thu): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
 
-- 04-21 (Tue): [_Lab2_] GWAS in practice (2)
+- 04-26 (Tue): [_Lab2_] GWAS in practice (2)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
 
 -->
@@ -207,13 +194,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
 <!--
 ### **Week15**:
 
-- 4-23 (Thu): Summary and emerging technologies
+- 4-28 (Thu): Summary and emerging technologies
   - [__Due date for final paper and final code__]
   - __[Slides in Canvas]__
   - HW Keys: [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w15_hw_keys.html)]
 
 ### **Week16**:
-- 4-28 (Tue): [__Final project presentation__]
-- 4-30 (Thu): [__Final project presentation__] [__Due date for final code review__]
+- 05-03 (Tue): [__Final project presentation__]
+- 05-06 (Thu): [__Final project presentation__] [__Due date for final code review__]
 
 -->
