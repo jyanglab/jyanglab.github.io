@@ -133,6 +133,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 9**:
 - 3-13 to 3-20: __Spring Break__
 
+### **Week 10**: Breeding population means and variances
+- 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
+  - __[Bernardo, Chapter 6]__ 
+  - [[HTML]()]
+  - [__Due date for Mid-term paper__]
+- 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
+
+
 <!--
 
 
