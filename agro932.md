@@ -136,8 +136,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 10**: Breeding population means and variances
 - 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
   - __[Bernardo, Chapter 6]__ 
-  - [[HTML]()]
-  - [__Due date for Mid-term paper__]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w10class_variance.html#1)]
+  - [__Due date for Mid-term paper: March 25th__]
 - 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
 
 
