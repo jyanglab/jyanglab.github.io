@@ -164,7 +164,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-## Part III. Genome-enabled Breeding and GWAS
+
 
 <!--
 - Note: our course switch to Zoom online course because of the Covid-19 pandemic
@@ -194,6 +194,10 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
 
 -->
+
+---------------------
+
+## Part III. Genome-enabled Breeding and GWAS
 
 ---------------------
 
