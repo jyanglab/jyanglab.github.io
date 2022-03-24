@@ -139,6 +139,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w10class_variance.html#1)]
   - [__Due date for Mid-term paper: March 25th__]
 - 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w10lab.html#1)]
 
 
 <!--
