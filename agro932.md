@@ -141,19 +141,15 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w10lab.html#1)]
 
+### **Week 11**: Mating designs and Estimating Genetic Variances
+- 03-29 (Tue): [_Lecture_] Mating design
+  - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11class.html#1)]
+- 03-31 (Thu): [_Lab_] Genetics variances calculation
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab.html#1)]
+
 
 <!--
-
-
-### **Week 9**:
-- 3-13 to 3-20: __Spring Break__
-
-### **Week 10**: Breeding population means and variances
-- 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
-  - __[Bernardo, Chapter 6]__ 
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex6_variance.html#1)]
-  - [__Due date for Mid-term paper__]
-- 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
 
 ### **Week 11**: Mating designs and Estimating Genetic Variances
 - 03-29 (Tue): [_Lecture_] Mating design
