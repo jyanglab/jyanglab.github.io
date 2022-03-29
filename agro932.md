@@ -161,8 +161,6 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-
-
 <!--
 - Note: our course switch to Zoom online course because of the Covid-19 pandemic
 
