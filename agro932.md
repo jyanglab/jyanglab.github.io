@@ -146,7 +146,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w11class.html#1)]
 - 03-31 (Thu): [_Lab_] Genetics variances calculation
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab_2022.html#1)]
 
 
 <!--
