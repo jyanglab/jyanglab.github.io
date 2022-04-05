@@ -149,16 +149,19 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab_2022.html#1)]
 
 
+---------------------
+
+## Part III. Genome-enabled Breeding and GWAS
+
+### **Week 12**: Best linear unbiased prediction
+- 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
+  - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
+  - [[HTML](https://jyanglab.com/slides/2022-agro932//w12class_blup1.html)]
+- 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
+  - [[HTML](https://jyanglab.com/slides/2022-agro932//w12class_blup2.html)]
+
+
 <!--
-
-### **Week 11**: Mating designs and Estimating Genetic Variances
-- 03-29 (Tue): [_Lecture_] Mating design
-  - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex7_mating.html#1)]
-- 03-31 (Thu): [_Lab_] Genetics variances calculation
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w9lab.html)]
-
-
 ---------------------
 
 <!--
@@ -170,6 +173,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup.html)]
 - 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
   - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup2.html)]
+
 
 ### **Week 13**: Genome-enabled selection
 - 04-12 (Tue): [_Lecture_] Genomic selection
@@ -190,9 +194,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 -->
 
----------------------
 
-## Part III. Genome-enabled Breeding and GWAS
 
 ---------------------
 
