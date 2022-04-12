@@ -160,20 +160,16 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
   - [[HTML](https://jyanglab.com/slides/2022-agro932//w12class_blup2.html)]
 
+### **Week 13**: Genome-enabled selection
+- 04-12 (Tue): [_Lecture_] Genomic selection
+  - __[Bernardo, Chapter 11]__
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13class_gs1.html)]
+- 04-14 (Thu): [_Lab_] Genomic selection in practice
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13class_gs2.html)]
+
 
 <!--
 ---------------------
-
-<!--
-- Note: our course switch to Zoom online course because of the Covid-19 pandemic
-
-### **Week 12**: Best linear unbiased prediction
-- 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
-  - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup.html)]
-- 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex10_blup2.html)]
-
 
 ### **Week 13**: Genome-enabled selection
 - 04-12 (Tue): [_Lecture_] Genomic selection
