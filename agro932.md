@@ -165,7 +165,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w13class_gs1.html)]
 - 04-14 (Thu): [_Lab_] Genomic selection in practice
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13class_gs2.html)]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13lab_gs2.html)]
 
 
 <!--
