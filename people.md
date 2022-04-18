@@ -119,19 +119,6 @@ Office: Keim 162.
 
 -----------------
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/LS3YOn0.jpg" alt="Mike" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Michael Meier</b> is a PostDoc, working on root-associated microbiome.
-</div>
-
-
 
 <div class="responsive">
   <div class="img">
@@ -163,22 +150,6 @@ Office: Keim 162.
 </div>
 
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/111s6E5.jpg" alt="Xin" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Xin Zhi Khoo</b> is a senior undergraduate student majoring in Agronomy.
-</div>
-
-
-<div class="clearfix"></div>
-
-------------
 
 <div class="responsive">
   <div class="img">
@@ -199,6 +170,8 @@ Office: Keim 162.
 
 ## Lab Alumni
 
+- **Michael Meier**: now working as a scientist with [Rancho BioSciences](https://ranchobiosciences.com/).
+- **Xin Zhi Khoo**: a undergraduate student majoring in Agronomy.
 - **Jing Lyu**: now working as a PostDoc at the Indiana University.
 - **Jinlong Li**: a visiting PhD student from China Agricultural University.
 - **Jamie Fuqua**: a plant biology major undergraduate student.

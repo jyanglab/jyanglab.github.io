@@ -4,9 +4,18 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### April, 2022
+
+- Our lab at the 2022 Maize genetics conference!
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/HSFdAvK.jpg">
+</p>
+
+
 ### Nov, 2021
 
-Congratulations, Dr. Meier, on successfully defending his dissertation!
+- Congratulations, Dr. Meier, on successfully defending his dissertation!
 
 <p align="center">
   <img height="300" src="https://i.imgur.com/clJJRYR.jpg">
