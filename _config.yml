@@ -27,7 +27,8 @@ navbar-links:
   Research: "research"
   Publications: "pub"
   Software: "software"
-  Teaching: "teaching"
+  Teaching: 
+    - Courses: "teaching"
     - AGRO931: "agro931"
     - AGRO932: "agro932"
   Q.U.I.T.: "jc"
