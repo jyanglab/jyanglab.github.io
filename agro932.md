@@ -164,19 +164,28 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-12 (Tue): [_Lecture_] Genomic selection
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w13class_gs1.html)]
-- 04-14 (Thu): [_Lab_] Genomic selection in practice
+- 04-14 (Thu): [_Lab_] Genomic selection in practice (1)
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w13lab_gs2.html)]
+
+
+### **Week 14**: GS and GWAS via mixed models
+- 04-19 (Tue): [_Lab_] Genomic selection in practice (2)
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13lab_gs2.html)]
+- 04-21 (Thu): [_Lecture_] Genome-wide association study
+  - __[Bernardo, Chapter 11]__
+  - [[HTML]()]
+
+### **Week 15**: Association mapping via mixed models
+- 04-26(Tue): [_Lab1_] GWAS in practice (1)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML]()]
+
+- 04-29 (Thu): [_Lab2_] GWAS in practice (2)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
+  - [[HTML]()]
 
 
 <!--
 ---------------------
-
-### **Week 13**: Genome-enabled selection
-- 04-12 (Tue): [_Lecture_] Genomic selection
-  - __[Bernardo, Chapter 11]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs1.html)]
-- 04-14 (Thu): [_Lab_] Genomic selection in practice
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gs2.html)]
 
 ### **Week 14**: Association mapping via mixed models
 - 04-19 (Tue): [_Lecture_] Genome-wide association study
@@ -197,6 +206,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ## Part IV. Emerging Technologies in Plant Breeding
 
+### **Week16**:
+- 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
+- 05-06 (Thu): [__Final project presentation__]
+
+
 <!--
 ### **Week15**:
 
@@ -206,7 +220,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - HW Keys: [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w15_hw_keys.html)]
 
 ### **Week16**:
-- 05-03 (Tue): [__Final project presentation__]
-- 05-06 (Thu): [__Final project presentation__] [__Due date for final code review__]
+- 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
+- 05-06 (Thu): [__Final project presentation__]
 
 -->
