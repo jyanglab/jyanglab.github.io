@@ -170,18 +170,11 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 14**: GS and GWAS via mixed models
 - 04-19 (Tue): [_Lab_] Genomic selection in practice (2)
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w13lab_gs2.html)]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w14lab_gs3.html)]
 - 04-21 (Thu): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__
   - [[HTML]()]
 
-### **Week 15**: Association mapping via mixed models
-- 04-26(Tue): [_Lab1_] GWAS in practice (1)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML]()]
-
-- 04-29 (Thu): [_Lab2_] GWAS in practice (2)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
-  - [[HTML]()]
 
 
 <!--
@@ -193,6 +186,14 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
 - 04-21(Thu): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
+
+### **Week 15**: Association mapping via mixed models
+- 04-26(Tue): [_Lab1_] GWAS in practice (1)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML]()]
+
+- 04-29 (Thu): [_Lab2_] GWAS in practice (2)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
+  - [[HTML]()]
 
 - 04-26 (Tue): [_Lab2_] GWAS in practice (2)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
