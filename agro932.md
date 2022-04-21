@@ -173,7 +173,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w14lab_gs3.html)]
 - 04-21 (Thu): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__
-  - [[HTML]()]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w14class_gwas1.html)]
 
 
 
