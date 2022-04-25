@@ -175,33 +175,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w14class_gwas1.html)]
 
-
-
-<!--
----------------------
-
-### **Week 14**: Association mapping via mixed models
-- 04-19 (Tue): [_Lecture_] Genome-wide association study
-  - __[Bernardo, Chapter 11]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas1.html)]
-- 04-21(Thu): [_Lab1_] GWAS in practice (1)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
-
 ### **Week 15**: Association mapping via mixed models
-- 04-26(Tue): [_Lab1_] GWAS in practice (1)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] and [[HTML]()]
-
-- 04-29 (Thu): [_Lab2_] GWAS in practice (2)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
+- 04-26 (Tue): [_Lab1_] GWAS in practice (1)
+  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas2.html)]
+- 04-28 (Thu): [_Lab2_] GWAS in practice (2)
   - [[HTML]()]
-
-- 04-26 (Tue): [_Lab2_] GWAS in practice (2)
-  - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)] 
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.1-qg/rex11_gwas2.html)]
-
--->
-
-
 
 ---------------------
 
@@ -209,7 +188,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week16**:
 - 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
-- 05-06 (Thu): [__Final project presentation__]
+- 05-05 (Thu): [__Final project presentation__](10 mins + 5mins Q&A)
 
 
 <!--
