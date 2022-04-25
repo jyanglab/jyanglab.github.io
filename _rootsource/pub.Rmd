@@ -119,8 +119,8 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, ",
-"__Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize__, ",
-"_Genetics (accepted)_, 2022.  \n",
+"__[Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac057/6572813?guestAccessKey=62841cd7-b940-470d-b429-bed75e68cf8d)__, ",
+"_Genetics_, 2022.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) ",
 "| [GitHub](https://github.com/ZhikaiYang/mediation) ",
 "| [GC-MS Data](http://dx.doi.org/10.21228/M86H5T) "
