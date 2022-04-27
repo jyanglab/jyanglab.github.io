@@ -180,7 +180,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)]
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas2.html)]
 - 04-28 (Thu): [_Lab2_] GWAS in practice (2)
-  - [[HTML]()]
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas3.html)]
 
 ---------------------
 
