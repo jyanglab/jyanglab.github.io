@@ -43,7 +43,7 @@ __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediatio
 
 
 __E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) 
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
 
 
 ### 2021
@@ -53,7 +53,7 @@ L. F. Samayoa, B. A. Olukolu, C. J. Yang, Q. Chen, M. G. Stetter, A. M. York,, J
 
 
 C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automation of Leaf Counting in Maize and Sorghum Using Deep Learning](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20022)__, _The Plant Phenome Journal_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) | [GitHub](https://github.com/huskermiao/MaizeLeafCounting) 
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.12.19.423626v1) | [GitHub](https://github.com/huskermiao/MaizeLeafCounting) | [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451297146303511073&as_sdt=5)
 
 S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  
