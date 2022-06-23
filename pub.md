@@ -37,6 +37,8 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 ### 2022
 
+S. Deng, __M. A. Meier__, D. Caddell, __J. Yang__, and D. Coleman-Derr, __[Plant Microbiome-Based Genome-Wide Association Studies](https://link.springer.com/protocol/10.1007/978-1-0716-2237-7_20)__, Part of the _Methods in Molecular Biology_ book series, 2022.  
+
 
 __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac057/6572813?guestAccessKey=62841cd7-b940-470d-b429-bed75e68cf8d)__, _Genetics_, 2022.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) | [GitHub](https://github.com/ZhikaiYang/mediation) | [GC-MS Data](http://dx.doi.org/10.21228/M86H5T) 
