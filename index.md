@@ -10,16 +10,25 @@ bigimg:
   - "/img/big-imgs/mexicana.jpeg" : "Mexicana Aerial Root"
 ---
 
-Our lab is using the economically important crop maize as our study system to address the overarching question of __how to leverage wild ancestors to improve domesticated crops, especially under stress conditions__ (i.e., low nitrogen). 
+__Our lab focuses on quantitative genetics and statistical genomics of maize and its wild relatives, from historical domestication to future improvement.__
 
-To do so, our lab is focusing on bridging the __genotype-phenotype (G2P) divide__ during maize domestication processes by using quantitative genetics/genomics and statistical modeling approaches, specifically studying the mode of inheritance of genetic loci in determining complex traits, such as grain yield and nitrogen use efficiency (NUE).
+<p align="center">
+  <img height="300" src="https://i.imgur.com/AXtQlFP.png">
+  <figcaption>Our study system.</figcaption>
+</p>
 
-At a broader scale, we are keen to integrate various large-scale biological datasets such as phenomics, genomics, transcriptomics, methylomics data and functional annotations to boost the power of **Genome-wide Association Study** and **Genomic Selection**.
+As our primary study system, maize is not only an essential crop that feeds the world’s growing population but also represents a promising system for studies of population and quantitative genetics. 
+Domesticated from its wild ancestor teosinte (meaning “the grain of the gods”) about 9,000 years ago, ancient farmers had taken about 5,000 years to convert the bushy grass producing hundreds of thumb-length ears to the plant
+recognized as modern corn that adapted to the wide environmental conditions. 
+Starting from the early 19 century, modern breeding has dramatically reshaped plant morphology, especially with the broad
+application of inorganic nitrogen (N) fertilizer in maize production. 
+Therefore, the ancient domestication and recent improvement processes can be considered case studies to understand plant adaptation.
 
-Our lab's major interests (see [research page](/research/) for more details) include: 
- - Studing **methylome evolution** in reshaping the patterns of the gene regulation in domesticated crops
- - Using **quantitative and population genetics** approaches to understand the genetic architecture of agronomically important traits, and how **deleterious alleles** shape the patterns of plant adaptation.  
- - Exploring the **genetic basis of heterosis** and predicting hybrid performance by incorporating biological annotation information.  
- - **Collecting and modeling complex phenotypes**, such as molecular phenotypes, time series phenotypes, or phenotypes obtained via image analyses, and understanding the molecular mechanism controlling for plant development.  
+
+__We are currently focusing on the below  major research areas (see [research page](/research/) for more details)__: 
+ - Improving maize N use efficiency through Genomics, Microbiome, and Phenomics innovations
+ - Evolutionary and Functional Genomics
+ - Statistical modeling to bridge genotype to phenotype divide
+  
 
 If you are interested in any of the above topics, read more about [how to join the lab](/positions).
