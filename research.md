@@ -32,7 +32,7 @@ However, to what extent the shifted N conditions have reshaped the genomic archi
 Here, we aim to reveal the genomic changes during recent maize improvement in the oversupplied conditions and validate the functional consequences of these genomic changes.
 
 <p align="center">
-  <img height="500" src="https://i.imgur.com/smpnnUV.png">
+  <img height="400" src="https://i.imgur.com/smpnnUV.png">
   <figcaption>Population phenomics and genomics characteristics of maize lines developed from different eras.</figcaption>
 </p>
 
