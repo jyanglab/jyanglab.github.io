@@ -97,7 +97,7 @@ As the genomic profiling of the physical interactions becomes available, our lab
 physical interactions on the phenotypic trait variations and reveal the long-standing questions regarding the relative contributions of epistasis to phenotype.
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/KXgSsTV.png">
+  <img height="300" src="https://i.imgur.com/XeHyQuQ.png">
   <figcaption>Levels of CG methylation around a differentially methylated region (DMR). </figcaption>
 </p>
 > G. Xu, J. Lyu, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, J. Yang, [Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4), Nature Communications, 2020.
@@ -114,7 +114,7 @@ methods to facilitate crop improvement. These tools and methods will help to fac
 genetics research for a broader community.
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/XeHyQuQ.png">
+  <img height="300" src="https://i.imgur.com/KXgSsTV.png">
   <figcaption>A graphical depiction of the high-dimensional genome-wide mediation analysis. </figcaption>
 </p>
 > Z. Yang, G. Xu, Q. Zhang, T. Obata, J. Yang, [Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac057/6572813?guestAccessKey=62841cd7-b940-470d-b429-bed75e68cf8d), Genetics, 2022.
