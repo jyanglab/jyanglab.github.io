@@ -21,9 +21,9 @@ Starting from the early 19 century, modern breeding has dramatically reshaped pl
 
 
 __We are currently focusing on the below  major research areas (see [research page](/research/) for more details)__: 
- - Improving maize N use efficiency through [Genome](), [Phenome](), and [Microbiome]()  innovations
- - Evolutionary and Functional Genomics
- - Statistical modeling to bridge genotype to phenotype (G2P) divide
+ - Improving maize N use efficiency through [Genome](/research/#genome), [Phenome](/research/#phenome), and [Microbiome](/research/#microbiome)  innovations
+ - [Evolutionary and Functional Genomics](/research/#fun)
+ - Statistical modeling to bridge [genotype to phenotype (G2P)](/research/#g2p) divide
   
 
 If you are interested in any of the above topics, read more about [how to join the lab](/positions).

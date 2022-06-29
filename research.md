@@ -17,8 +17,7 @@ leads to a host of environmental and economic concerns. To alleviate the environ
 increase farming profitability, it is critical to identify sustainable alternatives to improve crop NUE. 
 In my group, we aim to improve NUE from the genomics, phenomics, and microbiomics perspectives.
 
-### 1.1 NUE through Genomics Innovation
-
+<h3 id="genome"> 1.1 NUE through Genomics Innovation </h3>
 
 
 In the past decades, the genetic gain through continuous
@@ -33,7 +32,7 @@ However, to what extent the shifted N conditions have reshaped the genomic archi
 Here, we aim to reveal the genomic changes during recent maize improvement in the oversupplied conditions and validate the functional consequences of these genomic changes.
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/smpnnUV.png">
+  <img height="500" src="https://i.imgur.com/smpnnUV.png">
   <figcaption>Population phenomics and genomics characteristics of maize lines developed from different eras.</figcaption>
 </p>
 
@@ -41,10 +40,8 @@ Here, we aim to reveal the genomic changes during recent maize improvement in th
 
 
 
-
-### 1.2 NUE through Microbiome Innovation
-
-
+  
+<h3 id="microbiome"> 1.2 NUE through Microbiome Innovation </h3>
 
 Plant roots are colonized by thousands of microbial species that can improve plant health and performance, such as solubilization of nutrients, competition with pathogens, phytohormone production, and N fixation. Harnessing these beneficial microbes in maize cropping systems provides an attractive opportunity to reduce dependence on chemical N fertilizers.
 Our study suggested that the plant host selecting the beneficial
@@ -55,7 +52,7 @@ The plant hosts preferentially selected beneficial microbes to provide promising
 Here, we will harness the beneficial microbes for maize NUE study from both the plant genetics and plant-associated microbiome perspectives.  
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/3HXTzHC.jpg">
+  <img height="400" src="https://i.imgur.com/3HXTzHC.jpg">
   <figcaption>Phylogenetic tree of taxonomic groups of rhizosphere microbiota.</figcaption>
 </p>
 
@@ -66,9 +63,7 @@ Here, we will harness the beneficial microbes for maize NUE study from both the 
 > M. A. Meier, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, J. Yang, [Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://journals.asm.org/doi/full/10.1128/AEM.03132-20), Applied and Environmental Microbiology, 2021.
 
 
-### 1.3 NUE through Phenomics Innovation
-
-
+<h3 id="phenome"> 1.3 NUE through Phenomics Innovation </h3>
 
 In collaboration with several colleagues in phenomics, my group has started to expand the research area on high throughput
 phenotyping (HTP), with a focus on in-field phenotyping using
@@ -86,7 +81,7 @@ In the future, we will continue to develop methods to extract physiological and 
 
 -------------------
 
-### 2. Evolutionary and Functional Genomics
+<h2 id="fun"> 2. Evolutionary and Functional Genomics </h2>
 
 Additive and dominant modes of inheritance of deleterious alleles have been investigated in numerous studies; however, very few studies reveal epistasis’s relevance in the evolutionary processes. Biological knowledge and genomics studies suggest that physical interactions,
 or functional epistasis, should be prevalent across the genome. For example, the physical interactions
@@ -97,15 +92,14 @@ As the genomic profiling of the physical interactions becomes available, our lab
 physical interactions on the phenotypic trait variations and reveal the long-standing questions regarding the relative contributions of epistasis to phenotype.
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/XeHyQuQ.png">
+  <img height="400" src="https://i.imgur.com/XeHyQuQ.png">
   <figcaption>Levels of CG methylation around a differentially methylated region (DMR). </figcaption>
 </p>
 > G. Xu, J. Lyu, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, J. Yang, [Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4), Nature Communications, 2020.
 
 -------------------
 
-### 3. Statistical modeling between genotype and phenotype
-
+<h2 id="g2p"> 3. Statistical modeling between genotype and phenotype </h2>
 
 The third research area in our lab focuses on bridging the genotype-phenotype (G2P)
 divide using statistical modeling approaches. In this direction, we will develop models to integrate various large-scale biological datasets generated in the other two areas, including phenomics, genomics, transcriptomics, methylomics, microbiomics, and functional annotation datasets. 
