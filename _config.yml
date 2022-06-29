@@ -26,15 +26,15 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "pub"
-  Software: "software"
+  News: "news"
   Teaching: 
     - Courses: "teaching"
     - AGRO931: "agro931"
     - AGRO932: "agro932"
-  Q.U.I.T.: "jc"
-  News: "news"
   Resources:
     - Lab Blog: "labdoc/index"
+    - Software: "software"
+    - JC: Q.U.I.T.: "jc"
     #- Lab Tutorial: "JYang-Lab-tutorial"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- ZeaBigData: "https://zeabigdata.org/"
