@@ -19,9 +19,7 @@ In my group, we aim to improve NUE from the genomics, phenomics, and microbiomic
 
 ### 1.1 NUE through Genomics Innovation
 
-<p align="center">
-  <img height="300" src="https://i.imgur.com/smpnnUV.png">
-</p>
+
 
 In the past decades, the genetic gain through continuous
 hybrid releases from public and private sectors has contributed substantially to the yield improvement. 
@@ -33,6 +31,11 @@ preference to select hybrids with high planting density to take advantage of hig
 resulting in a number of physiological and morphological changes in maize. 
 However, to what extent the shifted N conditions have reshaped the genomic architecture and regulatory networks in affecting the N assimilation and mobilization has not been systematically studied.
 Here, we aim to reveal the genomic changes during recent maize improvement in the oversupplied conditions and validate the functional consequences of these genomic changes.
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/smpnnUV.png">
+</p>
+
 > G. Xu, J. Lyu, T. Obata, S. Liu, Y. Ge, J. C. Schnable, J. Yang, [A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding](https://www.biorxiv.org/content/10.1101/2022.02.09.479784v1), bioRxiv, 2022.
 
 
@@ -40,9 +43,7 @@ Here, we aim to reveal the genomic changes during recent maize improvement in th
 
 ### 1.2 NUE through Microbiome Innovation
 
-<p align="center">
-  <img height="300" src="https://i.imgur.com/3HXTzHC.jpg">
-</p>
+
 
 Plant roots are colonized by thousands of microbial species that can improve plant health and performance, such as solubilization of nutrients, competition with pathogens, phytohormone production, and N fixation. Harnessing these beneficial microbes in maize cropping systems provides an attractive opportunity to reduce dependence on chemical N fertilizers.
 Our study suggested that the plant host selecting the beneficial
@@ -51,6 +52,11 @@ mutations that are deleterious to fitness), resulting in low allele frequencies 
 across the host genome.
 The plant hosts preferentially selected beneficial microbes to provide promising targets for in-depth investigation of the symbiotic relationship, especially the microbes for promoting NUE. 
 Here, we will harness the beneficial microbes for maize NUE study from both the plant genetics and plant-associated microbiome perspectives.  
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/3HXTzHC.jpg">
+</p>
+
 > M. A. Meier, G. Xu, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, J. Yang, [Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1), bioRxiv, 2021.
 
 > S. Deng, G. Xu, D. Caddell, L. Dahlen, L. Washington, J. Yang, D. Coleman-Derr, [Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z), The ISME Journal, 2021.
@@ -60,9 +66,7 @@ Here, we will harness the beneficial microbes for maize NUE study from both the 
 
 ### 1.3 NUE through Phenomics Innovation
 
-<p align="center">
-  <img height="300" src="https://i.imgur.com/pkrzKuK.png">
-</p>
+
 
 In collaboration with several colleagues in phenomics, my group has started to expand the research area on high throughput
 phenotyping (HTP), with a focus on in-field phenotyping using
@@ -71,6 +75,10 @@ maize diversity panels. To analyze these image data, we developed a UAS image pr
 to extract clipped plot-level images and then apply pixel filtration algorithms to remove the non-foliage
 elements.
 In the future, we will continue to develop methods to extract physiological and morphological traits (i.e., tassel detection using machine learning methods) from UAS-based imagery data and use these data to map genes and facilitate plant breeding.
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/pkrzKuK.png">
+</p>
 > E. Rodene, G. Xu, S. P. Delen, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, J. Yang, [A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030), The Plant Phenome Journal, 2022.
 
 -------------------
