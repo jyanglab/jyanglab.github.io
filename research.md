@@ -34,6 +34,7 @@ Here, we aim to reveal the genomic changes during recent maize improvement in th
 
 <p align="center">
   <img height="300" src="https://i.imgur.com/smpnnUV.png">
+  <figcaption>Population phenomics and genomics characteristics of maize lines developed from different eras.</figcaption>
 </p>
 
 > G. Xu, J. Lyu, T. Obata, S. Liu, Y. Ge, J. C. Schnable, J. Yang, [A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding](https://www.biorxiv.org/content/10.1101/2022.02.09.479784v1), bioRxiv, 2022.
@@ -55,6 +56,7 @@ Here, we will harness the beneficial microbes for maize NUE study from both the 
 
 <p align="center">
   <img height="300" src="https://i.imgur.com/3HXTzHC.jpg">
+  <figcaption>Phylogenetic tree of taxonomic groups of rhizosphere microbiota.</figcaption>
 </p>
 
 > M. A. Meier, G. Xu, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, J. Yang, [Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1), bioRxiv, 2021.
@@ -78,6 +80,7 @@ In the future, we will continue to develop methods to extract physiological and 
 
 <p align="center">
   <img height="300" src="https://i.imgur.com/pkrzKuK.png">
+  <figcaption>Field design and data analysis for UAS-based high-throughput phenotyping. </figcaption>
 </p>
 > E. Rodene, G. Xu, S. P. Delen, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, J. Yang, [A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030), The Plant Phenome Journal, 2022.
 
@@ -94,7 +97,8 @@ As the genomic profiling of the physical interactions becomes available, our lab
 physical interactions on the phenotypic trait variations and reveal the long-standing questions regarding the relative contributions of epistasis to phenotype.
 
 <p align="center">
-  <img height="300" src="https://i.imgur.com/XeHyQuQ.png">
+  <img height="300" src="https://i.imgur.com/KXgSsTV.png">
+  <figcaption>Levels of CG methylation around a differentially methylated region (DMR). </figcaption>
 </p>
 > G. Xu, J. Lyu, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, J. Yang, [Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4), Nature Communications, 2020.
 
@@ -111,6 +115,7 @@ genetics research for a broader community.
 
 <p align="center">
   <img height="300" src="https://i.imgur.com/XeHyQuQ.png">
+  <figcaption>A graphical depiction of the high-dimensional genome-wide mediation analysis. </figcaption>
 </p>
 > Z. Yang, G. Xu, Q. Zhang, T. Obata, J. Yang, [Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac057/6572813?guestAccessKey=62841cd7-b940-470d-b429-bed75e68cf8d), Genetics, 2022.
 
