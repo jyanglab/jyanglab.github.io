@@ -29,7 +29,7 @@ not the limiting constraint on productivity or yield. The shifted N condition ha
 preference to select hybrids with high planting density to take advantage of higher rates of N fertilizers,
 resulting in a number of physiological and morphological changes in maize. 
 However, to what extent the shifted N conditions have reshaped the genomic architecture and regulatory networks in affecting the N assimilation and mobilization has not been systematically studied.
-Here, we aim to reveal the genomic changes during recent maize improvement in the oversupplied conditions and validate the functional consequences of these genomic changes.
+Here, we aim to reveal the genomic changes during recent maize improvement in the N oversupplied conditions and validate the functional consequences of these genomic changes.
 
 <p align="center">
   <img height="400" src="https://i.imgur.com/smpnnUV.png">
