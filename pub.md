@@ -41,7 +41,7 @@ __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediatio
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) | [GitHub](https://github.com/ZhikaiYang/mediation) | [GC-MS Data](http://dx.doi.org/10.21228/M86H5T) 
 
 
-__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
+__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify trait-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
 
 
