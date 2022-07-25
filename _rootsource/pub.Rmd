@@ -105,7 +105,7 @@ cat(paste0(
 "_eLife (accepted)_, 2022.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) ",
 "| [GitHub](https://github.com/jyanglab/Maize_Rhizobiome_2022) ",
-"| [SRA BioProject PRJNA772177 (n=3,313 samples)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA772177) ",
+"| [NCBI BioProject PRJNA772177 (n=3,313 samples)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA772177) "
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
