@@ -65,24 +65,6 @@ cat(paste0(
 ```
 
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"__M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, ",
-"__Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance__, ",
-"_bioRxiv_, 2021.  \n",
-"[10.1101/2021.11.01.466815](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
-
-
-
-
-
-
 
 ```{r, echo=FALSE, results="asis"}
 
@@ -114,13 +96,29 @@ cat(paste0(
 
 ### 2022
 
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, ",
+"__Association analyses of host genetics, rootcolonizing microbes, and plant phenotypes under different nitrogen conditions in maize__, ",
+"_eLife (accepted)_, 2022.  \n",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) ",
+"| [GitHub](https://github.com/jyanglab/Maize_Rhizobiome_2022) ",
+"| [SRA BioProject PRJNA772177 (n=3,313 samples)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA772177) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
 ```{r, echo=FALSE, results="asis"}
 
 #pid <- bob[bob$pubid=="5icHVeHT4IsC",]
 cat(paste0(
 "S. Deng, __M. A. Meier__, D. Caddell, __J. Yang__, and D. Coleman-Derr, ",
 "__[Plant Microbiome-Based Genome-Wide Association Studies](https://link.springer.com/protocol/10.1007/978-1-0716-2237-7_20)__, ",
-"Part of the _Methods in Molecular Biology_ book series, 2022.  \n"
+"Part of the _Methods in Molecular Biology_ book series, 2022.  \n",
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
