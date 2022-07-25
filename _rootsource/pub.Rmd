@@ -118,7 +118,7 @@ cat(paste0(
 cat(paste0(
 "S. Deng, __M. A. Meier__, D. Caddell, __J. Yang__, and D. Coleman-Derr, ",
 "__[Plant Microbiome-Based Genome-Wide Association Studies](https://link.springer.com/protocol/10.1007/978-1-0716-2237-7_20)__, ",
-"Part of the _Methods in Molecular Biology_ book series, 2022.  \n",
+"Part of the _Methods in Molecular Biology_ book series, 2022.  \n"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [", pid$cites, " citations](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
