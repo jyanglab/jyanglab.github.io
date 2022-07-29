@@ -101,7 +101,7 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, ",
-"__Association analyses of host genetics, rootcolonizing microbes, and plant phenotypes under different nitrogen conditions in maize__, ",
+"__[Association analyses of host genetics, rootcolonizing microbes, and plant phenotypes under different nitrogen conditions in maize](https://elifesciences.org/articles/75790)__, ",
 "_eLife (accepted)_, 2022.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) ",
 "| [GitHub](https://github.com/jyanglab/Maize_Rhizobiome_2022) ",

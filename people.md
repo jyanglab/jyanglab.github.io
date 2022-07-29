@@ -132,6 +132,17 @@ Office: Keim 162.
 <b>Kahheetah Barnoskie</b> is a MS student in the department of Ag/Hort, working on native corn.
 </div>
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/9fQIrCm.png" alt="Musa" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Musa Ulutas</b> is a PhD student in the department of Ag/Hort, working on sweetcorn and root phenotype.
+</div>
 
 <div class="clearfix"></div>
 
@@ -161,6 +172,22 @@ Office: Keim 162.
 
 <div class="responsive">
 <b>Nicholas Reikofski</b> is a undergraduate student majored in Agricultural Economics with a minor in Agronomy.
+</div>
+
+
+<div class="clearfix"></div>
+
+-------------
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/BLnvq3i.png" alt="Nick" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Luke Olson</b> is a undergraduate student with a major in Computer Science and a minor in Bioinformatics.
 </div>
 
 
