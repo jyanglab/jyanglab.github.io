@@ -40,6 +40,19 @@ bob <- bob[order(bob$year, decreasing=T),]
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__Semra Palali Delen__, __Gen Xu__, __Jenifer Velazquez-Perfecto__, __J. Yang__, ",
+"__Estimating the genetic parameters of yield-related traits under different nitrogen conditions in maize__, ",
+"_bioRxiv_, 2022.  \n",
+"[10.1101/2022.08.05.502993](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "__G. Xu__, __J. Lyu__, T. Obata,  S. Liu, Y. Ge, J. C. Schnable, __J. Yang__, ",
 "__A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding__, ",
 "_bioRxiv_, 2022.  \n",
