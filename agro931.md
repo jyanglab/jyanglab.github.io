@@ -15,7 +15,7 @@ title: AGRO/ANSCI 931 Population Genetics
 - Falconer & Mackay, Quantitative Genetics   
 
 <p align="center">
-  <img height="100" src="https://i.imgur.com/ZHwjtm7.png?1">
+  <img height="200" src="https://i.imgur.com/ZHwjtm7.png?1">
 </p>
 
 #### Free Online Materials
