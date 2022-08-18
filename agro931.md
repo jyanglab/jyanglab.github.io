@@ -11,7 +11,9 @@ title: AGRO/ANSCI 931 Population Genetics
 - **Prerequisites**: STAT-801A or equivalent, or permission of the instructor(s).
 
 
-## Required Texts and Reading Materials
+## Texts and Reading Materials
+
+#### Required textbook
 - Falconer & Mackay, Quantitative Genetics   
 
 <p align="center">
