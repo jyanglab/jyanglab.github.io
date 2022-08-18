@@ -1,29 +1,25 @@
 ---
 layout: page
 css: "/css/pub.css"
-title: ANS/AGRO931 Population Genetics
+title: AGRO/ANSCI 931 Population Genetics
 ---  
 
 
-- Fall 2020
-- **Location**: Animal Science __A130__
-- **Time**: 8:00-8:50am (MWF)
-  - (MW): in-person session ([face covering policy](https://covid19.unl.edu/face-covering-policy))
-  - (F): on-line session
-- **Prerequisites**: AGRO-315 and	STAT-801 or equivalent, or permission of the instructor(s).
+- Fall 2022
+- **Location**: Animal Science __A228__
+- **Time**: 9:00-9:50am (MWF)
+- **Prerequisites**: STAT-801A or equivalent, or permission of the instructor(s).
 
 
-## Texts and Reading Materials
+## Required Texts and Reading Materials
 - Falconer & Mackay, Quantitative Genetics   
 
 <p align="center">
-  <img src="https://i.imgur.com/ZHwjtm7.png?1">
+  <img height="100" src="https://i.imgur.com/ZHwjtm7.png?1">
 </p>
 
-<!--
-- [Population Genetics notes](https://gcbias.org/population-genetics-notes/) by [Graham Coop](https://gcbias.org/).
--->
-
+#### Free Online Materials
+- Graham Coop, [Population Genetics notes](https://gcbias.org/population-genetics-notes/)
 - [Basic R](https://www.statmethods.net/): Quick online reference for data input, basic statistics, and plots.
 - [STHDA](http://www.sthda.com/english/): Statistical tools for high-throughput data analysis.
 
@@ -33,6 +29,7 @@ title: ANS/AGRO931 Population Genetics
 
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
+<!---
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
 - 10/7 (W): Covariance and regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
@@ -114,5 +111,5 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 
 ### **Final exam**
-- 11/21 (S): 8:00-9:00am (in-person)
+- 12/10 (F): 9:00-10:00am
 
