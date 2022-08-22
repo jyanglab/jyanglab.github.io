@@ -14,7 +14,7 @@ title: AGRO/ANSCI 931 Population Genetics
 ## Texts and Reading Materials
 
 #### Required textbook
-- Falconer & Mackay, Quantitative Genetics   
+- Falconer & Mackay, Introduction to Quantitative Genetics   
 
 <p align="center">
   <img height="200" src="https://i.imgur.com/ZHwjtm7.png?1">
@@ -27,9 +27,14 @@ title: AGRO/ANSCI 931 Population Genetics
 
 --------------------
 
-## Schedule
+## Schedule Fall 2022
 
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
+
+### **Week 1**: Allele and Genotype Frequencies
+- 08-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2022-agro931/week1_c1.html)]
+- 08-24 (W): Hardy-Weinberg Equilibrium [[HTML]()]
+- 08-26 (F): Linkage Disequilibrium [[HTML]()]
 
 <!---
 ### Statistical Foundations [Handouts in canvas]
