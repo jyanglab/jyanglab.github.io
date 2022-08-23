@@ -33,7 +33,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 1**: Allele and Genotype Frequencies
 - 08-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2022-agro931/week1_c1.html)]
-- 08-24 (W): Hardy-Weinberg Equilibrium [[HTML]()]
+- 08-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1_c2.html)]
 - 08-26 (F): Linkage Disequilibrium [[HTML]()]
 
 <!---
