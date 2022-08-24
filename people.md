@@ -24,14 +24,14 @@ bigimg:
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/VReGfGn.jpg?2" alt="Jinliang Yang" width="300" height="400" >
+      <img src="https://i.imgur.com/rpxbTrX.jpg" alt="Jinliang Yang" width="300" height="400" >
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Jinliang Yang</b> is an Assistant Professor in <a href="https://agronomy.unl.edu/"> the Department of Agronomy and Horticulture. </a>
-<a href="/img/CVs/CV_JYang-2019.pdf"> his updated CV </a>
+<b>Jinliang Yang</b> is an Assistant Professor in the Department of Agronomy and Horticulture at UNL. 
+<a href="/people/jyang"> learn more ...  </a>
 </div>
 
 

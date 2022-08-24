@@ -10,7 +10,7 @@ bigimg:
 ---
 
 
-{% include module.html image_path="https://i.imgur.com/VReGfGn.jpg?2" 
+{% include module.html image_path="https://i.imgur.com/rpxbTrX.jpg" 
 name="Jinliang Yang" 
 title="__Principal Investigator__" 
 contact="University of Nebraska-Lincoln, \\
@@ -26,5 +26,7 @@ email="jinliang.yang at unl dot edu \\
 
 ### Education:
 
-
+- Ph.D. in Interdepartmental Genetics, Iowa State University 
+- M.S. in Biochemistry and Molecular Biology, China Agricultural University
+- B.S. in Bio-engineering, China Agricultural University 
 
