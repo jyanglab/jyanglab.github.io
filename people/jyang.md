@@ -10,28 +10,17 @@ bigimg:
 ---
 
 
+{% include module.html image_path="https://i.imgur.com/VReGfGn.jpg?2" 
+name="Jinliang Yang" 
+title="__Principal Investigator__" 
+contact="University of Nebraska-Lincoln, \\
+363 Keim Hall, \\
+1825 N 38th St, \\
+Lincoln, NE 68583-0915"
+email="jinliang.yang at unl dot edu \\
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)"
+%}
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/VReGfGn.jpg?2" alt="Jinliang Yang" width="300" height="400" >
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jinliang Yang</b> is an Assistant Professor in <a href="https://agronomy.unl.edu/"> the Department of Agronomy and Horticulture. </a>
-<a href="/img/CVs/CV_JYang-2019.pdf"> his updated CV </a>
-</div>
-
-### Conact Information:
-University of Nebraska-Lincoln
-Lincoln, NE 68583
-
-### Email:
-jinliang.yang at unl dot edu
-
-[Google Scholar]()
 
 ### Research Interests:
 
