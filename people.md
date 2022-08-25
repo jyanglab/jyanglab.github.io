@@ -46,8 +46,9 @@ bigimg:
 </div>
 
 <div class="responsive">
-<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics. 
-Office: PLSH 383.
+<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics.
+Office: PLSH 383. 
+<a href="/people/gxu"> learn more ...  </a>
 </div>
 
 
