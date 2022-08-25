@@ -29,7 +29,6 @@ I'm interested in integrating different Omics data to dissect the genetic mechan
 
 ### Education:
 
-- Ph.D. in Interdepartmental Genetics, Iowa State University 
-- M.S. in Biochemistry and Molecular Biology, China Agricultural University
-- B.S. in Bio-engineering, China Agricultural University 
+- Ph.D. in Crop Genetics and Breeding, China Agricultural University, Beijing, China
+- B.S. in Agronomy, Yangzhou University, Jiangsu, China 
 
