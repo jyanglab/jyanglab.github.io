@@ -37,6 +37,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 08-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c3.html)]
 
 <!---
+
+### **Week 2**: Changes of Allele Frequency
+- 08-29 (M): Migration, Mutation, and Selection [[HTML]()]
+- 08-31 (W): Effectiveness of Selection [[HTML]()]
+- 09-02 (F): Fitness [[HTML]()]
+
+
+
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
 - 10/7 (W): Covariance and regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
