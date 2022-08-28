@@ -31,19 +31,20 @@ title: AGRO/ANSCI 931 Population Genetics
 
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
-### **Week 1**: Allele and Genotype Frequencies
+### **Week 1**: Allele and Genotype Frequencies (Ch1)
 - 08-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c1.html)]
 - 08-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c2.html)]
 - 08-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c3.html)]
 
-<!---
 
-### **Week 2**: Changes of Allele Frequency
-- 08-29 (M): Migration, Mutation, and Selection [[HTML]()]
+
+### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
+- 08-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
+  - __HW1__ assigned in Canvas (Due Friday morning)
 - 08-31 (W): Effectiveness of Selection [[HTML]()]
-- 09-02 (F): Fitness [[HTML]()]
+- 09-02 (F): Genetic Drift [[HTML]()]
 
-
+<!---
 
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
