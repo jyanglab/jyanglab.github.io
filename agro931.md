@@ -127,5 +127,5 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 
 ### **Final exam**
-- 12/10 (F): 9:00-10:00am
+- 12/09 (F): 9:00-10:00am
 
