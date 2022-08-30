@@ -41,8 +41,9 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
 - 08-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
   - __HW1__ assigned in Canvas (Due Friday morning)
-- 08-31 (W): Effectiveness of Selection [[HTML]()]
+- 08-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c2.html)]
 - 09-02 (F): Genetic Drift [[HTML]()]
+  - __HW1__ Due today!
 
 <!---
 
