@@ -42,8 +42,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 08-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
   - __HW1__ assigned in Canvas (Due Friday morning)
 - 08-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c2.html)]
-- 09-02 (F): Genetic Drift [[HTML]()]
+- 09-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
   - __HW1__ Due today!
+
+### **Week 3**: Small Populations (Ch3 & Ch4)
+- 09-05 (M): No Class
+- 09-07 (W): Inbreeding [[HTML]()]
+- 09-09 (F): Effective Population Size [[HTML]()]
+
 
 <!---
 
