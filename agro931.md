@@ -45,13 +45,17 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 09-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
   - __HW1__ Due today!
 
-### **Week 3**: Small Populations (Ch3 & Ch4)
+### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
 - 09-05 (M): No Class
-- 09-07 (W): Inbreeding [[HTML]()]
+- 09-07 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
 - 09-09 (F): Effective Population Size [[HTML]()]
 
+### **Week 4**: Small Populations --- less simplified conditions (Ch4)
+- __09-12 (M): Exam I__
 
 <!---
+- 09-14 (W): Selection [[HTML]()]
+- 09-16 (F): Effective Population Size [[HTML]()]
 
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
