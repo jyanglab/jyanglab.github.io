@@ -48,7 +48,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
 - 09-05 (M): No Class
 - 09-07 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
-- 09-09 (F): Effective Population Size [[HTML]()]
+- 09-09 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c3.html)]
 
 ### **Week 4**: Small Populations --- less simplified conditions (Ch4)
 - __09-12 (M): Exam I__
