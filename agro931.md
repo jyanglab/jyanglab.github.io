@@ -52,8 +52,8 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 4**: Small Populations --- less simplified conditions (Ch4)
 - __09-12 (M): Exam I__
-- 09-14 (W): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
-- 09-16 (F): F statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
+- 09-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
+- 09-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
 
 <!---
 - 09-14 (W): Selection [[HTML]()]
