@@ -126,7 +126,7 @@ cat(paste0(
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
-"__D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang J__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, ",
+"D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, ",
 "__[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean]()__, ",
 "_Journal of Integrative Plant Biology (Accepted)_, 2022.  \n"
 #"| doi: 10.1101/2020.08.10.244384 "
