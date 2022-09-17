@@ -55,9 +55,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 09-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
 - 09-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
 
+### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
+- 09-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
+- 09-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c2.html)]
+- 09-23 (F): Test for selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
+
 <!---
-- 09-14 (W): Selection [[HTML]()]
-- 09-16 (F): Effective Population Size [[HTML]()]
 
 ### Statistical Foundations [Handouts in canvas]
 - 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]

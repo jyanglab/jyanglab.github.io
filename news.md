@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Sept, 2022
+
+- Our lab will lead a 2.7M [DOE project](https://news.unl.edu/newsrooms/today/article/husker-research-hones-in-on-sorghum-s-genetic-makeup-to-improve-nitrogen/) to improve nitrogen use efficiency.
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/hvw6zsh.png">
+</p>
+
 ### April, 2022
 
 - Our lab at the 2022 Maize genetics conference!
