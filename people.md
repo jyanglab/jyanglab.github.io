@@ -10,7 +10,7 @@ googlefonts: ["Monoton", "Lobster"]
 ## [Join the lab](/positions)
 
 <p align="center">
-  <img width="600" src="img/labphoto/lab2022.jpg">
+  <img width="600" src="/img/labphoto/lab2022.jpg">
 </p>
 > Group photo 2022
 
