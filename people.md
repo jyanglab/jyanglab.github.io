@@ -4,18 +4,15 @@ title: Lab Members
 subtitle: Welcome to the J. Yang Lab
 css: "/css/people.css"
 googlefonts: ["Monoton", "Lobster"]
-bigimg:
-  - "https://i.imgur.com/rC2GEi7.jpg?1" : "Plant Sciences Hall 2018"
-  - "https://i.imgur.com/eGQ5UBE.png" : "Maize Meeting in St. Louis 2019"
 ---
 
 
 ## [Join the lab](/positions)
 
 <p align="center">
-  <img width="600" src="https://i.imgur.com/r1UM1JB.jpg">
+  <img width="600" src="img/labphoto/lab2022.jpg">
 </p>
-> Group photo 2021
+> Group photo 2022
 
 ## Current Lab Members
 
