@@ -58,7 +58,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
 - 09-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
 - 09-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c2.html)]
-- 09-23 (F): Test for selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
+- 09-23 (F): Dececting natural selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
 
 <!---
 
