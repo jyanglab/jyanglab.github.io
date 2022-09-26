@@ -8,7 +8,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1236 ] as of Sep, 2022.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1237 ] as of Sep, 2022.
 
 ### Preprints
 
@@ -36,7 +36,9 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 ### 2022
 
-L. Yin, __G. Xu__, __J. Yang__, Meixia Zhao, __[The heterogeneity in the landscape of gene dominance in maize is accompanied by unique chromatin environments](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac198/6709529?login=true)__, _Molecular Biology and Evolution_, 2022.  
+X. Liao, Y. Ye, X. Zhang, D. Peng, Me. Hou, G. Fu, J. Tan, J. Zhao, R. Jiang, Y. Xu, J. Liu, __J. Yang__, W. Liu, L. R. Tembrock, G. Zhu, Z. Wu, __[The genomic and bulked segregant analysis of Curcuma alismatifolia revealed its diverse bract pigmentation]()__, _aBIOTECH (accepted)_, 2022.  
+
+L. Yin, __G. Xu__, __J. Yang__, M. Zhao, __[The heterogeneity in the landscape of gene dominance in maize is accompanied by unique chromatin environments](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac198/6709529?login=true)__, _Molecular Biology and Evolution_, 2022.  
 
 D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean]()__, _Journal of Integrative Plant Biology (Accepted)_, 2022.  
 
@@ -76,7 +78,7 @@ __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. S
 ### 2020
 
 __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __[Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4)__, _Nature Communications_, 2020.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [40 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [39 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, _Plant Phenomics_, 2020.  
 [GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [24 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
@@ -85,7 +87,7 @@ C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Sem
 ### 2019
 
 Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, __[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8)__, _Plant Methods_, 2019.  
-[80 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
+[81 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __[Genome-wide identification and analysis of heterotic loci in three maize hybrids](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186)__, _Plant Biotechnology Journal_, 2019.  
@@ -114,7 +116,7 @@ C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tan
 [Github](https://github.com/freemao/Genotype-Corrector) | [18 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __[Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021)__, *New Phytologist*, 2018.  
-[Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [82 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [83 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __[Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162)__, *PLOS Genetics*, 2018.  
 [Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [84 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
