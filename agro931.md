@@ -65,7 +65,8 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 09-26 (M): Pedigreed Population [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c1.html)]
   - __HW2__ Due today!
 - 09-28 (W): Close Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
-- 09-30 (F): Journal Article Review [[HTML]()]
+- 09-30 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
+  - __Journal article assigned for peer review__
 
 <!---
 
