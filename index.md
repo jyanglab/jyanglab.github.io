@@ -8,6 +8,7 @@ bigimg:
   - "https://i.imgur.com/ZUwFRoK.jpg" : "Diversity Maize Landraces"
   - "https://i.imgur.com/ZfKvWoY.jpg" : "Experiments in NIC Greenhouse"
   - "/img/big-imgs/mexicana.jpeg" : "Mexicana Aerial Root"
+  - "https://i.imgur.com/jMJsp1N.jpg": "Sorghum and Maize 2022"
 ---
 
 __Our lab focuses on quantitative genetics and statistical genomics of maize and its wild relatives, from historical domestication to future improvement.__
