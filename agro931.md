@@ -68,6 +68,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 09-30 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
   - __Journal article assigned for peer review__
 
+### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
+- 10-03 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
+- 10-05 (W): Continuous Variation [[HTML]()]
+- 10-07 (F): Journal Review Discuss [[HTML]()]
+  - __Peer review due__
+
+
 <!---
 
 ### Statistical Foundations [Handouts in canvas]
