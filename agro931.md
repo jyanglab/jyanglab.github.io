@@ -70,7 +70,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 10-03 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
-- 10-05 (W): Continuous Variation [[HTML]()]
+- 10-05 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c2.html)]
 - 10-07 (F): Journal Review Discussion [[HTML]()]
   - __Peer review due__
 
