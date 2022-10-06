@@ -71,17 +71,17 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 10-03 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
 - 10-05 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c2.html)]
-- 10-07 (F): Journal Review Discussion [[HTML]()]
+- 10-07 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
   - __Peer review due__
+
 
 
 <!---
 
-### Statistical Foundations [Handouts in canvas]
-- 10/5 (M): Probability and statistics [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c1.html#1)]
-- 10/7 (W): Covariance and regression [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch0/Ch0_c2.html#1)]
-- 10/9 (F): R for basic quantiative genetics calculation [Zoom, [lab1](https://jyanglab.com/AGRO-931/chapters/Ch0/lab1.html)]
-  - Basic [R syntax](https://www.statmethods.net/r-tutorial/index.html) 
+### **Week 8**: Population values and means (Ch6 and Notes in Canvas)
+- 10/10 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
+- 10/12 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
+- 10/14 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
 
 
 ### Population values and means [**F&M Ch.7**]
