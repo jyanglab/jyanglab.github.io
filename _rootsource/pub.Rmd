@@ -127,9 +127,9 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "X. Liao, Y. Ye, X. Zhang, D. Peng, Me. Hou, G. Fu, J. Tan, J. Zhao, R. Jiang, Y. Xu, J. Liu, __J. Yang__, W. Liu, L. R. Tembrock, G. Zhu, Z. Wu, ",
-"__[The genomic and bulked segregant analysis of Curcuma alismatifolia revealed its diverse bract pigmentation]()__, ",
-"_aBIOTECH (accepted)_, 2022.  \n"
-#"| doi: 10.1101/2020.08.10.244384 "
+"__[The genomic and bulked segregant analysis of Curcuma alismatifolia revealed its diverse bract pigmentation](https://link.springer.com/article/10.1007/s42994-022-00081-6)__, ",
+"_aBIOTECH_, 2022.  \n",
+"[Data](https://ngdc.cncb.ac.cn/gwh) "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
 ```

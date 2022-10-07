@@ -74,21 +74,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10-07 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
+### **Week 8**: Population values and means (Ch7)
+- 10/10 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
+- 10/12 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
+- 10/14 (F): Breeding value interpretation [[HTML]()]
 
 
 <!---
-
-### **Week 8**: Population values and means (Ch6 and Notes in Canvas)
-- 10/10 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
-- 10/12 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
-- 10/14 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
-
-
-### Population values and means [**F&M Ch.7**]
-- 10/12 (M): Average effect of an allele [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c1.html#1)]
-- 10/14 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch7/Chapter7_c2.html#1)]
-- 10/16 (F): R for breeding value interpretation [Zoom, [lab2](https://jyanglab.com/AGRO-931/chapters/Ch7/lab2_2020.html)]
-
 
 ### Genetic components of variance [**F&M Ch.8**]
 - 10/19 (M): Variance partitioning [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c1.html#1)]
