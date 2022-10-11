@@ -76,7 +76,9 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 8**: Population values and means (Ch7)
 - 10/10 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
-- 10/12 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
+- 10/12 (W): Breeding value, dominance, and interaction
+[[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
+  - __HW3__ assigned in Canvas (Due Next Wednesday morning)
 - 10/14 (F): Breeding value interpretation [[HTML]()]
 
 
