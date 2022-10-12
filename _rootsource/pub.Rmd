@@ -150,8 +150,8 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, ",
-"__[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean]()__, ",
-"_Journal of Integrative Plant Biology (Accepted)_, 2022.  \n"
+"__[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean](https://doi.org/10.1111/jipb.13380)__, ",
+"_Journal of Integrative Plant Biology_, 2022.  \n"
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))

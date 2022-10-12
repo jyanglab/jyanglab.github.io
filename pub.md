@@ -42,7 +42,7 @@ X. Liao, Y. Ye, X. Zhang, D. Peng, Me. Hou, G. Fu, J. Tan, J. Zhao, R. Jiang, Y.
 
 L. Yin, __G. Xu__, __J. Yang__, M. Zhao, __[The heterogeneity in the landscape of gene dominance in maize is accompanied by unique chromatin environments](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac198/6709529?login=true)__, _Molecular Biology and Evolution_, 2022.  
 
-D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean]()__, _Journal of Integrative Plant Biology (Accepted)_, 2022.  
+D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean](https://doi.org/10.1111/jipb.13380)__, _Journal of Integrative Plant Biology_, 2022.  
 
 
 __M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, __[Association analyses of host genetics, rootcolonizing microbes, and plant phenotypes under different nitrogen conditions in maize](https://elifesciences.org/articles/75790)__, _eLife_, 2022.  
