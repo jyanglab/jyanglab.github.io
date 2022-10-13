@@ -79,7 +79,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/12 (W): Breeding value, dominance, and interaction
 [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
   - __HW3__ assigned in Canvas (Due Next Wednesday morning)
-- 10/14 (F): Breeding value interpretation [[HTML]()]
+- 10/14 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c3.html)]
 
 
 <!---
