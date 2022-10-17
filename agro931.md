@@ -84,6 +84,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 9**: Genetic components of variance (Ch8)
 - 10/17 (M): No Class [Enjoy your Fall Break!]
 - 10/19 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2022-agro931/week9/w9_c1.html)]
+  - __HW3__ Due today!
 - 10/21 (F): __Exam II__
 
 <!---
