@@ -3,6 +3,20 @@ layout: page
 title: Teaching
 ---
 
+### FALL 2022
+
+- __[ANS/AGRO-931](/agro931): Population Genetics__
+  - In this classical population genetics class, students will build on the theoretical concepts to develop breeding strategies for plant and animal improvement. Those who work with natural populations will also get the necessary principles to understand variation and to develop strategies to maintain the genetic variation.
+
+- __LIFE-891-003: Complex Biosystems Seminar__
+  - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
+
+- __[PopGen Module]: Three weeks module for population genomics__
+  - __Module 1__: [[HTML](https://jyanglab.com/slides/2022-module/week1/w1.html)]
+  - __Module 2__: [[HTML]()]
+  - __Module 3__: [[HTML]()]
+
+-----------------------
 
 ### Spring 2022
 
