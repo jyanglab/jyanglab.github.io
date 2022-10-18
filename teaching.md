@@ -11,7 +11,7 @@ title: Teaching
 - __LIFE-891-003: Complex Biosystems Seminar__
   - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
 
-- __[PopGen Module]: Three weeks module for population genomics__
+- __[PopGen Module](): Three-weeks module for population genomics__
   - __Module 1__: [[HTML](https://jyanglab.com/slides/2022-module/week1/w1.html)]
   - __Module 2__: [[HTML]()]
   - __Module 3__: [[HTML]()]
