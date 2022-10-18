@@ -51,7 +51,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 09-09 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c3.html)]
 
 ### **Week 4**: Small Populations --- less simplified conditions (Ch4)
-- __09-12 (M): Exam I__
+- 09-12 (M): __Exam I__
 - 09-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
 - 09-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
 
@@ -81,11 +81,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW3__ assigned in Canvas (Due Next Wednesday morning)
 - 10/14 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c3.html)]
 
+### **Week 9**: Genetic components of variance (Ch8)
+- 10/17 (M): No Class [Enjoy your Fall Break!]
+- 10/19 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2022-agro931/week9/w9_c1.html)]
+  - __HW3__ Due today!
+- 10/21 (F): __Exam II__
 
 <!---
-
-### Genetic components of variance [**F&M Ch.8**]
-- 10/19 (M): Variance partitioning [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_c1.html#1)]
 - 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_p2.html#1)]
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
 
