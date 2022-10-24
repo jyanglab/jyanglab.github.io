@@ -87,13 +87,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW3__ Due today!
 - 10/21 (F): __Exam II__
 
+### **Week 10**: Heritability and Resemblance between relatives (Ch8 & Ch9)
+- 10/24 (M): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c1.html)]
+- 10/26 (W): Genetic covariance [[HTML]()]
+- 10/28 (F): Environmental covariance [[HTML]()]
+
 <!---
-- 10/21 (W): Heritability and Repeatability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch8/Ch8_p2.html#1)]
+
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
 
-### Resemblance between relatives [**F&M Ch.9**]
-- 10/26 (M): Genetic covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c1.html#1)]
-- 10/28 (W): Environmental covariance [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch9/Ch9_c3.html#1)]
 - 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
 
 
