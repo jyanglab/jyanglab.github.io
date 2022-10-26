@@ -13,7 +13,7 @@ title: Teaching
 
 - __[PopGen Module](): Three-weeks module for population genomics__
   - __Module 1__: [[HTML](https://jyanglab.com/slides/2022-module/week1/w1.html)]
-  - __Module 2__: [[HTML]()]
+  - __Module 2__: [[HTML](https://jyanglab.com/slides/2022-module/week2/w2.html)]
   - __Module 3__: [[HTML]()]
 
 -----------------------
