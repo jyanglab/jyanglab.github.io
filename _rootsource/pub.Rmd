@@ -37,6 +37,18 @@ bob <- bob[order(bob$year, decreasing=T),]
 ```
 
 ### Preprints
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yang__, I. Dweikat, ",
+"__Dissecting the genetic architecture of sunflower head diameter using genome-wide association study__, ",
+"_bioRxiv_, 2022.  \n",
+"[10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 
 ```{r, echo=FALSE, results="asis"}
