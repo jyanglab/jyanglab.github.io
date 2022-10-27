@@ -90,7 +90,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 10**: Heritability and Resemblance between relatives (Ch8 & Ch9)
 - 10/24 (M): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c1.html)]
 - 10/26 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
-- 10/28 (F): Environmental covariance [[HTML]()]
+- 10/28 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
 
 <!---
 
