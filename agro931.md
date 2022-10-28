@@ -92,18 +92,16 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/26 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
 - 10/28 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
 
+### **Week 11**: Heritability Estimation (Ch10)
+- 10/31 (M): Estimation of heritability [[HTML]()]  
+- 11/02 (W): Precision of estimates [[HTML]()]  
+- 11/04 (F): Examples for h2 estimation [[HTML]()]
+
+
 <!---
 
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
-
 - 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
-
-
-### Heritability [**F&M Ch.10**]
-- 11/02 (M): Estimation of heritability [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c1.html#1)]  
-- 11/04 (W): Precision of estimates [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch10/Ch10_c2.html#1)]  
-- 11/06 (F): __Exam III__, 8:00-9:00am [__in-person exam__]
-
 
 ### Predicting response to selection [**F&M Ch.11**]
 - 11/09 (M): The breeder's equation [[HTML](https://jyanglab.com/AGRO-931/chapters/Ch11/Ch11_c1.html#1)]
