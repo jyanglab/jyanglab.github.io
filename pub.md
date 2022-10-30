@@ -12,7 +12,7 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
-M. W. Grzybowski,  R. V .Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _bioRxiv_, 2022.  
+M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _bioRxiv_, 2022.  
 [10.1101/2022.10.28.514203](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) 
 
 
