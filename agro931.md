@@ -96,7 +96,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/31 (M): Estimation of heritability [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c1.html)]
   - Notes in Canvas
   - __HW4__ assigned
-- 11/02 (W): Precision of estimates [[HTML]()]  
+- 11/02 (W): Precision of estimates [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c2.html)]  
 - 11/04 (F): Examples for h2 estimation [[HTML]()]
 
 
