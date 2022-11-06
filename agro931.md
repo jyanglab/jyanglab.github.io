@@ -100,7 +100,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/04 (F): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c3.html)]
 
 ### **Week 12**: Predicting response to selection (Ch11 & Ch12)
-- 11/07 (M): The breeder's equation [[HTML]()]
+- 11/07 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w11_c1.html)]
   - __HW4__ due today
 - 11/09 (W): Variability in response [[HTML]()]
 - 11/11 (F): Asymmetry of responses [[HTML]()]
@@ -116,7 +116,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4_2020.html)]
 - 11/18 (W): A sib-design example [see Lab4]
 - 11/20 (F): Q&A [Zoom]
---->
+-->
 
 <!--
 
