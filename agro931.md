@@ -92,7 +92,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 10/26 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
 - 10/28 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
 
-### **Week 11**: Heritability Estimation (Ch10)
+### **Week 11**: Heritability estimation (Ch10)
 - 10/31 (M): Estimation of heritability [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c1.html)]
   - Notes in Canvas
   - __HW4__ assigned
