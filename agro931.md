@@ -102,7 +102,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 12**: Predicting response to selection (Ch11 & Ch12)
 - 11/07 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c1.html)]
   - __HW4__ due today
-- 11/09 (W): Variability in response [[HTML]()]
+- 11/09 (W): Variability in response [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c2.html)]
 - 11/11 (F): Asymmetry of responses [[HTML]()]
   - No meeting, watching recorded class video
 

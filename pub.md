@@ -8,9 +8,13 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1276 ] as of Nov, 2022.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1280 ] as of Nov, 2022.
 
 ### Preprints
+
+__E. Rodene__, Y. Ge, J. C. Schnable, __J. Yang__, __Machine learning-based tassel detection for time-series high throughput plant phenotyping__, _Authorea_, 2022.  
+[10.22541/au.166758437.77805912/v1](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
+
 
 M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _bioRxiv_, 2022.  
 [10.1101/2022.10.28.514203](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) 
@@ -64,7 +68,7 @@ __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediatio
 
 
 __E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify trait-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [5 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [6 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
 
 
 ### 2021
@@ -81,7 +85,7 @@ _The ISME Journal_, 2021.
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [46 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [10 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [11 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
 
 
 ### 2020
@@ -96,7 +100,7 @@ C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Sem
 ### 2019
 
 Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, __[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8)__, _Plant Methods_, 2019.  
-[85 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
+[86 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __[Genome-wide identification and analysis of heterotic loci in three maize hybrids](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186)__, _Plant Biotechnology Journal_, 2019.  
