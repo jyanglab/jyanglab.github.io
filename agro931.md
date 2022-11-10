@@ -103,11 +103,36 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/07 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c1.html)]
   - __HW4__ due today
 - 11/09 (W): Variability in response [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c2.html)]
-- 11/11 (F): Asymmetry of responses [[HTML]()]
+- 11/11 (F): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c3.html)]
   - No meeting, watching recorded class video
 
-<!---
+### **Week 13**: Selection: Empirical results and interpretation (Ch12 & Ch14)
+- 11/14 (M): Long-term results [[HTML]()]
+- 11/16 (W): __Exam III__
+- 11/18 (F): Inbreeding depression and heterosis [[HTML]()]
 
+
+<!--
+### **Ch.19**: Correlated traits
+- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
+- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
+
+### **Ch.21**: Quantitative trait loci 
+- 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
+- 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
+
+### **Ch.19**: Correlated traits
+- 12/09 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)], [[pdf](chapters/Ch19/Ch19_11-16-2018_F.pdf)]
+- 12/11 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)], [[pdf](chapters/Ch19/Ch19_11-19-2018_M.pdf)]
+
+### **Ch.21**: Quantitative trait loci 
+- 12/13 (M): Mapping QTL: Introduction [[HTML](chapters/Ch21/Ch21-c1.html#1)], [[pdf](chapters/Ch21/Ch21_11-26-2018_M.pdf)] 
+- 12/16 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21/Ch21-c3.html#1)], [[pdf](chapters/Ch21/Ch21_11-30-2018_F.pdf)], [[lab](chapters/Ch21/lab21-c1.html#)] 
+- 12/03 (M): QTL: Interval Mapping [[HTML](chapters/Ch21/Ch21-c4.html#1)], [[pdf](chapters/Ch21/Ch21_12-03-2018_M.pdf)], [[lab](chapters/Ch21/lab21-c1.html#)]
+- 12/07 (F): Last class [[HTML](chapters/Ch21/Ch21-c5.html#1)], [[pdf](chapters/Ch21/Ch21_12-07-2018_F.pdf)]
+-->
+
+<!---
 - 10/23 (F): R for Heritability calculation [__HW1 Due__] [Zoom, [Lab3](https://jyanglab.com/AGRO-931/chapters/Ch8/lab3_2020.html)]
 - 10/30 (F): R for covariance computation [__HW2 Due__] [Zoom]
 
@@ -117,45 +142,6 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/18 (W): A sib-design example [see Lab4]
 - 11/20 (F): Q&A [Zoom]
 -->
-
-<!--
-
-### **Ch.12**: Selection: Empirical results and interpretation
-- 12/02 (M): Asymmetry of responses [[HTML](chapters/Ch12/Ch12-c1.html#1)]
-- 12/04 (W): Long-term results [[HTML](chapters/Ch12/Ch12-c2.html#1)], [[HW2](hw/hw2019/AGRO_981_homework4.pdf)]
-
-
-### **Ch.14**: Inbreeding and crossbreeding
-- 12/06 (F): Inbreeding depression and heterosis [[HTML](chapters/Ch14/Ch14-c1.html#1)]
-
-
-### **Ch.19**: Correlated traits
-- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
-- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
-
-### **Ch.21**: Quantitative trait loci 
-- 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
-- 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
-
--------------
- 
-
-
-
-### **Ch.19**: Correlated traits
-- 12/09 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)], [[pdf](chapters/Ch19/Ch19_11-16-2018_F.pdf)]
-- 12/11 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)], [[pdf](chapters/Ch19/Ch19_11-19-2018_M.pdf)]
-
-
--------------------
-
-### **Ch.21**: Quantitative trait loci 
-- 12/13 (M): Mapping QTL: Introduction [[HTML](chapters/Ch21/Ch21-c1.html#1)], [[pdf](chapters/Ch21/Ch21_11-26-2018_M.pdf)] 
-- 12/16 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21/Ch21-c3.html#1)], [[pdf](chapters/Ch21/Ch21_11-30-2018_F.pdf)], [[lab](chapters/Ch21/lab21-c1.html#)] 
-- 12/03 (M): QTL: Interval Mapping [[HTML](chapters/Ch21/Ch21-c4.html#1)], [[pdf](chapters/Ch21/Ch21_12-03-2018_M.pdf)], [[lab](chapters/Ch21/lab21-c1.html#)]
-- 12/07 (F): Last class [[HTML](chapters/Ch21/Ch21-c5.html#1)], [[pdf](chapters/Ch21/Ch21_12-07-2018_F.pdf)]
--->
-
 
 ### **Final exam**
 - 12/09 (F): 9:00-10:00am
