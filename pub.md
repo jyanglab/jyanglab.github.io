@@ -7,8 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1280 ] as of Nov, 2022.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1283 ] as of Nov, 2022.
 
 ### Preprints
 
@@ -85,7 +84,7 @@ _The ISME Journal_, 2021.
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [46 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [11 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [12 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
 
 
 ### 2020
@@ -144,7 +143,7 @@ __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMull
 [Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [108 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384&as_sdt=5)
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __[Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1](http://www.pnas.org/content/early/2017/09/26/1714960114.short)__, *PNAS*, 2017.   
-[73 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
+[74 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
 
 J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __[Characterization of *BdCBF* genes and Genome-wide Transcriptome Profiling of *BdCBF3*-dependent and -independent Cold Stress Responses in *Brachypodium Distachyon*](http://www.sciencedirect.com/science/article/pii/S0168945217303862?via%3Dihub)__, *Plant Science*, 2017.  
 [13 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3500455729056936894&as_sdt=5)
@@ -157,7 +156,7 @@ __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S.
 [Github](https://github.com/schnablelab/XP-GWAS) | [87 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__, _Nature Genetics_, 2015.  
-[293 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[294 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
 [79 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)

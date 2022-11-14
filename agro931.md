@@ -107,7 +107,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - No meeting, watching recorded class video
 
 ### **Week 13**: Selection: Empirical results and interpretation (Ch12 & Ch14)
-- 11/14 (M): Long-term results [[HTML]()]
+- 11/14 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
 - 11/16 (W): __Exam III__
 - 11/18 (F): Inbreeding depression and heterosis [[HTML]()]
 
