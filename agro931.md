@@ -111,19 +111,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/16 (W): __Exam III__
 - 11/18 (F): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
 
+### **Week 14**: Correlated traits (Ch19)
+- 11/21 (M): Correlated responses to selection [[HTML]()]
+- 11/23 (W): Index selection [[HTML]()]
+- 11/25 (F): No Class and Happy Thanksgiving!
 
 <!--
-### **Ch.19**: Correlated traits
-- 12/06 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)]
-- 12/09 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)]
-
 ### **Ch.21**: Quantitative trait loci 
 - 12/11 (W): QTL: Single-marker analysis [[HTML](chapters/Ch21-2019/Ch21_2019-c1.html#1)]
 - 12/13 (M): QTL: Interval Mapping [[HTML](chapters/Ch21-2019/Ch21_2019-c2.html#1)]
-
-### **Ch.19**: Correlated traits
-- 12/09 (F): Correlated responses to selection [[HTML](chapters/Ch19/Ch19-c1.html#1)], [[pdf](chapters/Ch19/Ch19_11-16-2018_F.pdf)]
-- 12/11 (M): Index selection [[HTML](chapters/Ch19/Ch19-c2.html#1)], [[pdf](chapters/Ch19/Ch19_11-19-2018_M.pdf)]
 
 ### **Ch.21**: Quantitative trait loci 
 - 12/13 (M): Mapping QTL: Introduction [[HTML](chapters/Ch21/Ch21-c1.html#1)], [[pdf](chapters/Ch21/Ch21_11-26-2018_M.pdf)] 
