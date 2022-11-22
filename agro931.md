@@ -116,6 +116,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/23 (W): No Class (Student Holiday)
 - 11/25 (F): No Class and Happy Thanksgiving!
 
+### **Week 15**: Correlated traits and Quantitative trait loci  (Ch19 & Ch21)
+- 11/28 (M): Correlated traits: Index selection [[HTML]()]
+  - __HW5__ assigned
+- 11/30 (W): QTL: Single-marker analysis [[HTML]()]
+- 12/01 (F): QTL: Interval Mapping [[HTML]()]
+
 <!--
 
 - 11/23 (W): Index selection [[HTML]()]
