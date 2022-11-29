@@ -119,7 +119,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 15**: Correlated traits and Quantitative trait loci  (Ch19 & Ch21)
 - 11/28 (M): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
   - __HW5__ assigned
-- 11/30 (W): QTL: Single-marker analysis [[HTML]()]
+- 11/30 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c2.html)]
 - 12/01 (F): QTL: Interval Mapping [[HTML]()]
 
 <!--
