@@ -120,7 +120,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/28 (M): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
   - __HW5__ assigned
 - 11/30 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
-- 12/01 (F): QTL: Interval Mapping [[HTML]()]
+- 12/02 (F): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 
 <!--
 
@@ -146,6 +146,11 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/16 (M): Mapping the trait-associated markers [[lab4](https://jyanglab.com/AGRO-931/chapters/Chn/lab4_2020.html)]
 - 11/18 (W): A sib-design example [see Lab4]
 - 11/20 (F): Q&A [Zoom]
+
+### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
+- 12/05 (M): GWAS1 [[HTML]()]
+  - __HW5__ due today
+- 12/07 (W): GWAS2 [[HTML]()]
 -->
 
 ### **Final exam**
