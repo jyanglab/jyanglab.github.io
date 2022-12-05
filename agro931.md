@@ -154,7 +154,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
 - 12/05 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
   - __HW5__ due today
-- 12/07 (W): GWAS and Q&A [[HTML]()]  
+- 12/07 (W): GWAS wrap up and Q&A  
 ### **Final exam**
 - 12/09 (F): 9:00-10:00am
 
