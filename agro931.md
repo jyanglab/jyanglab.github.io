@@ -147,12 +147,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/18 (W): A sib-design example [see Lab4]
 - 11/20 (F): Q&A [Zoom]
 
-### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
-- 12/05 (M): GWAS1 [[HTML]()]
-  - __HW5__ due today
+
 - 12/07 (W): GWAS2 [[HTML]()]
 -->
 
+### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
+- 12/05 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
+  - __HW5__ due today
+- 12/07 (W): GWAS and Q&A [[HTML]()]  
 ### **Final exam**
 - 12/09 (F): 9:00-10:00am
 
