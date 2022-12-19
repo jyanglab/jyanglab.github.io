@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Dec, 2022
+
+- Congratulations, Dr.s Delen! I wish both of you a bright future, Semra and Yavuz! 
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/SJCksSP.png">
+</p>
+
 ### Sept, 2022
 
 - Our lab will lead a 2.7M [DOE project](https://news.unl.edu/newsrooms/today/article/husker-research-hones-in-on-sorghum-s-genetic-makeup-to-improve-nitrogen/) to improve nitrogen use efficiency.
