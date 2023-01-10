@@ -55,8 +55,19 @@ Office: PLSH 383.
 
 ------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/TW9KKkf.png" alt="Zhen" width="300" height="400">
+    </a>
+  </div>
+</div>
 
-
+<div class="responsive">
+<b>Zhen Wang</b> is Research Assistant Professor in the department of Ag/Hort. 
+Office: Keim 303.
+<a href="/people/zwang"> learn more ...  </a>
+</div>
 
 
 <div class="responsive">
@@ -70,20 +81,6 @@ Office: PLSH 383.
 <div class="responsive">
 <b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. Office: Keim 361.
 </div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/hM7hD9o.png?1" alt="Semra" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Semra Palali Delen</b> is a PhD student in the department of Ag/Hort. 
-Office: Keim 162.
-</div>
-
 <div class="clearfix"></div>
 
 ------------
@@ -146,19 +143,6 @@ Office: Keim 162.
 
 ------------
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/UpZcZuQ.png" alt="Jenifer Velazquez-Perfecto" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Jenifer Velazquez-Perfecto</b> is a first year undergraduate student majored in Agricultural and Environmental Science Communications.
-</div>
-
-
 
 <div class="responsive">
   <div class="img">
@@ -179,9 +163,11 @@ Office: Keim 162.
 
 ## Lab Alumni
 
-- **Nicholas Reikofski**: a undergraduate student majored in Agricultural Economics with a minor in Agronomy.
+- **Semra Palali Delen**: a PhD student in the department of Ag&Hort.
+- **Jenifer Velazquez-Perfecto**: an undergraduate student majored in Agricultural and Environmental Science Communications.
+- **Nicholas Reikofski**: an undergraduate student majored in Agricultural Economics with a minor in Agronomy.
 - **Michael Meier**: now working as a scientist with [Rancho BioSciences](https://ranchobiosciences.com/).
-- **Xin Zhi Khoo**: a undergraduate student majoring in Agronomy.
+- **Xin Zhi Khoo**: an undergraduate student majoring in Agronomy.
 - **Jing Lyu**: now working as a PostDoc at the Indiana University.
 - **Jinlong Li**: a visiting PhD student from China Agricultural University.
 - **Jamie Fuqua**: a plant biology major undergraduate student.
