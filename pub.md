@@ -11,6 +11,9 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 
 ### Preprints
 
+X. He, D. Wang, Y. Jiang, M. Li, M. Delgado-Baquerizo, C. McLaughlin, C. Marcon, M. Baer, L. Guo, Y. A.T. Moya, N. von Wiren, M. Deichmann, G. Schaaf, H.-P. Piepho, __Z. Yang__, __J. Yang__, B. Yim, K. Smalla, S. Goormachtig, F. T. de Vries, H. Huging, R. J. H. Sawers, J. C. Reif, F. Hochholdinger, X. Chen, P. Yu, __Heritable maize microbiomes contribute to local adaptation and host stress resilience__, _bioRxiv_, 2023.  
+[10.1101/2023.01.10.523403v1](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v1) 
+
 __E. Rodene__, Y. Ge, J. C. Schnable, __J. Yang__, __Machine learning-based tassel detection for time-series high throughput plant phenotyping__, _Authorea_, 2022.  
 [10.22541/au.166758437.77805912/v1](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
 
