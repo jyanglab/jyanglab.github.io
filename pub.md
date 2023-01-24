@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1359 ] as of Jan, 2023.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1357 ] as of Jan, 2023.
 
 ### Preprints
 
@@ -18,8 +18,7 @@ __E. Rodene__, Y. Ge, J. C. Schnable, __J. Yang__, __Machine learning-based tass
 [10.22541/au.166758437.77805912/v1](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
 
 
-M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _bioRxiv_, 2022.  
-[10.1101/2022.10.28.514203](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) 
+
 
 
 Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yang__, I. Dweikat, __Dissecting the genetic architecture of sunflower head diameter using genome-wide association study__, _bioRxiv_, 2022.  
@@ -49,6 +48,9 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 
 ### 2023
+
+M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _The Plant Journal (accepted)_, 2023.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) | [Dataset](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) 
 
 __S. Palali Delen__, __G. Xu__, __J. Velazquez-Perfecto__, __J. Yang__, __Estimating the genetic parameters of yield-related traits under different nitrogen conditions in maize__, _Genetics (accepted)_, 2023.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) | [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) 
@@ -93,7 +95,7 @@ C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automati
 
 S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [55 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [54 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [14 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
@@ -102,7 +104,7 @@ __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. S
 ### 2020
 
 __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, __J. Yang__, __[Evolutionary and functional genomics of DNA methylation in maize domestication and improvement](https://www.nature.com/articles/s41467-020-19333-4)__, _Nature Communications_, 2020.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [43 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [42 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, _Plant Phenomics_, 2020.  
 [GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [26 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
