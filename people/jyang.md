@@ -24,6 +24,13 @@ email="jinliang.yang at unl dot edu \\
 
 ### Research Interests:
 
+My research focuses on quantitative genetics and statistical genomics of maize and its wild relatives, from historical domestication to future improvement. 
+In particular, we study the genetic and epigenetic inheritance patterns during the maize domestication and improvement processes. 
+
+- See the [research page](/research) to learn more about the on-going research projects in the lab. 
+- To join the lab, following this instruction [here](/positions).
+
+
 ### Education:
 
 - Ph.D. in Interdepartmental Genetics, Iowa State University 
