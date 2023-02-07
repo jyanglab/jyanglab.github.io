@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1377 ] as of Feb, 2023.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 17 ], i10-Index [ 21 ], and total citations [ 1378 ] as of Feb, 2023.
 
 ### Preprints
 
@@ -51,8 +51,8 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 X. Xie, Y. Ge, H. Walia, __J. Yang__, H. Yu, __Leaf Counting in Monocot Plants using Deep Regression Models__, _Sensors (accepted)_, 2023.  
 
-M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, _The Plant Journal (accepted)_, 2023.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) | [Dataset](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) 
+M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, __[A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity](https://doi.org/10.1111/tpj.16123)__, _The Plant Journal_, 2023.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) | [CyVerse](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) | [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h4f1) 
 
 __S. Palali Delen__, __G. Xu__, __J. Velazquez-Perfecto__, __J. Yang__, __[Estimating the genetic parameters of yield-related traits under different nitrogen conditions in maize](https://doi.org/10.1093/genetics/iyad012)__, _Genetics_, 2023.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) | [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) 
@@ -115,7 +115,7 @@ C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Sem
 ### 2019
 
 Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__, J. C. Schnable, __[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0450-8)__, _Plant Methods_, 2019.  
-[97 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
+[96 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1137945390019707471&as_sdt=5)
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __[Genome-wide identification and analysis of heterotic loci in three maize hybrids](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186)__, _Plant Biotechnology Journal_, 2019.  
@@ -136,7 +136,7 @@ __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dek
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242)__, _G3: Genes Genomes Genetics_, 2018.  
-[39 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
+[41 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
 
 
 

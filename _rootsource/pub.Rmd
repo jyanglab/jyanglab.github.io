@@ -171,12 +171,12 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, ",
-"__A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity__, ",
-"_The Plant Journal (accepted)_, 2023.  \n",
+"__[A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity](https://doi.org/10.1111/tpj.16123)__, ",
+"_The Plant Journal_, 2023.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) ",
 #"| [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) ",
-"| [Dataset](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+"| [CyVerse](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) ",
+"| [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h4f1) "
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
 ))
