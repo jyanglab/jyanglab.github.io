@@ -162,8 +162,8 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "X. Xie, Y. Ge, H. Walia, __J. Yang__, H. Yu, ",
-"__Leaf Counting in Monocot Plants using Deep Regression Models__, ",
-"_Sensors (accepted)_, 2023.  \n"
+"__[Leaf Counting in Monocot Plants using Deep Regression Models](https://doi.org/10.3390/s23041890)__, ",
+"_Sensors_, 2023.  \n"
 ))
 ```
 
