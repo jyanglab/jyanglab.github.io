@@ -41,6 +41,20 @@ bob <- subset(bob, !is.na(cid))
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__Z. Yang__ , T. Zhao, H. Cheng , and __J. Yang__, ",
+"__Microbiome-enabled genomic selection improves prediction accuracy for nitrogen-related traits in maize__, ",
+"_bioRxiv_, 2023.  \n",
+"[x]() "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "X. He, D. Wang, Y. Jiang, M. Li, M. Delgado-Baquerizo, C. McLaughlin, C. Marcon, M. Baer, L. Guo, Y. A.T. Moya, N. von Wiren, M. Deichmann, G. Schaaf, H.-P. Piepho, __Z. Yang__, __J. Yang__, B. Yim, K. Smalla, S. Goormachtig, F. T. de Vries, H. Huging, R. J. H. Sawers, J. C. Reif, F. Hochholdinger, X. Chen, P. Yu, ",
 "__Heritable maize microbiomes contribute to local adaptation and host stress resilience__, ",
 "_bioRxiv_, 2023.  \n",
@@ -157,6 +171,18 @@ cat(paste0(
 
 
 ### 2023
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"J. Hao, Y. Yang, S. Futrell, E. A. Kelly, C. M. Lorts, B. Nebie, S. Runo, __J. Yang__, S. Alvarez, J. R. Lasky, D. P. Schachtman, ",
+"__[CRISPR/Cas9-mediated mutagenesis of _carotenoid cleavage dioxygenase (CCD)_ genes in sorghum alters strigolactone biosynthesis and plant biotic interactions]()__, ",
+"_Phytobiomes Journal (accepted)_, 2023.  \n"
+))
+```
+
+CRISPR/Cas9-mediated mutagenesis of carotenoid cleavage dioxygenase (CCD) 2genes in sorghum alters strigolactone biosynthesis and plant biotic interactions 31,2* 
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
