@@ -176,6 +176,16 @@ cat(paste0(
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"N. K. Wijewardane, H. Zhang, __J. Yang__, J. C. Schnable, D. P. Schachtman, Y. Ge, ",
+"__[A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer](https://doi.org/10.1093/jxb/erad129)__, ",
+"_Journal of Experimental Botany_, 2023.  \n"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "J. Hao, Y. Yang, S. Futrell, E. A. Kelly, C. M. Lorts, B. Nebie, S. Runo, __J. Yang__, S. Alvarez, J. R. Lasky, D. P. Schachtman, ",
 "__[CRISPR/Cas9-mediated mutagenesis of _carotenoid cleavage dioxygenase (CCD)_ genes in sorghum alters strigolactone biosynthesis and plant biotic interactions]()__, ",
 "_Phytobiomes Journal (accepted)_, 2023.  \n"
