@@ -143,6 +143,19 @@ Office: Keim 303.
 
 ------------
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/F0vxMMh.jpg" alt="Cassie Palmer" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Cassie Palmer</b> is a rotation Ph.D. student in the Complex Biosystems program, interested in Space Ag. 
+<a href="/people/cpalmer"> learn more ...  </a>
+</div>
+
 
 <div class="responsive">
   <div class="img">
