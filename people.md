@@ -64,7 +64,7 @@ Office: PLSH 383.
 </div>
 
 <div class="responsive">
-<b>Zhen Wang</b> is Research Assistant Professor in the department of Ag/Hort. 
+<b>Zhen Wang</b> is a Research Assistant Professor in the department of Ag/Hort. 
 Office: Keim 303.
 <a href="/people/zwang"> learn more ...  </a>
 </div>
@@ -166,7 +166,7 @@ Office: Keim 303.
 </div>
 
 <div class="responsive">
-<b>Luke Olson</b> is a undergraduate student with a major in Computer Science and a minor in Bioinformatics.
+<b>Luke Olson</b> is an undergraduate student with a major in Computer Science and a minor in Bioinformatics.
 </div>
 
 
