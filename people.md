@@ -27,7 +27,7 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Jinliang Yang</b> is an Assistant Professor in the Department of Agronomy and Horticulture at UNL. 
+<b>Jinliang Yang</b> is an Associate Professor in the Department of Agronomy and Horticulture at UNL. 
 <a href="/people/jyang"> learn more ...  </a>
 </div>
 
