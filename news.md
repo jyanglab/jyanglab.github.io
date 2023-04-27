@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### April, 2023
+
+- Musa Ulutas won the 2nd place award for the short presentation at the Corteva-sponsored NE Plant Science Symposium! Congratulations and well done, Musa!  
+
+<p align="center">
+  <img height="300" src="https://imgur.com/esnUzPO.png">
+</p>
+
 ### Dec, 2022
 
 - Congratulations, Dr.s Delen! I wish both of you a bright future, Semra and Yavuz! 
