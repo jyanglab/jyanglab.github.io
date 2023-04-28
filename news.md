@@ -12,6 +12,8 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
   <img height="300" src="https://imgur.com/esnUzPO.png">
 </p>
 
+- Congratulations to our undergrad Luke Olson! Luke's UCARE application has been accepted for the 2023-2024 program cycle!
+
 ### Dec, 2022
 
 - Congratulations, Dr.s Delen! I wish both of you a bright future, Semra and Yavuz! 
