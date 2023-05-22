@@ -10,9 +10,9 @@ googlefonts: ["Monoton", "Lobster"]
 ## [Join the lab](/positions)
 
 <p align="center">
-  <img width="600" src="https://i.imgur.com/bqZBBGO.jpg">
+  <img width="600" src="https://i.imgur.com/5JTcNDu.jpg">
 </p>
-> Group photo 2022
+> Group photo 2023
 
 ## Current Lab Members
 
@@ -58,7 +58,7 @@ Office: PLSH 383.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/TW9KKkf.png" alt="Zhen" width="300" height="400">
+      <img src="https://i.imgur.com/PVcDeGZ.png" alt="Zhen" width="300" height="400">
     </a>
   </div>
 </div>
