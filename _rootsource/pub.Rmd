@@ -176,6 +176,16 @@ cat(paste0(
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, ",
+"__[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, ",
+"_Molecular Biology and Evolution (accepted)_, 2023. \n"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, ",
 "__[Hybrid allele-specic ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, ",
 "_Genome Biology (accepted)_, 2023. \n",
