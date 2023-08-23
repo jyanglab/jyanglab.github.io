@@ -14,11 +14,19 @@ comments: false
   - 1 hour
 - [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting?index=product&queryID=c7d2890385fe4e47604518e30d546a8c&position=5&linked_from=autocomplete&c=autocomplete)
   - 1 hour
-- [HCC Doc](https://hcc.unl.edu/docs/)
 
 -----------------------------
 ## Git Best Practices
 - [Coursera: Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-backend-development&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-backend-development_ibm_FTCOF_professional-certificates_country-US-country-CA&campaignid=19973760166&adgroupid=146696810063&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=654910474289&hide_mobile_promo&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx46wfzFgCTqpnJkOuPP3V9QxyYosxbmAvUb-0clHlbledic_So4tTYaAnvDEALw_wcB)
+  - Three modules (7 hours in total)
+
+
+-----------------------
+## Cloud Computing
+
+- [HCC Doc](https://hcc.unl.edu/docs/)
+- [Coursera: Introduction to Networking and Cloud Computing](https://www.coursera.org/learn/introduction-to-networking-and-cloud-computing?specialization=microsoft-cybersecurity-analyst&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_microsoft-cybersecurity-analyst_microsoft_FTCOF_professional-certificates_country-US-country-CA&campaignid=20376574050&adgroupid=151041237829&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=666157831903&hide_mobile_promo&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx4rQniRpAl4TIrsEDZQ9s7CqM7rVzR08HrkJbEUYVcYTpFmh_61-UoaAgysEALw_wcB)
+- [EdX: Introduction to Cloud Computing](https://www.edx.org/learn/cloud-computing/ibm-introduction-to-cloud-computing?index=product&objectID=course-7a1a677e-be4c-4e1d-9630-2d60323db911&webview=false&campaign=Introduction+to+Cloud+Computing&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcloud-computing)
 
 -----------------------------
 ## R Statistical Language
