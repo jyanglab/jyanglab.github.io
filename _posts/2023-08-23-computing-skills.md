@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resources for Computational Skills
+title: Computational Skills for Plant Sciences
 subtitle: Resources to learn basic computational skills
 tags: [bioinfo, CS, tools]
 category: [computing]
@@ -13,13 +13,18 @@ comments: false
 
 - [HarvardX](http://rafalab.github.io/pages/harvardx.html) Biomedical Data Science Open Online Training
 
-##### Basic Data Analysis for the Life Sciences
+#### Basic Data Analysis for the Life Sciences
 - [Statistics and R](https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r)
+  - 4 weeks (2-4 hours per week)
 - [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/learn/linear-algebra/harvard-university-introduction-to-linear-models-and-matrix-algebra)
+ - 4 weeks (2-4 hours per week)
 - [Statistical Interference and Modeling for High-throughput Experiments](https://www.edx.org/learn/statistics/harvard-university-statistical-inference-and-modeling-for-high-throughput-experiments)
+ - 4 weeks (2-4 hours per week)
 - [High-Dimensional Data Analysis](https://www.edx.org/learn/data-analysis/harvard-university-high-dimensional-data-analysis)
+ - 4 weeks (2-4 hours per week)
 
-### Free Online Resources for `R`
+-----------------------------
+### Other Free Online Resources for `R`
 
 - The [try R interactive online course](http://tryr.codeschool.com/) from Code School
 - The [swirl](http://swirlstats.com/): learn R interactively from within the R console
