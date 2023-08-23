@@ -7,7 +7,15 @@ category: [computing]
 comments: false
 ---
 
+
+## Linux Command Lines
+
+- [edX: Try It: Learn Linux Command Line](https://www.edx.org/learn/computer-programming/edx-try-it-learn-linux-command-line?index=product&queryID=647e638ac5fe8dfcc9aa9d7a1395004d&position=3&linked_from=autocomplete&c=autocomplete)
+- [HCC Doc](https://hcc.unl.edu/docs/)
+
+-----------------------------
 ## R Statistical Language
+- [Coursera: R programming class](https://www.coursera.org/learn/r-programming), taught by Roger Peng, Jeff Leek, and Brian Caffo
 
 ### Online Courses
 
@@ -28,7 +36,7 @@ comments: false
 
 - The [try R interactive online course](http://tryr.codeschool.com/) from Code School
 - The [swirl](http://swirlstats.com/): learn R interactively from within the R console
-- Coursera: [R programming class](https://www.coursera.org/learn/r-programming), taught by Roger Peng, Jeff Leek, and Brian Caffo
+
 - [Quick-R](http://www.statmethods.net/): Quick online reference for data input, basic statistics, and plots
 - RStudio [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
@@ -47,4 +55,4 @@ comments: false
 
 - [Using Python for Research](https://www.edx.org/learn/python/harvard-university-using-python-for-research)
 
-## Linux Command Lines
+
