@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computing Skills
+title: Resources for Computational Skills
 subtitle: Resources to learn basic computational skills
 tags: [bioinfo, CS, tools]
 category: [computing]
@@ -12,6 +12,12 @@ comments: false
 ### Online Courses
 
 - [HarvardX](http://rafalab.github.io/pages/harvardx.html) Biomedical Data Science Open Online Training
+
+##### Basic Data Analysis for the Life Sciences
+- [Statistics and R](https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r)
+- [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/learn/linear-algebra/harvard-university-introduction-to-linear-models-and-matrix-algebra)
+- [Statistical Interference and Modeling for High-throughput Experiments](https://www.edx.org/learn/statistics/harvard-university-statistical-inference-and-modeling-for-high-throughput-experiments)
+- [High-Dimensional Data Analysis](https://www.edx.org/learn/data-analysis/harvard-university-high-dimensional-data-analysis)
 
 ### Free Online Resources for `R`
 
@@ -31,6 +37,9 @@ comments: false
 
 ## Git Best Practices
 
+------------
 ## Python
+
+- [Using Python for Research](https://www.edx.org/learn/python/harvard-university-using-python-for-research)
 
 ## Linux Command Lines
