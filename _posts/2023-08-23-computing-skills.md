@@ -10,8 +10,15 @@ comments: false
 
 ## Linux Command Lines
 
-- [edX: Try It: Learn Linux Command Line](https://www.edx.org/learn/computer-programming/edx-try-it-learn-linux-command-line?index=product&queryID=647e638ac5fe8dfcc9aa9d7a1395004d&position=3&linked_from=autocomplete&c=autocomplete)
+- [edX: Learn Linux Command Line](https://www.edx.org/learn/computer-programming/edx-try-it-learn-linux-command-line?index=product&queryID=647e638ac5fe8dfcc9aa9d7a1395004d&position=3&linked_from=autocomplete&c=autocomplete)
+  - 1 hour
+- [Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting?index=product&queryID=c7d2890385fe4e47604518e30d546a8c&position=5&linked_from=autocomplete&c=autocomplete)
+  - 1 hour
 - [HCC Doc](https://hcc.unl.edu/docs/)
+
+-----------------------------
+## Git Best Practices
+- [Coursera: Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-backend-development&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-backend-development_ibm_FTCOF_professional-certificates_country-US-country-CA&campaignid=19973760166&adgroupid=146696810063&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=654910474289&hide_mobile_promo&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx46wfzFgCTqpnJkOuPP3V9QxyYosxbmAvUb-0clHlbledic_So4tTYaAnvDEALw_wcB)
 
 -----------------------------
 ## R Statistical Language
@@ -48,7 +55,7 @@ comments: false
 - [R Cookbook](https://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/) (O'Reilly Media) by Paul Teetor
 - [R in Action](https://www.amazon.com/R-Action-Robert-Kabacoff/dp/1935182390) by Robert Kabacoff
 
-## Git Best Practices
+
 
 ------------
 ## Python
