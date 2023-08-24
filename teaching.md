@@ -3,6 +3,22 @@ layout: page
 title: Teaching
 ---
 
+### FALL 2023
+
+- __LIFE-891-003: Complex Biosystems Seminar__
+  - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
+
+- __[Computational Genomics Workshop](/workshop2023)__
+  - This is an informal lab workshop. We will utilize the lab Slack channel #workshop to engage in a series of online courses, as well as to review relevant books and materials. This approach will allow students to enhance the fundamental computational skills essential for our work in the lab.
+  
+-----------------------
+
+### Spring 2023
+
+- __CBIO-843-001: Complex Biosystems Seminar__
+  - __Course Objectives__: The purpose of this course is to introduce you to the ongoing and exciting research in our community, as well as give you the opportunity to share your research with others.   
+
+-----------------------
 ### FALL 2022
 
 - __[ANS/AGRO-931](/agro931): Population Genetics__
