@@ -16,7 +16,7 @@ title: 2023 Lab Computational Genomics Workshop
 
 We will utilize the lab Slack channel #workshop to engage in a series of online courses, as well as to review relevant books and materials. This approach will allow us to enhance our fundamental computational skills essential for our work in the lab.
 
-### Basic Computational Skills
+### Basic Computational Skills with `HPC`
 
 #### Week 1 (Aug 28): Linux Command Lines
 - Learn about Linux Command lines and shell scripting (about 2 hours)
