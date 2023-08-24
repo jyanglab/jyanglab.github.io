@@ -146,21 +146,7 @@ Office: Keim 303.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/F0vxMMh.jpg" alt="Cassie Palmer" width="300" height="400" >
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Cassie Palmer</b> is a rotation Ph.D. student in the Complex Biosystems program, interested in Space Ag. 
-<a href="/people/cpalmer"> learn more ...  </a>
-</div>
-
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/BLnvq3i.png" alt="Nick" width="300" height="400">
+      <img src="https://i.imgur.com/BLnvq3i.png" alt="Luke" width="300" height="400">
     </a>
   </div>
 </div>
@@ -169,13 +155,44 @@ Office: Keim 303.
 <b>Luke Olson</b> is an undergraduate student with a major in Computer Science and a minor in Bioinformatics.
 </div>
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/NAgyQJx.jpg" alt="Nathan Ma" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Yuchu "Nathan" Ma </b> is a PhD student in the department of Ag/Hort working on sorghum and corn. 
+Previously studied fungal infections of corn in Food Science Department at UNL.
+</div>
+
 
 <div class="clearfix"></div>
 
+------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/9N4mLHr.jpg" alt="Suhbash" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Sai Subhash M.V.S </b> is a PhD rotation student in the Complex BioSystems program. 
+<a href="/people/subhash"> learn more ...  </a>
+</div>
+
+
+<div class="clearfix"></div>
 -------------------------
 
 ## Lab Alumni
 
+- **Cassie Palmer** is a rotation Ph.D. student in the Complex Biosystems program with a keen interest in Space Ag.
 - **Semra Palali Delen**: a PhD student in the department of Ag&Hort.
 - **Jenifer Velazquez-Perfecto**: an undergraduate student majored in Agricultural and Environmental Science Communications.
 - **Nicholas Reikofski**: an undergraduate student majored in Agricultural Economics with a minor in Agronomy.
