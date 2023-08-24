@@ -18,7 +18,8 @@ We will utilize the lab Slack channel #workshop to engage in a series of online 
 
 ### Week 1 (Aug 28): Linux Command Lines
 - Learn about Linux Command lines and shell scripting (about two hours)
- - https://jyanglab.com/2023-08-23-computing-skills/
+ - [edX: Learn Linux Command Line](https://www.edx.org/learn/computer-programming/edx-try-it-learn-linux-command-line?index=product&queryID=647e638ac5fe8dfcc9aa9d7a1395004d&position=3&linked_from=autocomplete&c=autocomplete)
+ - [edX: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting?index=product&queryID=c7d2890385fe4e47604518e30d546a8c&position=5&linked_from=autocomplete&c=autocomplete)
 
 ### Week2 (Sept 4): Git and GitHub
 - Get started with Git and GitHub (about 7 hours in total)
