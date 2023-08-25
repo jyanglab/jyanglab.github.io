@@ -12,7 +12,7 @@ bigimg:
 
 {% include module.html 
 image_path="https://i.imgur.com/9N4mLHr.jpg" 
-name="Sai Subhash \\
+name="Sai Subhash  \\
 Mahamkali Venkata Subramanyam" 
 title="__Ph.D. student in CBio__" 
 email="smahamkalivenkatas2 at huskers.unl dot edu"
