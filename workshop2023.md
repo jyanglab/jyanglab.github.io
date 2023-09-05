@@ -33,8 +33,8 @@ We will utilize the lab Slack channel #workshop to engage in a series of online 
 
 #### Week 3 (Sept 11): Introduction to HPC
 - Introduction to High-Performance and Parallel Computing (about 14 hours in total)
- - [Coursera course website](https://www.coursera.org/learn/introduction-high-performance-computing#modules)
-- Learning Goals: get familiar with HPC and __start a research project using HCC__
+  - [Coursera course website](https://www.coursera.org/learn/introduction-high-performance-computing#modules)
+- Learning Goals: get familiar with HPC and __start a Git version controlled research project on HCC__
 
 ------
 ### Basic R Programming
