@@ -31,26 +31,30 @@ We will utilize the lab Slack channel #workshop to engage in a series of online 
   - [Coursera course website](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-backend-development&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-backend-development_ibm_FTCOF_professional-certificates_country-US-country-CA&campaignid=19973760166&adgroupid=146696810063&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=654910474289&hide_mobile_promo&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx46wfzFgCTqpnJkOuPP3V9QxyYosxbmAvUb-0clHlbledic_So4tTYaAnvDEALw_wcB)
 - Learning Goals: set up a GitHub account and get familiar with version control
 
+#### Week 3 (Sept 11): Introduction to HPC
+- Introduction to High-Performance and Parallel Computing (about 14 hours in total)
+ - [Coursera course website](https://www.coursera.org/learn/introduction-high-performance-computing#modules)
+- Learning Goals: get familiar with HPC and __start a research project using HCC__
 
-#### Week 3 (Sept 11): R Programming
-- Background and getting started (12 hours)
-  - [Coursera](https://www.coursera.org/learn/r-programming#modules)
+------
+### Basic R Programming
+
+A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-programming#modules)
+
+#### Week 4 (Sept 18): Background and getting started (12 hours)
 - Learning Goals: get familiar with R and [RStudio](https://posit.co/downloads/)
 
-
-#### Week 4 (Sept 18): R Programming
-- Programming with R (8 hours)
-  - [Coursera](https://www.coursera.org/learn/r-programming#modules)
-
-#### Week 5 (Sept 25): R Programming
-- Loop functions and debugging (11 hours)
-  - [Coursera](https://www.coursera.org/learn/r-programming#modules)
-
-#### Week 6 (Oct 1): R Programming
-- Simulation and profiling (11 hours)
-  - [Coursera](https://www.coursera.org/learn/r-programming#modules)
+#### Week 5 (Sept 25): Programming with R (8 hours)
 
 
+#### Week 6 (Oct 1): Loop functions and debugging (11 hours)
+
+#### Week 7 (Oct 8): Simulation and profiling (11 hours)
+
+
+-------------
+
+### Basic Machine Learning Skills using `Python`
 
 
 -------------
@@ -65,7 +69,5 @@ We will utilize the lab Slack channel #workshop to engage in a series of online 
 
 #### High-Dimensional Data Analysis
 
--------------
 
-### Basic Machine Learning Skills using `Python`
 
