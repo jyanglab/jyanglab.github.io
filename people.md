@@ -43,8 +43,8 @@ googlefonts: ["Monoton", "Lobster"]
 </div>
 
 <div class="responsive">
-<b>Gen Xu</b> is a PostDoc Scholar working on maize population genetics.
-Office: PLSH 383. 
+<b>Gen Xu</b> is a Research Assistant Professor working on maize evolutionary genomics and population genetics.
+Office: Keim 361. 
 <a href="/people/gxu"> learn more ...  </a>
 </div>
 
@@ -106,7 +106,7 @@ Office: Keim 303.
 </div>
 
 <div class="responsive">
-<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable.
+<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable. Office: Keim 361.
 </div>
 
 
@@ -136,7 +136,7 @@ Office: Keim 303.
 </div>
 
 <div class="responsive">
-<b>Musa Ulutas</b> is a PhD student in the department of Ag/Hort, working on sweetcorn and root phenotype.
+<b>Musa Ulutas</b> is a PhD student in the department of Ag/Hort, working on sweet corn and root phenotyping.
 </div>
 
 <div class="clearfix"></div>
