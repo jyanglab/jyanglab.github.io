@@ -54,11 +54,11 @@ C. Miao, T. P. Hoban, A. Pages, Z. Xu, __E. Rodene__, J. Ubbens, I. Stavness, __
 
 ### 2023
 
-S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, __[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, _Molecular Biology and Evolution (accepted)_, 2023. 
+S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, __[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, _Molecular Biology and Evolution (accepted)_, 2023.  
 
 
-T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, __[Hybrid allele-specic ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, _Genome Biology (accepted)_, 2023. 
-[Preprint](https://www.researchsquare.com/article/rs-543958/v1) | [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046376427193998427&as_sdt=5)
+T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, __[Hybrid allele-specic ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, _Genome Biology_, 2023.  
+[Preprint](https://www.researchsquare.com/article/rs-543958/v1) | [GitHub](https://github.com/mbanf/HaschSeq)| [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046376427193998427&as_sdt=5)
 
 N. K. Wijewardane, H. Zhang, __J. Yang__, J. C. Schnable, D. P. Schachtman, Y. Ge, __[A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer](https://doi.org/10.1093/jxb/erad129)__, _Journal of Experimental Botany_, 2023.  
 [4 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11273508399135605886&as_sdt=5)
