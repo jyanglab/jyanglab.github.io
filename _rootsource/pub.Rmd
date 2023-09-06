@@ -184,7 +184,7 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="2046376427193998427",]
+pid <- bob[bob$cid=="2046376427193998427",]
 cat(paste0(
 "T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, ",
 "__[Hybrid allele-specic ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, ",
@@ -195,7 +195,7 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="11273508399135605886",]
+pid <- bob[bob$cid=="11273508399135605886",]
 cat(paste0(
 "N. K. Wijewardane, H. Zhang, __J. Yang__, J. C. Schnable, D. P. Schachtman, Y. Ge, ",
 "__[A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer](https://doi.org/10.1093/jxb/erad129)__, ",
@@ -209,14 +209,14 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "J. Hao, Y. Yang, S. Futrell, E. A. Kelly, C. M. Lorts, B. Nebie, S. Runo, __J. Yang__, S. Alvarez, J. R. Lasky, D. P. Schachtman, ",
-"__[CRISPR/Cas9-mediated mutagenesis of _carotenoid cleavage dioxygenase (CCD)_ genes in sorghum alters strigolactone biosynthesis and plant biotic interactions]()__, ",
-"_Phytobiomes Journal (accepted)_, 2023.  \n"
+"__[CRISPR/Cas9-mediated mutagenesis of _carotenoid cleavage dioxygenase (CCD)_ genes in sorghum alters strigolactone biosynthesis and plant biotic interactions](https://doi.org/10.1094/PBIOMES-08-22-0053-R)__, ",
+"_Phytobiomes Journal_, 2023.  \n"
 ))
 ```
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="10999324276339281135",]
+pid <- bob[bob$cid=="10999324276339281135",]
 cat(paste0(
 "X. Xie, Y. Ge, H. Walia, __J. Yang__, H. Yu, ",
 "__[Leaf Counting in Monocot Plants using Deep Regression Models](https://doi.org/10.3390/s23041890)__, ",
@@ -226,7 +226,7 @@ cat(paste0(
 ```
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="2219072950747194716",]
+pid <- bob[bob$cid=="2219072950747194716",]
 cat(paste0(
 "M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schnable, ",
 "__[A Common Resequencing-Based Genetic Marker Dataset for Global Maize Diversity](https://doi.org/10.1111/tpj.16123)__, ",
@@ -336,7 +336,7 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="nVrZBo8bIpAC",]
+pid <- bob[bob$cid=="16979676899966048479",]
 cat(paste0(
 "__E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, ",
 "__[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify trait-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, ",
@@ -367,7 +367,7 @@ cat(paste0(
 
 
 ```{r, echo=FALSE, results="asis"}
-pid <- bob[bob$pubid=="u-coK7KVo8oC",]
+pid <- bob[bob$cid=="16451297146303511073",]
 cat(paste0(
 "C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, ",
 "__[Automation of Leaf Counting in Maize and Sorghum Using Deep Learning](https://acsess.onlinelibrary.wiley.com/doi/10.1002/ppj2.20022)__, ",
