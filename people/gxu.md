@@ -13,7 +13,7 @@ bigimg:
 {% include module.html 
 image_path="https://i.imgur.com/uf8nsvN.png" 
 name="Gen Xu" 
-title="__Research Assistant Prof.__" 
+title="__Research Assistant Professor__" 
 contact="University of Nebraska-Lincoln, \\
   361 Keim Hall, \\
   1825 N 38th St, \\
