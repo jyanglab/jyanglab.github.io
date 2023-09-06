@@ -58,7 +58,7 @@ S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H
 
 
 T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, __[Hybrid allele-specic ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, _Genome Biology_, 2023.  
-[Preprint](https://www.researchsquare.com/article/rs-543958/v1) | [GitHub](https://github.com/mbanf/HaschSeq)| [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046376427193998427&as_sdt=5)
+[Preprint](https://www.researchsquare.com/article/rs-543958/v1) | [GitHub](https://github.com/mbanf/HaschSeq) | [1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046376427193998427&as_sdt=5)
 
 N. K. Wijewardane, H. Zhang, __J. Yang__, J. C. Schnable, D. P. Schachtman, Y. Ge, __[A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer](https://doi.org/10.1093/jxb/erad129)__, _Journal of Experimental Botany_, 2023.  
 [4 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11273508399135605886&as_sdt=5)
@@ -76,7 +76,7 @@ M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schna
 __S. Palali Delen__, __G. Xu__, __J. Velazquez-Perfecto__, __J. Yang__, __[Estimating the genetic parameters of yield-related traits under different nitrogen conditions in maize](https://doi.org/10.1093/genetics/iyad012)__, _Genetics_, 2023.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) | [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) 
 
-D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean](https://doi.org/10.1111/jipb.13380)__, _Journal of Integrative Plant Biology_, 2022.  
+D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean](https://doi.org/10.1111/jipb.13380)__, _Journal of Integrative Plant Biology_, 2023.  
 [Data](http://onlinelibrary.wiley.com/doi/10.1111/jipb.13380/suppinfo) | [7 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8054685718312760915&as_sdt=5)
 
 
