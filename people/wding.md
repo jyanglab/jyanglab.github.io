@@ -18,7 +18,7 @@ contact="University of Nebraska-Lincoln, \\
   303 Keim Hall, \\
   1825 N 38th St, \\
   Lincoln, NE 68583-0915"
-email="wding2 at huskers dot unl dot edu"\\
+email="wding2 at huskers dot unl dot edu"
 %}
 
 
