@@ -186,6 +186,18 @@ Previously studied fungal infections of corn in Food Science Department at UNL.
 <a href="/people/subhash"> learn more ...  </a>
 </div>
 
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://i.imgur.com/084Jmt7.jpg" alt="WS" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Wensheng Ding</b> is a lab technician who obtained a Master's degree from FDST. Office: 303 Keim Hall.
+<a href="/people/wding"> learn more ...  </a>
+</div>
 
 <div class="clearfix"></div>
 -------------------------
