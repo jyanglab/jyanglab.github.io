@@ -37,7 +37,7 @@ We will utilize the lab Slack channel #workshop to engage in a series of online 
 - Learning Goals: get familiar with HPC and __start a Git version controlled research project on HCC__
 
 ------
-### Basic R Programming
+### Basic R Programming for Population Genomics
 
 A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-programming#modules)
 
