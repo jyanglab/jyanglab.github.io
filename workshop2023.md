@@ -44,7 +44,7 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
 #### Week 4 (Sept 18): Background and getting started (12 hours)
 - Learning Goals: get familiar with R and [RStudio](https://posit.co/downloads/)
 - HW due: present learning outcomes following [the format of our weekly meeting report](https://jyanglab.com/2019-12-04-weekly-report/) during one-on-one meeting
-- __Sept 20 (Wed), 10-12 am, PLSH 279M__: [Population Genomics Model 1](https://jyanglab.com/slides/2022-module/week1/w1.html#1) 
+- __Sept 20 (Wed), 10-12 am, PLSH 279M__: [Population Genomics Model 1](https://jyanglab.com/slides/2023-module/week1/w1.html#1) 
 
 #### Week 5 (Sept 25): Programming with R (8 hours)
 
