@@ -47,9 +47,11 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
 - __Sept 20 (Wed), 10-12 am, PLSH 279M__: [Population Genomics Model 1](https://jyanglab.com/slides/2023-module/week1/w1.html#1) 
 
 #### Week 5 (Sept 25): Programming with R (8 hours)
-
+- Learning Goals: read, write, and manipulate genomic data
 
 #### Week 6 (Oct 1): Loop functions and debugging (11 hours)
+- Learning Goal: compute basic stat (i.e., MAF, missing rate, LD decay rate)
+- HW due: Oct 10 during one-on-one meeting
 
 #### Week 7 (Oct 8): Simulation and profiling (11 hours)
 
