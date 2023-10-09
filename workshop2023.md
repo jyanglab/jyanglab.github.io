@@ -54,7 +54,11 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
 - HW due: Oct 10 during one-on-one meeting
 
 #### Week 7 (Oct 8): Simulation and profiling (11 hours)
-
+- Learning Goal: compute basic state on phenotypic datasets
+- HW due: Oct 17 during one-on-one meeting
+  - Identify a phenotypic dataset from what we have collected (maize or sorghum)
+  - Come up with a testable hypothesis
+  - Visualize the data and test the hypothesis
 
 -------------
 
