@@ -70,12 +70,12 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
 #### Week 10 (Oct 30): Diversity measurement
 - [Population Genomics Model 2](https://jyanglab.com/slides/2023-module/week2/w2.html#1)
 - Learning Goal: compute popgen stat from sorghum sequencing data
-- HW: Calculate Fst using sequencing data
+- HW: Calculate Fst using sorghum sequencing data
 
 #### Week 11 (Nov 6): Scan for direct and linked selection
 - [Population Genomics Model 3](https://jyanglab.com/slides/2023-module/week3/w3.html#1)
 - Learning Goal: compute popgen stat from sorghum sequencing data
-- HW: Calculate Tajima's D and $\pi_N/\pi_S$ using sequencing data
+- HW: Calculate Tajima's D and pi_N/pi_S using sorghum sequencing data
 
 -------------
 
