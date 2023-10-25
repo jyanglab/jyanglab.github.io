@@ -60,7 +60,22 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
   - Come up with a testable hypothesis
   - Visualize the data and test the hypothesis
 
-### Week 8 (Oct 16): Fall break
+#### Week 8 (Oct 16): Fall break
+
+#### Week 9 (Oct 23): Introduction and population genomics terminology
+- [Population Genomics Model 1](https://jyanglab.com/slides/2023-module/week1/w1.html#1)
+- Learning Goal: get population genomic information from [sorghum sequencing data](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15853) and [sorghum and maize load](https://www.nature.com/articles/s41477-020-00834-5) paper
+- HW: read the paper and discuss during one-on-one meeting 
+
+#### Week 10 (Oct 30): Diversity measurement
+- [Population Genomics Model 2](https://jyanglab.com/slides/2023-module/week2/w2.html#1)
+- Learning Goal: compute popgen stat from sorghum sequencing data
+- HW: Calculate Fst using sequencing data
+
+#### Week 11 (Nov 6): Scan for direct and linked selection
+- [Population Genomics Model 3](https://jyanglab.com/slides/2023-module/week3/w3.html#1)
+- Learning Goal: compute popgen stat from sorghum sequencing data
+- HW: Calculate Tajima's D and $\pi_N/\pi_S$ using sequencing data
 
 -------------
 
