@@ -164,6 +164,16 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__S. Palali Delen__, J. Lee, __J. Yang__, ",
+"__[Improving the metal composition of plants for reduced Cd and increased Zn content: molecular mechanisms and genetic regulations]()__, ",
+"_Cereal Research Communications (accepted)_, 2023.  \n"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, ",
 "__[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, ",
 "_Molecular Biology and Evolution (accepted)_, 2023.  \n"
