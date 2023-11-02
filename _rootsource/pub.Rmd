@@ -165,8 +165,8 @@ __J. Yang__, S. Chen, ",
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__S. Palali Delen__, J. Lee, __J. Yang__, ",
-"__[Improving the metal composition of plants for reduced Cd and increased Zn content: molecular mechanisms and genetic regulations]()__, ",
-"_Cereal Research Communications (accepted)_, 2023.  \n"
+"__[Improving the metal composition of plants for reduced Cd and increased Zn content: molecular mechanisms and genetic regulations](https://rdcu.be/dp3Gy)__, ",
+"_Cereal Research Communications_, 2023.  \n"
 ))
 ```
 
