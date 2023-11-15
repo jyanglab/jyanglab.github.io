@@ -77,6 +77,13 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
 - Learning Goal: compute popgen stat from sorghum sequencing data
 - HW: Calculate Tajima's D and pi_N/pi_S using sorghum sequencing data
 
+#### Week 12 (Nov 15): Hands-on practices
+- Dr. Gen Xu: BGEM population and GWAS
+
+#### Week 13 (Nov 22): Hands-on practices
+
+#### Week 14 (Nov 29): Hands-on practices
+
 -------------
 
 ### Basic Machine Learning Skills using `Python`
