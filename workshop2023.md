@@ -10,6 +10,8 @@ title: 2023 Lab Computational Genomics Workshop
 - **Time**: At your own pace
 - **Prerequisites**: None
 
+- Online Book: [APllied Population Genetics](https://dyerlab.github.io/applied_population_genetics/index.html)
+
 --------------------
 
 ## Schedule Fall 2023
@@ -61,6 +63,8 @@ A four week R Programming module on [Coursera](https://www.coursera.org/learn/r-
   - Visualize the data and test the hypothesis
 
 #### Week 8 (Oct 16): Fall break
+
+
 
 #### Week 9 (Oct 23): Introduction and population genomics terminology
 - [Population Genomics Model 1](https://jyanglab.com/slides/2023-module/week1/w1.html#1)
