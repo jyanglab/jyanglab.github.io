@@ -118,18 +118,6 @@ Office: Keim 303.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/AZwni0J.jpg" alt="Kahheetah" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Kahheetah Barnoskie</b> is a MS student in the department of Ag/Hort, working on native corn.
-</div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
       <img src="https://i.imgur.com/9fQIrCm.png" alt="Musa" width="300" height="400">
     </a>
   </div>
@@ -139,9 +127,7 @@ Office: Keim 303.
 <b>Musa Ulutas</b> is a PhD student in the department of Ag/Hort, working on sweet corn and root phenotyping.
 </div>
 
-<div class="clearfix"></div>
 
-------------
 
 <div class="responsive">
   <div class="img">
@@ -154,6 +140,10 @@ Office: Keim 303.
 <div class="responsive">
 <b>Luke Olson</b> is an undergraduate student with a major in Computer Science and a minor in Bioinformatics.
 </div>
+
+<div class="clearfix"></div>
+
+------------
 
 <div class="responsive">
   <div class="img">
@@ -169,10 +159,6 @@ Previously studied fungal infections of corn in Food Science Department at UNL.
 </div>
 
 
-<div class="clearfix"></div>
-
-------------
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -186,26 +172,16 @@ Previously studied fungal infections of corn in Food Science Department at UNL.
 <a href="/people/subhash"> learn more ...  </a>
 </div>
 
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/084Jmt7.jpg" alt="WS" width="300" height="400" >
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Wensheng Ding</b> is a lab technician who obtained a Master's degree from FDST. Office: 303 Keim Hall.
-<a href="/people/wding"> learn more ...  </a>
-</div>
 
 <div class="clearfix"></div>
 -------------------------
 
 ## Lab Alumni
 
-- **Cassie Palmer** is a rotation Ph.D. student in the Complex Biosystems program with a keen interest in Space Ag.
-- **Semra Palali Delen**: a PhD student in the department of Ag&Hort.
+- **Wensheng Ding* worked as a temp lab technician who obtained a MS degree from FDST at UNL.
+- **Kahheetah Barnoskie** obtained a MS degree in the department of Ag/Hort, working on native corn.
+- **Cassie Palmer** rotated in the lab as Ph.D. student in the Complex Biosystems program with a keen interest in Space Ag.
+- **Semra Palali Delen**: obtained a PhD degree in the department of Ag&Hort.
 - **Jenifer Velazquez-Perfecto**: an undergraduate student majored in Agricultural and Environmental Science Communications.
 - **Nicholas Reikofski**: an undergraduate student majored in Agricultural Economics with a minor in Agronomy.
 - **Michael Meier**: now working as a scientist with [Rancho BioSciences](https://ranchobiosciences.com/).
