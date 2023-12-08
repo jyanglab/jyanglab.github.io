@@ -4,6 +4,10 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### Dec, 2023
+
+- Congratulations, Kahheetah Barnoskie, on obtaining her MS degree!
+
 ### April, 2023
 
 - Musa Ulutas won the 2nd place award for the short presentation at the Corteva-sponsored NE Plant Science Symposium! Congratulations and well done, Musa!  

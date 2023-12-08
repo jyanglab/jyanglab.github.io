@@ -178,7 +178,7 @@ Previously studied fungal infections of corn in Food Science Department at UNL.
 
 ## Lab Alumni
 
-- **Wensheng Ding* worked as a temp lab technician who obtained a MS degree from FDST at UNL.
+- **Wensheng Ding** worked as a temp lab technician who obtained a MS degree from FDST at UNL.
 - **Kahheetah Barnoskie** obtained a MS degree in the department of Ag/Hort, working on native corn.
 - **Cassie Palmer** rotated in the lab as Ph.D. student in the Complex Biosystems program with a keen interest in Space Ag.
 - **Semra Palali Delen**: obtained a PhD degree in the department of Ag&Hort.
