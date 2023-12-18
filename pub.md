@@ -48,7 +48,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2023
 
-Y. Zou, J. Wang, D. Peng, X. Zhang, L. R. Tembrock, __J. Yang__, J. Zhao, H. Liao, Z. Wu__Multi-integrated genomic data for Passiflora foetida provides insights into genome size evolution and floral development in Passiflora__, _Molecular Horticulture (accepted)_, 2023.  
+Y. Zou, J. Wang, D. Peng, X. Zhang, L. R. Tembrock, __J. Yang__, J. Zhao, H. Liao, Z. Wu, __Multi-integrated genomic data for Passiflora foetida provides insights into genome size evolution and floral development in Passiflora__, _Molecular Horticulture (accepted)_, 2023.  
 
 
 __Z. Yang__, T. Zhao, H. Cheng, and __J. Yang__, __Microbiome-enabled genomic selection improves prediction accuracy for nitrogen-related traits in maize__, _G3 (accepted)_, 2023.  
