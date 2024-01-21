@@ -5,8 +5,8 @@ title: AGRO/ANSCI 931 Population Genetics
 ---  
 
 
-- Fall 2022
-- **Location**: Animal Science __A228__
+- Spring 2024
+- **Location**: Animal Science __A128__
 - **Time**: 9:00-9:50am (MWF)
 - **Prerequisites**: STAT-801A or equivalent, or permission of the instructor(s).
 
@@ -27,17 +27,19 @@ title: AGRO/ANSCI 931 Population Genetics
 
 --------------------
 
-## Schedule Fall 2022
+## Schedule Spring 2024
 
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### **Week 1**: Allele and Genotype Frequencies (Ch1)
-- 08-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c1.html)]
-- 08-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c2.html)]
-- 08-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2022-agro931/week1/week1_c3.html)]
+- 01-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c1.html)]
+- 01-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c2.html)]
+- 01-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c3.html)]
 
 
 
+
+<!--
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
 - 08-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
   - __HW1__ assigned in Canvas (Due Friday morning)
@@ -122,8 +124,19 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 11/30 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
 - 12/02 (F): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 
-<!--
+### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
+- 12/05 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
+  - __HW5__ due today
+- 12/07 (W): GWAS wrap up and Q&A
+- 12/09 (F): 9:00-10:00am
+  - **Final exam**
 
+-->
+
+
+
+<!--
+2023 and before
 - 11/23 (W): Index selection [[HTML]()]
 
 ### **Ch.21**: Quantitative trait loci 
@@ -151,10 +164,4 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 12/07 (W): GWAS2 [[HTML]()]
 -->
 
-### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
-- 12/05 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
-  - __HW5__ due today
-- 12/07 (W): GWAS wrap up and Q&A
-- 12/09 (F): 9:00-10:00am
-  - **Final exam**
 
