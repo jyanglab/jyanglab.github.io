@@ -36,99 +36,96 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c2.html)]
 - 01-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c3.html)]
 
-
-
+### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
+- 01-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
+  - __HW1__ assignment in Canvas on Monday (Due Friday morning)
+- 01-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c2.html)]
+- 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
+  - __HW1__ Due today at 9AM!
 
 <!--
-### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
-- 08-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
-  - __HW1__ assigned in Canvas (Due Friday morning)
-- 08-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c2.html)]
-- 09-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
-  - __HW1__ Due today!
-
 ### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
-- 09-05 (M): No Class
-- 09-07 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
-- 09-09 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c3.html)]
+- 02-05 (M): No Class
+- 02-07 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
+- 02-09 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c3.html)]
 
 ### **Week 4**: Small Populations --- less simplified conditions (Ch4)
-- 09-12 (M): __Exam I__
-- 09-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
-- 09-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
+- 02-12 (M): __Exam I__
+- 02-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
+- 02-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
 
 ### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
-- 09-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
+- 02-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
   - __HW2__ assigned in Canvas!
-- 09-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c2.html)]
-- 09-23 (F): Dececting natural selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
+- 02-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c2.html)]
+- 02-23 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
 
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 09-26 (M): Pedigreed Population [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c1.html)]
+- 02-26 (M): Pedigreed Population [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c1.html)]
   - __HW2__ Due today!
-- 09-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
-- 09-30 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
+- 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
+- 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
   - __Journal article assigned for peer review__
 
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
-- 10-03 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
-- 10-05 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c2.html)]
-- 10-07 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
+- 03-04 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
+- 03-06 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c2.html)]
+- 03-08 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
 ### **Week 8**: Population values and means (Ch7)
-- 10/10 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
-- 10/12 (W): Breeding value, dominance, and interaction
+- 03/11 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
+- 03/13 (W): Breeding value, dominance, and interaction
 [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
   - __HW3__ assigned in Canvas (Due Next Wednesday morning)
-- 10/14 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c3.html)]
+- 03/15 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c3.html)]
 
 ### **Week 9**: Genetic components of variance (Ch8)
-- 10/17 (M): No Class [Enjoy your Fall Break!]
-- 10/19 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2022-agro931/week9/w9_c1.html)]
+- 03/18 (M): No Class [Enjoy your Fall Break!]
+- 03/20 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2022-agro931/week9/w9_c1.html)]
   - __HW3__ Due today!
-- 10/21 (F): __Exam II__
+- 03/22 (F): __Exam II__
 
 ### **Week 10**: Heritability and Resemblance between relatives (Ch8 & Ch9)
-- 10/24 (M): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c1.html)]
-- 10/26 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
-- 10/28 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
+- 03/25 (M): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c1.html)]
+- 03/27 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
+- 03/29 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
 
 ### **Week 11**: Heritability estimation (Ch10)
-- 10/31 (M): Estimation of heritability [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c1.html)]
+- 04/01 (M): Estimation of heritability [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c1.html)]
   - Notes in Canvas
   - __HW4__ assigned
-- 11/02 (W): Precision of estimates [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c2.html)]  
-- 11/04 (F): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c3.html)]
+- 04/03 (W): Precision of estimates [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c2.html)]  
+- 04/05 (F): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c3.html)]
 
 ### **Week 12**: Predicting response to selection (Ch11 & Ch12)
-- 11/07 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c1.html)]
+- 04/08 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c1.html)]
   - __HW4__ due today
-- 11/09 (W): Variability in response [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c2.html)]
-- 11/11 (F): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c3.html)]
+- 04/10 (W): Variability in response [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c2.html)]
+- 04/12 (F): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c3.html)]
   - No meeting, watching recorded class video
 
 ### **Week 13**: Selection: Empirical results and interpretation (Ch12 & Ch14)
-- 11/14 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
-- 11/16 (W): __Exam III__
-- 11/18 (F): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
+- 04/15 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
+- 04/17 (W): __Exam III__
+- 04/19 (F): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
 
 ### **Week 14**: Correlated traits (Ch19)
-- 11/21 (M): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
-- 11/23 (W): No Class (Student Holiday)
-- 11/25 (F): No Class and Happy Thanksgiving!
+- 04/22 (M): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
+- 04/24 (W): No Class (Student Holiday)
+- 04/26 (F): No Class and Happy Thanksgiving!
 
 ### **Week 15**: Correlated traits and Quantitative trait loci  (Ch19 & Ch21)
-- 11/28 (M): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
+- 04/29 (M): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
   - __HW5__ assigned
-- 11/30 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
-- 12/02 (F): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
+- 05/01 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
+- 05/03 (F): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 
 ### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
-- 12/05 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
+- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
   - __HW5__ due today
-- 12/07 (W): GWAS wrap up and Q&A
-- 12/09 (F): 9:00-10:00am
+- 05/08 (W): GWAS wrap up and Q&A
+- 05/10 (F): 9:00-10:00am
   - **Final exam**
 
 -->
