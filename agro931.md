@@ -37,16 +37,16 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c3.html)]
 
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
-- 01-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c1.html)]
+- 01-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c1.html)]
   - __HW1__ assignment in Canvas on Monday (Due Friday morning)
-- 01-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c2.html)]
-- 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
+- 01-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c2.html)]
+- 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
   - __HW1__ Due today at 9AM!
 
 ### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
 - 02-05 (M): Inbreeding [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c1.html)]
-- 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
-- 02-09 (F): Heterozygosity and Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week3_c3.html)]
+- 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c2.html)]
+- 02-09 (F): Heterozygosity and Diversity [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week3_c3.html)]
 
 <!--
 [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
@@ -56,12 +56,11 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-14 (W): 
 - 02-16 (F):  __Exam I__ 
 
-
 ### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
-- 02-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
+- 02-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c1.html)]
   - __HW2__ assigned in Canvas!
-- 02-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c2.html)]
-- 02-23 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c3.html)]
+- 02-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
+- 02-23 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
 
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
 - 02-26 (M): Pedigreed Population [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c1.html)]
