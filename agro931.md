@@ -43,16 +43,19 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2022-agro931/week2/week2_c3.html)]
   - __HW1__ Due today at 9AM!
 
-<!--
 ### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
-- 02-05 (M): No Class
-- 02-07 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
-- 02-09 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c3.html)]
+- 02-05 (M): Inbreeding [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c1.html)]
+- 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2022-agro931/week3/week3_c2.html)]
+- 02-09 (F): Heterozygosity and Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week3_c3.html)]
+
+<!--
+[[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
 
 ### **Week 4**: Small Populations --- less simplified conditions (Ch4)
-- 02-12 (M): __Exam I__
-- 02-14 (W): Heterozygosity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c2.html)]
-- 02-16 (F): Diversity [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
+- 02-12 (M): 
+- 02-14 (W): 
+- 02-16 (F):  __Exam I__ 
+
 
 ### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
 - 02-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2022-agro931/week5/week5_c1.html)]
