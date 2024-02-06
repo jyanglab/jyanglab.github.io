@@ -46,7 +46,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
 - 02-05 (M): Inbreeding [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c1.html)]
 - 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c2.html)]
-- 02-09 (F): Heterozygosity and Diversity [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week3_c3.html)]
+- 02-09 (F): Heterozygosity and Diversity [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c3.html)]
 
 <!--
 [[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
