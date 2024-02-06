@@ -17,10 +17,6 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 __E. Rodene__, Y. Ge, J. C. Schnable, __J. Yang__, __Machine learning-based tassel detection for time-series high throughput plant phenotyping__, _Authorea_, 2022.  
 [10.22541/au.166758437.77805912/v1](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
 
-
-
-
-
 Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yang__, I. Dweikat, __Dissecting the genetic architecture of sunflower head diameter using genome-wide association study__, _bioRxiv_, 2022.  
 [10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) 
 
@@ -61,7 +57,7 @@ __Z. Yang__, T. Zhao, H. Cheng, and __J. Yang__, __[Microbiome-enabled genomic s
 __S. Palali Delen__, J. Lee, __J. Yang__, __[Improving the metal composition of plants for reduced Cd and increased Zn content: molecular mechanisms and genetic regulations](https://rdcu.be/dp3Gy)__, _Cereal Research Communications_, 2023.  
 
 
-S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, __[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, _Molecular Biology and Evolution (accepted)_, 2023.  
+S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, __[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, _Molecular Biology and Evolution_, 2023.  
 
 
 T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, __[Hybrid allele-specific ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, _Genome Biology_, 2023.  
