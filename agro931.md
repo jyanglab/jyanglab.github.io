@@ -53,23 +53,22 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-14 (W): F-statistics [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week4_c2.html)]
 - 02-16 (F):  __Exam I__ 
 
+### **Week 5**: Neutrality test (Notes in Canvas and Ch5)
+- 02-19 (M): Neutral theory [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c1.html)]
+  - __HW2__ assigned in Canvas!
+- 02-21 (W): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
+- 02-23 (F): Pedigreed Population [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)] 
+  - __HW2__ Due today!
+  - __Journal article assigned for peer review__
 
 <!--
-[[HTML](https://jyanglab.com/slides/2022-agro931/week4/week4_c3.html)]
-
-### **Week 5**: Population Structure and Neutrality test (Notes in Canvas)
-- 02-19 (M): F-statistics [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c1.html)]
-  - __HW2__ assigned in Canvas!
-- 02-21 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
-- 02-23 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
-  - __HW2__ Due today!
-  
-### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 02-26 (M): Pedigreed Population [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c1.html)]
+ ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
+- 02-26 (M): 
 - 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
 - 03-01 (F): Maize Meeting
   - Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
-  - __Journal article assigned for peer review__
+
+
 
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 03-04 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
@@ -77,17 +76,18 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03-08 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
+
 ### **Week 8**: Population values and means (Ch7)
 - 03/11 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
+  - __HW3__ assigned in Canvas (Due Next Wednesday morning)
 - 03/13 (W): Breeding value, dominance, and interaction
 [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c2.html)]
-  - __HW3__ assigned in Canvas (Due Next Wednesday morning)
 - 03/15 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c3.html)]
+  - __HW3__ Due today!
 
 ### **Week 9**: Genetic components of variance (Ch8)
 - 03/18 (M): No Class [Enjoy your Fall Break!]
 - 03/20 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2022-agro931/week9/w9_c1.html)]
-  - __HW3__ Due today!
 - 03/22 (F): __Exam II__
 
 ### **Week 10**: Heritability and Resemblance between relatives (Ch8 & Ch9)
