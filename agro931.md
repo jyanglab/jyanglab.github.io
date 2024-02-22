@@ -57,18 +57,16 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-19 (M): Neutral theory [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c1.html)]
   - __HW2__ assigned in Canvas!
 - 02-21 (W): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
-- 02-23 (F): Pedigreed Population [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)] 
+- 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
   - __HW2__ Due today!
-  - __Journal article assigned for peer review__
+  - __Journal article assigned for peer review (due in two weeks)__
 
 <!--
  ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 02-26 (M): 
+- 02-26 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week1_c3.html)]
 - 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
-- 03-01 (F): Maize Meeting
-  - Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
-
-
+- 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
+  - Maize Meeting
 
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 03-04 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
