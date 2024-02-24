@@ -43,7 +43,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
   - __HW1__ Due today at 9AM!
 
-### **Week 3**: Small Populations --- simplified conditions (Ch3 & Ch4)
+### **Week 3**: Small Populations --- Simplified Conditions (Ch3 & Ch4)
 - 02-05 (M): Inbreeding [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c1.html)]
 - 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c2.html)]
 - 02-09 (F): Heterozygosity [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c3.html)]
@@ -53,7 +53,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-14 (W): F-statistics [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week4_c2.html)]
 - 02-16 (F):  __Exam I__ 
 
-### **Week 5**: Neutrality test (Notes in Canvas and Ch5)
+### **Week 5**: Neutrality Test (Notes in Canvas)
 - 02-19 (M): Neutral theory [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c1.html)]
   - __HW2__ assigned in Canvas!
 - 02-21 (W): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
@@ -61,13 +61,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW2__ Due today!
   - __Journal article assigned for peer review (due in two weeks)__
 
-<!--
- ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 02-26 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week1_c3.html)]
-- 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c2.html)]
-- 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2022-agro931/week6/week6_c3.html)]
-  - Maize Meeting
+### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
+- 02-26 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c1.html)]
+- 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c2.html)]
+- 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c3.html)]
+  - Watch recorded video in Canvas
 
+<!--
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 03-04 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
 - 03-06 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c2.html)]
