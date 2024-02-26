@@ -67,6 +67,20 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c3.html)]
   - Watch recorded video in Canvas
 
+### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
+- 03-04 (M):
+- 03-06 (W):
+- 03-08 (F): 
+  - __Peer review due__
+
+### **Week 8**: No class
+- Enjoy Spring Break! 
+
+### **Week 9**: Population values and means (Ch7)
+- 03/18 (M):
+- 03/20 (W):
+- 03/22 (F): __Exam II__
+
 <!--
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 03-04 (M): Statistical Foundations [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c1.html)]
