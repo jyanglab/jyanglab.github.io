@@ -70,7 +70,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 03-04 (M): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
 - 03-06 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
-- 03-08 (F): Journal Review Discussion [[HTML]()]
+- 03-08 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
 ### **Week 8**: No class
