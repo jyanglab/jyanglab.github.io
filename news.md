@@ -4,6 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### March, 2024
+
+- Jinliang is presenting a poster at the Annual Maize Genetics Meeting in Raleigh, NC.
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/B9Yc48Q.png">
+</p>
+
 ### Dec, 2023
 
 - Congratulations, Kahheetah Barnoskie, on obtaining her MS degree!

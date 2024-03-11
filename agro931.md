@@ -77,18 +77,11 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - Enjoy Spring Break! 
 
 ### **Week 9**: Population values and means (Ch7)
-- 03/18 (M):
-- 03/20 (W):
-- 03/22 (F): __Exam II__
+- 03/18 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c1.html)]
+- 03/20 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c2.html)]
+- 03/22 (F): __Exam II__ (take home)
 
 <!--
-### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
-- 03-04 (M): 
-- 03-06 (W): 
-- 03-08 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2022-agro931/week7/week7_c3.html)]
-  - __Peer review due__
-
-
 ### **Week 8**: Population values and means (Ch7)
 - 03/11 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2022-agro931/week8/week8_c1.html)]
   - __HW3__ assigned in Canvas (Due Next Wednesday morning)
