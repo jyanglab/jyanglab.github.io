@@ -129,15 +129,30 @@ __J. Yang__, S. Chen, ",
 
 ### 2024
 
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__H. Jin__, M. C. Tross, R. Tan, L. Newton, R. V. Mural, __J. Yang__, A. M. Thompson, J. C. Schnable, ",
+"__[Imitating the ‘breeder’s eye’: predicting grain yield from measurements of non-yield traits]()__, ",
+"_The Plant Phenome Journal (accepted)_, 2024.  \n",
+"[Preprint](https://doi.org/10.1101/2023.11.29.568906) ",
+"| [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  ",
+"| [Data](https://doi.org/10.6084/m9.figshare.25432378.v1)"
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "X. He, D. Wang, Y. Jiang, M. Li, M. Delgado-Baquerizo, C. McLaughlin, C. Marcon, M. Baer, L. Guo, Y. A.T. Moya, N. von Wiren, M. Deichmann, G. Schaaf, H.-P. Piepho, __Z. Yang__, __J. Yang__, B. Yim, K. Smalla, S. Goormachtig, F. T. de Vries, H. Huging, R. J. H. Sawers, J. C. Reif, F. Hochholdinger, X. Chen, P. Yu, ",
-"__Heritable microbiome variation is correlated with source environment in locally adapted maize varieties__, ",
-"_Nature Plants (accepted)_, 2024.  \n",
-"[Preprint](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v1) ",
-"| [GitHub]()  "
+"__[Heritable microbiome variation is correlated with source environment in locally adapted maize varieties](https://www.nature.com/articles/s41477-024-01654-7)__, ",
+"_Nature Plants_, 2024.  \n",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v2) ",
+"| [GitHub](https://github.com/Danning16/MaizeMicrobiome2022)  ",
+"| [Data: BioProject ID PRJNA889703](https://www.ncbi.nlm.nih.gov/sra)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
