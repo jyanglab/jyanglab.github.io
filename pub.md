@@ -7,15 +7,13 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 20 ], i10-Index [ 27 ], and total citations [ 1925 ] as of Mar, 2024.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 20 ], i10-Index [ 27 ], and total citations [ 1926 ] as of Mar, 2024.
 
 ### Preprints
 
 
 
 
-__E. Rodene__, Y. Ge, J. C. Schnable, __J. Yang__, __Machine learning-based tassel detection for time-series high throughput plant phenotyping__, _Authorea_, 2022.  
-[10.22541/au.166758437.77805912/v1](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
 
 Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yang__, I. Dweikat, __Dissecting the genetic architecture of sunflower head diameter using genome-wide association study__, _bioRxiv_, 2022.  
 [10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) 
@@ -39,6 +37,10 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 [10.1101/2020.09.08.287672](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
 
 ### 2024
+
+
+__E. Rodene__, G. D. Fernando, V. Piyush, Y. Ge, J. C. Schnable, S. Ghosh, __J. Yang__, __[Image filtering to improve maize tassel detection accuracy using machine learning algorithms]()__, _Sensors_, 2024.  
+[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
 
 __H. Jin__, M. C. Tross, R. Tan, L. Newton, R. V. Mural, __J. Yang__, A. M. Thompson, J. C. Schnable, __[Imitating the ‘breeder’s eye’: predicting grain yield from measurements of non-yield traits]()__, _The Plant Phenome Journal (accepted)_, 2024.  
 [Preprint](https://doi.org/10.1101/2023.11.29.568906) | [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  | [Data](https://doi.org/10.6084/m9.figshare.25432378.v1)
@@ -201,7 +203,7 @@ __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S.
 [Github](https://github.com/schnablelab/XP-GWAS) | [112 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__, _Nature Genetics_, 2015.  
-[390 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[391 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
 [97 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
