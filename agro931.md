@@ -88,15 +88,18 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03/29 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)]
   - __HW3__ assigned in Canvas!
 
-<!--
-### **Week 11**: Heritability and Resemblance between relatives (Ch8 & Ch9)
-- 03/25 (M): 
-- 03/27 (W): Genetic covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c2.html)]
-- 03/29 (F): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2022-agro931/week10/w10_c3.html)]
+
+### **Week 11**: Heritability and Resemblance between relatives (Ch9)
+- 03/25 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)]
+- 03/27 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]
+ - No in-person class, watch recorded video in Canvas
+- 03/29 (F): Estimation of heritability [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c3.html)]
  - __HW3__ Due today!
 
+
+<!--
 ### **Week 12**: Heritability estimation (Ch10)
-- 04/01 (M): Estimation of heritability [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c1.html)]
+- 04/01 (M): 
   - Notes in Canvas
   - __HW4__ assigned
 - 04/03 (W): Precision of estimates [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c2.html)]  
