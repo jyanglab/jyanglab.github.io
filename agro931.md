@@ -82,11 +82,11 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03/22 (F): __Exam II__ (take home)
 
 ### **Week 10**: Genetic components of variance (Ch8)
-- 03/25 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]
-  - __Exam II__ (Due today)
-- 03/27 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)]
-- 03/29 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)]
-  - __HW3__ assigned in Canvas!
+- 03/25 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
+   - __Exam II__ (Due today)
+- 03/27 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)]. 
+- 03/29 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)]. 
+   - __HW3__ assigned in Canvas!
 
 <!--
 ### **Week 11**: Heritability and Resemblance between relatives (Ch8 & Ch9)
