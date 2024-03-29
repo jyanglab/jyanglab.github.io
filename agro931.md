@@ -89,7 +89,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW3__ assigned in Canvas!
 
 
-### **Week 11**: Heritability and Resemblance between relatives (Ch9)
+### **Week 11**: Heritability and resemblance between relatives (Ch9)
 - 04/01 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)] 
 - 04/03 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]
   - No in-person class, watch recorded video in Canvas
