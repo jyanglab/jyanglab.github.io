@@ -83,18 +83,18 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 10**: Genetic components of variance (Ch8)
 - 03/25 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
-   - __Exam II__ (Due today)
+  - __Exam II__ (Due today)
 - 03/27 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)]. 
 - 03/29 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)]. 
-   - __HW3__ assigned in Canvas!
+  - __HW3__ assigned in Canvas!
 
 
 ### **Week 11**: Heritability and Resemblance between relatives (Ch9)
-- 03/25 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)]
-- 03/27 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]
- - No in-person class, watch recorded video in Canvas
-- 03/29 (F): Estimation of heritability [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c3.html)]
- - __HW3__ Due today!
+- 04/01 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)]. 
+- 04/03 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]. 
+  - No in-person class, watch recorded video in Canvas
+- 04/05 (F): Estimation of heritability [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c3.html)]. 
+  - __HW3__ Due today!
 
 
 <!--
