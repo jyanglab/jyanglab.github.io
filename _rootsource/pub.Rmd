@@ -122,7 +122,7 @@ __J. Yang__, S. Chen, ",
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__E. Rodene__, G. D. Fernando, V. Piyush, Y. Ge, J. C. Schnable, S. Ghosh, __J. Yang__, ",
-"__[Image filtering to improve maize tassel detection accuracy using machine learning algorithms]()__, ",
+"__[Image filtering to improve maize tassel detection accuracy using machine learning algorithms](https://www.mdpi.com/1424-8220/24/7/2172)__, ",
 "_Sensors_, 2024.  \n",
 "[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
