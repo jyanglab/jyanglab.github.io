@@ -97,14 +97,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW3__ Due today!
 
 ### **Week 12**: Heritability estimation (Ch10)
-- 04/08 (M): Precision of estimates [[HTML]()]
-- 04/10 (W): Examples for h2 estimation [[HTML]()]  
+- 04/08 (M): Precision of estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c1.html)]
+- 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c2.html)]  
 - 04/12 (F): A hands-on session for h2 estimation [[HTML]]()
   - __HW4__ assigned in Canvas!
 
 
 <!--
-- 04/08 (M): Precision of estimates [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c2.html)]
+- 04/08 (M): Precision of estimates [[HTML]()]
 - 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c3.html)]  
 - 04/12 (F): A hands-on session for h2 estimation [[HTML]]()
 

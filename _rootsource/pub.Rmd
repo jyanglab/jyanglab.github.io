@@ -20,7 +20,6 @@ bob <- get_profile(myid)
 cat(paste0("__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ ", bob$h_index, 
 " ], i10-Index [ ", bob$i10_index, " ], and total citations [ ", bob$total_cites, " ] as of ", format(Sys.time(), "%b, %Y"), ".\n"))
 
-
 bob <- get_publications(myid)
 #file <- "data/gs_cites.txt"
 #if(file.exists(file)){
