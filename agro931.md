@@ -99,22 +99,17 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 12**: Heritability estimation (Ch10)
 - 04/08 (M): Precision of estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c1.html)]
 - 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c2.html)]  
-- 04/12 (F): A hands-on session for h2 estimation [[HTML]]()
+- 04/12 (F): The breeder's equation [[HTML]()]
   - __HW4__ assigned in Canvas!
+
+### **Week 13**: Predicting response to selection (Ch11 & Ch12)
+- 04/15 (M): Variability in response [[HTML]()]
+- 04/17 (W): Asymmetry of responses [[HTML]()]
+- 04/19 (F): Long-term results [[HTML]()]
+  - __HW4__ due today and __Exam III__ (take-home)
 
 
 <!--
-- 04/08 (M): Precision of estimates [[HTML]()]
-- 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2022-agro931/week11/w11_c3.html)]  
-- 04/12 (F): A hands-on session for h2 estimation [[HTML]]()
-
-### **Week 13**: Predicting response to selection (Ch11 & Ch12)
-- 04/08 (M): The breeder's equation [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c1.html)]
-  - __HW4__ due today
-- 04/10 (W): Variability in response [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c2.html)]
-- 04/12 (F): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2022-agro931/week12/w12_c3.html)]
-  - No meeting, watching recorded class video
-
 ### **Week 14**: Selection: Empirical results and interpretation (Ch12 & Ch14)
 - 04/15 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
 - 04/17 (W): __Exam III__
