@@ -108,7 +108,6 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/19 (F): Long-term results [[HTML]()]
   - __HW4__ due today and __Exam III__ (take-home)
 
-
 <!--
 ### **Week 14**: Selection: Empirical results and interpretation (Ch12 & Ch14)
 - 04/15 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
