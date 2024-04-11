@@ -99,7 +99,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 12**: Heritability estimation (Ch10 & Ch11)
 - 04/08 (M): Precision of estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c1.html)]
 - 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c2.html)]  
-- 04/12 (F): The breeder's equation [[HTML]()]
+- 04/12 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c3.html)]
   - __HW4__ assigned in Canvas!
 
 ### **Week 13**: Predicting response to selection (Ch11 & Ch12)
