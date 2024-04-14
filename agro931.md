@@ -102,28 +102,28 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/12 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c3.html)]
   - __HW4__ assigned in Canvas!
 
-### **Week 13**: Predicting response to selection (Ch11 & Ch12)
-- 04/15 (M): Variability in response [[HTML]()]
-- 04/17 (W): Asymmetry of responses [[HTML]()]
-- 04/19 (F): Long-term results [[HTML]()]
+### **Week 13**: Predicting response to selection and interpretation (Ch11 & Ch12)
+- 04/15 (M): Variability in response [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c1.html)]
+- 04/17 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c2.html)]
+- 04/19 (F): Long-term results [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c3.html)]
   - __HW4__ due today and __Exam III__ (take-home)
 
 <!--
-### **Week 14**: Selection: Empirical results and interpretation (Ch12 & Ch14)
-- 04/15 (M): Long-term results [[HTML](https://jyanglab.com/slides/2022-agro931/week13/week13_c1.html)]
-- 04/17 (W): __Exam III__
-- 04/19 (F): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
-
+### **Week 14**: Heterosis and correlated traits (Ch14)
+- 04/15 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
+- 04/17 (W): 
+- 04/19 (F): 
+   - __HW5__ assigned
+   
 ### **Week 15**: Correlated traits (Ch19)
 - 04/22 (M): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
-- 04/24 (W): No Class (Student Holiday)
-- 04/26 (F): No Class and Happy Thanksgiving!
+- 04/24 (W): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
+- 04/26 (F): 
 
-### **Week 16**: Correlated traits and Quantitative trait loci  (Ch19 & Ch21)
-- 04/29 (M): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
-  - __HW5__ assigned
-- 05/01 (W): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
-- 05/03 (F): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
+### **Week 16**: Quantitative trait loci  (Ch19 & Ch21)
+- 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
+- 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
+- 05/03 (F): QTL simulation study
 
 ### **Week 17**: Genome-wide association study  (Reading Materials in Canvas)
 - 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
