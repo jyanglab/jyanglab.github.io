@@ -109,32 +109,25 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW4__ due today and __Exam III__ (take-home)
 
 <!--
-### **Week 14**: Heterosis and correlated traits (Ch14)
-- 04/15 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
-- 04/17 (W): 
-- 04/19 (F): 
+### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
+- 04/22 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
+- 04/24 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
+- 04/26 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
    - __HW5__ assigned
    
-### **Week 15**: Correlated traits (Ch19)
-- 04/22 (M): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
-- 04/24 (W): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
-- 04/26 (F): 
-
-### **Week 16**: Quantitative trait loci  (Ch19 & Ch21)
+### **Week 15**: Quantitative trait loci  (Ch21)
 - 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 - 05/03 (F): QTL simulation study
-
-### **Week 17**: Genome-wide association study  (Reading Materials in Canvas)
-- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
   - __HW5__ due today
+
+### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
+- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
 - 05/08 (W): GWAS wrap up and Q&A
 - 05/10 (F): 9:00-10:00am
   - **Final exam**
 
 -->
-
-
 
 <!--
 2023 and before
