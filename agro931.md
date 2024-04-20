@@ -108,7 +108,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/19 (F): Long-term results [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c3.html)]
   - __HW4__ due today and __Exam III__ (take-home)
 
-<!--
+
+### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
+- 04/22 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c1.html)]
+- 04/24 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c2.html)]
+- 04/26 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c3.html)]
+   - __HW5__ assigned in Canvas!
+
+<!--   
 ### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
 - 04/22 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
 - 04/24 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
