@@ -116,12 +116,6 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
    - __HW5__ assigned in Canvas!
 
 <!--   
-### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
-- 04/22 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2022-agro931/week13/w13_c3.html)]
-- 04/24 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2022-agro931/week14/w14_c1.html)]
-- 04/26 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15_c1.html)]
-   - __HW5__ assigned
-   
 ### **Week 15**: Quantitative trait loci  (Ch21)
 - 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
