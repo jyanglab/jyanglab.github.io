@@ -115,8 +115,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/26 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c3.html)]
    - __HW5__ assigned in Canvas!
 
+### **Week 15**: Quantitative trait loci (QTL) and GWAS (Ch21)
+- 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c1.html)]
+  - No in-person class, watch recorded video in Canvas
+- 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c2.html)]
+- 05/03 (F): GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/week15_c3.html)]
+  - __HW5__ due today
+  
 <!--   
-### **Week 15**: Quantitative trait loci  (Ch21)
+### **Week 15**: Quantitative trait loci (QTL) and genome-wide association study (GWAS) (Ch21)
 - 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c2.html)]
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 - 05/03 (F): QTL simulation study
