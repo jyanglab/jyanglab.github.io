@@ -119,7 +119,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c1.html)]
   - No in-person class, watch recorded video in Canvas
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c2.html)]
-- 05/03 (F): QTL and GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/week15_c3.html)]
+- 05/03 (F): QTL and GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c3.html)]
   - __HW5__ due today
   
 <!--   
