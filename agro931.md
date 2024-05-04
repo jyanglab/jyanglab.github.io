@@ -121,6 +121,12 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c2.html)]
 - 05/03 (F): QTL and GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c3.html)]
   - __HW5__ due today
+
+### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
+- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
+- 05/08 (W): GWAS wrap up and Q&A
+- 05/10 (F): 9:00-10:00am
+  - **Final exam (take-home)**
   
 <!--   
 ### **Week 15**: Quantitative trait loci (QTL) and genome-wide association study (GWAS) (Ch21)
@@ -128,12 +134,6 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2022-agro931/week15/w15-c3.html)]
 - 05/03 (F): QTL simulation study
   - __HW5__ due today
-
-### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
-- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2022-agro931/week16/week16_gwas.html)]
-- 05/08 (W): GWAS wrap up and Q&A
-- 05/10 (F): 9:00-10:00am
-  - **Final exam**
 
 -->
 
