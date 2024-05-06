@@ -125,8 +125,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 16**: Genome-wide association study  (Reading Materials in Canvas)
 - 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
 - 05/08 (W): GWAS wrap up and Q&A
-- 05/10 (F): 9:00-10:00am
-  - **Final exam (take-home)**
+- 05/10 (F): **Final exam (take-home)**
   
 <!--   
 ### **Week 15**: Quantitative trait loci (QTL) and genome-wide association study (GWAS) (Ch21)
