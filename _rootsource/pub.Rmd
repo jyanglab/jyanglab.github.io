@@ -52,18 +52,7 @@ cat(paste0(
 ```
 
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"Q. Zhang, __Z. Yang__, __J. Yang__, ",
-"__MedDiC: high dimensional mediation analysis via difference in coefficients__, ",
-"_bioRxiv_, 2022.  \n",
-"[10.1101/2022.09.08.507169](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
+
 
 
 
@@ -112,6 +101,19 @@ __J. Yang__, S. Chen, ",
 
 ### 2024
 
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"Q. Zhang, __Z. Yang__, __J. Yang__, ",
+"__Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, ",
+"_Biometrics (accepted)_, 2024.  \n",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) ",
+"| [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
@@ -119,7 +121,7 @@ cat(paste0(
 "__E. Rodene__, G. D. Fernando, V. Piyush, Y. Ge, J. C. Schnable, S. Ghosh, __J. Yang__, ",
 "__[Image filtering to improve maize tassel detection accuracy using machine learning algorithms](https://www.mdpi.com/1424-8220/24/7/2172)__, ",
 "_Sensors_, 2024.  \n",
-"[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) "
+"[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912)"
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"

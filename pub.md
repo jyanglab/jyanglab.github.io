@@ -15,8 +15,7 @@ Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yan
 [10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) 
 
 
-Q. Zhang, __Z. Yang__, __J. Yang__, __MedDiC: high dimensional mediation analysis via difference in coefficients__, _bioRxiv_, 2022.  
-[10.1101/2022.09.08.507169](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) 
+
 
 
 
@@ -34,9 +33,11 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2024
 
+Q. Zhang, __Z. Yang__, __J. Yang__, __Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, _Biometrics (accepted)_, 2024.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) | [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  
 
 __E. Rodene__, G. D. Fernando, V. Piyush, Y. Ge, J. C. Schnable, S. Ghosh, __J. Yang__, __[Image filtering to improve maize tassel detection accuracy using machine learning algorithms](https://www.mdpi.com/1424-8220/24/7/2172)__, _Sensors_, 2024.  
-[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912) 
+[Preprint](https://www.authorea.com/doi/full/10.22541/au.166758437.77805912)
 
 __H. Jin__, M. C. Tross, R. Tan, L. Newton, R. V. Mural, __J. Yang__, A. M. Thompson, J. C. Schnable, __[Imitating the ‘breeder’s eye’: predicting grain yield from measurements of non-yield traits]()__, _The Plant Phenome Journal (accepted)_, 2024.  
 [Preprint](https://doi.org/10.1101/2023.11.29.568906) | [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  | [Data](https://doi.org/10.6084/m9.figshare.25432378.v1)
