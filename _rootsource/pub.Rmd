@@ -104,7 +104,7 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
-"__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao__, ",
+"__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao, ",
 "__[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, ",
 "_Plant Communications_, 2024.  \n",
 "[Web-based tool]( http://trg2p.ebreed.cn:81) ",
