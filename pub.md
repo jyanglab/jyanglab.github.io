@@ -33,7 +33,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2024
 
-__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao__, __[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, _Plant Communications_, 2024.  
+__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao, __[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, _Plant Communications_, 2024.  
 [Web-based tool]( http://trg2p.ebreed.cn:81) | [GitHub](https://github.com/lijinlong1991/TrG2P)  
 
 Q. Zhang, __Z. Yang__, __J. Yang__, __Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, _Biometrics (accepted)_, 2024.  
