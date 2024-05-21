@@ -104,6 +104,20 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao__, ",
+"__[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, ",
+"_Plant Communications_, 2024.  \n",
+"[Web-based tool]( http://trg2p.ebreed.cn:81) ",
+"| [GitHub](https://github.com/lijinlong1991/TrG2P)  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "Q. Zhang, __Z. Yang__, __J. Yang__, ",
 "__Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, ",
 "_Biometrics (accepted)_, 2024.  \n",
@@ -132,8 +146,8 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__H. Jin__, M. C. Tross, R. Tan, L. Newton, R. V. Mural, __J. Yang__, A. M. Thompson, J. C. Schnable, ",
-"__[Imitating the ‘breeder’s eye’: predicting grain yield from measurements of non-yield traits]()__, ",
-"_The Plant Phenome Journal (accepted)_, 2024.  \n",
+"__[Imitating the ‘breeder’s eye’: predicting grain yield from measurements of non-yield traits](https://doi.org/10.1002/ppj2.20102)__, ",
+"_The Plant Phenome Journal_, 2024.  \n",
 "[Preprint](https://doi.org/10.1101/2023.11.29.568906) ",
 "| [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  ",
 "| [Data](https://doi.org/10.6084/m9.figshare.25432378.v1)"
