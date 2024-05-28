@@ -4,6 +4,11 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### May, 2024
+
+- Congratulations to Musa Ulutas, Zhikai Yang, and Hongyu Jin on obtaining their Ph.D. degrees.
+
+
 ### March, 2024
 
 - Jinliang is presenting a poster at the Annual Maize Genetics Meeting in Raleigh, NC.
