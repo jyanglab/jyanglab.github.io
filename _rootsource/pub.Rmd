@@ -120,8 +120,8 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "Q. Zhang, __Z. Yang__, __J. Yang__, ",
-"__Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, ",
-"_Biometrics (accepted)_, 2024.  \n",
+"__[Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders](https://doi.org/10.1093/biomtc/ujae050)__, ",
+"_Biometrics_, 2024.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) ",
 "| [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",

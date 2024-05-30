@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 21 ], i10-Index [ 28 ], and total citations [ 2023 ] as of May, 2024.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 21 ], i10-Index [ 28 ], and total citations [ 2024 ] as of May, 2024.
 
 ### Preprints
 
@@ -36,7 +36,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 __J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao, __[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, _Plant Communications_, 2024.  
 [Web-based tool]( http://trg2p.ebreed.cn:81) | [GitHub](https://github.com/lijinlong1991/TrG2P)  
 
-Q. Zhang, __Z. Yang__, __J. Yang__, __Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders__, _Biometrics (accepted)_, 2024.  
+Q. Zhang, __Z. Yang__, __J. Yang__, __[Dissecting the colocalized GWAS and eQTLs with mediation analysis for high dimensional exposures and confounders](https://doi.org/10.1093/biomtc/ujae050)__, _Biometrics_, 2024.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.08.507169v1) | [GitHub](https://github.com/JIN-HY/SBEyieldprediction)  
 
 __E. Rodene__, G. D. Fernando, V. Piyush, Y. Ge, J. C. Schnable, S. Ghosh, __J. Yang__, __[Image filtering to improve maize tassel detection accuracy using machine learning algorithms](https://www.mdpi.com/1424-8220/24/7/2172)__, _Sensors_, 2024.  
@@ -187,7 +187,7 @@ H.-Y. Lin, Q. Liu, X. Li, __J. Yang__, S. Liu, Y. Huang, M. J. Scanlon, D. Nettl
 [55 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1407813314092538070&as_sdt=5)
 
 __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMullen, R. H. Mumm, J. Ross-Ibarra, __[Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019)__, *PLOS Genetics*, 2017.  
-[Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [139 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/early/2017/06/09/086132) | [Github](https://github.com/yangjl/GERP-diallel) | [140 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986799122751558384&as_sdt=5)
 
 Z. Dong, W. Li, E. Unger-Wallace, __J. Yang__, E. Vollbrecht, G. S. Chuck., __[Ideal crop plant architecture is mediated by tassels replace upper ears1, a BTB/POZ ankyrin repeat gene 5 targeted by TEOSINTE BRANCHED1](http://www.pnas.org/content/early/2017/09/26/1714960114.short)__, *PNAS*, 2017.   
 [93 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931358203166483013&as_sdt=5)
