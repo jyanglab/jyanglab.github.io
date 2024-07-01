@@ -54,20 +54,23 @@ __H. Jin__, M. C. Tross, R. Tan, L. Newton, R. V. Mural, __J. Yang__, A. M. Thom
 X. He, D. Wang, Y. Jiang, M. Li, M. Delgado-Baquerizo, C. McLaughlin, C. Marcon, M. Baer, L. Guo, Y. A.T. Moya, N. von Wiren, M. Deichmann, G. Schaaf, H.-P. Piepho, __Z. Yang__, __J. Yang__, B. Yim, K. Smalla, S. Goormachtig, F. T. de Vries, H. Huging, R. J. H. Sawers, J. C. Reif, F. Hochholdinger, X. Chen, P. Yu, __[Heritable microbiome variation is correlated with source environment in locally adapted maize varieties](https://www.nature.com/articles/s41477-024-01654-7)__, _Nature Plants_, 2024.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v2) | [GitHub](https://github.com/Danning16/MaizeMicrobiome2022)  | [Data: BioProject ID PRJNA889703](https://www.ncbi.nlm.nih.gov/sra)
 
+__Z. Yang__, T. Zhao, H. Cheng, and __J. Yang__, __[Microbiome-enabled genomic selection improves prediction accuracy for nitrogen-related traits in maize](https://doi.org/10.1093/g3journal/jkad286)__, _G3_, 2023.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.03.530932v3) | [GitHub](https://github.com/ZhikaiYang/GP_microbiome)  
+
 ### 2023
 
 Y. Zou, J. Wang, D. Peng, X. Zhang, L. R. Tembrock, __J. Yang__, J. Zhao, H. Liao, Z. Wu, __[Multi-integrated genomic data for Passiflora foetida provides insights into genome size evolution and floral development in Passiflora](https://link.springer.com/article/10.1186/s43897-023-00076-x)__, _Molecular Horticulture_, 2023.  
 [Data](https://ngdc.cncb.ac.cn)
 
 
-__Z. Yang__, T. Zhao, H. Cheng, and __J. Yang__, __[Microbiome-enabled genomic selection improves prediction accuracy for nitrogen-related traits in maize](https://doi.org/10.1093/g3journal/jkad286)__, _G3_, 2023.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.03.530932v3) | [GitHub](https://github.com/ZhikaiYang/GP_microbiome)  
+
 
 
 __S. Palali Delen__, J. Lee, __J. Yang__, __[Improving the metal composition of plants for reduced Cd and increased Zn content: molecular mechanisms and genetic regulations](https://rdcu.be/dp3Gy)__, _Cereal Research Communications_, 2023.  
 
 
 S. Sun, B. Wang, C. Li, __G. Xu__, __J. Yang__, M. B. Hufford, J. Ross-Ibarra, H. Wang, L. Wang, __[Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://doi.org/10.1093/molbev/msad170)__, _Molecular Biology and Evolution_, 2023.  
+[1 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930901947040544584&as_sdt=5)
 
 
 T. Hartwig, M. Banf, G. Passaia Prietsch, __J. Yang__, J. Engelhorn, Z. Wang, __[Hybrid allele-specific ChIP-Seq analysis links variation in transcription factor binding to traits in maize](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02909-w)__, _Genome Biology_, 2023.  
@@ -88,7 +91,7 @@ M. W. Grzybowski,  R. V. Mural,  __G. Xu__, J. Turkus,  __J. Yang__, J. C. Schna
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.10.28.514203v1) | [CyVerse](https://datacommons.cyverse.org/browse/iplant/home/shared/Grzybowski_MaizeSNPset_2022) | [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h4f1) | [15 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2219072950747194716&as_sdt=5)
 
 __S. Palali Delen__, __G. Xu__, __J. Velazquez-Perfecto__, __J. Yang__, __[Estimating the genetic parameters of yield-related traits under different nitrogen conditions in maize](https://doi.org/10.1093/genetics/iyad012)__, _Genetics_, 2023.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) | [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) 
+[Preprint](https://www.biorxiv.org/content/10.1101/2022.08.05.502993v1) | [GitHub](https://github.com/jyanglab/Genetics-parameters-for-N-related-traits) | [2 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3826846081144838821&as_sdt=5)
 
 D. Li, D. Bai, Y. Tian, Y. Li, C. Zhao, Q. Wang, S. Gou, Y. Gu, X. Luan, R. Wang, __J. Yang__, M. J. Hawkesford, J. C. Schnable, X. Jin, L. Qiu, __[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean](https://doi.org/10.1111/jipb.13380)__, _Journal of Integrative Plant Biology_, 2023.  
 [Data](http://onlinelibrary.wiley.com/doi/10.1111/jipb.13380/suppinfo) | [13 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8054685718312760915&as_sdt=5)
