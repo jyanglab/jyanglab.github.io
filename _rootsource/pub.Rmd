@@ -105,10 +105,40 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"D. Li, Q. Wang, Y. Tian, X. Lyv, H. Zhang, H. Hong, H. Gao, Y.-F. Li, C. Zhao, J. Wang, R. Wang, __J. Yang__, B. Liu, P. S. Schnable, J. C. Schnable, Y.-H. Li, L.-J. Qi, ",
+"__[TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean](https://doi.org/10.1016/j.xplc.2024.101010)__, ",
+"_Plant Communications_, 2024.  \n",
+"[Data](https://bigd.big.ac.cn/gsa/index.jsp) ",
+"| [Figshare](https://figshare.com/s/811b3ef0dfc6cba0a167) ",
+"| [GitHub](https://github.com/DelinLi/TWAS_Soy)  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__Z. Yang__, Q. Zhang, __J. Yang__,  ",
+"__[High dimensional mediation analysis for causal inference]()__, ",
+"_Bio-Protocol_, 2024.  \n",
+#"[Data](https://bigd.big.ac.cn/gsa/index.jsp) ",
+#"| [Figshare](https://figshare.com/s/811b3ef0dfc6cba0a167) ",
+"[GitHub](https://github.com/jyanglab/Workflow-for-Genome-wide-Mediation-Analysis)  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "__J. Li__, D. Zhang, F. Yang, Q. Zhang, S.i Pan, X. Zhao, Q. Zhang, Y. Han, __J. Yang__, K. Wang, C. Zhao, ",
 "__[TrG2P: A transfer learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://doi.org/10.1016/j.xplc.2024.100975)__, ",
 "_Plant Communications_, 2024.  \n",
-"[Web-based tool]( http://trg2p.ebreed.cn:81) ",
+"[Web-based tool](http://trg2p.ebreed.cn:81) ",
 "| [GitHub](https://github.com/lijinlong1991/TrG2P)  "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
