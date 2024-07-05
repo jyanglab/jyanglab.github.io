@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 21 ], i10-Index [ 29 ], and total citations [ 2076 ] as of Jul, 2024.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 21 ], i10-Index [ 29 ], and total citations [ 2077 ] as of Jul, 2024.
 
 ### Preprints
 
@@ -32,6 +32,10 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 [10.1101/2020.09.08.287672](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
 
 ### 2024
+
+X. Wei, M. Chen, Q. Zhang, J. Gong, J. Liu, K. Yong, Q. Wang, J. Fan, S. Chen, H. Hua, Z. Luo, X. Zhao, X. Wang, W. Li, J. Cong, X. Yu, Z. Wang, R. Huang, J. Chen, X. Zhou, J. Qiu, P. Xu, J. Murray, H. Wang, Y. Xu, C. Xu, __G. Xu__, __J. Yang__, B. Han, X. Huang, __[Genomic investigation of 18,421 lines reveals the genetic architecture of rice](https://www.science.org/doi/10.1126/science.adm8762)__, _Science_, 2024.  
+[Data](https://www.ebi.ac.uk/ena/browser/home) | [Figshare](https://figshare.com/s/e8bd43ec6e29f56d9edd) | [GitHub](https://github.com/xhhuanglab/RiceG2G)  
+
 
 D. Li, Q. Wang, Y. Tian, X. Lyv, H. Zhang, H. Hong, H. Gao, Y.-F. Li, C. Zhao, J. Wang, R. Wang, __J. Yang__, B. Liu, P. S. Schnable, J. C. Schnable, Y.-H. Li, L.-J. Qi, __[TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean](https://doi.org/10.1016/j.xplc.2024.101010)__, _Plant Communications_, 2024.  
 [Data](https://bigd.big.ac.cn/gsa/index.jsp) | [Figshare](https://figshare.com/s/811b3ef0dfc6cba0a167) | [GitHub](https://github.com/DelinLi/TWAS_Soy)  
@@ -119,7 +123,7 @@ __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediatio
 
 
 __E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify trait-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [26 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.24.445447v1) | [GitHub](https://github.com/jyanglab/UAV-based_HTP) | [27 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979676899966048479&as_sdt=5)
 
 
 ### 2021
@@ -133,10 +137,10 @@ C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automati
 
 S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [130 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [129 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [28 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [27 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
 
 
 ### 2020
@@ -187,7 +191,7 @@ M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. So
 [Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [136 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __[Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162)__, *PLOS Genetics*, 2018.  
-[Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [125 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [126 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
 
 
 ### 2017
@@ -212,7 +216,7 @@ __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S.
 [Github](https://github.com/schnablelab/XP-GWAS) | [114 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__, _Nature Genetics_, 2015.  
-[410 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[411 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
 [100 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)

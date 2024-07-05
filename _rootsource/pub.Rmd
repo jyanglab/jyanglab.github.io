@@ -105,6 +105,22 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"X. Wei, M. Chen, Q. Zhang, J. Gong, J. Liu, K. Yong, Q. Wang, J. Fan, S. Chen, H. Hua, Z. Luo, X. Zhao, X. Wang, W. Li, J. Cong, X. Yu, Z. Wang, R. Huang, J. Chen, X. Zhou, J. Qiu, P. Xu, J. Murray, H. Wang, Y. Xu, C. Xu, __G. Xu__, __J. Yang__, B. Han, X. Huang, ",
+"__[Genomic investigation of 18,421 lines reveals the genetic architecture of rice](https://www.science.org/doi/10.1126/science.adm8762)__, ",
+"_Science_, 2024.  \n",
+"[Data](https://www.ebi.ac.uk/ena/browser/home) ",
+"| [Figshare](https://figshare.com/s/e8bd43ec6e29f56d9edd) ",
+"| [GitHub](https://github.com/xhhuanglab/RiceG2G)  "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "D. Li, Q. Wang, Y. Tian, X. Lyv, H. Zhang, H. Hong, H. Gao, Y.-F. Li, C. Zhao, J. Wang, R. Wang, __J. Yang__, B. Liu, P. S. Schnable, J. C. Schnable, Y.-H. Li, L.-J. Qi, ",
 "__[TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean](https://doi.org/10.1016/j.xplc.2024.101010)__, ",
 "_Plant Communications_, 2024.  \n",
