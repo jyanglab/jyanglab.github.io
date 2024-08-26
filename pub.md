@@ -22,9 +22,6 @@ Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yan
 __G. Xu__, __J. Lyu__, T. Obata,  S. Liu, Y. Ge, J. C. Schnable, __J. Yang__, __A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding__, _bioRxiv_, 2022.  
 [10.1101/2022.02.09.479784](https://www.biorxiv.org/content/10.1101/2022.02.09.479784v1) 
 
-C. He, J. D. Washburn, Y. Hao,  Z. Zhang,  __J. Yang__, Sanzhen Liu, __Trait association and prediction through integrative K-mer analysis__, _bioRxiv_, 2021.  
-[10.1101/2021.11.17.468725](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) 
-
 
 
 __J. Li__, D. Cheng, S. Guo, __Z. Yang__, M. Chen, C. Chen, Y. Jiao, W. Li, C. Liu, Y. Zhong, X. Qi, 
@@ -34,7 +31,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 ### 2024
 
 C. He, J. Washburn, N. Schleif, Y. Hao, H. Kaeppler, S. Kaeppler, Z. Zhang, __J. Yang__, S. Liu, __[Trait Association and Prediction Through Integrative K-mer Analysis]()__, _The Plant Journal_, 2024.  
-[Data]() | [GitHub]()  
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) | [Data]() | [GitHub]()  
 
 Y. Delen, __S. Palali-Delen__, __G. Xu__, M. Neji, __J. Yang__, I. Dweikat, __[Dissecting the genetic architecture of morphological traits in sunfolwer]()__, _Genes_, 2024.  
 [Data]() | [GitHub]()  
