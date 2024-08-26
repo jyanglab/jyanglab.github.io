@@ -4,9 +4,14 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### August, 2024
+
+- Congratulations to Dr. Eric Rodene and Dr. Hongyu Jin on obtaining their Ph.D. degrees.
+
+
 ### May, 2024
 
-- Congratulations to Musa Ulutas, Zhikai Yang, and Hongyu Jin on obtaining their Ph.D. degrees.
+- Congratulations to Dr. Musa Ulutas and Dr. Zhikai Yang on obtaining their Ph.D. degrees.
 
 
 ### March, 2024
