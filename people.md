@@ -10,9 +10,9 @@ googlefonts: ["Monoton", "Lobster"]
 ## [Join the lab](/positions)
 
 <p align="center">
-  <img width="600" src="https://i.imgur.com/5JTcNDu.jpg">
+  <img width="600" src="https://i.imgur.com/vFZaBIM.jpg">
 </p>
-> Group photo 2023
+> Group photo Aug 2024
 
 ## Current Lab Members
 
@@ -69,48 +69,22 @@ Office: Keim 303.
 <a href="/people/zwang"> learn more ...  </a>
 </div>
 
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/twCX9yV.png?1" alt="Zhikai Yang" width="300" height="400">
+      <img src="https://i.imgur.com/ijY2vS9.jpg" alt="Suhbash" width="300" height="400" >
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Zhikai Yang</b> is a PhD student majoring in Complex Biosystems. Office: Keim 361.
-</div>
-<div class="clearfix"></div>
-
-------------
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/EJVvHgZ.jpg?1" alt="Eric Rodene" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Eric Rodene</b> is a PhD student in the department of Ag/Hort. Office: PLSH 383.
-</div>
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/ZdqfYcH.png" alt="Hongyu Jin" width="300" height="400">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Hongyu Jin</b> is a PhD student in Complex Biosystems coadvised with Dr. James Schnable. Office: Keim 361.
+<b>Sai Subhash M.V.S </b> is a PhD rotation student in the Complex BioSystems program. 
+<a href="/people/subhash"> learn more ...  </a>
 </div>
 
 
 <div class="clearfix"></div>
+
 
 -----------------
 
@@ -118,15 +92,15 @@ Office: Keim 303.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/9fQIrCm.png" alt="Musa" width="300" height="400">
+      <img src="https://i.imgur.com/TTvEzzF.jpg" alt="Nathan Ma" width="300" height="400" >
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Musa Ulutas</b> is a PhD student in the department of Ag/Hort, working on sweet corn and root phenotyping.
+<b>Yuchu "Nathan" Ma </b> is a PhD student in the department of Ag/Hort working on sorghum and corn. 
+Previously studied fungal infections of corn in Food Science Department at UNL.
 </div>
-
 
 
 <div class="responsive">
@@ -148,36 +122,27 @@ Office: Keim 303.
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://i.imgur.com/NAgyQJx.jpg" alt="Nathan Ma" width="300" height="400" >
+      <img src="https://i.imgur.com/88BeDkn.jpg" alt="Skylar Kodad" width="300" height="400" >
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Yuchu "Nathan" Ma </b> is a PhD student in the department of Ag/Hort working on sorghum and corn. 
-Previously studied fungal infections of corn in Food Science Department at UNL.
-</div>
-
-
-<div class="responsive">
-  <div class="img">
-    <a target="_blank">
-      <img src="https://i.imgur.com/9N4mLHr.jpg" alt="Suhbash" width="300" height="400" >
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-<b>Sai Subhash M.V.S </b> is a PhD rotation student in the Complex BioSystems program. 
-<a href="/people/subhash"> learn more ...  </a>
+<b>Skylar Kodad </b> is an undergraduate student working on plant biology.
 </div>
 
 
 <div class="clearfix"></div>
+
+
 -------------------------
 
 ## Lab Alumni
 
+- **Hongyu Jin**: obtained a PhD degree in the Complex Biosystems. Now working as a PostDoc at UNL.
+- **Eric Rodene**: obtained a PhD degree in the department of Ag&Hort.
+- **Zhikai Yang**: obtained a PhD degree in the Complex Biosystems. Now working as a PostDoc at UNL.
+- **Musa Ulutas**: obtained a PhD degree in the department of Ag&Hort.
 - **Wensheng Ding** worked as a temp lab technician who obtained a MS degree from FDST at UNL.
 - **Kahheetah Barnoskie** obtained a MS degree in the department of Ag/Hort, working on native corn.
 - **Cassie Palmer** rotated in the lab as Ph.D. student in the Complex Biosystems program with a keen interest in Space Ag.
