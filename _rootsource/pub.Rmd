@@ -31,7 +31,6 @@ bob <- bob[order(bob$year, decreasing=T),]
 bob <- subset(bob, !is.na(cid))
 #bob$pubid <- paste0()
 
-
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
 #write.table(bob[, c("cid", "title")], "~/Downloads/cid.txt", sep="\t", row.names=FALSE, quote=TRUE)
