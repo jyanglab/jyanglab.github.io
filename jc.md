@@ -11,9 +11,15 @@ Anyone is welcome to suggest a paper (by sending an email to _jinliang.yang at u
 There is no email list; articles are posted below along with the date.
 
 ## Notice: Changing time and Location 
-We meet every **Friday at 2:00 pm**, at UNL East Campus (Room **PLSH 375**).   
+We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am**, at UNL East Campus (Room **PLSH 279M**).   
 
 -----------------------------
+
+## Fall 2024
+
+- **09-06-2024**: CRISPR-TSKO: A Technique for Efficient Mutagenesis in Specific Cell Types, Tissues, or Organs in Arabidopsis [Decaestercker et al., 2019](https://academic.oup.com/plcell/article/31/12/2868/5985837)
+> CRISPR, single-cell, genomics
+
 
 ## 2019
 
