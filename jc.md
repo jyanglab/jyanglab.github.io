@@ -20,6 +20,14 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 - **09-06-2024**: CRISPR-TSKO: A Technique for Efficient Mutagenesis in Specific Cell Types, Tissues, or Organs in Arabidopsis [Decaestercker et al., 2019](https://academic.oup.com/plcell/article/31/12/2868/5985837)
 > CRISPR, single-cell, genomics
 
+- **09-13-2024**: Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens [Dixit et al., 2016](https://www.sciencedirect.com/science/article/pii/S0092867416316105)
+> CRISPR, single-cell, genomics
+
+- **09-20-2024**: Resolving plant development in space and time with single-cell genomics [Nolan and Shahan, 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
+> CRISPR, single-cell, review, spatiotemporal
+
+- **09-27-2024**: Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root [Nolan et al., 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
+> CRISPR, single-cell, gene regulatory networks
 
 -----------------------------
 ## 2019
@@ -32,4 +40,5 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 ## 2017 and before
 
 [Papers](/img/jc_2017) discussed from previous Q.U.I.T.
+
 
