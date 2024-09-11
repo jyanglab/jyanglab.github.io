@@ -23,11 +23,13 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 - **09-13-2024**: Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens [Dixit et al., 2016](https://www.sciencedirect.com/science/article/pii/S0092867416316105)
 > CRISPR, single-cell, genomics
 
-- **09-20-2024**: Resolving plant development in space and time with single-cell genomics [Nolan and Shahan, 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
+- **09-20-2024**: 
+  - Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root [Nolan et al., 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
+  - Resolving plant development in space and time with single-cell genomics [Nolan and Shahan, 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
 > CRISPR, single-cell, review, spatiotemporal
 
-- **09-27-2024**: Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root [Nolan et al., 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
-> CRISPR, single-cell, gene regulatory networks
+- **09-27-2024**: A pan-grass transcriptome reveals patterns of cellular divergence in crops [Cuillotin et al., 2023](https://www.nature.com/articles/s41586-023-06053-0)
+> single-cell, comparative genomics, domestication
 
 -----------------------------
 ## 2019
