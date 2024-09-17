@@ -24,7 +24,7 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 > CRISPR, single-cell, genomics
 
 - **09-20-2024**: 
-  - Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root [Nolan et al., 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
+  - Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root [Nolan et al., 2023](https://www.science.org/doi/10.1126/science.adf4721)
   - Resolving plant development in space and time with single-cell genomics [Nolan and Shahan, 2023](https://www.sciencedirect.com/science/article/pii/S1369526623001097?via%3Dihub)
 > CRISPR, single-cell, review, spatiotemporal
 
