@@ -38,18 +38,6 @@ bob <- subset(bob, !is.na(cid))
 
 ### Preprints
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"Y. Delen, R. V. Mural, __G. Xu__, __S. Palali Delen__,  J. C. Schnable, __J. Yang__, I. Dweikat, ",
-"__Dissecting the genetic architecture of sunflower head diameter using genome-wide association study__, ",
-"_bioRxiv_, 2022.  \n",
-"[10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
 
 
 
@@ -90,6 +78,22 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"Y. Delen, R. V. Mural, __S. Palali Delen__, __G. Xu__,  J. C. Schnable,  I. Dweikat, __J. Yang__, ",
+"__[Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study]()__, ",
+"_Plant Direct_, 2024.  \n",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
+#"_bioRxiv_, 2022.  \n",
+#"[10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "H. Mukhtar, J. Hao, __G. Xu__, E. Bergmeyer, __M. Ulutas__, __J. Yang__, D. P. Schachtman, ",
 "__[Nitrogen Input Differentially Shapes the Rhizosphere Microbiome Complexity and Community Structure Across Diverse Maize Lines]()__, ",
 "_Biology and Fertility of Soils_, 2024.  \n"
@@ -107,11 +111,11 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "C. He, J. Washburn, N. Schleif, Y. Hao, H. Kaeppler, S. Kaeppler, Z. Zhang, __J. Yang__, S. Liu, ",
-"__[Trait Association and Prediction Through Integrative K-mer Analysis]()__, ",
+"__[Trait Association and Prediction Through Integrative K-mer Analysis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17012)__, ",
 "_The Plant Journal_, 2024.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) ",
-"| [Data]() ",
-"| [GitHub]()  "
+"| [Data:CyVerse](/iplant/home/shared/panzea/raw_seq_282)  "
+#"| [GitHub]()  "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
@@ -122,10 +126,10 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "Y. Delen, __S. Palali-Delen__, __G. Xu__, M. Neji, __J. Yang__, I. Dweikat, ",
-"__[Dissecting the genetic architecture of morphological traits in sunfolwer]()__, ",
+"__[Dissecting the genetic architecture of morphological traits in sunflower](https://www.mdpi.com/2073-4425/15/7/950)__, ",
 "_Genes_, 2024.  \n",
-"[Data]() ",
-"| [GitHub]()  "
+"[Data](https://github.com/ydelen2/Sunflower_important_traits/tree/main/Genotype_data) ",
+"| [GitHub](https://github.com/ydelen2/Sunflower_important_traits/)  "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
 #"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
