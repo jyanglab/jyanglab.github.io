@@ -17,6 +17,16 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 
 ## Fall 2024
 
+- **10-18-2024**: A novel in vivo genome editing doubled haploid system for Zea mays [Ye et al., 2024](https://www.nature.com/articles/s41477-024-01795-9)
+> gene editing, DH, CRISPR
+
+- **10-11-2024**: NRT1.1B is associated with root microbiota composition and nitrogen use in field-grown rice [Zhang et al., 2024](https://www.nature.com/articles/s41587-019-0104-4)
+> microbiome, nitrogen, gene function
+
+- **10-04-2024**: Heritable microbiome variation is correlated with source environment in locally adapted maize varieties [He et al., 2024](https://www.nature.com/articles/s41477-024-01654-7)
+> microbiome, nitrogen, population genetics
+
+
 - **09-27-2024**: A pan-grass transcriptome reveals patterns of cellular divergence in crops [Cuillotin et al., 2023](https://www.nature.com/articles/s41586-023-06053-0)
 > single-cell, comparative genomics, domestication
 
