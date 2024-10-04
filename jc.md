@@ -15,15 +15,18 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 
 -----------------------------
 
+
+
 ## Fall 2024
 
-- **10-18-2024**: A novel in vivo genome editing doubled haploid system for Zea mays [Ye et al., 2024](https://www.nature.com/articles/s41477-024-01795-9)
-> gene editing, DH, CRISPR
 
-- **10-11-2024**: Large-scale single-cell profiling of stem cells uncovers redundant regulators of shoot development and yield trait variation [Xu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.03.04.583414v1.abstract)
+- **10-18-2024**: Large-scale single-cell profiling of stem cells uncovers redundant regulators of shoot development and yield trait variation [Xu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.03.04.583414v1.abstract)
 > single-cell, stem cell, gene function
 
-- **10-04-2024**: Heritable microbiome variation is correlated with source environment in locally adapted maize varieties [He et al., 2024](https://www.nature.com/articles/s41477-024-01654-7)
+- **10-11-2024**: A novel in vivo genome editing doubled haploid system for Zea mays [Ye et al., 2024](https://www.nature.com/articles/s41477-024-01795-9)
+> gene editing, DH, CRISPR
+
+- **10-04-2024**: Heritable microbiome variation is correlated with source environment in locally adapted maize varieties [He et al., 2024](https://www.nature.com/articles/s41477-024-01654-7)....
 > microbiome, nitrogen, population genetics
 
 
