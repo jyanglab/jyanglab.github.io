@@ -79,9 +79,10 @@ __J. Yang__, S. Chen, ",
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "Y. Delen, R. V. Mural, __S. Palali Delen__, __G. Xu__,  J. C. Schnable,  I. Dweikat, __J. Yang__, ",
-"__[Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study]()__, ",
+"__[Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study](https://doi.org/10.1002/pld3.70010)__, ",
 "_Plant Direct_, 2024.  \n",
-"[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
+"[Preprint](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) ",
+"| [GitHub](https://github.com/ydelen2/Sunflower_important_traits)"  
 #"_bioRxiv_, 2022.  \n",
 #"[10.1101/2022.10.24.513623](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
@@ -97,10 +98,10 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "H. Mukhtar, J. Hao, __G. Xu__, E. Bergmeyer, __M. Ulutas__, __J. Yang__, D. P. Schachtman, ",
-"__[Nitrogen Input Differentially Shapes the Rhizosphere Microbiome Complexity and Community Structure Across Diverse Maize Lines]()__, ",
-"_Biology and Fertility of Soils_, 2024.  \n"
+"__[Nitrogen input differentially shapes the rhizosphere microbiome diversity and composition across diverse maize lines](https://link.springer.com/article/10.1007/s00374-024-01863-4)__, ",
+"_Biology and Fertility of Soils_, 2024.  \n",
 #"[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.17.468725v1) ",
-#"| [Data]() ",
+"[Data on NCBI](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1092665) "
 #"| [GitHub]()  "
 #"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
 #"| doi: 10.1101/2020.08.10.244384 "
