@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 22 ], i10-Index [ 33 ], and total citations [ 2287 ] as of Nov, 2024.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 22 ], i10-Index [ 33 ], and total citations [ 2299 ] as of Nov, 2024.
 
 ### Preprints
 
@@ -27,6 +27,8 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 [10.1101/2020.09.08.287672](https://www.biorxiv.org/content/10.1101/2020.09.08.287672v1) 
 
 ### 2024
+
+J. Lu, Y. Xie, C. Li, __J. Yang__, J. Fu, __[Tensor decomposition reveals trans-regulated gene modules in maize drought response]()__, _Journal of Genetics and Genomics_, 2024.  
 
 Y. Delen, R. V. Mural, __S. Palali Delen__, __G. Xu__,  J. C. Schnable,  I. Dweikat, __J. Yang__, __[Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study](https://doi.org/10.1002/pld3.70010)__, _Plant Direct_, 2024.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.10.24.513623v1) | [GitHub](https://github.com/ydelen2/Sunflower_important_traits)
@@ -96,7 +98,7 @@ N. K. Wijewardane, H. Zhang, __J. Yang__, J. C. Schnable, D. P. Schachtman, Y. G
 
 
 J. Hao, Y. Yang, S. Futrell, E. A. Kelly, C. M. Lorts, B. Nebie, S. Runo, __J. Yang__, S. Alvarez, J. R. Lasky, D. P. Schachtman, __[CRISPR/Cas9-mediated mutagenesis of _carotenoid cleavage dioxygenase (CCD)_ genes in sorghum alters strigolactone biosynthesis and plant biotic interactions](https://doi.org/10.1094/PBIOMES-08-22-0053-R)__, _Phytobiomes Journal_, 2023.  
-[11 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12968911182331679450&as_sdt=5)
+[13 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12968911182331679450&as_sdt=5)
 
 
 X. Xie, Y. Ge, H. Walia, __J. Yang__, H. Yu, __[Leaf Counting in Monocot Plants using Deep Regression Models](https://doi.org/10.3390/s23041890)__, _Sensors_, 2023.  
@@ -123,7 +125,7 @@ L. Yin, __G. Xu__, __J. Yang__, M. Zhao, __[The heterogeneity in the landscape o
 
 
 __M. A. Meier__, __G. Xu__, M. G. Lopez-Guerrero, G. Li, C. Smith, B. Sigmon, J. R. Herr, J. R. Alfano, Y. Ge, J. C. Schnable, __J. Yang__, __[Association analyses of host genetics, rootcolonizing microbes, and plant phenotypes under different nitrogen conditions in maize](https://elifesciences.org/articles/75790)__, _eLife_, 2022.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) | [GitHub](https://github.com/jyanglab/Maize_Rhizobiome_2022) | [NCBI PRJNA772177 (n=3,313 samples)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA772177) | [32 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13219677338539149062&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466815v1) | [GitHub](https://github.com/jyanglab/Maize_Rhizobiome_2022) | [NCBI PRJNA772177 (n=3,313 samples)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA772177) | [33 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13219677338539149062&as_sdt=5)
 
 
 S. Deng, __M. A. Meier__, D. Caddell, __J. Yang__, and D. Coleman-Derr, __[Plant Microbiome-Based Genome-Wide Association Studies](https://link.springer.com/protocol/10.1007/978-1-0716-2237-7_20)__, Part of the _Methods in Molecular Biology_ book series, 2022.  
@@ -148,7 +150,7 @@ C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automati
 
 S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [147 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [149 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [29 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
@@ -191,12 +193,12 @@ __J. Yang__, C. E. Yeh, __R. K. Ramamurthy__, X. Qi, R. L. Fernando, J. C.M. Dek
 
 
 Z. Liang, S. K. Gupta, C. T. Yeh, Y. Zhang, D. W. Ngu, R. Kumar, H. T. Patil, K. D. Mungra, D. V. Yadav, A. Rathore, R. K. Srivastava, R. Gupkta, __J. Yang__, R. K. Varshney, P. S. Schnable, J. C. Schnable, __[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids](http://www.g3journal.org/content/early/2018/05/24/g3.118.200242)__, _G3: Genes Genomes Genetics_, 2018.  
-[53 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
+[55 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6745467722661974167&as_sdt=5)
 
 
 
 C. Miao, J. Fang, D. Li, P. Liang, X. Zhang, __J. Yang__, J. C. Schnable, H. Tang, __[Genotype-Corrector: improved genotype calls for genetic mapping in F2 and RIL populations](https://www.nature.com/articles/s41598-018-28294-0)__, _Scientific Reports_, 2018.  
-[Github](https://github.com/freemao/Genotype-Corrector) | [27 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
+[Github](https://github.com/freemao/Genotype-Corrector) | [28 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931817505751558626&as_sdt=5)
 
 M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. Sosso, W. Frommer, __[Impaired phloem loading in genome-edited triple knock-out mutants of SWEET13 sucrose transporters](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15021)__, *New Phytologist*, 2018.  
 [Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [150 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
@@ -227,7 +229,7 @@ __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S.
 [Github](https://github.com/schnablelab/XP-GWAS) | [119 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__, _Nature Genetics_, 2015.  
-[424 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[427 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
 [105 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
