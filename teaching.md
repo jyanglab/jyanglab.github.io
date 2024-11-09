@@ -3,6 +3,19 @@ layout: page
 title: Teaching
 ---
 
+### 2024
+
+- __Spring 2024__: __[ANS/AGRO-931](/agro931): Population Genetics__
+  - In this classical population genetics class, students will build on the theoretical concepts to develop breeding strategies for plant and animal improvement. Those who work with natural populations will also get the necessary principles to understand variation and to develop strategies to maintain the genetic variation.
+
+
+- __[PopGen Module]()__: a three week module to go through some basic concepts in population genomics
+  - __Module 1__: [[HTML](https://jyanglab.com/slides/2024-module/week1/w1.html)]
+  - __Module 2__: [[HTML](https://jyanglab.com/slides/2024-module/week2/w2.html)]
+  - __Module 3__: [[HTML](https://jyanglab.com/slides/2024-module/week3/w3.html)]  
+
+-----------------------
+
 ### FALL 2023
 
 - __LIFE-891-003: Complex Biosystems Seminar__
@@ -10,6 +23,11 @@ title: Teaching
 
 - __[Computational Genomics Workshop](/workshop2023)__
   - This is an informal lab workshop. We will utilize the lab Slack channel #workshop to engage in a series of online courses, as well as to review relevant books and materials. This approach will allow students to enhance the fundamental computational skills essential for our work in the lab.
+
+- __[PopGen Module](): Three-weeks module for population genomics__
+  - __Module 1__: [[HTML](https://jyanglab.com/slides/2023-module/week1/w1.html)]
+  - __Module 2__: [[HTML](https://jyanglab.com/slides/2023-module/week2/w2.html)]
+  - __Module 3__: [[HTML](https://jyanglab.com/slides/2023-module/week3/w3.html)]  
   
 -----------------------
 
