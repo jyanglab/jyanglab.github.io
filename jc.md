@@ -19,6 +19,9 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 
 ## Fall 2024
 
+- **11-08-2024**: A multiplexed transcriptomic analysis of a plant embryonic hourglass [Wu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.04.04.588207v2)
+> single-cell, spatial transcriptomics, hourglass model
+
 
 - **11-08-2024**: Large-scale single-cell profiling of stem cells uncovers redundant regulators of shoot development and yield trait variation [Xu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.03.04.583414v1.abstract)
 > single-cell, stem cell, gene function
