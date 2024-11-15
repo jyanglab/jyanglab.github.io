@@ -26,6 +26,7 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "pub"
+  JC (Q.U.I.T.): "jc"
   News: "news"
   Teaching: 
     - Courses: "teaching"
@@ -34,7 +35,6 @@ navbar-links:
   Resources:
     - Lab Blog: "labdoc/index"
     - Software: "software"
-    - JC (Q.U.I.T.): "jc"
     #- Lab Tutorial: "JYang-Lab-tutorial"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- ZeaBigData: "https://zeabigdata.org/"
