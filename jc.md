@@ -19,7 +19,10 @@ We will resume our journal club this Fall 2024 to meet every **Friday at 8:30 am
 
 ## Fall 2024
 
-- **11-08-2024**: A multiplexed transcriptomic analysis of a plant embryonic hourglass [Wu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.04.04.588207v2)
+- **11-22-2024**: Sequence modeling and design from molecular to genome scale with Evo [Nguyen et al., 2024](https://www.science.org/doi/10.1126/science.ado9336)
+> large lanuage model, genomics, CRISPR
+
+- **11-15-2024**: A multiplexed transcriptomic analysis of a plant embryonic hourglass [Wu et al., 2024](https://www.biorxiv.org/content/10.1101/2024.04.04.588207v2)
 > single-cell, spatial transcriptomics, hourglass model
 
 
