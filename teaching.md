@@ -9,10 +9,9 @@ title: Teaching
   - In this classical population genetics class, students will build on the theoretical concepts to develop breeding strategies for plant and animal improvement. Those who work with natural populations will also get the necessary principles to understand variation and to develop strategies to maintain the genetic variation.
 
 
-- __[PopGen Module]()__: a three week module to go through some basic concepts in population genomics
+- __[PopGen Module]()__: a two week module to go through some basic concepts in population genomics.
   - __Module 1__: [[HTML](https://jyanglab.com/slides/2024-module/week1/w1.html)]
-  - __Module 2__: [[HTML](https://jyanglab.com/slides/2024-module/week2/)]
-  - __Module 3__: [[HTML](https://jyanglab.com/slides/2024-module/week3/)]  
+  - __Module 2__: [[HTML](https://jyanglab.com/slides/2024-module/week2/w3.html)]
 
 -----------------------
 
