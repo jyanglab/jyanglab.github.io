@@ -11,7 +11,7 @@ title: Teaching
 
 - __[PopGen Module]()__: a two week module to go through some basic concepts in population genomics.
   - __Module 1__: [[HTML](https://jyanglab.com/slides/2024-module/week1/w1.html)]
-  - __Module 2__: [[HTML](https://jyanglab.com/slides/2024-module/week2/w3.html)]
+  - __Module 2__: [[HTML](https://jyanglab.com/slides/2024-module/week3/w3.html)]
 
 -----------------------
 
