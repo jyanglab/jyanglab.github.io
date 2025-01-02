@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 23 ], i10-Index [ 34 ], and total citations [ 2386 ] as of Dec, 2024.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 23 ], i10-Index [ 34 ], and total citations [ 2394 ] as of Jan, 2025.
 
 ### Preprints
 
@@ -130,7 +130,7 @@ S. Deng, __M. A. Meier__, D. Caddell, __J. Yang__, and D. Coleman-Derr, __[Plant
 
 
 __Z. Yang__, __G. Xu__, Q. Zhang, T. Obata, __J. Yang__, __[Genome-wide mediation analysis: an empirical study to connect phenotype with genotype via intermediate transcriptomic data in maize](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac057/6572813?guestAccessKey=62841cd7-b940-470d-b429-bed75e68cf8d)__, _Genetics_, 2022.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) | [GitHub](https://github.com/ZhikaiYang/mediation) | [GC-MS Data](http://dx.doi.org/10.21228/M86H5T) | [14 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551057464498420074&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.04.09.439238v1) | [GitHub](https://github.com/ZhikaiYang/mediation) | [GC-MS Data](http://dx.doi.org/10.21228/M86H5T) | [15 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551057464498420074&as_sdt=5)
 
 
 __E. Rodene__, __G. Xu__, __S. P. Delen__, X. Zhao, C. Smith, Y. Ge, J. C. Schnable, __J. Yang__, __[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify trait-associated genetic components in maize](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20030)__, _The Plant Phenome Journal_, 2022.  
@@ -148,10 +148,10 @@ C. Miao, A. Guo, A. Thompson,  __J. Yang__,  Y. Ge,  J. C. Schnable, __[Automati
 
 S. Deng, __G. Xu__, D. Caddell, L. Dahlen, L. Washington, __J. Yang__, D. Coleman-Derr, __[Genome wide association study reveals plant loci controlling heritability of the rhizosphere microbiome](https://www.nature.com/articles/s41396-021-00993-z)__, 
 _The ISME Journal_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [159 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.02.21.960377v1) | [Github](https://github.com/colemanderr-lab/Deng-2020) | [160 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839283634496248436&as_sdt=5)
 
 __M. A. Meier__, M. G. Lopez-Guerrero, M. Guo, M. R. Schmer, J. R. Herr, J. C. Schnable, J. R. Alfano, __J. Yang__, __[Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels](https://aem.asm.org/content/early/2021/03/27/AEM.03132-20.abstract)__, _Applied and Environmental Microbiology_, 2021.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [31 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.10.244384v2) | [GitHub](https://github.com/mandmeier/USDA_CornSoy) | [32 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8314440354709369054&as_sdt=5)
 
 
 ### 2020
@@ -160,7 +160,7 @@ __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [92 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, _Plant Phenomics_, 2020.  
-[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [45 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
+[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [47 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
 
 
 ### 2019
@@ -174,7 +174,7 @@ Y. Ge, A. Atefi, H. Zhang, C. Miao, __R. K. Ramamurthy__, B. Sigmon, __J. Yang__
 
 
 H. Liu, Q. Wang, M. Chen, Y. Ding, X. Yang, J. Liu, X. Li, C. Zhou, Q. Tian, Y. Lu, D. Fan, J. Shi, L. Zhang, C. Kang, M. Sun, F. Li, Y. Wu, Y. Zhang, B. Liu, X.Y. Zhao, Q. Feng, __J. Yang__, B. Han, J. Lai, X.S. Zhang, X. Huang, __[Genome-wide identification and analysis of heterotic loci in three maize hybrids](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13186)__, _Plant Biotechnology Journal_, 2019.  
-[49 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734942197146441439&as_sdt=5)
+[50 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15734942197146441439&as_sdt=5)
 
 C. Miao, __J. Yang__, J. C. Schnable, __[Optimizing the identification of causal variants across varying genetic architectures in crops](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.1302)__, _Plant Biotechnology Journal_, 2019.  
 [Preprint](https://www.biorxiv.org/content/early/2018/04/29/310391) | [45 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11827249182260357856&as_sdt=5)
@@ -224,10 +224,10 @@ J. Hao, __J. Yang__, J. Dong, S-Z. Fei, __[Characterization of *BdCBF* genes and
 ### 2016 and before
 
 __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, __[Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel](http://doi.wiley.com/10.1111/tpj.13029)__, _The Plant Journal_, 2015.  
-[Github](https://github.com/schnablelab/XP-GWAS) | [121 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
+[Github](https://github.com/schnablelab/XP-GWAS) | [122 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html)__, _Nature Genetics_, 2015.  
-[436 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+[435 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
 [105 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
