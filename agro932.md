@@ -48,23 +48,24 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ----------------
 
+<!--
 ## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
 ### **Week 2**: Experimental design for selection scan
 - 01-28 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
   - __[Canvas materials]__
   - Reading: Hahn 2019. Chapter 1 and 2
-  
-<!--
 - 01-30 (Thu): [_Lab_] Slurm job and  Wright-Fisher simulation
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w2lab.html#1)]
 
-<!--
+
 ### **Week 3**: Next-generation sequencing and diversity measurement
-- 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
+- 02-04 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
     - Reading: Hahn 2019. Chapter 3
-- 02-03 (Thu): [_Lab_] Theta calculation
+- 02-06 (Thu): [_Lab_] Guest lecture by HCC
+
+<!--
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
   - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
 
