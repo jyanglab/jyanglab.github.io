@@ -5,7 +5,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ---
 
 
-- Spring 2022
+- Spring 2025
 - **Location**: Plant Sciences Hall (room 272)
 - **Time**: Tuesday and Thursday 11:00-12:15 am
 - **Office Hour**: Thursday 12:15-1:00 pm (except for the first Thursday of the month)
@@ -37,12 +37,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 --------------------
 
-# Schedule 2020
+# Schedule 2025
 
 ### **Week 1**: Introduction and Overview
-- 01-18 (Tue): [_Lecture_] Introduction about crop improvement
+- 01-21 (Tue): [_Lecture_] Introduction about crop improvement
   - __[Canvas materials]__
-- 01-20 (Thu): [_Lab_] Research Project Management using RStudio, HCC, and GitHub    
+- 01-23 (Thu): [_Lab_] Research Project Management using RStudio, HCC, and GitHub    
   - Reading: [[hcc doc](https://hcc.unl.edu/docs/)] and [[hcc-usage in the J. Yang lab](https://jyanglab.com/2018-09-06-hcc/)]  
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w1lab.html#1)]   
 
@@ -51,12 +51,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Part I. Population Genomics: Crop Domestication and Implications for Plant Breeding
 
 ### **Week 2**: Experimental design for selection scan
-- 01-25 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
+- 01-28 (Tue): [_Lecture_] Experimental design and basic population genetics terminology
   - __[Canvas materials]__
   - Reading: Hahn 2019. Chapter 1 and 2
-- 01-27 (Thu): [_Lab_] Slurm job and  Wright-Fisher simulation
+- 01-30 (Thu): [_Lab_] Slurm job and  Wright-Fisher simulation
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w2lab.html#1)]
 
+<!--
 ### **Week 3**: Next-generation sequencing and diversity measurement
 - 02-01 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
@@ -91,25 +92,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w6lab.html#1)]
 
 
-<!--
 
-### **Week 5**: Scan for direct selection
-- 02-15 (Tue): [_Lecture_] Direct selection
-  - __[Hahn 2019, Chapter 7]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c7_direct_sel.html#1)]
-- 02-17 (Thu): [_Lab_] Visualize theta Fst results
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w5lab.html#1)]
-  - Basic R tutorial: [[Quick-R](https://www.statmethods.net/)] and [[RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)]
-
-### **Week 6**: Linked selection
-- 02-22 (Tue): [_Lecture_] Linked selection
-  - __[Hahn 2019, Chapter 8]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c8_linked_sel.html#1)]
-- 02-24 (Thu): [_Lab_] Breaking down theta statistics into genomic features
-  - __[HW1 Due]__
-  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w6lab.html#1)]
-
--->
 
 ### **Week 7**: Wrap up the population genomics session
 - 03-01 (Tue): [_Lecture_] Population genomics summary
@@ -190,6 +173,27 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
 - 05-05 (Thu): [__Final project presentation__](10 mins + 5mins Q&A)
 
+-->
+
+<!--
+
+### **Week 5**: Scan for direct selection
+- 02-15 (Tue): [_Lecture_] Direct selection
+  - __[Hahn 2019, Chapter 7]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c7_direct_sel.html#1)]
+- 02-17 (Thu): [_Lab_] Visualize theta Fst results
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w5lab.html#1)]
+  - Basic R tutorial: [[Quick-R](https://www.statmethods.net/)] and [[RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)]
+
+### **Week 6**: Linked selection
+- 02-22 (Tue): [_Lecture_] Linked selection
+  - __[Hahn 2019, Chapter 8]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.1-popgen/c8_linked_sel.html#1)]
+- 02-24 (Thu): [_Lab_] Breaking down theta statistics into genomic features
+  - __[HW1 Due]__
+  - [[HTML](https://jyanglab.com/AGRO-932/chapters/a1.2-lab/w6lab.html#1)]
+
+-->
 
 <!--
 ### **Week15**:
