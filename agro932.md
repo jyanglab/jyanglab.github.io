@@ -61,7 +61,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ### **Week 3**: Next-generation sequencing and diversity measurement
 - 02-04 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w3class_theta.html#1)]
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2025-agro932/w3class_theta.html#1)]
   - Reading: Hahn 2019. Chapter 3
 - 02-06 (Thu): [_Lab_] Guest lecture by HCC
 
