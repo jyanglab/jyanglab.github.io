@@ -65,20 +65,21 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - Reading: Hahn 2019. Chapter 3
 - 02-06 (Thu): [_Lab_] Guest lecture by HCC
 
-<!--
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
-  - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
-
 ### **Week 4**: Population differentiation
-- 02-08 (Tue): [_Lecture_] Measuring population differentiation
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w4class.html#1)]
+- 02-11 (Tue): [_Lecture_] Measuring population differentiation
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2025-agro932/w4class.html#1)]
   -  Reading: Hahn 2019. Chapter 5
-- 02-10 (Thu): [_Lab_] Calculate Fst
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w4lab.html#1)]
+- 02-13 (Thu): [_Lab_] Calculate Fst and XP-CLR using NGS data
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w4lab.html#1)]
   - Computational resources:
     - [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
     - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
     - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+
+<!--
+  - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
+  - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+
 
 ### **Week 5**: Scan for direct selection
 - 02-15 (Tue): [_Lecture_] Direct selection
