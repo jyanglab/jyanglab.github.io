@@ -63,7 +63,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-04 (Tue): [_Lecture_] Next-generation sequencing and diversity measurement
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2025-agro932/w3class_theta.html#1)]
   - Reading: Hahn 2019. Chapter 3
-- 02-06 (Thu): [_Lab_] Guest lecture by HCC
+- 02-06 (Thu): [_Lab_] Guest lecture [by HCC](https://hcc.unl.edu/agro932-spring-2025-classroom-tutorial)
 
 ### **Week 4**: Population differentiation
 - 02-11 (Tue): [_Lecture_] Measuring population differentiation
@@ -73,12 +73,13 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w4lab.html#1)]
   - Computational resources:
     - [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
-    - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
-    - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+    
 
 <!--
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
   - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
+  - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
+  - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
 
 
 ### **Week 5**: Scan for direct selection
