@@ -77,9 +77,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 <!--
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
-  - Computational resources: [[ANGSD website](http://www.popgen.dk/angsd/index.php/ANGSD)]
-  - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
-  - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+
 
 
 ### **Week 5**: Scan for direct selection
@@ -88,7 +86,19 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w5class.html#1)]
 - 02-17 (Thu): [_Lab_] Submitting slurm jobs
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w5lab.html#1)]
+-->
 
+### **Week 5**: Population genomics in a case study
+- 02-18 (Tue): [_Lab_] Calculate Fst and XP-CLR using NGS data
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w4lab.html#1)]
+  - Computational resources:
+    - [[Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html)]
+    - [[A Beginner's Guide to Vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/)]
+- 02-20 (Thu): [_Seminar_] Designing NUE maize using a PopGen approach
+  - Change to room __Keim 150__ for a Departmental seminar
+
+    
+<!--
 ### **Week 6**: Linked selection
 - 02-22 (Tue): [_Lecture_] Linked selection
   - __[Hahn 2019, Chapter 8]__
