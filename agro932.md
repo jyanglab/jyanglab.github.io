@@ -78,14 +78,6 @@ title: AGRO-932 Biometrical genetics and plant breeding
 <!--
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w3lab.html#1)]
 
-
-
-### **Week 5**: Scan for direct selection
-- 02-15 (Tue): [_Lecture_] Direct selection
-  - __[Hahn 2019, Chapter 7]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w5class.html#1)]
-- 02-17 (Thu): [_Lab_] Submitting slurm jobs
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w5lab.html#1)]
 -->
 
 ### **Week 5**: Population genomics in a case study
@@ -97,6 +89,12 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-20 (Thu): [_Seminar_] Designing NUE maize using a PopGen approach
   - Change to room __Keim 150__ for a Departmental seminar
 
+### **Week 6**: Scan for direct selection
+- 02-25 (Tue): [_Lecture_] Direct selection
+  - __[Hahn 2019, Chapter 7]__
+  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2025-agro932/w5class.html#1)]
+- 02-27 (Thu): [_Lab_] Fst and genomic features
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w5lab.html#1)]
     
 <!--
 ### **Week 6**: Linked selection
