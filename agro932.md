@@ -92,7 +92,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ### **Week 6**: Scan for direct selection
 - 02-25 (Tue): [_Lecture_] Direct selection
   - __[Hahn 2019, Chapter 7]__
-  - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2025-agro932/w5class.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w5class.html#1)]
 - 02-27 (Thu): [_Lab_] Fst and genomic features
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w5lab.html#1)]
     
