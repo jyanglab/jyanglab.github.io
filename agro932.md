@@ -96,17 +96,18 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 02-27 (Thu): [_Lab_] Fst and genomic features
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w5lab.html#1)]
     
-<!--
-### **Week 6**: Linked selection
-- 02-22 (Tue): [_Lecture_] Linked selection
+
+### **Week 7**: Linked selection
+- 03-04 (Tue): [_Lecture_] Linked selection
   - __[Hahn 2019, Chapter 8]__
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6class.html#1)]
-- 02-24 (Thu): [_Lab_] Breaking down statistics into genomic features
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w6lab.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w6class.html#1)]
+- 03-06 (Thu): Self-study for this class
+  - [_Lab_] Breaking down statistics into genomic features
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w6lab.html#1)]
 
 
 
-
+<!--
 ### **Week 7**: Wrap up the population genomics session
 - 03-01 (Tue): [_Lecture_] Population genomics summary
   - __[Hahn 2019, Chapter 10]__ and __[Canvas materials]__ 
