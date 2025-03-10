@@ -4,6 +4,15 @@ title: News
 subtitle: Plant Quantitative Genetics and Statistical Genomics
 ---
 
+### March, 2025
+
+- Look at this vibrant group of past and present UNL maize researchers at the 2025 Maize Genetics Conference!
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/nQkgpx5.jpg">
+</p>
+
+
 ### August, 2024
 
 - Congratulations to Dr. Eric Rodene and Dr. Hongyu Jin on obtaining their Ph.D. degrees.
