@@ -115,10 +115,9 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w7lab.html#1)]
 
 ----------
-## Part II. Conventional Breeding: Mating Design and Heritability Estimation
+## Part II. Genome-enabled breeding: mating design and genomic selection
 
 <!--
-
 ### **Week 8**: Transition from Pop Gen to Quant Gen
 - 03-08 (Tue): [_Lecture_] Definition of breeding populations
   - __[Bernardo, Chapter 2]__
@@ -145,10 +144,6 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 03-31 (Thu): [_Lab_] Genetics variances calculation
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab_2022.html#1)]
 
-
----------------------
-
-## Part III. Genome-enabled Breeding and GWAS
 
 ### **Week 12**: Best linear unbiased prediction
 - 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
@@ -181,7 +176,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 
 ---------------------
 
-## Part IV. Emerging Technologies in Plant Breeding
+## Part III. Emerging Technologies in Plant Breeding
 
 ### **Week16**:
 - 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
