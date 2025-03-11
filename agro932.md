@@ -115,7 +115,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w7lab.html#1)]
 
 ----------
-## Part II. Genome-enabled breeding: mating design and genomic selection
+
+### Part II. Genome-enabled breeding: mating design and genomic selection
 
 <!--
 ### **Week 8**: Transition from Pop Gen to Quant Gen
