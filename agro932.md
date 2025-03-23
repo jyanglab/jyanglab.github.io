@@ -114,21 +114,23 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 03-13 (Thu): [_Lab_] Popular popgen software
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w7lab.html#1)]
 
+### **Week 9**:
+- 3-16 to 3-23: __Spring Break__
+
 ----------
 
 ### Part II. Genome-enabled breeding: mating design and genomic selection
 
-<!--
-### **Week 8**: Transition from Pop Gen to Quant Gen
-- 03-08 (Tue): [_Lecture_] Definition of breeding populations
+
+### **Week 10**: Transition from Pop Gen to Quant Gen
+- 03-25 (Tue): [_Lecture_] Definition of breeding populations
   - __[Bernardo, Chapter 2]__
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w8class1.html#1)]
-- 03-10 (Thu): [_Lecture_] Phenotypic and genotypic values
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w8class1.html#1)]
+- 03-27 (Thu): [_Lecture_] Phenotypic and genotypic values
   - __[Bernardo, Chapter 3]__ 
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w8class2.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w8class2.html#1)]
   
-### **Week 9**:
-- 3-13 to 3-20: __Spring Break__
+<!--
 
 ### **Week 10**: Breeding population means and variances
 - 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
