@@ -130,16 +130,17 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 3]__ 
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w8class2.html#1)]
   
-<!--
+
 
 ### **Week 10**: Breeding population means and variances
-- 03-22 (Thu): [_Lecture_] Phenotypic and genetic variances
-  - __[Bernardo, Chapter 6]__ 
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w10class_variance.html#1)]
-  - [__Due date for Mid-term paper: March 25th__]
-- 03-24 (Thu): [_Lab_] Compute phenotypic values and variances
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w10lab.html#1)]
 
+- 04-01 (Tue): [_Lab_] Compute phenotypic values and variances
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w10lab.html#1)]
+- 04-03 (Thu): [_Lecture_] Phenotypic and genetic variances
+  - __[Bernardo, Chapter 6]__ 
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w10class_variance.html#1)]
+
+<!--
 ### **Week 11**: Mating designs and Estimating Genetic Variances
 - 03-29 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
