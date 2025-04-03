@@ -140,15 +140,15 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 6]__ 
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w10class_variance.html#1)]
 
-<!--
+
 ### **Week 11**: Mating designs and Estimating Genetic Variances
-- 03-29 (Tue): [_Lecture_] Mating design
+- 04-08 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11class.html#1)]
-- 03-31 (Thu): [_Lab_] Genetics variances calculation
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w11lab_2022.html#1)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w11class.html#1)]
+- 04-10 (Thu): [_Lab_] Genetics variances calculation
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w11lab_2022.html#1)]
 
-
+<!--
 ### **Week 12**: Best linear unbiased prediction
 - 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
