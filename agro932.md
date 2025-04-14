@@ -148,14 +148,15 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-10 (Thu): [_Lab_] Genetics variances calculation
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w11lab_2022.html#1)]
 
-<!--
-### **Week 12**: Best linear unbiased prediction
-- 04-05 (Tue): [_Lecture_] BLUP introduction and Matrix operations
-  - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
-  - [[HTML](https://jyanglab.com/slides/2022-agro932//w12class_blup1.html)]
-- 04-07 (Thu): [_Lecture_] BLUP calculation for breeding populations
-  - [[HTML](https://jyanglab.com/slides/2022-agro932//w12class_blup2.html)]
 
+### **Week 12**: Best linear unbiased prediction
+- 04-15 (Tue): [_Lecture_] BLUP introduction and Matrix operations
+  - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
+  - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup1.html)]
+- 04-17 (Thu): [_Lecture_] BLUP calculation for breeding populations
+  - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup2.html)]
+
+<!--
 ### **Week 13**: Genome-enabled selection
 - 04-12 (Tue): [_Lecture_] Genomic selection
   - __[Bernardo, Chapter 11]__
