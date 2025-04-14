@@ -153,7 +153,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-15 (Tue): [_Lecture_] BLUP introduction and Matrix operations
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
   - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup1.html)]
-- 04-17 (Thu): [_Lecture_] BLUP calculation for breeding populations
+- 04-17 (Thu): [_Lab_] BLUP calculation for breeding populations
   - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup2.html)]
 
 <!--
