@@ -179,15 +179,17 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 05-08 (Thu): [_Lab2_] GWAS in practice (2)
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas3.html)]
 
+-->
+
 ---------------------
 
 ## Part III. Emerging Technologies in Plant Breeding
 
 ### **Week16**:
-- 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
-- 05-05 (Thu): [__Final project presentation__](10 mins + 5mins Q&A)
+- 05-06 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
+- 05-08 (Thu): [__Final project presentation__](5 mins + 2mins Q&A)
 
--->
+
 
 <!--
 
