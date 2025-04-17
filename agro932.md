@@ -132,7 +132,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   
 
 
-### **Week 10**: Breeding population means and variances
+### **Week 11**: Breeding population means and variances
 
 - 04-01 (Tue): [_Lab_] Compute phenotypic values and variances
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w10lab.html#1)]
@@ -141,7 +141,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w10class_variance.html#1)]
 
 
-### **Week 11**: Mating designs and Estimating Genetic Variances
+### **Week 12**: Mating designs and Estimating Genetic Variances
 - 04-08 (Tue): [_Lecture_] Mating design
   - __[Bernardo, Chapter 7]__ or __[Lynch and Walsh, Chapter 18]__
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w11class.html#1)]
@@ -149,7 +149,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w11lab_2022.html#1)]
 
 
-### **Week 12**: Best linear unbiased prediction
+### **Week 13**: Best linear unbiased prediction
 - 04-15 (Tue): [_Lecture_] BLUP introduction and Matrix operations
   - __[Bernardo, Chapter 10]__ or __[Lynch and Walsh, Chapter 8]__
   - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup1.html)]
@@ -157,7 +157,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932//w12class_blup2.html)]
 
 
-### **Week 13**: Genome-enabled selection
+### **Week 14**: Genome-enabled selection
 - 04-22 (Tue): [_Lecture_] Genomic selection
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w13class_gs1.html)]
@@ -165,18 +165,18 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w13lab_gs2.html)]
 
 <!--
-### **Week 14**: GS and GWAS via mixed models
-- 04-19 (Tue): [_Lab_] Genomic selection in practice (2)
+### **Week 15**: GS and GWAS via mixed models
+- 04-29 (Tue): [_Lab_] Genomic selection in practice (2)
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w14lab_gs3.html)]
-- 04-21 (Thu): [_Lecture_] Genome-wide association study
+- 05-01 (Thu): [_Lecture_] Genome-wide association study
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w14class_gwas1.html)]
 
-### **Week 15**: Association mapping via mixed models
-- 04-26 (Tue): [_Lab1_] GWAS in practice (1)
+### **Week 16**: Association mapping via mixed models
+- 05-06 (Tue): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)]
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas2.html)]
-- 04-28 (Thu): [_Lab2_] GWAS in practice (2)
+- 05-08 (Thu): [_Lab2_] GWAS in practice (2)
   - [[HTML](https://jyanglab.com/slides/2022-agro932/w15lab_gwas3.html)]
 
 ---------------------
