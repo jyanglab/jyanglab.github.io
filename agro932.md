@@ -186,8 +186,8 @@ title: AGRO-932 Biometrical genetics and plant breeding
 ## Part III. Emerging Technologies in Plant Breeding
 
 ### **Week16**:
-- 05-06 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
-- 05-08 (Thu): [__Final project presentation__](5 mins + 2mins Q&A)
+- 05-06 (Tue): AI for future Crop Improvement
+- 05-08 (Thu): __Final project presentation__ (5 mins + 2mins Q&A)
 
 
 
@@ -220,7 +220,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - HW Keys: [[HTML](https://jyanglab.com/AGRO-932/chapters/a2.2-lab/w15_hw_keys.html)]
 
 ### **Week16**:
-- 05-03 (Tue): Guest lecture: Harnessing Microbiome for future Crop Improvement
-- 05-06 (Thu): [__Final project presentation__]
+- 05-03 (Tue): AI for future Crop Improvement
+- 05-06 (Thu): __Final project presentation__
 
 -->
