@@ -164,14 +164,19 @@ title: AGRO-932 Biometrical genetics and plant breeding
 - 04-24 (Thu): [_Lab_] Genomic selection in practice
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w13lab_gs2.html)]
 
+
+### **Week 15**: GWAS via mixed models
+
+- 04-29 (Tue): [_Lecture_] Genome-wide association study
+  - __[Bernardo, Chapter 11]__
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w14class_gwas1.html)]
+- 05-01 (Thu): [_Lab_] GWAS in practice
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w15lab_gwas2.html)]
+
 <!--
-### **Week 15**: GS and GWAS via mixed models
 - 04-29 (Tue): [_Lab_] Genomic selection in practice (2)
   - __[Canvas materials]__ and [[HTML](https://jyanglab.com/slides/2022-agro932/w14lab_gs3.html)]
-- 05-01 (Thu): [_Lecture_] Genome-wide association study
-  - __[Bernardo, Chapter 11]__
-  - [[HTML](https://jyanglab.com/slides/2022-agro932/w14class_gwas1.html)]
-
+  
 ### **Week 16**: Association mapping via mixed models
 - 05-06 (Tue): [_Lab1_] GWAS in practice (1)
   - [[Zhao et al., 2011](https://www.nature.com/articles/ncomms1467)]
