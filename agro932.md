@@ -171,7 +171,7 @@ title: AGRO-932 Biometrical genetics and plant breeding
   - __[Bernardo, Chapter 11]__
   - [[HTML](https://jyanglab.com/slides/2025-agro932/w14class_gwas1.html)]
 - 05-01 (Thu): [_Lab_] GWAS in practice
-  - [[HTML](https://jyanglab.com/slides/2025-agro932/w15lab_gwas2.html)]
+  - [[HTML](https://jyanglab.com/slides/2025-agro932/w15lab_gwas3.html)]
 
 <!--
 - 04-29 (Tue): [_Lab_] Genomic selection in practice (2)
