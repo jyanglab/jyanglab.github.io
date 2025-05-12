@@ -38,18 +38,7 @@ bob <- subset(bob, !is.na(cid))
 
 ### Preprints
 
-```{r, echo=FALSE, results="asis"}
-#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
-cat(paste0(
-"__H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, ",
-"__Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping__, ",
-"_bioRxiv_, 2024.  \n",
-"[10.1101/2024.12.13.624727](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) "
-#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
-#"| doi: 10.1101/2020.08.10.244384 "
-#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
-))
-```
+
 
 
 ```{r, echo=FALSE, results="asis"}
@@ -84,6 +73,33 @@ __J. Yang__, S. Chen, ",
 
 ### 2025
 
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable, ",
+"__[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](10.1002/csc2.70073)__, ",
+"_Crop Science_, 2025.  \n"
+#"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
+#"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
+"__H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, ",
+"__[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping]()__, ",
+"_Genomics Communications_, 2025.  \n",
+"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
+"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
