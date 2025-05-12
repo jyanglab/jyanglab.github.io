@@ -26,7 +26,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2025
 
-D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable __[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](10.1002/csc2.70073)__, _Crop Science_, 2025.  
+D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable, __[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](10.1002/csc2.70073)__, _Crop Science_, 2025.  
 
 __H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, __[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping]()__, _Genomics Communications_, 2025.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) | [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)
