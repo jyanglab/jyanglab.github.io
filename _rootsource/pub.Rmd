@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, echo=FALSE, warning=FALSE, results="asis"}
 library(methods)
 
+
 # must install this version
 #devtools::install_github("yangjl/scholar")
 library(scholar)
@@ -29,6 +30,7 @@ bob <- get_publications(myid)
 bob <- bob[order(bob$year, decreasing=T),]
 bob <- subset(bob, !is.na(cid))
 #bob$pubid <- paste0()
+
 
 ### Cite IEEE style
 #write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
