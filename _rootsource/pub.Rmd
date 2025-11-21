@@ -42,6 +42,20 @@ bob <- subset(bob, !is.na(cid))
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"__G. Xu__, X. Yang, M. Zhang, C. Kang, Z. Tian, Y. Qi, M. Luo, P. Liu,  J. Ross-Ibarra, __J. Yang__, H. Liu, ",
+"__The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize__ ",
+"_bioRxiv_, 2025.  \n",
+"[10.1101/2025.11.03.686376](https://www.biorxiv.org/content/10.1101/2025.11.03.686376v1) "
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "__G. Xu__, __J. Lyu__, T. Obata,  S. Liu, Y. Ge, J. C. Schnable, __J. Yang__, ",
 "__A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding__, ",
 "_bioRxiv_, 2022.  \n",

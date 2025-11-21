@@ -6,3 +6,5 @@ library("servr")
 jekyll(dir = ".", input = c(".", "_rootsource", "_postsource"),
        output = c(".",  ".", "_posts"), script = c("Makefile", "build.R"), serve = FALSE,
        command = "ls")
+
+
