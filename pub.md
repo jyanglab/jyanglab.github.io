@@ -12,10 +12,10 @@ __[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)
 ### Preprints
 
 
-Y. Delen, __S. Palali-Delen__  __S. S. Mahamkali V.S.__, H. Wang, I.l M. Dweikat,  __J. Yang__,  __G. Xu__, __Domestication and Improvement Reshaped the Genomic Architecture of Abiotic Stress Tolerance in Sunflowere__ _bioRxiv_, 2025.  
+Y. Delen, __S. Palali-Delen__,  __S. S. Mahamkali V. S.__, H. Wang, I. M. Dweikat,  __J. Yang__,  __G. Xu__, __Domestication and Improvement Reshaped the Genomic Architecture of Abiotic Stress Tolerance in Sunflowere__, _bioRxiv_, 2025.  
 [10.64898/2025.12.03.692181](https://www.biorxiv.org/content/10.64898/2025.12.03.692181v1)  
 
-__G. Xu__, X. Yang, M. Zhang, C. Kang, Z. Tian, Y. Qi, M. Luo, P. Liu,  J. Ross-Ibarra, __J. Yang__, H. Liu, __The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize__ _bioRxiv_, 2025.  
+__G. Xu__, X. Yang, M. Zhang, C. Kang, Z. Tian, Y. Qi, M. Luo, P. Liu,  J. Ross-Ibarra, __J. Yang__, H. Liu, __The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize__, _bioRxiv_, 2025.  
 [10.1101/2025.11.03.686376](https://www.biorxiv.org/content/10.1101/2025.11.03.686376v1) 
 
 
@@ -31,7 +31,7 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2025
 
-Y. Wang, C. He, Q. Wang, R. Li, Y. Qin, H. Wang, M. Gou, X. Zhang, H. Li, Q. Huang, X. Liu, __J. Yang_10,11__, F. F. White1, J. Fu, S. Liu, and J. Zheng, __[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize]()__, _Genome Biology_, 2025.  
+Y. Wang, C. He, Q. Wang, R. Li, Y. Qin, H. Wang, M. Gou, X. Zhang, H. Li, Q. Huang, X. Liu, __J. Yang__, F. F. White, J. Fu, S. Liu, and J. Zheng, __[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize]()__, _Genome Biology_, 2025.  
 
 
 
