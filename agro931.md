@@ -7,7 +7,7 @@ title: AGRO/ANSCI 931 Population Genetics
 
 - Spring 2026
 - **Location**: Plant Sciences Hall (room 272)
-- **Time**: Tuesday and Thursday 11:00-12:15 pm
+- **Time**: Monday, Wednesday and Friday 9:00-9:50 am
 - Office Hour: Thursday 12:15-1:00 pm (except for the first Thursday of the month)
 - **Prerequisites**: 
   - STAT-801A or equivalent, or permission of the instructor(s).
@@ -34,10 +34,10 @@ title: AGRO/ANSCI 931 Population Genetics
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### **Week 1**: Allele and Genotype Frequencies (Ch1)
-- 01-13 (Tue): 
+- 01-14 (W): 
   - Introduction [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c1.html)]
   - Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c2.html)]
-- 01-15 (Thu): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c3.html)]
+- 01-16 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c3.html)]
 
 <!--
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
