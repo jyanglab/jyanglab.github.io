@@ -5,10 +5,12 @@ title: AGRO/ANSCI 931 Population Genetics
 ---  
 
 
-- Spring 2024
-- **Location**: Animal Science __A128__
-- **Time**: 9:00-9:50am (MWF)
-- **Prerequisites**: STAT-801A or equivalent, or permission of the instructor(s).
+- Spring 2026
+- **Location**: Plant Sciences Hall (room 272)
+- **Time**: Tuesday and Thursday 11:00-12:15 pm
+- Office Hour: Thursday 12:15-1:00 pm (except for the first Thursday of the month)
+- **Prerequisites**: 
+  - STAT-801A or equivalent, or permission of the instructor(s).
 
 
 ## Texts and Reading Materials
@@ -27,15 +29,17 @@ title: AGRO/ANSCI 931 Population Genetics
 
 --------------------
 
-## Schedule Spring 2024
+## Schedule Spring 2026
 
 _The HTML slides will likely be posted on Sunday pm for the next week. The slides are subject to change before the class._
 
 ### **Week 1**: Allele and Genotype Frequencies (Ch1)
-- 01-22 (M): Introduction [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c1.html)]
-- 01-24 (W): Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c2.html)]
-- 01-26 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2024-agro931/week1/week1_c3.html)]
+- 01-13 (Tue): 
+  - Introduction [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c1.html)]
+  - Hardy-Weinberg Equilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c2.html)]
+- 01-15 (Thu): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c3.html)]
 
+<!--
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
 - 01-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c1.html)]
   - __HW1__ assignment in Canvas on Monday (Due Friday morning)
