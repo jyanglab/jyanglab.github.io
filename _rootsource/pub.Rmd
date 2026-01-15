@@ -99,8 +99,22 @@ __J. Yang__, S. Chen, ",
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
+"Y. Qin, X. Zhu, Y. Zheng, K. Wang, K. Liao, X. Ye, __J. Yang__, H. Wei, and X. Yang, ",
+"__[Host Genetic Regulation of Xylem-Resident Pseudomonas Enhances Cucumber Photosynthesis and Growth]()__, ",
+"_Microbiome_, 2025 (in press).  \n"
+#"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
+#"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
+#"| [PDF](http://biorxiv.org/content/early/2017/05/05/134528.full.pdf) ",
+#"| doi: 10.1101/2020.08.10.244384 "
+#"| [cited ", pid$cites, "](", "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=", pid$cid, "&as_sdt=5)"
+))
+```
+
+```{r, echo=FALSE, results="asis"}
+#pid <- bob[bob$pubid=="cWzG1nlazyYC",]
+cat(paste0(
 "Y. Wang, C. He, Q. Wang, R. Li, Y. Qin, H. Wang, M. Gou, X. Zhang, H. Li, Q. Huang, X. Liu, __J. Yang__, F. F. White, J. Fu, S. Liu, and J. Zheng, ",
-"__[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize]()__, ",
+"__[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize](https://link.springer.com/article/10.1186/s13059-025-03890-2)__, ",
 "_Genome Biology_, 2025.  \n"
 #"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
 #"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
@@ -117,7 +131,7 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "L. R. Foster, __J. Yang__, J.-J. M. Riethoven, H. Mukhtar, and D. P. Schachtman, ",
-"__[Inoculation Frequency and Maize Genotype Influence Plant Growth-Promoting Effects of Soil Bacteria under Low Nitrogen Conditions]( 10.3389/fpls.2025.1637156)__, ",
+"__[Inoculation Frequency and Maize Genotype Influence Plant Growth-Promoting Effects of Soil Bacteria under Low Nitrogen Conditions](https://doi.org/10.3389/fpls.2025.1637156)__, ",
 "_Frontiers in Plant Science_, 2025.  \n"
 #"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
 #"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
@@ -131,7 +145,7 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable, ",
-"__[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](10.1002/csc2.70073)__, ",
+"__[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](https://doi.org/10.1002/csc2.70073)__, ",
 "_Crop Science_, 2025.  \n"
 #"[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
 #"| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  
@@ -145,7 +159,7 @@ cat(paste0(
 #pid <- bob[bob$pubid=="cWzG1nlazyYC",]
 cat(paste0(
 "__H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, ",
-"__[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping]()__, ",
+"__[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping](https://www.maxapress.com/article/id/6837b7fdfa6c5854b3de4cfc)__, ",
 "_Genomics Communications_, 2025.  \n",
 "[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) ",
 "| [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)"  

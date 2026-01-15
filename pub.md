@@ -7,7 +7,7 @@ subtitle: Plant Quantitative Genetics and Statistical Genomics
 
 
 
-__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 28 ], i10-Index [ 41 ], and total citations [ 3148 ] as of Jan, 2026.
+__[Google Scholar](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__: H-Index [ 28 ], i10-Index [ 41 ], and total citations [ 3153 ] as of Jan, 2026.
 
 ### Preprints
 
@@ -31,16 +31,18 @@ __J. Yang__, S. Chen, __Genomic selection to optimize doubled haploid-based hybr
 
 ### 2025
 
-Y. Wang, C. He, Q. Wang, R. Li, Y. Qin, H. Wang, M. Gou, X. Zhang, H. Li, Q. Huang, X. Liu, __J. Yang__, F. F. White, J. Fu, S. Liu, and J. Zheng, __[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize]()__, _Genome Biology_, 2025.  
+Y. Qin, X. Zhu, Y. Zheng, K. Wang, K. Liao, X. Ye, __J. Yang__, H. Wei, and X. Yang, __[Host Genetic Regulation of Xylem-Resident Pseudomonas Enhances Cucumber Photosynthesis and Growth]()__, _Microbiome_, 2025 (in press).  
+
+Y. Wang, C. He, Q. Wang, R. Li, Y. Qin, H. Wang, M. Gou, X. Zhang, H. Li, Q. Huang, X. Liu, __J. Yang__, F. F. White, J. Fu, S. Liu, and J. Zheng, __[Large DNA and protein language modelsenhance discovery of deleterious mutationsin maize](https://link.springer.com/article/10.1186/s13059-025-03890-2)__, _Genome Biology_, 2025.  
 
 
 
 
-L. R. Foster, __J. Yang__, J.-J. M. Riethoven, H. Mukhtar, and D. P. Schachtman, __[Inoculation Frequency and Maize Genotype Influence Plant Growth-Promoting Effects of Soil Bacteria under Low Nitrogen Conditions]( 10.3389/fpls.2025.1637156)__, _Frontiers in Plant Science_, 2025.  
+L. R. Foster, __J. Yang__, J.-J. M. Riethoven, H. Mukhtar, and D. P. Schachtman, __[Inoculation Frequency and Maize Genotype Influence Plant Growth-Promoting Effects of Soil Bacteria under Low Nitrogen Conditions](https://doi.org/10.3389/fpls.2025.1637156)__, _Frontiers in Plant Science_, 2025.  
 
-D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable, __[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](10.1002/csc2.70073)__, _Crop Science_, 2025.  
+D. Istipliler, M. C. Tross, B. Bouwens, __H. Jin__, Y. Ge, __J. Yang__,  R. V. Mural, and J. C. Schnable, __[Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen](https://doi.org/10.1002/csc2.70073)__, _Crop Science_, 2025.  
 
-__H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, __[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping]()__, _Genomics Communications_, 2025.  
+__H. Jin__, A. Park, A. Sreedasyam, G. Li, Y. Ge, K. Swaminathan, J. Schmutz, T. E. Clemente, J. C. Schnable, and __J. Yang__, __[Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping](https://www.maxapress.com/article/id/6837b7fdfa6c5854b3de4cfc)__, _Genomics Communications_, 2025.  
 [Preprint](https://www.biorxiv.org/content/10.1101/2024.12.13.624727v1) | [GitHub](https://github.com/JIN-HY/Sorghum-edits-N-Phenotyping)
 
 H. Mukhtar, J. Hao, __G. Xu__, E. Bergmeyer, __M. Ulutas__, __J. Yang__, D. P. Schachtman, __[Nitrogen input differentially shapes the rhizosphere microbiome diversity and composition across diverse maize lines](https://link.springer.com/article/10.1007/s00374-024-01863-4)__, _Biology and Fertility of Soils_, 2025.  
@@ -181,7 +183,7 @@ __G. Xu__, __J. Lyu__, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross
 [Preprint](https://www.biorxiv.org/content/10.1101/2020.03.13.991117v2) | [Github](https://github.com/jyanglab/msfs_teo) | [120 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987817177097090596&as_sdt=5)
 
 C. Miao, A. Pages, Z. Xu, __E. Rodene__, __J. Yang__, and J. C. Schnable, __[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations](https://spj.sciencemag.org/plantphenomics/2020/4216373/)__, _Plant Phenomics_, 2020.  
-[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [59 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
+[GitHub](https://github.com/huskermiao/Sorghum_Semantic_Segmentation) | [60 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6760097769110193603&as_sdt=5)
 
 
 ### 2019
@@ -223,7 +225,7 @@ M. Bezrutczyk, T. Hartwig, M. Horschman, S. N. Char, __J. Yang__, B. Yang, D. So
 [Preprint](https://www.biorxiv.org/content/early/2017/10/06/197921) | [191 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9785166453508429204&as_sdt=5)
 
 P. Bilinski, P. S. Albert, J. J. Berg, J. A. Birchler, M. N. Grote, A. Lorant, J. Quezada, K. Swarts, __J. Yang__, J. Ross-Ibarra, __[Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162)__, *PLOS Genetics*, 2018.  
-[Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [144 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
+[Preprint](https://www.biorxiv.org/content/early/2017/07/13/134528) | [Github](https://github.com/paulbilinski/GenomeSizeAnalysis) | [145 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6345641206578854017&as_sdt=5)
 
 
 ### 2017
@@ -251,7 +253,7 @@ D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koc
 [503 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __[Genetic control of morphometric diversity in the maize shoot apical meristem](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html)__, _Nature Communications_, 2015.  
-[120 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+[122 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
 
 
 S. Liu, K. Ying, C.-T. Yeh, __J. Yang__, R. Swanson-Wagner, W. Wu, T. Richmond, D. J. Gerhardt, J. Lai, N. Springer, D. Nettleton, J. A. Jeddeloh, and P. S. Schnable, __[Changes in genome content generated via segregation of non-allelic homolog](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract)__, _The Plant Journal_, 2012.  
