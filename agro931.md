@@ -41,7 +41,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-19 (M): No Class - MLK Day
 - 01-21 (W): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c1.html)]
 - 01-23 (F): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c2.html)]
-  - __HW1__ assignment in Canvas on Monday (Due Next Friday)
+  - __HW1__ assignment in Canvas (Due Next Friday)
   
 <!--
 - 01-26 (M): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
