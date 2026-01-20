@@ -23,6 +23,7 @@ title: AGRO/ANSCI 931 Population Genetics
 - Graham Coop, [Population Genetics notes](https://gcbias.org/population-genetics-notes/)
 - [Basic R](https://www.statmethods.net/): Quick online reference for data input, basic statistics, and plots.
 - [STHDA](http://www.sthda.com/english/): Statistical tools for high-throughput data analysis.
+- [R for Data Science](https://r4ds.had.co.nz/index.html): R for Data Science by Hadley Wickham and Garrett Grolemund.
 
 --------------------
 
@@ -37,13 +38,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-16 (F): Linkage Disequilibrium [[HTML](https://jyanglab.com/slides/2026-agro931/week1/week1_c3.html)]
 
 ### **Week 2**: Changes of Allele Frequency (Ch2 & Ch3)
-- 01-21 (M): No Class - MLK Day
-
+- 01-19 (M): No Class - MLK Day
+- 01-21 (W): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c1.html)]
+- 01-23 (F): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c2.html)]
+  - __HW1__ assignment in Canvas on Monday (Due Next Friday)
+  
 <!--
-- 01-29 (M): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c1.html)]
-  - __HW1__ assignment in Canvas on Monday (Due Friday morning)
-- 01-31 (W): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c2.html)]
-- 02-02 (F): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
+- 01-26 (M): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
   - __HW1__ Due today at 9AM!
 
 ### **Week 3**: Small Populations --- Simplified Conditions (Ch3 & Ch4)
