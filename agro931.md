@@ -42,14 +42,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-21 (W): Migration, Mutation, and Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c1.html)]
 - 01-23 (F): Effectiveness of Selection [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c2.html)]
   - __HW1__ assignment in Canvas (Due Next Friday)
-  
-<!--
-- 01-26 (M): Genetic Drift [[HTML](https://jyanglab.com/slides/2024-agro931/week2/week2_c3.html)]
-  - __HW1__ Due today at 9AM!
 
 ### **Week 3**: Small Populations --- Simplified Conditions (Ch3 & Ch4)
-- 02-05 (M): Inbreeding [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c1.html)]
-- 02-07 (W): Effective Population Size [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c2.html)]
+- 01-26 (M): Genetic Drift [[HTML](https://jyanglab.com/slides/2026-agro931/week2/week2_c3.html)]
+- 01-28 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c1.html)]
+- 01-30 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c2.html)]
+  - __HW1__ Due today at 9AM!
+  
+<!--
 - 02-09 (F): Heterozygosity [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c3.html)]
 
 ### **Week 4**: Population Structure and Neutrality test (Notes in Canvas)
