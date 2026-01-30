@@ -48,13 +48,13 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 01-28 (W): Inbreeding [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c1.html)]
 - 01-30 (F): Effective Population Size [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c2.html)]
   - __HW1__ Due today at 9AM!
-  
-<!--
-- 02-09 (F): Heterozygosity [[HTML](https://jyanglab.com/slides/2024-agro931/week3/week3_c3.html)]
 
 ### **Week 4**: Population Structure and Neutrality test (Notes in Canvas)
-- 02-12 (M): Diversity [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week4_c1.html)]
-- 02-14 (W): F-statistics [[HTML](https://jyanglab.com/slides/2024-agro931/week4/week4_c2.html)]
+- 02-02 (M): Heterozygosity [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c3.html)]
+- 02-04 (W): Diversity [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c1.html)]
+- 02-06 (F): F-statistics [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c2.html)]
+
+<!--
 - 02-16 (F):  __Exam I__ 
 
 ### **Week 5**: Neutrality Test (Notes in Canvas)
