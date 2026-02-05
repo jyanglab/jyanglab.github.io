@@ -50,18 +50,17 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW1__ Due today at 9AM!
 
 ### **Week 4**: Population Structure and Neutrality test (Notes in Canvas)
-- 02-02 (M): Heterozygosity and Diversity
-  - Heterozygosity [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c3.html)]
-  - Diversity: [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c1.html)]
-- 02-04 (W): F-statistics [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c2.html)]
-- 02-06 (F): Neutral theory [[HTML](https://jyanglab.com/slides/2026-agro931/week5/week5_c1.html)]
-
-<!--
-- 02-16 (F):  __Exam I__ 
+- 02-02 (M): Heterozygosity [[HTML](https://jyanglab.com/slides/2026-agro931/week3/week3_c3.html)]
+- 02-04 (W): Diversity: [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c1.html)]
+- 02-06 (F): F-statistics [[HTML](https://jyanglab.com/slides/2026-agro931/week4/week4_c2.html)]
 
 ### **Week 5**: Neutrality Test (Notes in Canvas)
-  - __HW2__ assigned in Canvas!
-- 02-21 (W): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
+- 02-09 (M):  __Exam I__ 
+- 02-11 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2026-agro931/week5/week5_c1.html)]
+- 02-13 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
+  - __HW2__ assigned in Canvas (Due Next Friday)
+  
+<!--
 - 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
   - __HW2__ Due today!
   - __Journal article assigned for peer review (due in two weeks)__
