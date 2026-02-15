@@ -61,9 +61,9 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW2__ assigned in Canvas (Due Next Friday)
 
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 02-16 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c1.html)]
-- 02-18 (W): Coancestry [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c2.html)]
-- 02-20 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c3.html)]
+- 02-16 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c1.html)]
+- 02-18 (W): Coancestry [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c2.html)]
+- 02-20 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c3.html)]
   - __HW2__ Due today!
     
 <!--
