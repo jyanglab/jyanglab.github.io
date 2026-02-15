@@ -59,39 +59,37 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-11 (W): Neutral theory [[HTML](https://jyanglab.com/slides/2026-agro931/week5/week5_c1.html)]
 - 02-13 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
   - __HW2__ assigned in Canvas (Due Next Friday)
-  
-<!--
-- 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
-  - __HW2__ Due today!
-  - __Journal article assigned for peer review (due in two weeks)__
 
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
-- 02-26 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c1.html)]
-- 02-28 (W): Coancestry [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c2.html)]
-- 03-01 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c3.html)]
-  - Watch recorded video in Canvas
+- 02-16 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c1.html)]
+- 02-18 (W): Coancestry [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c2.html)]
+- 02-20 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2024-agro931/week6/week6_c3.html)]
+  - __HW2__ Due today!
+    
+<!--
+- 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
+  - __Journal article assigned for peer review (due in two weeks)__
 
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
-- 03-04 (M): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
-- 03-06 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
-- 03-08 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
+- 02-23 (M): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
+- 02-26 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
+- 02-28 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
   - __Peer review due__
+
+### **Week 9**: Population values and means (Ch7)
+- 03/02 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c1.html)]
+- 03/04 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c2.html)]
+- 03/06 (F): __Exam II__ (take home)
+
+### **Week 10**: Genetic components of variance (Ch8)
+- 03/09 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
+  - __Exam II__ (Due today)
+- 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
+- 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
+  - __HW3__ assigned in Canvas!
 
 ### **Week 8**: No class
 - Enjoy Spring Break! 
-
-### **Week 9**: Population values and means (Ch7)
-- 03/18 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c1.html)]
-- 03/20 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c2.html)]
-- 03/22 (F): __Exam II__ (take home)
-
-### **Week 10**: Genetic components of variance (Ch8)
-- 03/25 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
-  - __Exam II__ (Due today)
-- 03/27 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
-- 03/29 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
-  - __HW3__ assigned in Canvas!
-
 
 ### **Week 11**: Heritability and resemblance between relatives (Ch9)
 - 04/01 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)] 
