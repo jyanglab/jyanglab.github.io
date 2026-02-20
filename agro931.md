@@ -63,16 +63,18 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
 - 02-16 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c1.html)]
 - 02-18 (W): Coancestry [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c2.html)]
-- 02-20 (F): Relationship matrix [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c3.html)]
+- 02-20 (F): No class due to weather
+
+### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
+- 02-23 (M): Relationship matrix [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c3.html)]
   - __HW2__ Due today!
-    
+- 02-25 (W): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
+- 02-27 (F): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
+
 <!--
 - 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
   - __Journal article assigned for peer review (due in two weeks)__
 
-### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
-- 02-23 (M): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
-- 02-26 (W): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
 - 02-28 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
