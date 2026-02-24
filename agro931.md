@@ -68,8 +68,8 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 7**: Statistical Foundations for Continuous Variation (Ch6 and Notes in Canvas)
 - 02-23 (M): Relationship matrix [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c3.html)]
   - __HW2__ Due today!
-- 02-25 (W): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c1.html)]
-- 02-27 (F): Continuous Variation [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c2.html)]
+- 02-25 (W): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2026-agro931/week7/week7_c1.html)]
+- 02-27 (F): Continuous Variation [[HTML](https://jyanglab.com/slides/2026-agro931/week7/week7_c2.html)]
 
 <!--
 - 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
@@ -78,19 +78,19 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-28 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
   - __Peer review due__
 
-### **Week 9**: Population values and means (Ch7)
+### **Week 8**: Population values and means (Ch7)
 - 03/02 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c1.html)]
 - 03/04 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c2.html)]
 - 03/06 (F): __Exam II__ (take home)
 
-### **Week 10**: Genetic components of variance (Ch8)
+### **Week 9**: Genetic components of variance (Ch8)
 - 03/09 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
   - __Exam II__ (Due today)
 - 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
 - 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
   - __HW3__ assigned in Canvas!
 
-### **Week 8**: No class
+### **Week 10**: No class
 - Enjoy Spring Break! 
 
 ### **Week 11**: Heritability and resemblance between relatives (Ch9)
