@@ -60,6 +60,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-13 (F): Detecting natural selection [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c2.html)]
   - __HW2__ assigned in Canvas (Due Next Friday)
 
+<!--
+- 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
+  - __Journal article assigned for peer review (due in two weeks)__
+
+- 02-28 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
+  - __Peer review due__
+-->
+
 ### **Week 6**: Pedigreed Population and Close Inbreeding (Ch5)
 - 02-16 (M): Pedigreed population [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c1.html)]
 - 02-18 (W): Coancestry [[HTML](https://jyanglab.com/slides/2026-agro931/week6/week6_c2.html)]
@@ -71,20 +79,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 02-25 (W): Statistical foundations of quantitative genetics [[HTML](https://jyanglab.com/slides/2026-agro931/week7/week7_c1.html)]
 - 02-27 (F): Continuous Variation [[HTML](https://jyanglab.com/slides/2026-agro931/week7/week7_c2.html)]
 
-<!--
-- 02-23 (F): Journal article review [[HTML](https://jyanglab.com/slides/2024-agro931/week5/week5_c3.html)]
-  - __Journal article assigned for peer review (due in two weeks)__
-
-- 02-28 (F): Journal Review Discussion [[HTML](https://jyanglab.com/slides/2024-agro931/week7/week7_c3.html)]
-  - __Peer review due__
-
 ### **Week 8**: Population values and means (Ch7)
-- 03/02 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c1.html)]
-- 03/04 (W): Breeding value, dominance, and interaction [[HTML](https://jyanglab.com/slides/2024-agro931/week9/week9_c2.html)]
-- 03/06 (F): __Exam II__ (take home)
+- 03/02 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c1.html)]
+- 03/04 (W): Breeding value and dominance [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c2.html)]
+- 03/06 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2026-agro931/week10/week10_c1.html)]. 
 
+
+<!--
 ### **Week 9**: Genetic components of variance (Ch8)
-- 03/09 (M): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2024-agro931/week10/week10_c1.html)]. 
+  - 03/09 (M): 
   - __Exam II__ (Due today)
 - 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
 - 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
