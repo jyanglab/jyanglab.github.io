@@ -84,19 +84,22 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03/04 (W): Breeding value and dominance [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c2.html)]
 - 03/06 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2026-agro931/week10/week10_c1.html)]. 
 
-
-<!--
 ### **Week 9**: Genetic components of variance (Ch8)
-  - 03/09 (M): 
-  - __Exam II__ (Due today)
-- 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
-- 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
-  - __HW3__ assigned in Canvas!
+- 03/09 (M): In-class discussion about AlphaGenome for genomics research
+- 03/11 (W): Continue the AlphaGenome discussion and demo
+- 03/13 (F): __Exam II__
+  - 8:30 am - 9:50 am in class.
 
 ### **Week 10**: No class
 - Enjoy Spring Break! 
 
+
+<!--
 ### **Week 11**: Heritability and resemblance between relatives (Ch9)
+- 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
+- 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
+  - __HW3__ assigned in Canvas!
+  
 - 04/01 (M): Resemblance between relatives [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c1.html)] 
 - 04/03 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]
   - No in-person class, watch recorded video in Canvas
