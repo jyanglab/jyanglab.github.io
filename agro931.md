@@ -82,7 +82,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 ### **Week 8**: Population values and means (Ch7)
 - 03/02 (M): Average effect of an allele [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c1.html)]
 - 03/04 (W): Breeding value and dominance [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c2.html)]
-- 03/06 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2026-agro931/week10/week10_c1.html)]. 
+- 03/06 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2026-agro931/week10/week10_c1.html)] 
 
 ### **Week 9**: Discussion of AI for PopGen Research
 - 03/09 (M): In-class discussion about AlphaGenome for genomics research
