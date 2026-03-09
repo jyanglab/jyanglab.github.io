@@ -84,7 +84,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 03/04 (W): Breeding value and dominance [[HTML](https://jyanglab.com/slides/2026-agro931/week9/week9_c2.html)]
 - 03/06 (F): Breeding value interpretation [[HTML](https://jyanglab.com/slides/2026-agro931/week10/week10_c1.html)]. 
 
-### **Week 9**: Genetic components of variance (Ch8)
+### **Week 9**: Discussion of AI for PopGen Research
 - 03/09 (M): In-class discussion about AlphaGenome for genomics research
 - 03/11 (W): Continue the AlphaGenome discussion and demo
 - 03/13 (F): __Exam II__
@@ -95,6 +95,8 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 
 <!--
+
+### **Week 10**: Genetic components of variance (Ch8)
 ### **Week 11**: Heritability and resemblance between relatives (Ch9)
 - 03/11 (W): Variance partitioning [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c2.html)] 
 - 03/13 (F): Heritability and Repeatability [[HTML](https://jyanglab.com/slides/2024-agro931/week10/w10_c3.html)] 
