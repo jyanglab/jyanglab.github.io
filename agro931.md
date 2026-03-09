@@ -86,6 +86,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 9**: Discussion of AI for PopGen Research
 - 03/09 (M): In-class discussion about AlphaGenome for genomics research
+  - [[AlphaGenome paper](https://www.nature.com/articles/s41586-025-10014-0)]
 - 03/11 (W): Continue the AlphaGenome discussion and demo
 - 03/13 (F): __Exam II__
   - 8:30 am - 9:50 am in class.
