@@ -101,16 +101,15 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
   - __HW3__ assigned in Canvas!
 
 
-<!--
-### **Week 11**: Resemblance between relatives (Ch9)
-
-- 04/03 (W): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c2.html)]
-  - No in-person class, watch recorded video in Canvas
-- 04/05 (F): Estimation of heritability [[HTML](https://jyanglab.com/slides/2024-agro931/week11/w11_c3.html)] 
+### **Week 11**: Resemblance between relatives and heritability (Ch9)
+- 03/30 (M): Genetic and environmental covariance [[HTML](https://jyanglab.com/slides/2026-agro931/week11/w11_c2.html)]
+- 04/01 (W): Estimation of heritability [[HTML](https://jyanglab.com/slides/2026-agro931/week11/w11_c3.html)] 
+- 04/03 (F): Precision of estimation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c1.html)]
   - __HW3__ Due today!
 
+<!--
 ### **Week 12**: Heritability estimation (Ch10 & Ch11)
-- 04/08 (M): Precision of estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c1.html)]
+
 - 04/10 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c2.html)]  
 - 04/12 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c3.html)]
   - __HW4__ assigned in Canvas!
