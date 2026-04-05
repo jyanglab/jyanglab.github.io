@@ -109,35 +109,37 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 ### **Week 12**: Heritability estimation (Ch10 & Ch11)
 - 04/06 (M): Precision of estimation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c1.html)]
-- 04/08 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c2.html)]  
-- 04/10 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2024-agro931/week12/w12_c3.html)]
-  - __HW4__ assigned in Canvas!
+- 04/08 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c2.html)]  
+- 04/10 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c3.html)]
 
 <!--
-### **Week 14**: Predicting response to selection and interpretation (Ch11 & Ch12)
-- 04/15 (M): Variability in response [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c1.html)]
-- 04/17 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c2.html)]
-- 04/19 (F): Long-term results [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c3.html)]
-  - __HW4__ due today and __Exam III__ (take-home)
+### **Week 13**: Predicting response to selection and interpretation (Ch11 & Ch12)
+- 04/13 (M): Variability in response [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c1.html)]
+  - __HW4__ assigned in Canvas!
+- 04/15 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c2.html)]
+- 04/17 (F): Long-term results [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c3.html)]
+
+### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
+- 04/20 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c1.html)]
+   - __HW4__ due today!
+- 04/22 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c2.html)]
+- 04/24 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c3.html)]
 
 
-### **Week 15**: Heterosis and correlated traits (Ch14 & Ch19)
-- 04/22 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c1.html)]
-- 04/24 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c2.html)]
-- 04/26 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c3.html)]
-   - __HW5__ assigned in Canvas!
+### **Week 15**: Genome-wide association study  (Reading Materials in Canvas)
+- 04/27 (M): QTL + GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
+- 04/29 (W): GWAS and GS
+- 05/01 (F): **Final exam**
 
-### **Week 16**: Quantitative trait loci (QTL) and GWAS (Ch21)
-- 04/29 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c1.html)]
+this year, we don't do QTL mapping anymore
+### **Week 15**: Quantitative trait loci (QTL) and GWAS (Ch21)
+- 04/27 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c1.html)]
   - No in-person class, watch recorded video in Canvas
-- 05/01 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c2.html)]
-- 05/03 (F): QTL and GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c3.html)]
+- 04/29 (W): QTL: Interval Mapping [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c2.html)]
+- 05/01 (F): QTL and GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c3.html)]
   - __HW5__ due today
 
-### **Week 17**: Genome-wide association study  (Reading Materials in Canvas)
-- 05/06 (M): GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
-- 05/08 (W): GWAS wrap up and Q&A
-- 05/10 (F): **Final exam (take-home)**
+
   
 <!--   
 ### **Week 15**: Quantitative trait loci (QTL) and genome-wide association study (GWAS) (Ch21)
