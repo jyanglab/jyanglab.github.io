@@ -112,13 +112,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/08 (W): Examples for h2 estimation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c2.html)]  
 - 04/10 (F): The breeder's equation [[HTML](https://jyanglab.com/slides/2026-agro931/week12/w12_c3.html)]
 
-<!--
-### **Week 13**: Predicting response to selection and interpretation (Ch11 & Ch12)
-- 04/13 (M): Variability in response [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c1.html)]
-  - __HW4__ assigned in Canvas!
-- 04/15 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c2.html)]
-- 04/17 (F): Long-term results [[HTML](https://jyanglab.com/slides/2024-agro931/week13/w13_c3.html)]
 
+### **Week 13**: Predicting response to selection (Ch11 & Ch12)
+- 04/13 (M): Variability in response [[HTML](https://jyanglab.com/slides/2026-agro931/week13/w13_c1.html)]
+  - __HW4__ assigned in Canvas!
+- 04/15 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2026-agro931/week13/w13_c2.html)]
+- 04/17 (F): Long-term results [[HTML](https://jyanglab.com/slides/2026-agro931/week13/w13_c3.html)]
+
+<!--
 ### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
 - 04/20 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c1.html)]
    - __HW4__ due today!
