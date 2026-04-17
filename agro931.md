@@ -119,17 +119,17 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/15 (W): Asymmetry of responses [[HTML](https://jyanglab.com/slides/2026-agro931/week13/w13_c2.html)]
 - 04/17 (F): Long-term results [[HTML](https://jyanglab.com/slides/2026-agro931/week13/w13_c3.html)]
 
-<!--
+
 ### **Week 14**: Heterosis and correlated traits (Ch14 & Ch19)
-- 04/20 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c1.html)]
+- 04/20 (M): Inbreeding depression and heterosis [[HTML](https://jyanglab.com/slides/2026-agro931/week14/w14_c1.html)]
    - __HW4__ due today!
-- 04/22 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c2.html)]
-- 04/24 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2024-agro931/week14/w14_c3.html)]
+- 04/22 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2026-agro931/week14/w14_c2.html)]
+- 04/24 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2026-agro931/week14/w14_c3.html)]
 
-
-### **Week 15**: Genome-wide association study  (Reading Materials in Canvas)
+<!--
+### **Week 15**: Genome-wide association study
 - 04/27 (M): QTL + GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
-- 04/29 (W): GWAS and GS
+- 04/29 (W): GWAS and GS --- AutoResearch!
 - 05/01 (F): **Final exam**
 
 this year, we don't do QTL mapping anymore
