@@ -126,12 +126,14 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 - 04/22 (W): Correlated responses to selection [[HTML](https://jyanglab.com/slides/2026-agro931/week14/w14_c2.html)]
 - 04/24 (F): Correlated traits: Index selection [[HTML](https://jyanglab.com/slides/2026-agro931/week14/w14_c3.html)]
 
-<!--
+
 ### **Week 15**: Genome-wide association study
 - 04/27 (M): QTL + GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
-- 04/29 (W): GWAS and GS --- AutoResearch!
+- 04/29 (W): In-class demo: AutoResearch!
 - 05/01 (F): **Final exam**
+  - 8:30 am - 9:50 am in class.
 
+<!--
 this year, we don't do QTL mapping anymore
 ### **Week 15**: Quantitative trait loci (QTL) and GWAS (Ch21)
 - 04/27 (M): QTL: Single-marker analysis [[HTML](https://jyanglab.com/slides/2024-agro931/week15/w15_c1.html)]
