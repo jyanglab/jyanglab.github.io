@@ -128,7 +128,7 @@ _The HTML slides will likely be posted on Sunday pm for the next week. The slide
 
 
 ### **Week 15**: Genome-wide association study
-- 04/27 (M): QTL + GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
+- 04/27 (M): GWAS [[HTML](https://jyanglab.com/slides/2024-agro931/week16/week16_gwas.html)]
 - 04/29 (W): In-class demo: AutoResearch!
 - 05/01 (F): **Final exam**
   - 8:30 am - 9:50 am in class.
